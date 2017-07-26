@@ -26,10 +26,20 @@ dependencies {
     // Use JUnit test framework
     testImplementation 'junit:junit:4.12'
     
+    // https://mvnrepository.com/artifact/org.slf4j/slf4j-api
+    compile group: 'org.slf4j', name: 'slf4j-api', version: '1.7.25'
+
     // https://mvnrepository.com/artifact/org.apache.commons/commons-lang3
     compile group: 'org.apache.commons', name: 'commons-lang3', version: '3.6'
 	
     // https://mvnrepository.com/artifact/com.j256.ormlite/ormlite-core
     compile group: 'com.j256.ormlite', name: 'ormlite-core', version: '5.0'
+
+    // https://mvnrepository.com/artifact/com.j256.ormlite/ormlite-jdbc
+    compile group: 'com.j256.ormlite', name: 'ormlite-jdbc', version: '5.0'
+
+	// https://mvnrepository.com/artifact/org.xerial/sqlite-jdbc
+	testCompile group: 'org.xerial', name: 'sqlite-jdbc', version: '3.8.11.2'
+
 }
 
