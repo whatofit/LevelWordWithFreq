@@ -6,11 +6,8 @@ package com.myblog.freq;
 
 import java.io.BufferedReader;
 import java.io.FileInputStream;
-import java.io.IOException;
 import java.io.InputStreamReader;
 import java.net.URI;
-import java.net.URISyntaxException;
-import java.net.URL;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.sql.SQLException;
@@ -37,10 +34,15 @@ import com.myblog.model.WordDaoImpl;
  */
 public class DumpANC2FreqWordDB {
     private static final Logger LOGGER = LoggerFactory.getLogger(DumpANC2FreqWordDB.class);
-    
+    private static String mUserDir = System.getProperty("user.dir");
+    // url = DumpANC2FreqWordDB.class.getResource("");
+    // file:/E:/workspace_4.6.3_LevelWord_2017-07-26/LevelWordWithFreq/bin/com/myblog/freq/
+    // url = DumpANC2FreqWordDB.class.getResource("/");
+    // file:/E:/workspace_4.6.3_LevelWord_2017-07-26/LevelWordWithFreq/bin/
+    // realPath=java.net.URLDecoder.decode(realPath,"utf-8");
     private final static String mStageFileList = "./input/stageWordsFiles.txt";
-    private static List<List<String>> mStageLevelList = new ArrayList<List<String>>();  
-    
+    private static List<List<String>> mStageLevelList = new ArrayList<List<String>>();
+
     /**
      * 
      */
@@ -49,15 +51,15 @@ public class DumpANC2FreqWordDB {
 
     // 根据mStageFileList中单词的顺序,读取input文件夹下的txt文件列表
     public static List<List<String>> loadStagesFiles(String stagesFiles) {
-        List<List<String>> stageLevelList = new ArrayList<List<String>>();  
+        List<List<String>> stageLevelList = new ArrayList<List<String>>();
         try {
             FileInputStream fis = new FileInputStream(stagesFiles);
             BufferedReader dr = new BufferedReader(new InputStreamReader(fis));
             String line = dr.readLine();
             while (line != null) {
-            	String[] split = line.split("\\s+");  
-                List<String> lineStage = new ArrayList<String>(Arrays.asList(split));  
-                stageLevelList.add(lineStage);  
+                String[] split = line.split("\\s+");
+                List<String> lineStage = new ArrayList<String>(Arrays.asList(split));
+                stageLevelList.add(lineStage);
                 line = dr.readLine();
             }
         } catch (Exception e) {
@@ -65,7 +67,7 @@ public class DumpANC2FreqWordDB {
         }
         return stageLevelList;
     }
-    
+
     /**
      * 获取单词列表,
      * 
@@ -88,24 +90,24 @@ public class DumpANC2FreqWordDB {
         Map<String, Map<String, String>> mapResult = Collections
                 .synchronizedMap(new HashMap<String, Map<String, String>>());
         for (List<String> curStageFile : stageLevelList) {
-        	String curStage = curStageFile.get(0);
-        	String fileName = curStageFile.get(1);
-            URL url = null;
-            if (fileName.startsWith("/")) {
-                url = DumpANC2FreqWordDB.class.getResource("./input" + fileName);
-            } else {
-                try {
-                    url = Paths.get(fileName).toUri().toURL();
-                } catch (Exception e) {
-                    LOGGER.error("构造URL出错", e);
+            String curStage = curStageFile.get(0);
+            String fileName = curStageFile.get(1);
+            URI uri = null;
+            try {
+                if (fileName.startsWith("/")) {// 相对路径
+                    uri = Paths.get(mUserDir + "/input" + fileName).toUri();
+                } else {
+                    uri = Paths.get(fileName).toUri();// 绝对路径(windows)
                 }
+            } catch (Exception e) {
+                LOGGER.error("构造URL出错", e);
             }
-            if (url == null) {
+            if (uri == null) {
                 LOGGER.error("解析词典失败：" + fileName);
                 continue;
             }
-            System.out.println("parse word file: " + url);
-            List<String> words = readFileLines(url);
+            System.out.println("parse word file: " + uri);
+            List<String> words = readFileLines(uri);
             for (String line : words) {// 遍历set去出里面的的Key
                 // 用"-2"替代"★",用"-3"替代"▲",把左右小括号()删除掉，把斜线/之后的字符串删除(到行尾)
                 line = line.trim().replaceAll("★", "-2").replaceAll("▲", "-3").replaceAll("/.*$", "");
@@ -130,9 +132,9 @@ public class DumpANC2FreqWordDB {
                     if (mapWord == null) {
                         mapWord = new HashMap<String, String>();
                         mapWord.put(curStage, courseValue);
-                        mapResult.put(word, mapWord);       //新增
+                        mapResult.put(word, mapWord); // 新增
                     } else {
-                        mapWord.put(curStage, courseValue);  //修改
+                        mapWord.put(curStage, courseValue); // 修改
                     }
                 }
             }
@@ -143,9 +145,9 @@ public class DumpANC2FreqWordDB {
         return mapResult;
     }
 
-    private static List<String> readFileLines(URL url) {
+    private static List<String> readFileLines(URI uri) {
         try {
-            return Files.readAllLines(Paths.get(url.toURI()));
+            return Files.readAllLines(Paths.get(uri));
         } catch (Exception e) {
             return Collections.emptyList();
         }
@@ -162,24 +164,23 @@ public class DumpANC2FreqWordDB {
      * 
      */
     public static void save(Map<String, Map<String, String>> mapResult, String path) {
-        String file = "/American National Corpus,ANC.txt";
+        String fileANC = "/American National Corpus,ANC.txt";
         List<String> wordList = new ArrayList<String>();
         try {
-            URL url = DumpANC2FreqWordDB.class.getResource("/input" + file);
-            if (url == null) {
-                LOGGER.error("解析词典失败：" + file);
+            URI uri = Paths.get(mUserDir + "/input" + fileANC).toUri();
+            if (uri == null) {
+                LOGGER.error("解析词典失败：" + fileANC);
                 return;
             }
-            System.out.println("parse word file: " + url);
-            List<String> words = readFileLines(url);
-
-            path = "./outpu" + path; // 父目录必须存在
+            System.out.println("parse word file: " + uri);
+            List<String> words = readFileLines(uri);
+            path = Paths.get(mUserDir + "/output" + path).toString();// 父目录必须存在
             LOGGER.info("开始保存词典：" + path);
 
             StringBuilder sbTitle = new StringBuilder();
             sbTitle.append("freq\tword\t");
             for (int j = 0; j < mStageLevelList.size(); j++) {
-            	String stageName = mStageLevelList.get(j).get(0);
+                String stageName = mStageLevelList.get(j).get(0);
                 sbTitle.append(stageName + "\t");
             }
             wordList.add(sbTitle.toString());
@@ -202,7 +203,7 @@ public class DumpANC2FreqWordDB {
                     Map<String, String> mapWord = mapResult.get(word);
                     if (mapWord != null) {
                         for (int j = 0; j < mStageLevelList.size(); j++) {
-                        	String stageName = mStageLevelList.get(j).get(0);
+                            String stageName = mStageLevelList.get(j).get(0);
                             String courseValue = mapWord.get(stageName);
                             courseValue = courseValue == null ? "" : courseValue;
                             sb.append(new String(courseValue) + "\t");
@@ -220,7 +221,7 @@ public class DumpANC2FreqWordDB {
                 StringBuilder sb = new StringBuilder();
                 sb.append("99999" + "\t" + word + "\t");
                 for (int j = 0; j < mStageLevelList.size(); j++) {
-                	String stageName = mStageLevelList.get(j).get(0);
+                    String stageName = mStageLevelList.get(j).get(0);
                     String courseValue = mapWord.get(stageName);
                     courseValue = courseValue == null ? "" : courseValue;
                     sb.append(courseValue + "\t");
@@ -234,7 +235,7 @@ public class DumpANC2FreqWordDB {
         }
         // System.out.println("unique words count: "+set.size());
     }
-    
+
     /**
      * 根据《American National Corpus,ANC.txt》词汇列表保存到数据库
      * 
@@ -246,28 +247,29 @@ public class DumpANC2FreqWordDB {
      * 
      */
     public static Vector<Word> map2vector(Map<String, Map<String, String>> mapResult) {
-        String file = "/American National Corpus,ANC.txt";
-//        List<String> wordList = new ArrayList<String>();
+        String fileANC = "/American National Corpus,ANC.txt";
+        // List<String> wordList = new ArrayList<String>();
         Vector<Word> vecWords = new Vector<Word>();
         try {
-            URL url = DumpANC2FreqWordDB.class.getResource("/input" + file);
-            if (url == null) {
-                LOGGER.error("解析词典失败：" + file);
+            URI uri = Paths.get(mUserDir + "/input" + fileANC).toUri();
+            if (uri == null) {
+                LOGGER.error("解析词典失败：" + fileANC);
                 return vecWords;
             }
-            System.out.println("parse word file: " + url);
-            List<String> words = readFileLines(url);
+            System.out.println("parse word file: " + uri);
+            List<String> words = readFileLines(uri);
 
-//            path = "./outpu" + path; // 父目录必须存在
-//            LOGGER.info("开始保存词典：" + path);
-
-//            StringBuilder sbTitle = new StringBuilder();
-//            sbTitle.append("freq\tword\t");
-//            for (int j = 0; j < mStageLevelList.size(); j++) {
-//            	String stageName = mStageLevelList.get(j).get(0);
-//                sbTitle.append(stageName + "\t");
-//            }
-//            wordList.add(sbTitle.toString());
+            // String path = Paths.get(mUserDir + "/output" +
+            // filename).toString();// 父目录必须存在
+            // LOGGER.info("开始保存词典：" + path);
+            //
+            // StringBuilder sbTitle = new StringBuilder();
+            // sbTitle.append("freq\tword\t");
+            // for (int j = 0; j < mStageLevelList.size(); j++) {
+            // String stageName = mStageLevelList.get(j).get(0);
+            // sbTitle.append(stageName + "\t");
+            // }
+            // wordList.add(sbTitle.toString());
 
             for (int i = 0; i < words.size(); i++) {
                 // 用"-2"替代"★",用"-3"替代"▲",把左右小括号()删除掉，把斜线/之后的字符串删除(到行尾)
@@ -283,11 +285,11 @@ public class DumpANC2FreqWordDB {
                         freq = segments[0];
                     }
                     StringBuilder sb = new StringBuilder();
-//                    sb.append(freq + "\t" + word + "\t");
+                    // sb.append(freq + "\t" + word + "\t");
                     Map<String, String> mapWord = mapResult.get(word);
                     if (mapWord != null) {
                         for (int j = 0; j < mStageLevelList.size(); j++) {
-                        	String stageName = mStageLevelList.get(j).get(0);
+                            String stageName = mStageLevelList.get(j).get(0);
                             String courseValue = mapWord.get(stageName);
                             courseValue = courseValue == null ? "" : courseValue;
                             sb.append(new String(courseValue) + "\t");
@@ -299,7 +301,7 @@ public class DumpANC2FreqWordDB {
                     dbWord.setFrequency(Integer.valueOf(freq));
                     dbWord.setLevel(sb.toString());
                     vecWords.add(dbWord);
-                    //wordList.add(sb.toString());
+                    // wordList.add(sb.toString());
                 }
             }
             System.out.println("leave words count: " + mapResult.size());
@@ -308,9 +310,9 @@ public class DumpANC2FreqWordDB {
                 String word = (String) entry2.getKey();
                 Map<String, String> mapWord = (Map<String, String>) entry2.getValue();
                 StringBuilder sb = new StringBuilder();
-                //sb.append("99999" + "\t" + word + "\t");
+                // sb.append("99999" + "\t" + word + "\t");
                 for (int j = 0; j < mStageLevelList.size(); j++) {
-                	String stageName = mStageLevelList.get(j).get(0);
+                    String stageName = mStageLevelList.get(j).get(0);
                     String courseValue = mapWord.get(stageName);
                     courseValue = courseValue == null ? "" : courseValue;
                     sb.append(courseValue + "\t");
@@ -320,38 +322,22 @@ public class DumpANC2FreqWordDB {
                 dbWord.setFrequency(99999);
                 dbWord.setLevel(sb.toString());
                 vecWords.add(dbWord);
-                //wordList.add(sb.toString());
+                // wordList.add(sb.toString());
             }
-            //Files.write(Paths.get(path), wordList);
+            // Files.write(Paths.get(path), wordList);
             LOGGER.info("保存成功");
         } catch (Exception e) {
             LOGGER.error("保存词典失败", e);
         }
         // System.out.println("unique words count: "+set.size());
-		return vecWords;
+        return vecWords;
     }
-    
-    // 所有词性/词义在一行的json中
-    public void word2Vector(String line) {
-//        Word xmlWord = wordParser.getXmlWord(line);
-//        Word dbWord = new Word();
-//        dbWord.setId(vecWords.size());
-//        dbWord.setFrequency(xmlWord.getWordFrequency());
-//        dbWord.setSpelling(xmlWord.getKey());// 单词
-//        dbWord.setPhoneticDJ(null);// 英语音标
-//        dbWord.setPhoneticKK(null); // 美语音标
-//        dbWord.setLevel(null);
-//        dbWord.setPartsOfSpeech(null);// 词性
-//        dbWord.setMeanings(null);// 词义列表
-//        dbWord.setSentences(null);// 本词性对应的所有字段
-//        vecWords.add(dbWord);
-    }
-    
+
     public static int doInsert2DB(Vector<Word> vecWords) {
         ConnectionSource connectionSource;
         try {
             // String databaseUrl = "jdbc:h2:./LevelDict.h2";
-            String databaseUrl = "jdbc:sqlite:./LevelDict.db3";
+            String databaseUrl = "jdbc:sqlite:./output/LevelDict.db3";
             connectionSource = new JdbcConnectionSource(databaseUrl);
             WordDaoImpl wordDao = new WordDaoImpl(connectionSource);
             int affectRowCount = wordDao.create(vecWords);
@@ -362,41 +348,23 @@ public class DumpANC2FreqWordDB {
         }
         return 0;
     }
-    
+
     /**
      * @param args
      */
     public static void main(String[] args) {
-    	String fileName = "/toSaveLevelFile.txt";
-    	List<String> wordList = new ArrayList<String>();
-    	wordList.add("test");
-//    	try {
-    	    System.out.println(DumpANC2FreqWordDB.class.getResource("/config.properties").toExternalForm());  
-    		System.out.println(DumpANC2FreqWordDB.class.getResource(""));
-    	    System.out.println(DumpANC2FreqWordDB.class.getResource("/"));
-//    	    System.out.println(DumpANC2FreqWordDB.class.getResource(".."));
-//    		URL url = DumpANC2FreqWordDB.class.getResource("./input" + fileName);
-//    		System.out.println("AddStageByWordsFile,main,url: " + url);
-//    		URI uri = url.toURI();
-//			//Files.write(Paths.get(url), wordList);
-//    		Files.write(Paths.get(uri),wordList);
-//		} catch (IOException e) {
-//			e.printStackTrace();
-//		} catch (URISyntaxException e) {
-//			// TODO Auto-generated catch block
-//			e.printStackTrace();
-//		}
+        System.out.println("DumpANC2FreqWordDB,mUserDir:" + mUserDir);
         System.out.println("AddStageByWordsFile,main,args.length: " + args.length);
         mStageLevelList = loadStagesFiles(mStageFileList);
-        //System.out.println("AddStageByWordsFile,main,stageFileList: " + Arrays.toString(stageFileList));
+        // System.out.println("AddStageByWordsFile,main,stageFileList: " +
+        // Arrays.toString(stageFileList));
         System.out.println("AddStageByWordsFile,main,stageFileList: " + mStageLevelList);
-        
+
         Map<String, Map<String, String>> mapResult = getWordList(mStageLevelList);// 先获取level比较低的单词集合，后获取levle较高的集合
         System.out.println("all unique words count: " + mapResult.size());
-//        String toSaveFile = "/toSaveLevelFile.txt";
-//        save(mapResult, toSaveFile);
+        // String toSaveFile = "/toSaveLevelFile.txt";
+        // save(mapResult, toSaveFile);
         Vector<Word> vecWords = map2vector(mapResult);
         doInsert2DB(vecWords);
     }
 }
-
