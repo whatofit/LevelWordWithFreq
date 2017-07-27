@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>much</key>
+	<ps>mʌtʃ</ps>
+	<pron>http://res.iciba.com/resource/amp3/0/0/ef/56/ef56b0b0ddb93c2885892c06be830c68.mp3</pron>
+	<ps>mʌtʃ</ps>
+	<pron>http://res.iciba.com/resource/amp3/1/0/ef/56/ef56b0b0ddb93c2885892c06be830c68.mp3</pron>
+	<pos>adv.</pos>
+	<acceptation>非常；差不多；很多地；很大程度上；
+	</acceptation>
+	<pos>adj.</pos>
+	<acceptation>许多的，大量的；
+	</acceptation>
+	<pos>pron.</pos>
+	<acceptation>很多；大量；很好的东西；（与不可数名词连用，尤用于否定句，或与 how 连用以询问数量，也可与 as、so 和
+		too 连用）许多；
+	</acceptation>
+	<sent>
+		<orig>
+			He didn't speak much, but what he said affords much food for
+			reflection.
+		</orig>
+		<trans>
+			他的话虽然不多，却耐人寻味。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			He is younger than I by much.; He is much younger than I.
+		</orig>
+		<trans>
+			他比我年纪小得多。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			He that talks much errs much.
+		</orig>
+		<trans>
+			[谚]言多必有失。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			If we recycled more waste, we wouldn't need to produce so much and
+			there wouldn't be so much pollution.
+		</orig>
+		<trans>
+			假如我们更多地收旧利废，我们就不必生产这么多，也就不会有这么严重的污染。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			No matter how much we like honey, or how much we have read about the
+			uncanny sense of direction which bees posses, we have a horror of
+			being stung.
+		</orig>
+		<trans>
+			不管我们有多么喜欢蜂蜜，或者不管我们读过多少关于蜜蜂所具有的不可思议的方向感的书籍，我们都怕被蜇。
+		</trans>
+	</sent>
+</dict>

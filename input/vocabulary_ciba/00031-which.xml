@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>which</key>
+	<ps>hwitʃ</ps>
+	<pron>http://res.iciba.com/resource/amp3/0/0/8b/7a/8b7af514f25f1f9456dcd10d2337f753.mp3</pron>
+	<ps>hwɪtʃ,wɪtʃ</ps>
+	<pron>http://res-tts.iciba.com/8/b/7/8b7af514f25f1f9456dcd10d2337f753.mp3</pron>
+	<pos>pron.</pos>
+	<acceptation>哪一个；哪一些；哪个；那，指前面提到的事物；
+	</acceptation>
+	<pos>adj.</pos>
+	<acceptation>哪一个；哪一些；
+	</acceptation>
+	<sent>
+		<orig>
+			The twins are so alike that I can't tell which is which.
+		</orig>
+		<trans>
+			这对双胞胎一模一样，我分辨不出谁是谁。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			We do not know which behavioural traits are inherited and which
+			acquired.
+		</orig>
+		<trans>
+			我们不知道哪些行为特征是遗传的，哪些是后天养成的。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			"The Yongle Canon", compiled by 2,000 scholars and completed in 1408,
+			A.D., was the world's earliest and biggest encyclopaedia, which
+			contains 22937 volumes bound into 11095 books with a total of 370
+			million Chinese characters.
+		</orig>
+		<trans>
+			中国的《永乐大典》是世界上最早最大的百科全书。 它成书于1408年， 共有22，937卷， 11，095册 37，000万字， 由2，000名学者编写。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			A Russian might fail to see anything amusing in a joke which would
+			make an Englishman laugh to tears.
+		</orig>
+		<trans>
+			俄国人可能看不出会使英国人笑出泪来的笑话有什么可笑之处。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			A catalyst is a substance which speeds up a chemical reaction.
+		</orig>
+		<trans>
+			催化剂是一种能加速化学反应的物质。
+		</trans>
+	</sent>
+</dict>

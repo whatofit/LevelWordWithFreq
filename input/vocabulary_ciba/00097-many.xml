@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>many</key>
+	<ps>ˈmeni</ps>
+	<pron>http://res.iciba.com/resource/amp3/0/0/8c/d2/8cd283d8b7bacc277f2bae5e26ce6d1e.mp3</pron>
+	<ps>ˈmɛni</ps>
+	<pron>http://res.iciba.com/resource/amp3/1/0/8c/d2/8cd283d8b7bacc277f2bae5e26ce6d1e.mp3</pron>
+	<pos>adj.</pos>
+	<acceptation>许多，多的；
+	</acceptation>
+	<pos>pron.</pos>
+	<acceptation>（与复数动词连用）大多数人；
+	</acceptation>
+	<sent>
+		<orig>
+			Although many consider Crouching Tiger,Hidden Dragon to be foremost an
+			excellent kung fu movie,the story depicts many forms of love,the most
+			memorable of which is the poignant romance between the two
+			star-crossed lovers played by Chow Yun fat and Michelle Yeoh.
+		</orig>
+		<trans>
+			尽管许多人认为《卧虎藏龙》首先是部极好的功夫片，但影片描写了多种形式的爱，其中最令人难忘的是周润发和杨紫琼扮演的那对不幸恋人间辛酸的浪漫。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			He received many honors from many cities, colleges and societies.
+		</orig>
+		<trans>
+			他享有许多城市、大学及学会所授予的荣誉称号。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			He received many honours from many cities, colleges and societies.
+		</orig>
+		<trans>
+			他享有许多城市、大学及学会所授予的荣誉称号。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Many men, many minds.
+		</orig>
+		<trans>
+			十个人，十条心。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			She had fought many battles, vanquished many foes.
+		</orig>
+		<trans>
+			她身经百战，挫败过很多对手。
+		</trans>
+	</sent>
+</dict>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>only</key>
+	<ps>ˈəunli</ps>
+	<pron>http://res.iciba.com/resource/amp3/0/0/62/99/6299ba2cbd9661a5e3872b715521cd6a.mp3</pron>
+	<ps>ˈonli</ps>
+	<pron>http://res.iciba.com/resource/amp3/1/0/62/99/6299ba2cbd9661a5e3872b715521cd6a.mp3</pron>
+	<pos>adj.</pos>
+	<acceptation>唯一的；仅有的；最好的，最适当的；
+	</acceptation>
+	<pos>adv.</pos>
+	<acceptation>只，仅仅；结果却，不料；
+	</acceptation>
+	<pos>conj.</pos>
+	<acceptation>但是，可是；要不是；
+	</acceptation>
+	<sent>
+		<orig>
+			He's offered us his villa by the sea for two weeks.The only problem is
+			that we can only have it in February, which rather takes the gilt off
+			the gingerbread.
+		</orig>
+		<trans>
+			他把海边的别墅让给我们住两个星期。但是美中不足的是我们只能在二月份去，这就有些扫兴了。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			I should think the Welsh are the only people in the world whose only
+			national festival is devoted to music and poetry.
+		</orig>
+		<trans>
+			我认为威尔士人是世界上在自己民族唯一的节日上进行音乐和诗歌表演的唯一民族。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			My friend fails to mention the long and friendless winter evenings
+			which are interrupted only by an occasional visit to the local
+			cinema——virtually the only form of entertainment.
+		</orig>
+		<trans>
+			我的朋友没提到那漫长而寂寞的隆冬寒夜，而打破这寒夜寂寞的只有偶尔去当地电影院看看电影——实际上此乃唯一的娱乐形式。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Only by overcoming our weaknesses can we advance without any
+			encumbrance;only by uniting ourselves in our struggle can we be
+			invincible.
+		</orig>
+		<trans>
+			克服缺点才能轻装前进，团结战斗才能无往不胜。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Speak not of lakes and streams to one who once has seen the sea.; The
+			clouds over Mount Wushan are the only true clouds.; Don't mention
+			streams to him who has seen a great ocean.; The clouds that circle
+			Wu's peak are the only clouds for him.
+		</orig>
+		<trans>
+			曾经沧海难为水，除却巫山不是云。
+		</trans>
+	</sent>
+</dict>

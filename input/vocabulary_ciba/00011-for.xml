@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>for</key>
+	<ps>fɔ:, fə</ps>
+	<pron>http://res-tts.iciba.com/d/5/5/d55669822f1a8cf72ec1911e462a54eb.mp3</pron>
+	<ps>fɔr,fə</ps>
+	<pron>http://res.iciba.com/resource/amp3/1/0/d5/56/d55669822f1a8cf72ec1911e462a54eb.mp3</pron>
+	<pos>prep.</pos>
+	<acceptation>为，为了；倾向于；关于；当作；
+	</acceptation>
+	<pos>conj.</pos>
+	<acceptation>因为，由于；
+	</acceptation>
+	<sent>
+		<orig>
+			I haven't been to see her for a long time now. For one thing, she
+			lives too far away; for another, I've been rather busy.
+		</orig>
+		<trans>
+			我好久没有看她， 一来路太远，二来没工夫。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			She wrote for fun for many years before starting to write seriously for
+			a living.
+		</orig>
+		<trans>
+			在她开始正正经经地为谋生而写作之前，许多年她以写作自娱。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Abraham Lincoln called on his people to fight for freedom for all—Negroes
+			and Whites.
+		</orig>
+		<trans>
+			亚伯拉罕·林肯号召他的人民为所有的人——黑人和白人的自由而战斗。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			After writing for the theater for many years, he turned to the art of
+			film.
+		</orig>
+		<trans>
+			他从事戏剧写作多年之后，又开始搞电影艺术。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			An advocate for John could make out a case for him on this score also.
+		</orig>
+		<trans>
+			约翰的一位律师在这方面也能提出有利于他的理由。
+		</trans>
+	</sent>
+</dict>

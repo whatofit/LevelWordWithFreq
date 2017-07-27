@@ -1,0 +1,374 @@
+{
+    "local":[
+        {
+            "word":"I",
+            "sd":"9ace734320e2714928da6852ee337fac",
+            "pho":[
+                "ai"
+            ],
+            "des":[
+                {
+                    "p":"n.",
+                    "d":"字母I, [化]碘元素, 罗马数字1"
+                },
+                {
+                    "p":"pron.",
+                    "d":"我"
+                }
+            ],
+            "sen":[
+                {
+                    "p":"pron.",
+                    "s":[
+                        {
+                            "es":"<b>I<\/b> can swim.",
+                            "cs":"我会游泳。"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "netdes":[
+        {
+            "word":"i",
+            "des":[
+                {
+                    "mf":"i",
+                    "d":"abbr. information frame; 信息帧",
+                    "f":1,
+                    "tag":"abbr",
+                    "s":-1,
+                    "url":-1
+                },
+                {
+                    "mf":"i",
+                    "d":"abbr. interrupt; 中断",
+                    "f":1,
+                    "tag":"abbr",
+                    "s":-1,
+                    "url":-1
+                },
+                {
+                    "mf":"i",
+                    "d":"abbr. intranet; 企业内部网",
+                    "f":1,
+                    "tag":"abbr",
+                    "s":-1,
+                    "url":-1
+                },
+                {
+                    "mf":"i",
+                    "d":"abbr. instruction; 指令",
+                    "f":1,
+                    "tag":"abbr",
+                    "s":-1,
+                    "url":-1
+                },
+                {
+                    "mf":"i.",
+                    "d":"abbr. improved cylinder; 猎枪的四分之一缩口",
+                    "f":1,
+                    "tag":"abbr",
+                    "s":-1,
+                    "url":-1
+                },
+                {
+                    "mf":"i.",
+                    "d":"abbr. inside&#39; edge; 内刃",
+                    "f":1,
+                    "tag":"abbr",
+                    "s":-1,
+                    "url":-1
+                }
+            ],
+            "wf":"1"
+        },
+        {
+            "word":"I see",
+            "des":[
+                {
+                    "mf":"I see",
+                    "d":"我明白",
+                    "f":234,
+                    "tag":"net",
+                    "s":"也就是说:<b>我明白<\/b>(<b>i see<\/b>)这些无意义的表达并非因为我还没有找到正确的表达而无意义,而是它们的无意义就是它们的极具特征的本质. 由于我想做的与它们有关的一切恰恰超越了这个世界,也即超越了有意义的语言(significant language). ",
+                    "url":"http:\/\/guoxuexixue.blog.sohu.com\/143508864.html"
+                },
+                {
+                    "mf":"I see",
+                    "d":"明白了",
+                    "f":72,
+                    "tag":"net",
+                    "s":"didn`t it--服部平次口头 禅:我<b>明白了<\/b> (<b>I see<\/b>)最让人感动的话:要好好活着,连我那份一起好好活着. . . . 别...别动...和叶...你敢动...我就宰了你......为...为什么...你这笨女人还真是拼命...我不会让你死 -&lt;&lt;人鱼又再度哭泣&gt;&gt; 人. ",
+                    "url":"http:\/\/www.rxyj.org\/html\/2010\/0109\/250131.php"
+                },
+                {
+                    "mf":"I see",
+                    "d":"我看到了",
+                    "f":5,
+                    "tag":"net",
+                    "s":"在我们的日常用语中,&quot;<b>我看到了<\/b>&quot;(<b>I see<\/b>)就等同于&quot;我知道了&quot;(I know)--在法语里,&quot;看见&quot;(voir)也就是&quot;知道&quot;(savoir). 但是事实的真相并非如此轻易可得;它通常表现为被遮蔽的、潜在的或被覆盖的,因此,事实的发现就成了一个揭露、展开或剥除的过程. ",
+                    "url":"http:\/\/jasminecakepopo.bokee.com\/viewdiary.12560071.html"
+                },
+                {
+                    "mf":"I see",
+                    "d":"我明白了",
+                    "f":159871,
+                    "tag":"net",
+                    "s":"<b>1. I see. 我明白了. <\/b> | 2. I quit! 我不干了! | 3. Let go! 放手!",
+                    "url":"http:\/\/laiba.tianya.cn\/laiba\/CommMsgs?cmm=113072&tid=2679434024279741432"
+                }
+            ]
+        },
+        {
+            "word":"I agree",
+            "des":[
+                {
+                    "mf":"I agree",
+                    "d":"我同意",
+                    "f":152154,
+                    "tag":"net",
+                    "s":"许可条款,然后单击&quot;<b>我同意<\/b>&quot;(<b>I agree<\/b>) 以继续. 单击&quot;下一这可以通过单击&quot;下一步&quot;(Next) 来完成. 注释 单击&quot;目标&quot;(Destination) 面板中的&quot;...&quot;时,将显示一个目4 您可以从&quot;安装类型&quot;(Install Type) 窗口中的三种安装类型中进行&quot;完全&quot;(Full) 或&quot;自定义&",
+                    "url":"http:\/\/download.sybase.com\/pdfdocs\/asg1251c\/installibmzh.pdf"
+                },
+                {
+                    "mf":"I agree",
+                    "d":"(同意)",
+                    "f":97,
+                    "tag":"net",
+                    "s":"第二步:首先是许可协议的设置,我们选择&quot;<b>同意<\/b>&quot;(<b>i agree<\/b>)即可,点&quot;下一步&quot;按钮继续. (如图2)",
+                    "url":"http:\/\/www.8txian.com\/wan\/Management\/xiangguan\/2008-03-28\/12782.html"
+                },
+                {
+                    "mf":"I AGREE",
+                    "d":"我同意(上述协议)",
+                    "f":1119,
+                    "tag":"net",
+                    "s":"Howdidyouhearaboutus 你是如何知道我们的 | <b>I AGREE 我同意(上述协议)<\/b> | IMPRESSION 投放次数,网页被访问的次数",
+                    "url":"http:\/\/www.abcdown.net\/InfoView\/Article_80018.html"
+                },
+                {
+                    "mf":"I agree",
+                    "d":"我批准",
+                    "f":777,
+                    "tag":"net",
+                    "s":"8. Hold on. 等一等.  | <b>9. I agree.  我批准. <\/b> | 10. Not bad. 还不错. ",
+                    "url":"http:\/\/www.ko45.com\/dituguaiwu\/2116.html"
+                }
+            ]
+        },
+        {
+            "word":"I quit",
+            "des":[
+                {
+                    "mf":"I quit",
+                    "d":"我不干了",
+                    "f":152554,
+                    "tag":"net",
+                    "s":"2005年他创作&lt;&lt;<b>我不干了<\/b>&gt;&gt;(<b>I Quit<\/b>),并选择由默默无闻的独立制作公司发行. 他在网络上对欧巴玛和维吉尼亚理工大学血案发表充满社会意识的歌曲,并用歌词修理电视节目主持人罗西欧唐纳尔拿亚裔口音开玩笑,引起热烈反响. ",
+                    "url":"http:\/\/www.chinanews.com.cn\/hr\/mzhrxw\/news\/2007\/07-23\/985416.shtml"
+                },
+                {
+                    "mf":"I quit",
+                    "d":"我退出",
+                    "f":25,
+                    "tag":"net",
+                    "s":"10月13日---No Mercy的一场&quot;<b>我退出<\/b>&quot;(<b>I Quit<\/b>)赛中,麦克曼先生不留情面地战胜女儿斯蒂芬妮,致使后者不得不从SmackDown总经理的职位上卸任. 10月7日---卡里托(Carlito)在WWE上演首秀,并出人意表地战胜约翰-塞纳,捧起全美冠军腰带. ",
+                    "url":"http:\/\/www.sjnk120.com\/show\/7191.html"
+                },
+                {
+                    "mf":"I quit",
+                    "d":"我不干了,我戒烟了",
+                    "f":86,
+                    "tag":"net",
+                    "s":"80. I&#39;m on the fense. 我中立.  | <b>81. I quit. 我不干了,我戒烟了<\/b> | 82. pass buck 推卸责任",
+                    "url":"http:\/\/latteera.bioon.cn\/user1\/1605\/archives\/2005\/15818.shtml"
+                },
+                {
+                    "mf":"I quit",
+                    "d":"我不干了!的",
+                    "f":79,
+                    "tag":"net",
+                    "s":"1. I see. 我明白了. 的 | <b>2. I quit! 我不干了!的<\/b> | 3. Let go! 放手!的",
+                    "url":"http:\/\/wfwx123.blog.hexun.com\/1784057_d.html"
+                }
+            ]
+        },
+        {
+            "word":"I promise",
+            "des":[
+                {
+                    "mf":"I promise",
+                    "d":"我保证",
+                    "f":136249,
+                    "tag":"net",
+                    "s":"我能够(I can)不迷失方向的前进看着我的(Look at my) 小小的这只手中紧握着(Hold on tight) 紧握住 我的宝贝(my precious)我能够(I can)不迷失方向的前进我在这里(Here I am) 闭上眼睛的话乾枯的心灵 被喜悦的泪再次(once again)渲染<b>我保证<\/b>(<b>I promise<\/b>) 从现在开始我将要",
+                    "url":"http:\/\/health.wenda.sogou.com\/question\/8821726.html?fr=rqm"
+                },
+                {
+                    "mf":"I promise",
+                    "d":"保证",
+                    "f":22,
+                    "tag":"net",
+                    "s":"我能够(I can)不迷失方向的前进看着我的(Look at my) 小小的这只手中紧握着(Hold on tight) 紧握住 我的宝贝(my precious)我能够(I can)不迷失方向的前进我在这里(Here I am) 闭上眼睛的话乾枯的心灵 被喜悦的泪再次(once again)渲染我<b>保证<\/b>(<b>I promise<\/b>) 从现在开始我将要",
+                    "url":"http:\/\/iask.sina.com.cn\/b\/10203629.html"
+                },
+                {
+                    "mf":"I promise",
+                    "d":"我承诺",
+                    "f":7,
+                    "tag":"net",
+                    "s":"&lt;&lt;每日电讯报&gt;&gt;针对此问题展开了一个名为&quot;<b>我承诺<\/b>&quot;(<b> I Promise<\/b>)的活动. 此后,政府宣布开展1.7亿元的道路安全计划. 运输部长甘宝(David Campbell)周日说:&quot;这些方案旨在改善曾发生严重车祸的道路的安全状况,并打击超速驾驶行为. &quot;",
+                    "url":"http:\/\/auspr.com\/show.asp?id=668"
+                },
+                {
+                    "mf":"I promise",
+                    "d":"我发誓",
+                    "f":2639,
+                    "tag":"net",
+                    "s":"and I&#39;ll pull over.|然后我停车 | <b>I promise.|我发誓<\/b> | Push it.|扔啊",
+                    "url":"http:\/\/www.engxue.cn\/bencandy.php?aid=687&buy=2&fid=5&page=2"
+                }
+            ]
+        },
+        {
+            "word":"I decline",
+            "des":[
+                {
+                    "mf":"I decline",
+                    "d":"我拒绝",
+                    "f":136537,
+                    "tag":"net",
+                    "s":"32. Good luck! 祝好运! | <b>33. I decline! 我拒绝!<\/b> | 34. I promise. 我保证. ",
+                    "url":"http:\/\/laiba.tianya.cn\/laiba\/CommMsgs?cmm=113072&tid=2679434024279741432"
+                },
+                {
+                    "mf":"I decline",
+                    "d":"我谢绝",
+                    "f":781,
+                    "tag":"net",
+                    "s":"32. Good luck! 祝好运! | <b>33. I decline! 我谢绝!<\/b> | 34. I promise. 我保证. ",
+                    "url":"http:\/\/www.ko45.com\/dituguaiwu\/2116.html"
+                },
+                {
+                    "mf":"i decline",
+                    "d":"我拒",
+                    "f":313,
+                    "tag":"net",
+                    "s":"32. good luck! 祝好?! | <b>33. i decline! 我拒?!<\/b> | 34. i promise. 我保?. ",
+                    "url":"http:\/\/wei.mingxi.blog.163.com\/blog\/static\/42198563200894114848393"
+                },
+                {
+                    "mf":"I decline",
+                    "d":"拒绝接受",
+                    "f":150,
+                    "tag":"net",
+                    "s":"312. Over my dead body!休想. | <b>313. I decline!拒绝接受.<\/b> | 314. I got a big kick out of it.令人过瘾.",
+                    "url":"http:\/\/acsf.cn\/waiyu\/info.asp?Page=7&id=7676"
+                }
+            ]
+        }
+    ],
+    "netsen":[
+        {
+            "cs":"我要。。。。。。",
+            "es":"<b>I<\/b> want to......",
+            "url":"http:\/\/blog.sina.com.cn\/s\/blog_44b723370100i6br.html"
+        },
+        {
+            "cs":"但是我。。。。。。。。",
+            "es":"However, <b>I<\/b> ........",
+            "url":"http:\/\/blog1.poco.cn\/space\/blog\/blog_details.htx&blog_id=3574050"
+        },
+        {
+            "cs":"我告诉你，我。。。",
+            "es":"<b>I<\/b> told you, <b>I<\/b> ...",
+            "url":"http:\/\/www.171069.com\/book\/male\/2009\/895_34.html"
+        },
+        {
+            "cs":"如果我是你的话。。。。",
+            "es":"If <b>i<\/b> were you,.....",
+            "url":"http:\/\/cn.afly58.com\/viewthread.php?page=1&tid=21082"
+        },
+        {
+            "cs":"因为你和我。。。",
+            "es":"Because of you and <b>I<\/b>...",
+            "url":"http:\/\/i.yoho.cn\/miclin\/logview\/1785696_3_71353.html"
+        },
+        {
+            "cs":"如果我是你的话，我会。。。。。",
+            "es":"If <b>i<\/b> were you , <b>i<\/b> would......",
+            "url":"http:\/\/hi.baidu.com\/chanel_chow\/blog\/item\/e0c39dcd24dda1520fb345f5.html"
+        },
+        {
+            "cs":"你和我一起。。。",
+            "es":"You and <b>I<\/b> do the...",
+            "url":"http:\/\/www.engxue.com.cn\/bencandy.php?aid=262&buy=2&fid=7&page=2"
+        }
+    ],
+    "dlg":[
+        {
+            "s":"\/谈论节日",
+            "t":"圣诞节",
+            "c":[
+                {
+                    "n":"A",
+                    "cs":"祝您圣诞愉快!",
+                    "es":"<b>I<\/b> wish you a Merry Christmas."
+                },
+                {
+                    "n":"B",
+                    "cs":"谢谢。",
+                    "es":"Thank you."
+                }
+            ],
+            "u":0
+        },
+        {
+            "s":"\/衣食住行",
+            "t":"保险",
+            "c":[
+                {
+                    "n":"A",
+                    "cs":"什么问题？",
+                    "es":"What’s the problem?"
+                },
+                {
+                    "n":"B",
+                    "cs":"我象是弄断了（腿\/手臂\/手指）。",
+                    "es":"<b>I<\/b> think <b>I<\/b> broke my (leg\/ amp3\/ finger)."
+                }
+            ],
+            "u":1
+        },
+        {
+            "s":"\/衣食住行",
+            "t":"保守秘密的约定",
+            "c":[
+                {
+                    "n":"A",
+                    "cs":"你不能告诉任何人。",
+                    "es":"You can’t tell anyone."
+                },
+                {
+                    "n":"B",
+                    "cs":"我保证。",
+                    "es":"<b>I<\/b> know. <b>I<\/b> promise."
+                }
+            ],
+            "u":1
+        }
+    ],
+    "baike":[
+        {
+            "title":"I",
+            "pic":"http://pic.baike.soso.com/p/20090102/ext-20090102120000-106875.jpg",
+            "pw":"230",
+            "ph":"176",
+            "abs":"\r\n&nbsp;【起源】<br/>　　字母I的产生可能是由于一个手的符号，像在古埃及的象形文字里（1）并很早出现在闪族的书面当中-大约在公元前1500年的西奈半岛（2）。大约在公元前1000年，在比布鲁斯（古地中海港市，位于现黎巴嫩贝鲁特以北的朱拜勒，公元前第二个千年成为繁华的腓尼基城）和腓尼基的其他一些地方以及迦南的中心，这个符号是特定的线性形式（3），对于全部的线性形式来说。在闪族的语言中这个符号叫做yodh 或者 yadh，意思是hand（手）。它的发音就像辅音Y的发音（就像英语中的单词yes）。<br>　　希腊人给这个符号重新命名为iota并且使它的发音更像英语中的i。他们同时也在书写上简化了它（4）。<br>　　罗马人把这个符号应用到了拉丁文中。从拉丁文的大写毫无变化的应用到了英语中。<br>　　英语中的小手写或者印刷体i是相同",
+            "link":"http://baike.soso.com/v76657.htm"
+        }
+    ],
+    "lang":"eng"
+}

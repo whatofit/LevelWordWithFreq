@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>years</key>
+	<ps>jə:z</ps>
+	<pron>http://res-tts.iciba.comjə:z</pron>
+	<pos>n.</pos>
+	<acceptation>年（ year的名词复数 ）；年纪；一年的期间；某年级的学生；
+	</acceptation>
+	<sent>
+		<orig>
+			An old Chinese saying goes, "It takes ten years to grow trees but a
+			hundred years to rear people".
+		</orig>
+		<trans>
+			中国有句古话：“十年树木，百年树人。”
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			If he was given five years' imprisonment, he could be let out after
+			three years.
+		</orig>
+		<trans>
+			要是他被判五年徒刑，他就可能在三年后出狱。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			If the birds have not flown for three years, they will soar into the
+			clouds. If they have not sung for three years, their songs will take
+			everyone by surprise.
+		</orig>
+		<trans>
+			三年不蜚，蜚将冲天；三年不鸣，鸣将惊人。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			If the illegal gains are very large the counterfeiter shall be
+			sentenced to fixed-term imprisonment of not less than three years and
+			not more than seven years and be fined.
+		</orig>
+		<trans>
+			对于违法所得数额巨大的，处3年以上7年以下有期徒刑，并处罚金。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			It takes ten years to grow trees, but a hundred years to rear people.
+		</orig>
+		<trans>
+			十年树木，百年树人。
+		</trans>
+	</sent>
+</dict>

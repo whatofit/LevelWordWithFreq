@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>my</key>
+	<ps>mai, mi</ps>
+	<pron>http://res-tts.iciba.com/6/8/6/6864f389d9876436bc8778ff071d1b6c.mp3</pron>
+	<ps>maɪ</ps>
+	<pron>http://res.iciba.com/resource/amp3/1/0/68/64/6864f389d9876436bc8778ff071d1b6c.mp3</pron>
+	<pos>adj.</pos>
+	<acceptation>我的（I的所有格形式）；
+	</acceptation>
+	<pos>int.</pos>
+	<acceptation>啊呀；天啊；
+	</acceptation>
+	<sent>
+		<orig>
+			'My' is a possessive adjective.
+		</orig>
+		<trans>
+			my是个所有格形容词。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			I put my hand over my mouth to muffle my words, so only my friend
+			could hear.
+		</orig>
+		<trans>
+			我把手挡在嘴上，遮住声音，仅让我的朋友听到。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Stop talking to me like a Dutch uncle about my duty to my family, my
+			school, and my country.
+		</orig>
+		<trans>
+			别再拿家庭、学校、国家的义务来教训我啦！
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			My duty to my family lies before my own interests.
+		</orig>
+		<trans>
+			我的家庭责任比我的个人利益更重要。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Scenes of the past rose before my eyes.; The past came back to my mind.; My
+			mind flashed back to scenes of the past.
+		</orig>
+		<trans>
+			往事浮现在我眼前。
+		</trans>
+	</sent>
+</dict>

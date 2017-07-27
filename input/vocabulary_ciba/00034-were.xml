@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>were</key>
+	<ps>wɜ:</ps>
+	<pron>http://res-tts.iciba.com/2/b/0/2b016d90959eda144d600e4f870c30ba.mp3</pron>
+	<ps>wə:</ps>
+	<pron>http://res.iciba.com/resource/amp3/1/0/2b/01/2b016d90959eda144d600e4f870c30ba.mp3</pron>
+	<pos></pos>
+	<acceptation>（are的过去式）；
+	</acceptation>
+	<pos>v.</pos>
+	<acceptation>（用于第二人称单复数现在时，第一、三人称复数现在时）是（ are的过去式
+		）；（与v-ing连用构成现在进行时，与v-ed连用构成被动语态）；
+	</acceptation>
+	<sent>
+		<orig>
+			In "if I were you" the verb "were" is in the subjunctive.
+		</orig>
+		<trans>
+			在“If I were you”中动词“were”是虚拟语气。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Such inns as there were were generally dirty and flea ridden; the food
+			simply local cheese accompanied were by bread often twelve months
+			old, all washed down with coarse wine.
+		</orig>
+		<trans>
+			当地的那些小旅馆通常是既肮脏又尽是跳蚤；食物只不过是本地土产乳酪就着存放了经常12个月的陈面包，都用粗制的酒送下肚去。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			A dozen were sent for,but only ten were received.
+		</orig>
+		<trans>
+			订购了12件，但只收到10件。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			After the accident they tried to find out who the people were, but the
+			bodies were too badly mangled to be recognized.
+		</orig>
+		<trans>
+			事故发生后，他们试图辨认出遇难者，但是由于尸体残缺不全，难以认出。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			All her attempts to find a better job were unsuccessful; it seemed that
+			the dice were loaded against her.
+		</orig>
+		<trans>
+			她想找个好点的工作，可一切的努力都没成功。她总是不顺利。
+		</trans>
+	</sent>
+</dict>

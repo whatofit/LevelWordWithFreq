@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>up</key>
+	<ps>ʌp</ps>
+	<pron>http://res.iciba.com/resource/amp3/0/0/46/c4/46c48bec0d282018b9d167eef7711b2c.mp3</pron>
+	<ps>ʌp</ps>
+	<pron>http://res.iciba.com/resource/amp3/1/0/46/c4/46c48bec0d282018b9d167eef7711b2c.mp3</pron>
+	<pos>adv.</pos>
+	<acceptation>在上面，在高处；起床，起来；向上；由低到高；
+	</acceptation>
+	<pos>adj.</pos>
+	<acceptation>向上的；上升的；竖立的，垂直的；举起的；
+	</acceptation>
+	<pos>vt.&amp; vi.</pos>
+	<acceptation>增加；加速；提高；举起，拿起；
+	</acceptation>
+	<pos>prep.</pos>
+	<acceptation>在……的上端；向高处；沿……而去；向……上游；
+	</acceptation>
+	<pos>n.</pos>
+	<acceptation>上升，升高；兴旺，繁荣；上坡；（价格等）上涨；
+	</acceptation>
+	<sent>
+		<orig>
+			Women hold up half of heaven [half the sky].; Women shoulder [prop up]
+			half (of) the sky.; Women prop up the other half of the sky.
+		</orig>
+		<trans>
+			妇女能顶半边天。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Don't back up the moment you run up against a little difficulty.
+		</orig>
+		<trans>
+			不要遇到一点困难就打退堂鼓。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Don't wake him up. He stayed up late last night.
+		</orig>
+		<trans>
+			别唤醒他，他昨晚熬夜了。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Flames sprang up to heaven.; Flames leap to the sky.; The flames lit up the
+			sky.
+		</orig>
+		<trans>
+			火光冲天。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Get up the ladder, and I'll pass the paint up.
+		</orig>
+		<trans>
+			把梯子竖起来，我要把油漆递上去。
+		</trans>
+	</sent>
+</dict>

@@ -1,0 +1,430 @@
+{
+    "local":[
+        {
+            "word":"many",
+            "sd":"9d3bd3a31b5382c8837922f2c160895e",
+            "pho":[
+                "'meni"
+            ],
+            "des":[
+                {
+                    "p":"adj.",
+                    "d":"许多的"
+                },
+                {
+                    "p":"pron.",
+                    "d":"许多"
+                },
+                {
+                    "p":"n.",
+                    "d":"多数, 多数人"
+                }
+            ],
+            "sen":[
+                {
+                    "p":"adj.",
+                    "s":[
+                        {
+                            "es":"How <b>many<\/b> bananas are in the basket?",
+                            "cs":"这个篮子里有多少香蕉？"
+                        },
+                        {
+                            "es":"How <b>many<\/b> brothers do you have?",
+                            "cs":"你有几个兄弟？"
+                        },
+                        {
+                            "es":"Were there <b>many<\/b> people at the meeting?",
+                            "cs":"有很多人到会吗？"
+                        }
+                    ]
+                },
+                {
+                    "p":"pron.",
+                    "s":[
+                        {
+                            "es":"I don&#39;t need so <b>many<\/b>.",
+                            "cs":"我不需要这么多。"
+                        },
+                        {
+                            "es":"I never want to have another experience like that. I&#39;ve had one too <b>many<\/b>.",
+                            "cs":"我永远不想再有一次那样的经历了，那一次已经够多的啦。"
+                        }
+                    ]
+                }
+            ],
+            "mor":[
+                {
+                    "c":"形容词比较级",
+                    "m":"more"
+                }
+            ],
+            "syn":[
+                {
+                    "p":"adj.",
+                    "c":[
+                        "multitudinous",
+                        "various",
+                        "several",
+                        "considerable",
+                        "myriad",
+                        "numerous"
+                    ]
+                }
+            ],
+            "ant":[
+                {
+                    "p":"adj.",
+                    "c":[
+                        "few"
+                    ]
+                }
+            ],
+            "ph":[
+                {
+                    "phs":"in so many words",
+                    "phd":"明确地"
+                },
+                {
+                    "phs":"as many as",
+                    "phd":"和...一样多"
+                },
+                {
+                    "phs":"many a time",
+                    "phd":"许多次"
+                },
+                {
+                    "phs":"so many",
+                    "phd":"那么多的, 同数目的"
+                },
+                {
+                    "phs":"as many again",
+                    "phd":"再同样多"
+                },
+                {
+                    "phs":"as many",
+                    "phd":"一样多"
+                },
+                {
+                    "phs":"many&#39;s the time",
+                    "phd":"有好多次"
+                },
+                {
+                    "phs":"half as many again",
+                    "phd":"加半倍, 一倍半"
+                },
+                {
+                    "phs":"the many",
+                    "phd":"多数人, 群众"
+                }
+            ]
+        }
+    ],
+    "netdes":[
+        {
+            "word":"many ",
+            "des":[
+                {
+                    "mf":"many ",
+                    "d":"许多",
+                    "f":3014,
+                    "tag":"net",
+                    "s":"在第二段第五句中,本文用了&quot;<b>许多<\/b>&quot;(<b>many<\/b>)这个词,而不是&quot;全部&quot;(all). (D)意为:鸡汤--公认的补药. 作者在第二、三段简述了从过去到现在人们对鸡汤的青睐. 第四段以后分析了人们喜欢鸡汤并认为它有疗效(curative powers或something curative)、能增强体质(stength builder)的原因. ",
+                    "url":"http:\/\/howliven.com\/exam\/zikao\/zaizhi\/200504\/6469.html"
+                },
+                {
+                    "mf":"many",
+                    "d":"(很多)",
+                    "f":136,
+                    "tag":"net",
+                    "s":"表达了人们对预算短缺可能导致教师离去的后果. 但文中没有指出教师是否计划(planning)离职,或者是否有&quot;<b>很多<\/b>&quot;(<b>many<\/b>)教师有此想法. 四级大学英语四六级考试(CET)相关文章",
+                    "url":"http:\/\/www.51test.net\/show.asp?Page=9&id=645840"
+                },
+                {
+                    "mf":"many",
+                    "d":"多数",
+                    "f":78,
+                    "tag":"net",
+                    "s":"这一划分,也可算作亚里士多德&lt;&lt;政治学&gt;&gt;中&quot;一人&quot;(one) 、&quot;少数&quot; (few) 和&quot;<b>多数<\/b>&quot; (<b>many<\/b>) 三分法的现代版. 以唐代柳宗元&quot;封建论&quot;为代表的中国传统政治智慧,对于&quot;皇帝&quot;、&quot;地方官员和大户&quot;与广大小农三者的关系,颇多精辟考虑. ",
+                    "url":"http:\/\/www1.7139.com\/lunwenfl\/gjf\/xs\/200703\/65466.html"
+                },
+                {
+                    "mf":"many",
+                    "d":"多",
+                    "f":31,
+                    "tag":"net",
+                    "s":" 如果我们看到一个集合(譬如Customer.Orders),我们假定其<b>多<\/b>重性为<b>多<\/b>(<b>many<\/b>).  然后,在注册倒转(inverse)时,我们知道一个关系的两头的<b>多<\/b>重性,譬如,在上面的例子中,我们知道,每个Order可以有0..1个 Customer,每个Customer可以有<b>多<\/b>个Order. ",
+                    "url":"http:\/\/rss.yaosansi.com\/default.asp?cate=2&page=6"
+                }
+            ],
+            "wf":"1"
+        },
+        {
+            "word":"many a",
+            "des":[
+                {
+                    "mf":"many a",
+                    "d":"许多",
+                    "f":6856,
+                    "tag":"net",
+                    "s":"as a last resort作为最后手段 | <b>many a许多<\/b> | much less更谈不上",
+                    "url":"http:\/\/chengkao.bfyxedu.com\/a\/huijikaoshi\/redianzhuanti\/2009\/1228\/570.html"
+                },
+                {
+                    "mf":"many a",
+                    "d":"许多的,一个又一个的",
+                    "f":2048,
+                    "tag":"net",
+                    "s":"a good many 大量的,许多,相当多 . | <b>many a 许多的,一个又一个的 .<\/b> | mark down 记下;标低(商品)价目 .",
+                    "url":"http:\/\/bbs.eduu.com\/viewthread.php?extra=&ordertype=2&tid=35778"
+                },
+                {
+                    "mf":"many a",
+                    "d":"许多的",
+                    "f":1894,
+                    "tag":"net",
+                    "s":"many &quot;a.许多的,多的; pron.许多人,许多; &quot; | <b>many a 许多的<\/b> | map &quot;n.图,地图; &quot;",
+                    "url":"http:\/\/yoursit.cn\/mydoc029.htm"
+                },
+                {
+                    "mf":"many a",
+                    "d":"[后接单数名词]许多的,多的,一个又一个的",
+                    "f":1043,
+                    "tag":"net",
+                    "s":"make use of使用,利用 | <b>many a[后接单数名词]许多的,多的,一个又一个的<\/b> | mix up拌和;混淆",
+                    "url":"http:\/\/heilongjiang.eol.cn\/article\/20060623\/3196862_7.shtml"
+                }
+            ]
+        },
+        {
+            "word":"how many",
+            "des":[
+                {
+                    "mf":"how many",
+                    "d":"多少",
+                    "f":2710,
+                    "tag":"net",
+                    "s":"经济学主要研究如下三个问题:(1)生产什么(what)和生产<b>多少<\/b>(<b>how many<\/b>):(2)如何生产(how);(3)为谁生产(for whom). 经济学主要研究如下三个问题:(1)生产什么(what)和生产<b>多少<\/b>(<b>how many<\/b>):(2)如何生产(how);(3)为谁生产(for whom). ",
+                    "url":"http:\/\/www.langlang.cc\/2209004.htm"
+                },
+                {
+                    "mf":"How many",
+                    "d":"有多少",
+                    "f":51,
+                    "tag":"net",
+                    "s":"200-2,000个或以上.¨ 3.0-3.6岁大: 一个句子可含3-4个字汇,会说所有格的形态的句子,不同形态的问句,例如为什么(why),谁(who),谁的(whose)和<b>有多少<\/b>(<b>how many<\/b>);也有否定句型,例如不能\/不会(can&#39;t)和不是(don&#39;t);",
+                    "url":"http:\/\/www.qingdaoyuer.net\/mybbs\/bbs_topic.do?forumID=28&postID=2230874"
+                },
+                {
+                    "mf":"how many",
+                    "d":"多少(数量)",
+                    "f":2,
+                    "tag":"net",
+                    "s":"环境清洁后,应再整理储藏所,并以文字或数字、颜色等明显标示各项物品存放位置,整理储藏所时,应牢记三个关键因素:何地(Where)、何物(What)、以及<b>多少数量<\/b>(<b>How Many<\/b>),标示应清楚明白并易于识别,应采开放式储藏系统,否则各项工具不易保持整齐. ",
+                    "url":"http:\/\/www.chinawuliu.com.cn\/cflp\/newss\/content1\/200609\/768_20328.html"
+                },
+                {
+                    "mf":"how many",
+                    "d":"多少(可数)",
+                    "f":395,
+                    "tag":"net",
+                    "s":"427. how long 多久(时间) | <b>428. how many 多少(可数)<\/b> | 429. how much 多少(不可数)",
+                    "url":"http:\/\/eduni.cn\/ckkszn\/ChengRenGaoKaoGaoQiDianYingYuCiZuZongJie_San\/"
+                }
+            ]
+        },
+        {
+            "word":"Many thanks",
+            "des":[
+                {
+                    "mf":"Many thanks",
+                    "d":"非常感谢",
+                    "f":566,
+                    "tag":"net",
+                    "s":"make water. 小便. | <b>many thanks. 非常感谢.<\/b> | money talks. 金钱万能.",
+                    "url":"http:\/\/www.z6688.com\/info\/31809-1.htm"
+                },
+                {
+                    "mf":"Many thanks",
+                    "d":"十分感谢",
+                    "f":466,
+                    "tag":"net",
+                    "s":"180 Making water. 嘘嘘.  | <b>181 Many thanks! 十分感谢!<\/b> | 182 Me too! 我也是!",
+                    "url":"http:\/\/www.zk168.com.cn\/INFO\/Study\/FreeThesis\/TeachingThesis\/EnglishTeaching\/14360611215364676040774.html"
+                },
+                {
+                    "mf":"Many thanks",
+                    "d":"多谢",
+                    "f":100,
+                    "tag":"net",
+                    "s":"2. Thanks a lot. 多谢.  | <b>3. Many thanks. 多谢. <\/b> | 4. Thank you very much indeed. 真是太感谢你了. ",
+                    "url":"http:\/\/www.zhaojiaoan.com\/article\/sort0530\/sort01115\/info-6544.html"
+                },
+                {
+                    "mf":"Many Thanks",
+                    "d":"金多蝦",
+                    "f":19,
+                    "tag":"net",
+                    "s":"15 倔強 Stubborn | <b>01 金多蝦 Many Thanks<\/b> | 02 麥來亂 Don&#39;t Cause Trouble",
+                    "url":"http:\/\/zh.api.netlog.com\/groups\/mayday_mayday\/forum\/messageid=3353\/"
+                }
+            ]
+        },
+        {
+            "word":"too many",
+            "des":[
+                {
+                    "mf":"too many",
+                    "d":"太多",
+                    "f":219,
+                    "tag":"net",
+                    "s":"翻译TIPatterns--<b>太多<\/b>(<b>Too many<\/b>)你可以看到,创建一个基本饮品(basic selection)是非常快且简单的,因为描述基本饮品成为一项常规工作. 描述添加伴侣的饮品(decorated drink)比每种组合对应一个类那种方法要麻烦一些,但是,",
+                    "url":"http:\/\/www.mx68.com\/WebDeveloper\/2006-03-10\/WebDeveloper_35666_9.shtml"
+                },
+                {
+                    "mf":"too many",
+                    "d":"可数名词复数 太多的",
+                    "f":88,
+                    "tag":"net",
+                    "s":"23.much too +形\\\/副 实在太... | <b>24.too many + 可数名词复数 太多的...<\/b> | 25.a balanced diet 平衡饮食",
+                    "url":"http:\/\/text.k12zy.com\/jiaoan\/html\/2010\/550141.html"
+                },
+                {
+                    "mf":"too many",
+                    "d":"太多(修饰可数名词复数)",
+                    "f":83,
+                    "tag":"net",
+                    "s":"17. too much... 太多(修饰不可数名词) | <b>18. too many... 太多(修饰可数名词复数)<\/b> | 19. much too+形容词\\\/副词 太......",
+                    "url":"http:\/\/pkmcn.win108.pc-dns.com\/deep\/ArticleContent.asp?Class=????&ID=1720"
+                },
+                {
+                    "mf":"too many",
+                    "d":"可数名词",
+                    "f":70,
+                    "tag":"net",
+                    "s":"1. too much + 不可数名词 | <b>too many + 可数名词<\/b> | much too + 形容词",
+                    "url":"http:\/\/zhuowenhong.cnpkm.com\/ArticlePrint.aspx?DetailID=322254"
+                }
+            ]
+        },
+        {
+            "word":"infinitely many",
+            "des":[
+                {
+                    "mf":"infinitely many",
+                    "d":"无穷多",
+                    "f":352,
+                    "tag":"net",
+                    "s":"infinite series 无限级数;无穷级数 | <b>infinitely many 无穷多<\/b> | infinitesimal 无限小;无穷小",
+                    "url":"http:\/\/bbs.chinaunix.net\/thread-545301-1-76.html"
+                },
+                {
+                    "mf":"infinitely many",
+                    "d":"无穷多,无限多",
+                    "f":6,
+                    "tag":"net",
+                    "s":"infinite set 无穷集,无限集 | <b>infinitely many 无穷多,无限多<\/b> | infinitesimal 无穷小(的),无限小(的)",
+                    "url":"http:\/\/www.edb.gov.hk\/FileManager\/TC\/Content_6343\/glossary1712.pdf"
+                },
+                {
+                    "mf":"infinitely many",
+                    "d":"无穷多infinitesimal 无限小;无穷小",
+                    "f":1,
+                    "tag":"net",
+                    "s":"infinite series 无限级数;无穷级数 | <b>infinitely many 无穷多infinitesimal 无限小;无穷小<\/b> | infinity 无限(大);无穷(大)",
+                    "url":"http:\/\/www.8ttt8.com\/English\/w29127.htm"
+                }
+            ]
+        }
+    ],
+    "netsen":[
+        {
+            "cs":"还有更多的。。。。。。。。。。",
+            "es":"There are <b>many<\/b> more..........",
+            "url":"http:\/\/www.zhanshi2009.cn\/html\/WTL\/22019\/8982_1.html"
+        },
+        {
+            "cs":"你有如此多的。。。",
+            "es":"You have so <b>many<\/b>....",
+            "url":"http:\/\/weixue1113.blog.163.com\/blog\/static\/449913482009311182444"
+        },
+        {
+            "cs":"你还有很多很多。。。。。。",
+            "es":"You have <b>many<\/b>, <b>many<\/b>......",
+            "url":"http:\/\/www.enwaimao.cn\/masterpiece\/practical\/200904\/17163.html"
+        },
+        {
+            "cs":"有很多的话要告诉你，我爱你！",
+            "es":"There are <b>many<\/b> words to tell you, I love you!",
+            "url":"http:\/\/post.baidu.com\/f?kz=290227833"
+        },
+        {
+            "cs":"我要做的事太多了。",
+            "es":"I have too <b>many<\/b> things to do.",
+            "url":"http:\/\/tj.neworldedu.org\/NewsShow_en.asp?News_id=24945"
+        },
+        {
+            "cs":"在许多情况下，这是不正确的。",
+            "es":"In <b>many<\/b> cases, this is not true.",
+            "url":"http:\/\/homeequityloanszone.com\/chinese.php?u=\/category\/home-equity-loans-and-rates\/page\/11\/"
+        },
+        {
+            "cs":"我需要的不多了。",
+            "es":"I don`t need <b>many<\/b> more.",
+            "url":"http:\/\/blog.sina.com.cn\/s\/blog_61592dc50100fmrk.html"
+        }
+    ],
+    "dlg":[
+        {
+            "s":"\/休闲娱乐",
+            "t":"商品",
+            "c":[
+                {
+                    "n":"A",
+                    "cs":"除了食物还有（什么\/其它\/别的）商品吗？",
+                    "es":"What about (things\/ items\/ products) other than food?"
+                },
+                {
+                    "n":"B",
+                    "cs":"附近还有很多商店。",
+                    "es":"There are <b>many<\/b> stores near here."
+                }
+            ],
+            "u":1
+        },
+        {
+            "s":"\/休闲娱乐\/旅游英语",
+            "t":"旅游",
+            "c":[
+                {
+                    "n":"A",
+                    "cs":"你们有一间（单人房\/双人房\/三人房）吗？",
+                    "es":"Do you have a (single\/ double\/ triple) room available?"
+                },
+                {
+                    "n":"B",
+                    "cs":"住几个晚上？",
+                    "es":"For how <b>many<\/b> nights?"
+                }
+            ],
+            "u":1
+        },
+        {
+            "s":"\/衣食住行",
+            "t":"询问",
+            "c":[
+                {
+                    "n":"A",
+                    "cs":"那里有很多免费停车位。你把车停在那里可以省钱。",
+                    "es":"There are <b>many<\/b> free parking spaces. You can save money on parking there."
+                },
+                {
+                    "n":"B",
+                    "cs":"好的。",
+                    "es":"All right."
+                }
+            ],
+            "u":0
+        }
+    ],
+    "lang":"eng"
+}

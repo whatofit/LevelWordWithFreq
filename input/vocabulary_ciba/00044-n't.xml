@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>n't</key>
+	<ps>nt</ps>
+	<pron>http://res-tts.iciba.comnt</pron>
+	<pos>adv.</pos>
+	<acceptation>不；
+	</acceptation>
+	<sent>
+		<orig>
+			It was so dark that we could n't see a wink.
+		</orig>
+		<trans>
+			天色那么黑以致我一点也看不见。
+		</trans>
+	</sent>
+</dict>

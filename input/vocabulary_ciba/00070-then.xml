@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>then</key>
+	<ps>ðen</ps>
+	<pron>http://res.iciba.com/resource/amp3/0/0/0e/52/0e5243d9965540f62aac19a985f3f33e.mp3</pron>
+	<ps>ðɛn</ps>
+	<pron>http://res.iciba.com/resource/amp3/1/0/0e/52/0e5243d9965540f62aac19a985f3f33e.mp3</pron>
+	<pos>n.</pos>
+	<acceptation>那时；那儿；其次；这儿；
+	</acceptation>
+	<sent>
+		<orig>
+			If the name is not right then speech will not be in order, and if
+			speech is not in order then nothing will be accomplished.
+		</orig>
+		<trans>
+			名不正则言不顺，言不顺则事不成！
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			To record, press these two buttons together; then rewind, and then
+			press the red button to play back.
+		</orig>
+		<trans>
+			要录音就得一起按下这两个键，而后倒回，按下这个红键播放。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			"If only I had known you then," he said wistfully.
+		</orig>
+		<trans>
+			“要是我那时候认识你就好了，”他伤感地说。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			"Let's go the whole animal then, " said Sam.
+		</orig>
+		<trans>
+			山姆说“那咱们就干到底吧。”
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			A bird had snatched up the snake from the ground and then dropped it
+			on to the wires.
+		</orig>
+		<trans>
+			一只鸟从地上抓起了这条蛇，后来不小心把它丢到电线上了。
+		</trans>
+	</sent>
+</dict>

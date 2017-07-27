@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>be</key>
+	<ps>bi:, bi</ps>
+	<pron>http://res.iciba.com/resource/amp3/0/0/91/09/910955a907e739b81ec8855763108a29.mp3</pron>
+	<ps>bi</ps>
+	<pron>http://res-tts.iciba.com/9/1/0/910955a907e739b81ec8855763108a29.mp3</pron>
+	<pos>v.</pos>
+	<acceptation>是；有，存在；做，成为；发生；
+	</acceptation>
+	<pos>aux.</pos>
+	<acceptation>用来表示某人或某物即主语本身，用来表示某人或某物属于某一群体或有某种性质；
+	</acceptation>
+	<sent>
+		<orig>
+			In Polish the verb 'to be' takes the instrumental case.
+		</orig>
+		<trans>
+			在波兰语中，动词to be 用工具格。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			The verb "dance" is regular, but the verb "be" is not.
+		</orig>
+		<trans>
+			动词dance的变化是规则的，但be的变化是不规则的。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Notice of meetings should be given beforehand; this is like issuing a
+			"Notice to Reassure the Public", so that everybody will know what is
+			going to be discussed and what problems are to be solved and can make
+			timely preparations.
+		</orig>
+		<trans>
+			开会要事先通知， 像出安民告示一样， 让大家知道要讨论什么问题， 解决什么问题，并且早作准备。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Our attitude towards ourselves should be "to be insatiable in learning"
+			and towards others "to be tireless in teaching".
+		</orig>
+		<trans>
+			对自己， “学而不厌”， 对人家，“诲人不倦”，我们应取这种态度。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			A foreign language cannot be learned rapidly,it must be learned step
+			by step.
+		</orig>
+		<trans>
+			外语并非在短时间内就能学会，学外语是一个循序渐进的过程。
+		</trans>
+	</sent>
+</dict>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>any</key>
+	<ps>ˈeni</ps>
+	<pron>http://res.iciba.com/resource/amp3/0/0/10/0b/100b8cad7cf2a56f6df78f171f97a1ec.mp3</pron>
+	<ps>ˈɛni</ps>
+	<pron>http://res.iciba.com/resource/amp3/1/0/10/0b/100b8cad7cf2a56f6df78f171f97a1ec.mp3</pron>
+	<pos>adj.</pos>
+	<acceptation>任何的；一点，一些；普通的；任何，随便哪一个；
+	</acceptation>
+	<pos>pron.</pos>
+	<acceptation>任何；无论哪个；若干；
+	</acceptation>
+	<pos>adv.</pos>
+	<acceptation>稍微，少许；什么，一些，一点；
+	</acceptation>
+	<sent>
+		<orig>
+			I hate to interject a note of realism, but we don't have any money to
+			do any of this.
+		</orig>
+		<trans>
+			我不想插话讲实际情况，但我们确实没钱做这些事。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			If you have any questions, you can come and ask me at any time.
+		</orig>
+		<trans>
+			你有问题，随时可以来问我。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			It has expanded without any idea of the true nature of the human beings
+			who run the machines. and without giving any consideration to the
+			effects produced on the individuals and on their descendants by the
+			artificial mode of existence imposed bythe factory.
+		</orig>
+		<trans>
+			在现代工业发展过程中，根本不考虑机器的操作者——人的本性，也完全没有顾及工厂所强加于的那种人为的生存方式给个人及其子孙后代所造成的影响。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			A command of information is the necessary prerequisite to the
+			scientific consideration of any subject.
+		</orig>
+		<trans>
+			掌握资料是科学地思考任何问题的必要的先决条件。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			A good toolbox is a handy thing to have in any house.
+		</orig>
+		<trans>
+			任何一个家庭都应备有一个好的工具箱以便随时使用。
+		</trans>
+	</sent>
+</dict>

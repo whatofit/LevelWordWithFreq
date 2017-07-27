@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>two</key>
+	<ps>tu:</ps>
+	<pron>http://res.iciba.com/resource/amp3/0/0/b8/a9/b8a9f715dbb64fd5c56e7783c6820a61.mp3</pron>
+	<ps>tu</ps>
+	<pron>http://res-tts.iciba.com/b/8/a/b8a9f715dbb64fd5c56e7783c6820a61.mp3</pron>
+	<pos>n.</pos>
+	<acceptation>两个；两个东西；两点钟；一对；
+	</acceptation>
+	<pos>adj.</pos>
+	<acceptation>两个的；我同；
+	</acceptation>
+	<pos>num.</pos>
+	<acceptation>两个；第二；二；
+	</acceptation>
+	<sent>
+		<orig>
+			"One box" is singular; "two boxes" is plural.
+		</orig>
+		<trans>
+			“One box”是单数，“two boxes”是复数。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Besides the two novels, I have bought two atlases.
+		</orig>
+		<trans>
+			我买了两本小说，另外还买了两本地图册。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			He's inclined to put two and two together and make five (= make an
+			incorrect guess from what he sees, hears, etc.).
+		</orig>
+		<trans>
+			他爱捕风捉影，听风就是雨。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			If you put two and two together, there can be only one conclusion.
+		</orig>
+		<trans>
+			根据事实推断，只可能有一个结论。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			It is certain that two and two makes four.
+		</orig>
+		<trans>
+			二加二等于四是确定无疑的。
+		</trans>
+	</sent>
+</dict>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>no</key>
+	<ps>nəu</ps>
+	<pron>http://res-tts.iciba.comnəu</pron>
+	<pos>adv.</pos>
+	<acceptation>不；否；一点也没有；
+	</acceptation>
+	<pos>adj.</pos>
+	<acceptation>没有的；不许的；一点儿也没有；决不是的；
+	</acceptation>
+	<pos>n.</pos>
+	<acceptation>不；否定，否认；反对票；否决票；
+	</acceptation>
+	<pos>abbr.</pos>
+	<acceptation>数字（number）；元素锘（nobelium）的符号；
+	</acceptation>
+	<sent>
+		<orig>
+			A wilful fault has no excuse and deserves no pardon.
+		</orig>
+		<trans>
+			不能宽恕故意犯下的错误。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			At no time and in no circumstances will China be the first to use
+			nuclear weapons.
+		</orig>
+		<trans>
+			在任何时候任何情况下中国都不会首先使用核武器。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Fight no battle unprepared; fight no battle you are not sure of winning.
+		</orig>
+		<trans>
+			不打无准备之仗，不打无把握之仗。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			If you set no count on workers, you set no count on your parents.
+		</orig>
+		<trans>
+			如果你瞧不起工人，你就看不起你的父母。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			It makes no difference to us, makes no mistake about it.
+		</orig>
+		<trans>
+			这对我们都一样，这是完全可以肯定的。
+		</trans>
+	</sent>
+</dict>

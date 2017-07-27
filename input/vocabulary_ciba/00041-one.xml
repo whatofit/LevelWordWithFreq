@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>one</key>
+	<ps>wʌn</ps>
+	<pron>http://res.iciba.com/resource/amp3/0/0/f9/7c/f97c5d29941bfb1b2fdab0874906ab82.mp3</pron>
+	<ps>wʌn</ps>
+	<pron>http://res.iciba.com/resource/amp3/1/0/f9/7c/f97c5d29941bfb1b2fdab0874906ab82.mp3</pron>
+	<pos>num.</pos>
+	<acceptation>（数字）一；一个；（基数）一，第一；
+	</acceptation>
+	<pos>n.</pos>
+	<acceptation>一个人；一点钟；一体；独一；
+	</acceptation>
+	<pos>pron.</pos>
+	<acceptation>一个人；任何人；本人，人家；东西；
+	</acceptation>
+	<pos>adj.</pos>
+	<acceptation>某一个的；一体的；一方的；
+	</acceptation>
+	<sent>
+		<orig>
+			"One box" is singular; "two boxes" is plural.
+		</orig>
+		<trans>
+			“One box”是单数，“two boxes”是复数。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			It's better to go back and make a net than to stand by the pond and long
+			for fish.; Better return home and make a net than long for fish by
+			the waterside.; It's better to go back and make a net than to covet
+			the fish by merely staring into the water -- one should have a
+			down-to-earth style of work to attain one's goal.; One should take
+			practical steps to achieve one's aims.
+		</orig>
+		<trans>
+			临渊羡鱼，莫如退而结网。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			One has home whereto one cannot go; one has a country whereto one cannot
+			return.
+		</orig>
+		<trans>
+			有家难奔，有国难投。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			If one is prepared, one will be safe; if not, one will suffer.;
+			Preparedness ensures security; unpreparedness invites disaster.
+		</orig>
+		<trans>
+			有备才能无患，无备必定吃亏。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			One is likely to blunder in one's work if one refuses to listen to the
+			masses.
+		</orig>
+		<trans>
+			工作中听不进群众的意见就容易栽跟头。
+		</trans>
+	</sent>
+</dict>

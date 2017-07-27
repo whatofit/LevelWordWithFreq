@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>their</key>
+	<ps>ðer</ps>
+	<pron>http://res-tts.iciba.com/0/e/6/0e66be14b86bd30bf4fc84357763b591.mp3</pron>
+	<ps>ðer</ps>
+	<pron>http://res.iciba.com/resource/amp3/1/0/0e/66/0e66be14b86bd30bf4fc84357763b591.mp3</pron>
+	<pos>pron.</pos>
+	<acceptation>他[她，它]们的；（在提及性别不详的人时，用以代替 him 或
+		her）；代指之前已经提到的或指向非常明显的一群人或事物的；
+	</acceptation>
+	<sent>
+		<orig>
+			Misers put their back and their belly into their pockets.
+		</orig>
+		<trans>
+			守财奴爱财如命， 宁可饿肚皮，没衣穿。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Their fists were clenched so tightly that their nails dug deep into their
+			palms.
+		</orig>
+		<trans>
+			他们紧握着拳头，指甲深深地捏进了手心。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			They gave their lives for their country, and now they have no roof over
+			their heads.
+		</orig>
+		<trans>
+			他们不惜为国家献出生命，可是现在他们连住房都没有。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			While they have not got their aims, their anxiety is how to get them; when
+			they have got them, their anxiety is lest they should lose them.
+		</orig>
+		<trans>
+			其未得之也，患得之；既得之，患失之。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			After their quarrel, Jim and Mary found that their relationship had gone
+			off the boil, and they were never again as loving as they had been.
+		</orig>
+		<trans>
+			吵架过后，吉姆和玛丽发现，他们之间的关系已经冷了下来，再也不会像以前那么相亲相爱了。
+		</trans>
+	</sent>
+</dict>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>from</key>
+	<ps>frɔm, frəm</ps>
+	<pron>http://res-tts.iciba.com/d/9/8/d98a07f84921b24ee30f86fd8cd85c3c.mp3</pron>
+	<ps>frʌm, frɑm,frəm</ps>
+	<pron>http://res.iciba.com/resource/amp3/1/0/d9/8a/d98a07f84921b24ee30f86fd8cd85c3c.mp3</pron>
+	<pos>prep.</pos>
+	<acceptation>（表示时间）从…；（表示原因）因为；（表示来源）来自…；（表示分离）与…分离[隔开]；
+	</acceptation>
+	<sent>
+		<orig>
+			Papermaking originated in China in the second century B.C. Paper made from linen
+			in the early West Han Dynasty (206 B.C.-24 A.D.) was the world's
+			earliest kind of paper made from plant fibres. By pooling the
+			expertise of craftsmen in papermaking, Cai Lun of the East Han
+			Dynasty (25 A. D.-220 A.D.) succeeded in producing quality paper from
+			linen craps, rags, and used fish nets. Papermaking technology was
+			introduced to the West in the third century.
+		</orig>
+		<trans>
+			公元前2世纪我国发明纸。 而汉初造的麻纸是世界上现存最早的植物纤维纸。
+			东汉蔡伦集中了工匠们的造纸经验，用麻头、破布、旧鱼网作原料，监造出一批良纸。造纸术从3世纪起传到国外。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			A glance from one of the moving swords fell across his eyes and
+			prevented him from seeing the blow.
+		</orig>
+		<trans>
+			挥动的剑发出一道闪光，射向他的眼睛，使他看不到这一重击。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			A thousand words from the pen in a stream, but ten thousand li away
+			from the subject.
+		</orig>
+		<trans>
+			下笔千言，离题万里。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Before they were replaced by steamships,sailing vessels like Cutty sark
+			were used to carry tea from China and wool from Australia.
+		</orig>
+		<trans>
+			大帆船被轮船代替之前，象卡蒂萨克号这样的大帆船是用来从中国载运茶叶，从澳大利亚载运羊毛的。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			By request from the readers, we will give more pages to Letters From
+			Readers.
+		</orig>
+		<trans>
+			应读者请求，我们将为“读者来信”一栏增加更多的篇幅。
+		</trans>
+	</sent>
+</dict>

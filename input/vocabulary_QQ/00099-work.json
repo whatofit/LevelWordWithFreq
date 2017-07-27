@@ -1,0 +1,515 @@
+{
+    "local":[
+        {
+            "word":"work",
+            "sd":"9a585dc4100d8fe1bcb9f640396b028a",
+            "pho":[
+                "w&#601;:k"
+            ],
+            "des":[
+                {
+                    "p":"n.",
+                    "d":"工作, 劳动, 职业, 作品, 行为, 功, 成果, 产品, 工程"
+                },
+                {
+                    "p":"vi.",
+                    "d":"工作, 劳动, 做, 运转, 起作用, 被加工"
+                },
+                {
+                    "p":"vt.",
+                    "d":"使工作, 使转动, 开动, 使用, 经营, 使逐渐变得, 造成"
+                }
+            ],
+            "sen":[
+                {
+                    "p":"vt.",
+                    "s":[
+                        {
+                            "es":"He <b>worked<\/b> the farm with great success.",
+                            "cs":"这个农场他经营得很成功。"
+                        }
+                    ]
+                },
+                {
+                    "p":"vi.",
+                    "s":[
+                        {
+                            "es":"Yeast makes beer <b>work<\/b>.",
+                            "cs":"酵母使啤酒发酵。"
+                        },
+                        {
+                            "es":"The root <b>worked<\/b> down between the stones.",
+                            "cs":"树根在石缝间扎下去。"
+                        }
+                    ]
+                },
+                {
+                    "p":"n.",
+                    "s":[
+                        {
+                            "es":"The villagers sell their <b>work<\/b> to tourists.",
+                            "cs":"村民们把他们的手工艺品卖给旅游者。"
+                        },
+                        {
+                            "es":"This bamboo basket is my own <b>work<\/b>.",
+                            "cs":"这只竹篮是我自己编的。"
+                        }
+                    ]
+                }
+            ],
+            "mor":[
+                {
+                    "c":"第三人称单数",
+                    "m":"works"
+                },
+                {
+                    "c":"动词过去式",
+                    "m":"worked, wrought"
+                },
+                {
+                    "c":"过去分词",
+                    "m":"worked, wrought"
+                },
+                {
+                    "c":"现在分词",
+                    "m":"working"
+                }
+            ],
+            "syn":[
+                {
+                    "p":"v.",
+                    "c":[
+                        "accomplish",
+                        "toil",
+                        "ferment",
+                        "handle",
+                        "occupy",
+                        "busy",
+                        "achieve",
+                        "manage",
+                        "function",
+                        "work out",
+                        "run",
+                        "conduct",
+                        "engage",
+                        "make",
+                        "operate",
+                        "labor",
+                        "effect",
+                        "employ",
+                        "manipulate",
+                        "maneuver"
+                    ]
+                },
+                {
+                    "p":"n.",
+                    "c":[
+                        "labor",
+                        "toil"
+                    ]
+                }
+            ],
+            "ant":[
+                {
+                    "p":"n.",
+                    "c":[
+                        "play",
+                        "rest",
+                        "leisure"
+                    ]
+                },
+                {
+                    "p":"vi.",
+                    "c":[
+                        "play",
+                        "rest"
+                    ]
+                }
+            ],
+            "ph":[
+                {
+                    "phs":"work over",
+                    "phd":"彻底检查, 重做"
+                },
+                {
+                    "phs":"work it",
+                    "phd":"完成, 做好"
+                },
+                {
+                    "phs":"out of work",
+                    "phd":"失业"
+                },
+                {
+                    "phs":"work in with",
+                    "phd":"与...相配合"
+                },
+                {
+                    "phs":"work to rule",
+                    "phd":"怠工"
+                },
+                {
+                    "phs":"work away",
+                    "phd":"不停地连续工作"
+                },
+                {
+                    "phs":"work off",
+                    "phd":"消除, 完成, 印出"
+                },
+                {
+                    "phs":"in work",
+                    "phd":"有工作, 在完成之中"
+                },
+                {
+                    "phs":"work at",
+                    "phd":"解(题)"
+                },
+                {
+                    "phs":"work in",
+                    "phd":"(使)渐渐进入, 插进"
+                },
+                {
+                    "phs":"work up",
+                    "phd":"逐步建立, 逐步引起, 整理, 逐步发展"
+                },
+                {
+                    "phs":"make sad work of it",
+                    "phd":"做坏"
+                },
+                {
+                    "phs":"at work",
+                    "phd":"在工作, 在运转"
+                },
+                {
+                    "phs":"work on",
+                    "phd":"继续工作, 设法说服, 影响"
+                }
+            ]
+        }
+    ],
+    "netdes":[
+        {
+            "word":"work",
+            "des":[
+                {
+                    "mf":"work",
+                    "d":"工作",
+                    "f":5749,
+                    "tag":"net",
+                    "s":"在英文中,&quot;做&quot;(doing)&quot;<b>工作<\/b>&quot;(<b>work<\/b>),&quot;玩&quot;(play)&quot;游戏&quot;(game)当今的看法:游戏与非游戏的区别并不是分明的,因为一些非游戏活动可能具有游戏活动的特征. 比如<b>工作<\/b>,你喜欢这份<b>工作<\/b>就会觉得有兴趣,并不是完全的动机. ",
+                    "url":"http:\/\/baobao.sohu.com\/20071123\/n253442993.shtml"
+                },
+                {
+                    "mf":"work",
+                    "d":"功",
+                    "f":2992,
+                    "tag":"net",
+                    "s":"实验的度量,就事物的特性而言,只能设定一个数字(number),此数字我们(同样十分重要)命名为&quot;<b>功<\/b>&quot;(<b>work<\/b>). 但是,我们的思维的动力学模型要求我们把&quot;<b>功<\/b>&quot;当作能量的一种差额(difference)来看待,虽然能量的绝对值本身只是一种虚构物,",
+                    "url":"http:\/\/read.jwooo.com\/20090104\/0011940045.shtml"
+                },
+                {
+                    "mf":"work",
+                    "d":"作品",
+                    "f":2206,
+                    "tag":"net",
+                    "s":"汉译 文件将关键字段&quot;expressionoffolk 鄄 lore&quot;译作&quot;民间文学表达形式&quot;,主要是为了 区别于一般书面文学创作中惯常使用的&quot;<b>作品<\/b>&quot;(<b>work<\/b>)概念, 亦即与&quot;版权法&quot;所保护的 &quot;<b>作品<\/b>&quot;相区分,",
+                    "url":"http:\/\/wenku.baidu.com\/view\/19dc3468011ca300a6c390eb.html"
+                },
+                {
+                    "mf":"work",
+                    "d":"运转",
+                    "f":143,
+                    "tag":"net",
+                    "s":"剧情解释:Susan误以为Ross在问怀孕系统是怎么<b>运转<\/b>(<b>work<\/b>)的. Ross实际是在问他们三个人以及以后的孩子如何&quot;<b>运转<\/b>&quot;(<b>work<\/b>). 暂时没想到更适合的词语. ",
+                    "url":"http:\/\/13108858.wulongonline.com\/bbs\/archiver\/showtopic-10442-1.aspx"
+                }
+            ],
+            "wf":"1"
+        },
+        {
+            "word":"work experience",
+            "des":[
+                {
+                    "mf":"work experience",
+                    "d":"工作经历",
+                    "f":11559,
+                    "tag":"net",
+                    "s":":婚姻状况ID Card No.:1234567Address:(地址)..................(你还可以按照自己的情况再写点你认为有必要写的内容)二、<b>工作经历<\/b>(<b>Work Experience<\/b>)从哪年哪月到哪年哪月 公司名称职位名称............(注意要从18岁以后的经历开始写,",
+                    "url":"http:\/\/wenda.tianya.cn\/wenda\/thread?tid=3819edc87072e54c"
+                },
+                {
+                    "mf":"work experience",
+                    "d":"工作经验",
+                    "f":1323,
+                    "tag":"net",
+                    "s":"2.2 <b>工作经验<\/b>(<b>Work experience<\/b>)两年以上<b>工作经验<\/b>,有FAB经历及库管经验更佳. 2.3 知识和技能(Knowledge and Skills)具备计算机操作能力(MS Office Suites);具备良好的分析、沟通和表达能力. 2.4其他(Others)大专毕业的应届生亦可. ",
+                    "url":"http:\/\/www.jobui.com\/job\/34659562\/"
+                },
+                {
+                    "mf":"work experience",
+                    "d":"工作经历 本文来自:博研联盟论坛",
+                    "f":27,
+                    "tag":"net",
+                    "s":"well-trained 训练有素的 本文来自:博研联盟论坛 | <b>work experience 工作经历 本文来自:博研联盟论坛<\/b> | work history 工作经历 本文来自:博研联盟论坛",
+                    "url":"http:\/\/lidk.combust.cn\/blog\/user1\/56\/archives\/2006\/5676.shtml"
+                },
+                {
+                    "mf":"work experience",
+                    "d":"实习,实践",
+                    "f":10,
+                    "tag":"net",
+                    "s":"do a Business Administration course 学习商业管理课程 | <b>work experience 实习,实践<\/b> | recommend 推荐,介绍,推介",
+                    "url":"http:\/\/lejing.51ielts.com\/space.php?do=blog&id=101233&uid=604503"
+                }
+            ]
+        },
+        {
+            "word":"work history",
+            "des":[
+                {
+                    "mf":"work history",
+                    "d":"工作经历",
+                    "f":12252,
+                    "tag":"net",
+                    "s":"在这份简历里最主要突出的是应聘者的<b>工作经历<\/b>,其次对其所获得的奖项、专业能力和教育背景也做了一定的描述. 这是一份应聘初级教育学校,小学或者初中数学教师的简历. 突出了自己专业水平(professional highlights) 和<b>工作经历<\/b> (<b>work history<\/b>). ",
+                    "url":"http:\/\/www.360zc.cn\/article\/sort04\/info-1109.html"
+                },
+                {
+                    "mf":"work history",
+                    "d":"工作经历 本文来自:博研联盟论坛",
+                    "f":27,
+                    "tag":"net",
+                    "s":"work experience 工作经历 本文来自:博研联盟论坛 | <b>work history 工作经历 本文来自:博研联盟论坛<\/b> | work 工作,起作用 本文来自:博研联盟论坛",
+                    "url":"http:\/\/lidk.combust.cn\/blog\/user1\/56\/archives\/2006\/5676.shtml"
+                },
+                {
+                    "mf":"work history",
+                    "d":"任务历练",
+                    "f":6,
+                    "tag":"net",
+                    "s":"work experience 任务历练 | <b>work history 任务历练<\/b> | work 任务,起功能",
+                    "url":"http:\/\/english.tiaomu.com\/viewthread.php?extra=page%3D68&ordertype=1&tid=6941"
+                },
+                {
+                    "mf":"work history",
+                    "d":"工作经历 adapted to 适应于",
+                    "f":2,
+                    "tag":"net",
+                    "s":"work experience 工作经历 assist 辅助 | <b>work history 工作经历 adapted to 适应于<\/b> | occupational history 工作经历 accomplish 完成(任务等)",
+                    "url":"http:\/\/yawefe.ycool.com\/post.2696414.html"
+                }
+            ]
+        },
+        {
+            "word":"work out",
+            "des":[
+                {
+                    "mf":"work out",
+                    "d":"设计出",
+                    "f":884,
+                    "tag":"net",
+                    "s":"澳洲新设立的&quot;家庭关系中心&quot;就是在心理学家\/社会工作者的管理(supervision)下,学习有效的家庭沟通技巧,学习正确处理各类情感关系. 这些专业人员还会帮助这些家庭<b>设计出<\/b>(<b>work out<\/b>)家庭计划(family plan),包括子女抚养,财政安排等等. ",
+                    "url":"http:\/\/bbs.xlzx.com\/dispbbs.asp?boardid=12&id=94067&move=pre"
+                },
+                {
+                    "mf":"work out",
+                    "d":"做出",
+                    "f":340,
+                    "tag":"net",
+                    "s":"要继续以恐惧和战兢的心,去<b>做出<\/b>(<b>work out<\/b>)你们的救恩,因在你心里做工(work in)的神,必使你的思想和行动都能按照他那美好的旨意. ",
+                    "url":"http:\/\/www.elimautism.org\/LeadBBS\/a\/a.asp?AUpflag=0&Ap=277&Aq=7&Ar=439286&B=71&ID=7640&Upflag=1&p=4&q=4&r=52149"
+                },
+                {
+                    "mf":"work out",
+                    "d":"算出",
+                    "f":5554,
+                    "tag":"net",
+                    "s":"168)used to 过去常常 | 169)wake...up 唤醒 | <b>170)work out 算出<\/b>",
+                    "url":"http:\/\/jxyp.com.cn\/bbs\/viewthread.php?tid=21249"
+                },
+                {
+                    "mf":"work out",
+                    "d":"解决",
+                    "f":3969,
+                    "tag":"net",
+                    "s":"55.be conceited骄傲自满; | 56.share in分享\\\/担; | <b>57.work out解决;<\/b>",
+                    "url":"http:\/\/www.tianhaoeducation.com\/THTeacher\/ArticleShow.asp?ArticleID=791"
+                }
+            ]
+        },
+        {
+            "word":"Nice Work",
+            "des":[
+                {
+                    "mf":"Nice Work",
+                    "d":"好工作",
+                    "f":116,
+                    "tag":"net",
+                    "s":"建立情商与工作需求间的联系,人们不是需要<b>好工作<\/b>(<b>nice work<\/b>)而是需要感觉好的工作(feel good job),只有感觉好的工作才能使当事人发挥最大绩效,实现最大潜能. ",
+                    "url":"http:\/\/nfzhanghua.blog.hexun.com\/28606242_d.html"
+                },
+                {
+                    "mf":"Nice work",
+                    "d":"好的工作",
+                    "f":4,
+                    "tag":"net",
+                    "s":"&quot;三部曲&quot;的第一部&lt;&lt;换位&gt;&gt;(Changing Place),一九七五年出版后获霍桑登奖和约克郡邮报小说大奖;&quot;三部曲&quot;的第二部&lt;&lt;小世界&gt;&gt;(Small World),一九八四年出版后,获布克奖提名;&quot;三部曲&quot;的第三部&lt;&lt;美<b>好的工作<\/b>&gt;&gt;(<b>Nice Work<\/b>), 一九八八年出版后,",
+                    "url":"http:\/\/boke.blog.china.com.cn\/wencheng\/art\/3233026.html"
+                },
+                {
+                    "mf":"Nice Work",
+                    "d":"干得好",
+                    "f":8795,
+                    "tag":"net",
+                    "s":"15. Super Star 超级明星 | <b>16. Nice Work 干得好<\/b> | 17. Looking Good 看上去不错",
+                    "url":"http:\/\/dalian.sina.com.cn\/edu\/english\/2009-12-25\/110633262.html"
+                },
+                {
+                    "mf":"Nice work",
+                    "d":"完成的很好",
+                    "f":333,
+                    "tag":"net",
+                    "s":"68. I Respect You.我尊敬你. | <b>69. Nice work! 完成的很好<\/b> | 70. You&#39;re on your way. 你在前进中",
+                    "url":"http:\/\/blog.sina.com.cn\/s\/blog_4d6b01370100b6l7.html"
+                }
+            ]
+        },
+        {
+            "word":"Beautiful Work",
+            "des":[
+                {
+                    "mf":"Beautiful Work",
+                    "d":"完美的工作",
+                    "f":7185,
+                    "tag":"net",
+                    "s":"46. Remarkable Job 出色的工作 | <b>47. Beautiful Work 完美的工作<\/b> | 48. Spectacular 壮观的,引人入胜的",
+                    "url":"http:\/\/edu.cnool.net\/edu2009\/news_show.aspx?id=15719"
+                },
+                {
+                    "mf":"Beautiful work",
+                    "d":"干得真漂亮",
+                    "f":102,
+                    "tag":"net",
+                    "s":"46. Remarkable job. 做得真不错.  | <b>47. Beautiful work. 干得真漂亮!<\/b> | 49. I like the way you handled that. 我欣赏你的做法. ",
+                    "url":"http:\/\/bbs.edu.sina.com.cn\/tableforum\/App\/view.php?bbsid=45&fid=37403&p=goto0&subid=6&tbid=5507"
+                },
+                {
+                    "mf":"Beautiful work",
+                    "d":"干得漂亮",
+                    "f":100,
+                    "tag":"net",
+                    "s":"Super job! 超级棒! | <b>Beautiful work! 干得漂亮!<\/b> | Fantastic job! 出色的工作!",
+                    "url":"http:\/\/www.babyiya.com\/doc\/essay\/200903\/15-9018.html"
+                },
+                {
+                    "mf":"Beautiful Work",
+                    "d":"做得很完美",
+                    "f":4,
+                    "tag":"net",
+                    "s":"That&#39;s Incredible 真让人难以相信! | <b>Beautiful Work 做得很完美<\/b> | What An Imagination 你的想象力真丰富!",
+                    "url":"http:\/\/bbs.eduu.com\/viewthread.php?extra=&page=1&tid=155849"
+                }
+            ]
+        }
+    ],
+    "netsen":[
+        {
+            "cs":"我有许多要做的工作。",
+            "es":"I have a lot of <b>work<\/b> to do .",
+            "url":"http:\/\/www.iciba.com\/Sometimes%20you%20have%20a%20lot%20to%20do%20and%20have%20to%20work%20all%20night.\/8\/"
+        },
+        {
+            "cs":"我要工作，我的家人。",
+            "es":"I have to <b>work<\/b> for my family.",
+            "url":"http:\/\/blog.guiping.cc\/?action-viewthread-tid-11593"
+        },
+        {
+            "cs":"我认为这是行不通的。",
+            "es":"I think this is not going to <b>work<\/b>.",
+            "url":"http:\/\/www.howtogeek.com\/forum\/topic\/need-advice-on-downgrading-from-vista-to-xp\/zh_TW\/"
+        },
+        {
+            "cs":"我很喜欢和你一起工作。",
+            "es":"I really like to <b>work<\/b> with you.",
+            "url":"http:\/\/www.zjoubbs.com\/read.php?tid=48300"
+        },
+        {
+            "cs":"但是，我们必须在它的工作。",
+            "es":"But we have to <b>work<\/b> at it.",
+            "url":"http:\/\/www.en.articlesgratuits.com\/zh\/finding-that-work-life-balance-id3547.php"
+        },
+        {
+            "cs":"我们有很多的工作要做。",
+            "es":"We have a lot of <b>work<\/b> to do.",
+            "url":"http:\/\/veryen.org\/veryen\/20060719\/607.html"
+        },
+        {
+            "cs":"我有太多的工作要做。",
+            "es":"I have too much <b>work<\/b> to do.",
+            "url":"http:\/\/wendang.baidu.com\/view\/f0ae9a0d4a7302768e99395c.html"
+        }
+    ],
+    "dlg":[
+        {
+            "s":"\/职场英语",
+            "t":"就业和工作",
+            "c":[
+                {
+                    "n":"B",
+                    "cs":"你是做什么的？",
+                    "es":"What do you do?"
+                },
+                {
+                    "n":"A",
+                    "cs":"我在（医院\/图书馆\/超市）做全职。",
+                    "es":"I <b>work<\/b> full-time at the (hospital\/ library\/ supemp3arket)."
+                }
+            ],
+            "u":1
+        },
+        {
+            "s":"\/职场英语",
+            "t":"工作",
+            "c":[
+                {
+                    "n":"A",
+                    "cs":"这个项目很（难\/花时间\/枯燥乏味）。",
+                    "es":"The project was so (difficult\/ time-consuming\/ tedious)."
+                },
+                {
+                    "n":"B",
+                    "cs":"你不要这么拼命工作。",
+                    "es":"You shouldn’t <b>work<\/b> so hard."
+                }
+            ],
+            "u":1
+        },
+        {
+            "s":"\/时事热点",
+            "t":"完成工作",
+            "c":[
+                {
+                    "n":"A",
+                    "cs":"去（找点事情做\/完成你的工作\/做点什么事情）。",
+                    "es":"Go (get some <b>work<\/b> done\/ finish you <b>work<\/b>\/ do some <b>work<\/b>)."
+                },
+                {
+                    "n":"B",
+                    "cs":"好的。",
+                    "es":"All right."
+                }
+            ],
+            "u":0
+        }
+    ],
+    "baike":[
+        {
+            "title":"WORK",
+            "pic":"http://pic.baike.soso.com/p/20090713/bki-20090713173036-1477806687.jpg",
+            "pw":"200",
+            "ph":"101",
+            "abs":"WORK，英语单词。<br/>　　词语：work[w:k]<br/>　　过去式：worked wrought <br/>　　过去分词：worked wrought <br/>　　现在分词：working <br/>　　复数：works<br/>　　1.(使)工作 <br/>　　He's been working hard all day.<br/>　　他辛劳地工作了一天。　　2.(使)运作, 运转 <br/>　　All the telephones don't work properly today.<br/>　　今天所有电话机都出故障了。　　I know how to work the machine.<br/>　　我知道如何开动机器。　　3.(使)产生效果 <br/>　　If the scheme works, most of the peasants in this area will be rich.<br/>　　如果计划成功, 这地区的大部分农民将富起来。<br/>　　The newspapers say this new drug can work wonders.<br/>　　报上说这种新药有奇效。　　　　1.工作, 劳动, 作业 <br/>　　I have a lot of work to do.<br/>　　我有许多工作要做。　　2.事业 <br/>　　She's devoted her life to good work.<br/>　　她献身于慈善",
+            "link":"http://baike.soso.com/v3513846.htm"
+        }
+    ],
+    "lang":"eng"
+}

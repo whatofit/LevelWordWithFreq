@@ -1,0 +1,477 @@
+{
+    "local":[
+        {
+            "word":"most",
+            "sd":"41f8255920c184c1663b1357af61006e",
+            "pho":[
+                "m&#601;ust"
+            ],
+            "des":[
+                {
+                    "p":"adj.",
+                    "d":"最多的, 大多数的, 几乎全部的, 大部分的"
+                },
+                {
+                    "p":"n.",
+                    "d":"最多, 最大, 大多数, 大部分"
+                },
+                {
+                    "p":"adv.",
+                    "d":"最, 最多, 极其, 很, 十分"
+                }
+            ],
+            "sen":[
+                {
+                    "p":"adj.",
+                    "s":[
+                        {
+                            "es":"Which of you has made the <b>most<\/b> mistakes?",
+                            "cs":"你们当中谁错得最多？"
+                        }
+                    ]
+                },
+                {
+                    "p":"adv.",
+                    "s":[
+                        {
+                            "es":"It is really <b>most<\/b> unfortunate.",
+                            "cs":"这真是太不幸了。"
+                        },
+                        {
+                            "es":"It&#39;s <b>most<\/b> annoying.",
+                            "cs":"这实在令人非常气恼。"
+                        }
+                    ]
+                },
+                {
+                    "p":"pron.",
+                    "s":[
+                        {
+                            "es":"Of course <b>most<\/b> of them don&#39;t agree with his opinion.",
+                            "cs":"当然，他们中大多数人都不同意他的意见。"
+                        }
+                    ]
+                },
+                {
+                    "p":"n.",
+                    "s":[
+                        {
+                            "es":"He was ill for <b>most<\/b> of last week.",
+                            "cs":"上周他大部分时间都生病。"
+                        }
+                    ]
+                }
+            ],
+            "mor":[
+                {
+                    "c":"形容词变形",
+                    "m":"many, much; more; most"
+                },
+                {
+                    "c":"副词变形",
+                    "m":"much; more; most"
+                }
+            ],
+            "syn":[
+                {
+                    "p":"adj.",
+                    "c":[
+                        "greatest",
+                        "maximum",
+                        "extreme",
+                        "majority",
+                        "supreme"
+                    ]
+                }
+            ],
+            "ant":[
+                {
+                    "p":"adj.",
+                    "c":[
+                        "least",
+                        "fewest"
+                    ]
+                }
+            ],
+            "ph":[
+                {
+                    "phs":"make the most of",
+                    "phd":"充分利用"
+                },
+                {
+                    "phs":"most and least",
+                    "phd":"毫无例外"
+                },
+                {
+                    "phs":"most an end",
+                    "phd":"经常, 通常"
+                },
+                {
+                    "phs":"for the most part",
+                    "phd":"在极大程度上, 多半"
+                }
+            ]
+        }
+    ],
+    "netdes":[
+        {
+            "word":"most",
+            "des":[
+                {
+                    "mf":"most",
+                    "d":"最",
+                    "f":117,
+                    "tag":"net",
+                    "s":"分析:c--&quot;吃&quot;的拼音首字母;or--或者;rect--休息(rest)的拼音首字母;分析1:co--可乐(cola)的近似拼写;st--&quot;石头&quot;的拼音首字母;分析2:c--&quot;吃&quot;的拼音首字母;ost--<b>最<\/b>(<b>most<\/b>)的近似拼写;分析:cott--大衣(coat)的近似拼写;",
+                    "url":"http:\/\/www.jiyifa.cn\/?dp-bbsthread-6012.html"
+                },
+                {
+                    "mf":"Most",
+                    "d":"大多数",
+                    "f":33,
+                    "tag":"net",
+                    "s":"(4)S.P.Hintington,TheThirdWave,p.44.该书中译本(上海三联书店,1998年)在这里漏译了&quot;<b>大多数<\/b>&quot;(<b>most<\/b>)一词.  (5)参见加布里埃尔. A.阿尔蒙德,西德尼. 维巴:&lt;&lt;公民文化--五国的政治态度和民主&gt;&gt;,浙江人民出版社,1989年,第15页. ",
+                    "url":"http:\/\/www.happycampus.cn\/docs\/983432436301@hc02\/19077\/"
+                },
+                {
+                    "mf":"most",
+                    "d":"大部分",
+                    "f":26,
+                    "tag":"net",
+                    "s":"行说明,选取销售事实表中的销售数量(XSSL)进行语义表的地区销量级别为&quot;Low&quot;,程度为&quot;91.64%&quot;;在<b>大部分<\/b>(<b>Most<\/b>)<b>大部分<\/b>(<b>Most<\/b>)地区销量级别为&quot;Mid&quot;,程度为&quot;40.74%&quot;. ",
+                    "url":"http:\/\/www.ecice06.com\/qikan\/manage\/wenzhang\/071025.pdf"
+                },
+                {
+                    "mf":"most",
+                    "d":"最多",
+                    "f":17,
+                    "tag":"net",
+                    "s":"纽约在当时是诸城镇中演出赚钱<b>最多<\/b>(<b>most<\/b>)的城市. 各城镇都叫Apple, 自然纽约便是the Big Apple了. 2\/传言经济大衰退时,许多银行家失业潦倒,必须从其市郊住家载着一袋袋苹果到到纽约大街上卖. 包括一些明门望祖都被迫以此维持生计. ",
+                    "url":"http:\/\/wenda.tianya.cn\/wenda\/thread?clk=wttpcts&tid=374e11a422f1c426"
+                },
+                {
+                    "mf":"most",
+                    "d":"abbr. ministry of science and technology; 科学技术部",
+                    "f":1,
+                    "tag":"abbr",
+                    "s":-1,
+                    "url":-1
+                },
+                {
+                    "mf":"most",
+                    "d":"abbr. media oriented systems transport; 媒体导向系统传输",
+                    "f":1,
+                    "tag":"abbr",
+                    "s":-1,
+                    "url":-1
+                },
+                {
+                    "mf":"most",
+                    "d":"abbr. media oriented system transport; 媒体定向系统传输",
+                    "f":1,
+                    "tag":"abbr",
+                    "s":-1,
+                    "url":-1
+                },
+                {
+                    "mf":"most",
+                    "d":"abbr. the ministry of science and technology; 韩国科技部",
+                    "f":1,
+                    "tag":"abbr",
+                    "s":-1,
+                    "url":-1
+                }
+            ],
+            "wf":"1"
+        },
+        {
+            "word":"at most",
+            "des":[
+                {
+                    "mf":"at most",
+                    "d":"至多",
+                    "f":851,
+                    "tag":"net",
+                    "s":" III<b>至多<\/b>(<b>at most<\/b>)有64人的收入大于等于350. [确认] A. only I 这个不是I II都行吗? 至少有63人的收入小于等于350,这样与&quot;至少有64人的收入小于等于350&quot;一样啊? 20. 某人有X元, 有两种单利存法,",
+                    "url":"http:\/\/bbs.topway.org\/dispbbs.asp?BoardID=20&id=4947"
+                },
+                {
+                    "mf":"at most",
+                    "d":"至多,不超过",
+                    "f":11702,
+                    "tag":"net",
+                    "s":"at least至少 | <b>at most至多,不超过<\/b> | at no time从不,决不",
+                    "url":"http:\/\/jilin.eol.cn\/article\/20060623\/3196862_1.shtml"
+                },
+                {
+                    "mf":"at most",
+                    "d":"最多",
+                    "f":2110,
+                    "tag":"net",
+                    "s":"at length 最终,详细地; | <b>at most最多<\/b> | at no time从不,决不",
+                    "url":"http:\/\/ex.xuegong.net\/news\/yybl\/2008\/4\/28\/084289505720334DC6K5H8FBG4549.html"
+                },
+                {
+                    "mf":"at most",
+                    "d":"最多,至多,不超过",
+                    "f":1943,
+                    "tag":"net",
+                    "s":"what is more 而且;更重要的是 . | <b>at most 最多,至多,不超过 .<\/b> | make the most of 充分利用;极为重视 .",
+                    "url":"http:\/\/bbs.eduu.com\/viewthread.php?extra=&ordertype=2&tid=35778"
+                }
+            ]
+        },
+        {
+            "word":"most of",
+            "des":[
+                {
+                    "mf":"most of",
+                    "d":"绝大多数",
+                    "f":740,
+                    "tag":"net",
+                    "s":"73、两者都不neither....nor | <b>74、绝大多数most of...<\/b> | 75、令人兴奋的一周an exciting week",
+                    "url":"http:\/\/www.jpcai.com\/html\/qita_150_4236.html"
+                },
+                {
+                    "mf":"most of",
+                    "d":"大多数",
+                    "f":526,
+                    "tag":"net",
+                    "s":"14. opposite view 相反的观点 | <b>15. most of 大多数...<\/b> | 16. be different from 与...不同",
+                    "url":"http:\/\/blog.tianya.cn\/blogger\/post_show.asp?BlogID=210463&Key=0&PostID=15720209&idWriter=0"
+                },
+                {
+                    "mf":"most of",
+                    "d":"大多数的",
+                    "f":138,
+                    "tag":"net",
+                    "s":"◆ go down to 延续至;走下去... | <b>◆ most of 大多数的<\/b> | ◆ some of 一些",
+                    "url":"http:\/\/hn.xuexiku.cn\/htm_bnjzl\/bnjyy\/20081128\/11255.html"
+                },
+                {
+                    "mf":"most of",
+                    "d":"大部分的",
+                    "f":115,
+                    "tag":"net",
+                    "s":"444.at last 终于\\\/最后 | <b>445.most of ... 大部分的......<\/b> | 446.Good luck with ... 祝......好运",
+                    "url":"http:\/\/www.ryedu.net\/bbs\/dispbbs_8_15326_10_1.html"
+                }
+            ]
+        },
+        {
+            "word":"the most",
+            "des":[
+                {
+                    "mf":"the most",
+                    "d":"最高点",
+                    "f":290,
+                    "tag":"net",
+                    "s":"相比:by contract ,on the contrary, likewise, compared with | <b>最高点:the highest, the top ,the summit ,the peak ,the most<\/b> | 最低点:bottom ,less ,least ,rock bottom ,",
+                    "url":"http:\/\/247faceparty.com\/a\/GRG\/GREbaokaozhinan\/20100109\/9793.html"
+                },
+                {
+                    "mf":"the most",
+                    "d":"最多的",
+                    "f":31,
+                    "tag":"net",
+                    "s":"most adj. 大部分 | <b>the most 最多的<\/b> | in space 在太空中",
+                    "url":"http:\/\/goabroad.wenda.sogou.com\/question\/85084421.html?fr=srch"
+                },
+                {
+                    "mf":"the most",
+                    "d":"最",
+                    "f":13,
+                    "tag":"net",
+                    "s":"ten thousand: 万 | <b>the most...: 最<\/b> | to finish: 完",
+                    "url":"http:\/\/quizlet.com\/print\/261663\/"
+                },
+                {
+                    "mf":"The most",
+                    "d":"她是最",
+                    "f":13,
+                    "tag":"net",
+                    "s":"attache to the minister of defense.|国防部长的随员 | <b>The most...|她是最...<\/b> | buttoned-down woman you&#39;d ever meet.You know?|保守传统的女人",
+                    "url":"http:\/\/engxue.com\/bencandy.php?aid=325&buy=2&fid=16&line=&page=7"
+                }
+            ]
+        },
+        {
+            "word":"depletion most",
+            "des":[
+                {
+                    "mf":"depletion most",
+                    "d":"耗尽型金属氧化物半导体晶体管",
+                    "f":198,
+                    "tag":"net",
+                    "s":"depletion mode region 耗尽区 | <b>depletion most 耗尽型金属氧化物半导体晶体管<\/b> | deposit substrate interface 淀积层 衬底界面",
+                    "url":"http:\/\/waiyu5.com\/hych\/dqch\/39702.html"
+                },
+                {
+                    "mf":"depletion most",
+                    "d":"耗尽型",
+                    "f":135,
+                    "tag":"net",
+                    "s":"depletion layer 耗尽层 | <b>depletion most 耗尽型 most<\/b> | depletion type transister 耗尽型晶体管",
+                    "url":"http:\/\/www.the1.com.cn\/infosort_the1\/info\/23839-1.htm"
+                },
+                {
+                    "mf":"depletion most",
+                    "d":"耗尽型金属氧化物半导体晶体管WcF中国学习动力网",
+                    "f":1,
+                    "tag":"net",
+                    "s":"depletion mode region 耗尽区WcF中国学习动力网 | <b>depletion most 耗尽型金属氧化物半导体晶体管WcF中国学习动力网<\/b> | deposit substrate interface 淀积层 衬底界面WcF中国学习动力网",
+                    "url":"http:\/\/wy.51xue.cn\/yufa\/zy\/20090102\/6330.shtml"
+                }
+            ]
+        },
+        {
+            "word":"most preferably",
+            "des":[
+                {
+                    "mf":"most preferably",
+                    "d":"最优选",
+                    "f":307,
+                    "tag":"net",
+                    "s":"more perferably 更优选 | <b>most preferably 最优选<\/b> | still more perferably 再优选",
+                    "url":"http:\/\/www.biopatent.cn\/bbs\/post\/view?age=0&bid=2&id=168105&ppg=1&sty=0&tpg=4"
+                }
+            ]
+        }
+    ],
+    "netsen":[
+        {
+            "cs":"我认为这是最重要的。",
+            "es":"I think this is the <b>most<\/b> important.",
+            "url":"http:\/\/wec.shu.edu.tw\/corner\/people\/student_speechinterview.htm"
+        },
+        {
+            "cs":"这 是最重要的一条。",
+            "es":"This is the <b>most<\/b> important thing to do.",
+            "url":"http:\/\/bbs.netat.net\/viewthread.php?tid=41148"
+        },
+        {
+            "cs":"他是最重要的人之一。",
+            "es":"He is the one of the <b>most<\/b> important person .",
+            "url":"http:\/\/www.17bdc.com\/voc\/ex\/6060\/"
+        },
+        {
+            "cs":"这是最重要的事情之一。",
+            "es":"It&#39;s one of the <b>most<\/b> important things.",
+            "url":"http:\/\/bbs.86516.com\/viewthread.php?tid=400449"
+        },
+        {
+            "cs":"我认为这才是最重要的。",
+            "es":"I think this is the <b>most<\/b> important.",
+            "url":"http:\/\/www.shou-zu-kou.com\/jialiujieshao\/title=guan-yu-jia-xing-liu-gan-de-ying-yu-zuo-wen.html"
+        },
+        {
+            "cs":"对我来说，是最重要的。",
+            "es":"This is what is <b>most<\/b> important to me.",
+            "url":"http:\/\/www.hsbike.com.cn\/showtopic.aspx?page=end&topicid=150"
+        },
+        {
+            "cs":"这对我来说是最重要的。",
+            "es":"It&#39;s the <b>most<\/b> important thing to me.",
+            "url":"http:\/\/lkbbs.mba.org.cn\/read.php?fpage=9&tid=2633"
+        }
+    ],
+    "dlg":[
+        {
+            "s":"\/职场英语",
+            "t":"培训",
+            "c":[
+                {
+                    "n":"A",
+                    "cs":"这是（最美好的夏天\/最好的天气\/最简单的测验）。",
+                    "es":"It was the (best summer\/ <b>most<\/b> beautiful day\/ easiest exam) ever."
+                },
+                {
+                    "n":"B",
+                    "cs":"真羡慕。",
+                    "es":"I’m so jealous."
+                }
+            ],
+            "u":0
+        },
+        {
+            "s":"\/商务外贸",
+            "t":"销售商务会谈",
+            "c":[
+                {
+                    "n":"A",
+                    "cs":"这种产品你们想订多少？",
+                    "es":"How many do you intend to order?"
+                },
+                {
+                    "n":"B",
+                    "cs":"我们想订900打。",
+                    "es":"I want to order 900 dozen."
+                },
+                {
+                    "n":"A",
+                    "cs":"目前我们至多只能提供600打。",
+                    "es":"The <b>most<\/b> we can offer you at present is 600 dozen."
+                }
+            ],
+            "u":2
+        },
+        {
+            "s":"\/衣食住行",
+            "t":"道谢及回答",
+            "c":[
+                {
+                    "n":"A",
+                    "cs":"我真的很喜欢你那天借给我的唱片。",
+                    "es":"I really like the record you lent me the other day."
+                },
+                {
+                    "n":"B",
+                    "cs":"我很高兴你喜欢它。",
+                    "es":"I’m glad you like it."
+                },
+                {
+                    "n":"A",
+                    "cs":"还要谢谢你借给我那么长的时间。",
+                    "es":"And thank you very much for letting me keep it so long."
+                },
+                {
+                    "n":"B",
+                    "cs":"别客气。",
+                    "es":"Not at all."
+                },
+                {
+                    "n":"A",
+                    "cs":"我非常感激。我们班每一位同学都喜欢它。",
+                    "es":"I’m <b>most<\/b> grateful. Everyone in our class enjoyed it."
+                },
+                {
+                    "n":"B",
+                    "cs":"我很高兴。",
+                    "es":"I’m glad."
+                },
+                {
+                    "n":"A",
+                    "cs":"你介意再借给我一个星期吗？",
+                    "es":"Would you mind my keeping it for another week?"
+                },
+                {
+                    "n":"B",
+                    "cs":"没问题。",
+                    "es":"No problem."
+                }
+            ],
+            "u":4
+        }
+    ],
+    "baike":[
+        {
+            "title":"most",
+            "pic":"http://pic.baike.soso.com/p/20101107/bki-20101107151525-1362195278.jpg",
+            "pw":"230",
+            "ph":"230",
+            "abs":"\r\n　　MOST----Media Oriented System Transport。MOST 系统是利用光导纤维作为信息传导媒介，进行数字信号的传输。首先各控制元件将电磁脉冲信号转化为光脉冲信号，传送到光纤上，而后相应的接收电脑又将光脉冲信号转换回电磁脉冲信号，从而完成相应的控制功能。由于MOST 系统的高传输速率，因此它可以做到只用两根光纤即可同时传递多路信号。<br/>\r\n\r\n&nbsp; 面向媒体的系统传输(Media Oriented Systems Transport，MOST)是在汽车制造商和供应商中越来越受推崇的一种网络标准。它提供了一个可以管理所有多媒体设备的单个界面，其强势所在，是能够处理针对不同目标的多个数据流，而不失和谐。准时数据(On-timedata)：这是连家庭网络都无法保证的。<br/>\r\n\r\n&nbsp;<br/>\r\n　　MOST网络以光纤为载体，通常是环型拓扑。时钟和串行化数据是双相编码的，布线只需单",
+            "link":"http://baike.soso.com/v39381.htm"
+        }
+    ],
+    "lang":"eng"
+}

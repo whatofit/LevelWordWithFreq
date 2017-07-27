@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>we</key>
+	<ps>wi</ps>
+	<pron>http://res-tts.iciba.com/f/f/1/ff1ccf57e98c817df1efcd9fe44a8aeb.mp3</pron>
+	<ps>wi</ps>
+	<pron>http://res.iciba.com/resource/amp3/1/0/ff/1c/ff1ccf57e98c817df1efcd9fe44a8aeb.mp3</pron>
+	<pos>pron.</pos>
+	<acceptation>我们，咱们；笔者，本人；朕；人们；
+	</acceptation>
+	<sent>
+		<orig>
+			We will not attack unless we are attacked; if we are attacked, we will
+			certainly counterattack.
+		</orig>
+		<trans>
+			人不犯我， 我不犯人；人若犯我，我必犯人。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Don't worry about how we're going to pay for a new machine; we'll cross
+			that bridge when we come to it.
+		</orig>
+		<trans>
+			别担心我们将怎么支付新机器的款项，船到桥头自然直。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Every time we talk about the hard pioneering days, we have so much to say
+			that we can't get it all out.
+		</orig>
+		<trans>
+			大家一提起那艰苦创业的日子，总有说不完的话。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			If we don't speak of our achievements, they won't run away. If we don't
+			find out our faults, we'll be in a bad way.
+		</orig>
+		<trans>
+			成绩不夸跑不了，缺点不找不得了。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Much as we may pride ourselves on our good taste, we are no longer free
+			to choose the things we want, for advertising exerts a subtle
+			influence on us.
+		</orig>
+		<trans>
+			尽管我们可能对自己的良好鉴赏力感到十分自豪，但我们不再能任意选择我们所需要的东西了，因为我们受到了广告的微妙影响。
+		</trans>
+	</sent>
+</dict>

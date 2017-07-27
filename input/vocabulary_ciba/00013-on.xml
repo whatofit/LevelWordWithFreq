@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>on</key>
+	<ps>ɔn</ps>
+	<pron>http://res.iciba.com/resource/amp3/0/0/ed/2b/ed2b5c0139cec8ad2873829dc1117d50.mp3</pron>
+	<ps>ɑn, ɔn</ps>
+	<pron>http://res.iciba.com/resource/amp3/1/0/ed/2b/ed2b5c0139cec8ad2873829dc1117d50.mp3</pron>
+	<pos>prep.</pos>
+	<acceptation>（表示方向）向；（表示对象）对；（表示位置）在…上；（表示时间）在…之时；
+	</acceptation>
+	<pos>adv.</pos>
+	<acceptation>（放，穿，连接）上；向前，（继续）下去；
+	</acceptation>
+	<pos>adj.</pos>
+	<acceptation>活动着的情况，状态；使用着的；发生着的；计划中的；
+	</acceptation>
+	<sent>
+		<orig>
+			"The Classics on Fish Breeding ", written by Fan Li of the Warring States
+			Period (475 B.C.-221B.C.), was the world's first book on fish
+			breeding. Fan started to breed silver carp in 473B.C., and the book
+			was based on his experience.
+		</orig>
+		<trans>
+			中国战国时代范蠡所著《养鱼经》是世界上最早的养鱼文献。 范在公元前473年即开始养殖鲤鱼， 并写下这本书。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			His argument does not rest on reasoning or on experiment, but on
+			authority.
+		</orig>
+		<trans>
+			他的论点不是依靠推理或者实验，而是靠权威。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			If you evaporate a little sea water on a porcelain dish; on cooling,
+			crystals of common salt will deposit on the sides of the dish.
+		</orig>
+		<trans>
+			如果你将少许海水放到瓷盘中蒸发，冷却后就会有普通食盐的结晶附着在盘的四周。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Me, on the stage? Do you want me to make a fool of myself?; You're
+			putting me on the spot if you want me to perform on the stage.
+		</orig>
+		<trans>
+			让我上台表演，这不是要我的好看吗？
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			The laughter on the boats mingled with that on shore,adding to the
+			jubilation on National Day.
+		</orig>
+		<trans>
+			船上和岸上的笑声交汇在一起，增加了国庆节的欢乐气氛。
+		</trans>
+	</sent>
+</dict>

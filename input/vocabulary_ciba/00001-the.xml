@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>the</key>
+	<ps>ðə</ps>
+	<pron>http://res-tts.iciba.com/8/f/c/8fc42c6ddf9966db3b09e84365034357.mp3</pron>
+	<ps>ði,ðə</ps>
+	<pron>http://res-tts.iciba.com/8/f/c/8fc42c6ddf9966db3b09e84365034357.mp3</pron>
+	<pos>art.</pos>
+	<acceptation>指已提到的人（物）；指说话人与听者已知的人（物）；用于独一无二的事物前；与形容词最高级和序数词连用；
+	</acceptation>
+	<sent>
+		<orig>
+			In "the black cat"the adjective "black" modifies the noun "cat".
+		</orig>
+		<trans>
+			在the black cat这一词组中，形容词black修饰名词cat。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			"Allow me, "said the gallant policeman.
+		</orig>
+		<trans>
+			“让我来，”那位警察殷勤地说。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			"And I've forgotten the sugar."she laughed.
+		</orig>
+		<trans>
+			“我把糖给忘了”，她笑着说道。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			"As long as I am here, I won't let the child suffer," she said.
+		</orig>
+		<trans>
+			她说道， “只要有我在， 就不能让孩子受苦。”
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			"Bang!Bang!"the small boy brandished a phoney pistol and shouted.
+		</orig>
+		<trans>
+			“砰！砰！”那小男孩挥舞着一支假手枪，口中嚷嚷着。
+		</trans>
+	</sent>
+</dict>

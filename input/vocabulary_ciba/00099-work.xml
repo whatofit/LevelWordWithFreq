@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>work</key>
+	<ps>wə:k</ps>
+	<pron>http://res.iciba.com/resource/amp3/0/0/67/e9/67e92c8765a9bc7fb2d335c459de9eb5.mp3</pron>
+	<ps>wɚk</ps>
+	<pron>http://res.iciba.com/resource/amp3/1/0/67/e9/67e92c8765a9bc7fb2d335c459de9eb5.mp3</pron>
+	<pos>vt.&amp; vi.</pos>
+	<acceptation>使工作；使运作；操作；使产生效果；
+	</acceptation>
+	<pos>n.</pos>
+	<acceptation>工作，操作；著作；工厂；行为，事业；
+	</acceptation>
+	<pos>vt.</pos>
+	<acceptation>使工作；操作；经营；使缓慢前进；
+	</acceptation>
+	<sent>
+		<orig>
+			It may also be said that rational, industrious, useful human beings are
+			divided into two classes: first, those whose work is work and whose
+			pleasure is pleasure; and secondly, those whose work and pleasure are
+			one. Of course the former are the majority. They have their
+			compensations.
+		</orig>
+		<trans>
+			也可以说，勤劳而有理性的、对社会有益的人共分为两类：第一类人的工作是工作，娱乐是娱乐；第二类人的工作就是娱乐。当然，第一类人是绝大多数，他们劳逸均衡。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Don't put off today's work for [till] tomorrow.; Today's work must be done
+			today.
+		</orig>
+		<trans>
+			当天事当天毕。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Having suffered grievously from biological weapons attacks in the past,
+			China supports work that helps comprehensively to strengthen the
+			effectiveness of the convention. It has actively participated in the
+			work of drawing up a Protocol of the Ad Hoc Group of States Parties
+			to the BWC established in 1994, and has made contributions to the
+			progress of the negotiations on the Protocol.
+		</orig>
+		<trans>
+			中国在历史上也曾深受生物武器之害。中国支持全面加强《禁止生物武器公约》有效性的工作，积极参加了于1994年设立的公约缔约国特设工作组有关制定《公约》议定书的工作，并为议定书的谈判取得进展作出了贡献。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			She's really good at farm work.; She's a dab hand at farm work.
+		</orig>
+		<trans>
+			她农活干得好着呢。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Some are hard at work and some are slack in work.
+		</orig>
+		<trans>
+			有的勤奋工作，有的则消极怠工。
+		</trans>
+	</sent>
+</dict>

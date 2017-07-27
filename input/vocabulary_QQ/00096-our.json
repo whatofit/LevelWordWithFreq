@@ -1,0 +1,387 @@
+{
+    "local":[
+        {
+            "word":"our",
+            "sd":"db2875ff69e43d8625e9664d3d159d8b",
+            "pho":[
+                "'au&#601;"
+            ],
+            "des":[
+                {
+                    "p":"pron.",
+                    "d":"我们的"
+                }
+            ],
+            "sen":[
+                {
+                    "p":"adj.",
+                    "s":[
+                        {
+                            "es":"This is <b>our<\/b> classroom.",
+                            "cs":"这是我们的教室。"
+                        }
+                    ]
+                },
+                {
+                    "p":"pron.",
+                    "s":[
+                        {
+                            "es":"<b>Our<\/b> country is rich in resources.",
+                            "cs":"我国资源丰富。"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "netdes":[
+        {
+            "word":"our",
+            "des":[
+                {
+                    "mf":"our",
+                    "d":"我们的",
+                    "f":846,
+                    "tag":"net",
+                    "s":"注意,抄袭者在本段中的语法上有一次必要的操作:由于&lt;&lt;蔡文&gt;&gt;作者显然不是西方人,所以,他将&lt;&lt;原文&gt;&gt;中该段的&quot;<b>Our<\/b> system of traditional music notation&quot;(<b>我们的<\/b>传统的音乐记谱法),给予类似于所有格的变换,把物主代词&quot;<b>我们的<\/b>&quot;(<b>Our<\/b>)换成&quot;西方&quot;. ",
+                    "url":"http:\/\/www.edu6.cn\/bbs\/dispbbs.asp?boardid=24&id=1759&move=pre"
+                },
+                {
+                    "mf":"OUR",
+                    "d":"摄氧率",
+                    "f":28,
+                    "tag":"net",
+                    "s":"虽然代谢副产物不会生成积蓄,但菌体消亡过快导致产酸期缩短、谷氨酸的最终浓度降低.同时,谷氨酸的生成方式与发酵过程中<b>摄氧率<\/b>(<b>OUR<\/b>)和CO2的释放率(CER)有着非常紧密的关联.作者利用代谢网络模型并结合使用线性规划优化法,",
+                    "url":"http:\/\/www.redlib.cn\/html\/4870\/2005\/40094974.htm"
+                },
+                {
+                    "mf":"our",
+                    "d":"我们",
+                    "f":6,
+                    "tag":"net",
+                    "s":"凡<b>我们<\/b>城邑中娶外邦女子为妻的,当按所定的日期,同著本城的长老和士师而来,直到办完这事,<b>我们<\/b>(<b>our<\/b>)神的烈怒就转离<b>我们<\/b>了.  Let now <b>our<\/b> rulers of all the congregation stand,",
+                    "url":"http:\/\/sbc.chilioi.com\/big5_ukjv_kjv_NEW.cfm?book=15&chapter=10&tit=Ezra Chapter 10&verse=002"
+                },
+                {
+                    "mf":"OUR",
+                    "d":"耗氧速率",
+                    "f":4,
+                    "tag":"net",
+                    "s":"杂交瘤细胞的限制性基质补料培养中遇到的一个问题是如何方便,精细地控制关键性底物的浓度,该文在一个10L的生物反应器中,研究了杂交瘤细胞C50在因清培养条件下生长和能量代谢的特性,结果表明,细胞能量代谢和生长密切相关,<b>耗氧速率<\/b>(<b>OUR<\/b>)能够及时,敏感地反",
+                    "url":"http:\/\/cacp.ilib.cn\/P-H044070~111936~15.html"
+                },
+                {
+                    "mf":"our",
+                    "d":"abbr. oxygen uptake rates; 耗氧速率",
+                    "f":1,
+                    "tag":"abbr",
+                    "s":-1,
+                    "url":-1
+                },
+                {
+                    "mf":"our",
+                    "d":"abbr. oxygen utilization ratio; 摄氧率",
+                    "f":1,
+                    "tag":"abbr",
+                    "s":-1,
+                    "url":-1
+                },
+                {
+                    "mf":"our",
+                    "d":"abbr. oxygen uptake rate; 氧吸收速率",
+                    "f":1,
+                    "tag":"abbr",
+                    "s":-1,
+                    "url":-1
+                }
+            ],
+            "wf":"1"
+        },
+        {
+            "word":"Our Textbooks",
+            "des":[
+                {
+                    "mf":"Our Textbooks",
+                    "d":"三.我们的教材",
+                    "f":2978,
+                    "tag":"net",
+                    "s":"<b>三.我们的教材 Our Textbooks<\/b> | 1.早晨Morning | 2.家庭与亲属Family and Relatives",
+                    "url":"http:\/\/www.edutt.com\/pxjg\/pxkc56305.html"
+                },
+                {
+                    "mf":"Our Textbooks",
+                    "d":"二.我们的教材",
+                    "f":405,
+                    "tag":"net",
+                    "s":"<b>二.我们的教材 Our Textbooks<\/b> | 一般常用语 General phrases | 医务人员常用语 Medical researchers phrases",
+                    "url":"http:\/\/english.peixunzhaosheng.net\/class1557.shtml"
+                },
+                {
+                    "mf":"Our Textbooks",
+                    "d":"三、我们的教材",
+                    "f":259,
+                    "tag":"net",
+                    "s":"专家级 Advanced | <b>三、我们的教材Our Textbooks<\/b> | 个人银行业务Personal Banking",
+                    "url":"http:\/\/www.021px.com\/Courselist.asp?Courseid=5104"
+                },
+                {
+                    "mf":"Our Textbooks",
+                    "d":"四.我们的教材",
+                    "f":189,
+                    "tag":"net",
+                    "s":"专家级 Advanced | <b>四.我们的教材 Our Textbooks<\/b> | 商务基础Basic business",
+                    "url":"http:\/\/hk.houxue.com\/course-page.php?id=4123"
+                }
+            ]
+        },
+        {
+            "word":"our song",
+            "des":[
+                {
+                    "mf":"our song",
+                    "d":"我们的歌",
+                    "f":488,
+                    "tag":"net",
+                    "s":"&quot; 保罗S梅泽伊之前的作品--比如说HBO电影公司的&lt;&lt;万福玛丽亚&gt;&gt;(Maria Full of Grace),还有&lt;&lt;<b>我们的歌<\/b>&gt;&gt;(<b>Our Song<\/b>),它们都与&lt;&lt;棒球男孩&gt;&gt;很相似,全部都是与移民和工人阶级的挣扎相关联的话题,梅泽伊表示:&quot;我觉得对于我们来说,",
+                    "url":"http:\/\/www1.m1905.com\/list.php?catid=107&contentid=63855"
+                },
+                {
+                    "mf":"Our Song",
+                    "d":"我們的歌(獨家首張專輯排行冠軍金曲)",
+                    "f":87,
+                    "tag":"net",
+                    "s":"13. Change 改變 -告示牌單曲榜No.10 | <b>14. Our Song 我們的歌 - 獨家首張專輯排行冠軍金曲<\/b> | 15. Teardrops On My Guitar 淚灑吉他-獨家首張專輯排行亞軍金曲",
+                    "url":"http:\/\/eportfolio.ncut.edu.tw\/~@39532056\/blog?category=149&node=000000006"
+                },
+                {
+                    "mf":"Our Song",
+                    "d":"歌名",
+                    "f":34,
+                    "tag":"net",
+                    "s":"<b>歌名:Our Song<\/b> | 演唱:Taylor Swift | I was riding shotgun with my hair undone 我坐在副驾驶座上 不修边幅",
+                    "url":"http:\/\/iask.sina.com.cn\/b\/14908052.html?from=zzsy02"
+                },
+                {
+                    "mf":"Our song",
+                    "d":"我们唱的歌",
+                    "f":34,
+                    "tag":"net",
+                    "s":"What was our song?|我们的歌是什么? | <b>Our song?|我们唱的歌?<\/b> | You at least must remember this.|至少这个你应该记得",
+                    "url":"http:\/\/engxue.com.cn\/bencandy.php?aid=336&buy=&fid=3&line=&page=2"
+                }
+            ]
+        },
+        {
+            "word":"Our home",
+            "des":[
+                {
+                    "mf":"Our home",
+                    "d":"我们的家",
+                    "f":99,
+                    "tag":"net",
+                    "s":"网友:只想对你说你们是最棒的,希望有时间去<b>我们的家<\/b>(<b>our home<\/b>)坐一坐. 家人都很想你,希望你注意身体,别累坏了. ",
+                    "url":"http:\/\/www.leehom-cn.com\/bbs\/thread-240-1-1.html"
+                },
+                {
+                    "mf":"Our Home",
+                    "d":"我的家",
+                    "f":274,
+                    "tag":"net",
+                    "s":"10 清秋 Pure | <b>11 我的家 Our Home<\/b> | 01、空山鸟语 Birdsong",
+                    "url":"http:\/\/202.108.23.146\/view\/20517.htm?re=1"
+                },
+                {
+                    "mf":"Our home",
+                    "d":"我们的家园",
+                    "f":102,
+                    "tag":"net",
+                    "s":"[02:27.00]Just what makes us realise 是什么让我们最终觉醒 | <b>[02:29.50]Our home 我们的家园<\/b> | [02:30.00]Is our world, our life 是我们的世界,我们的生命",
+                    "url":"http:\/\/www.9ccn.org\/forum\/viewthread.php?tid=628"
+                },
+                {
+                    "mf":"Our home",
+                    "d":"那就是我们的家",
+                    "f":14,
+                    "tag":"net",
+                    "s":"Our planet.|那就是我们的地球.  | <b>Our home.|那就是我们的家. <\/b> | So now...|现在...",
+                    "url":"http:\/\/engxue.com\/bencandy.php?aid=502&buy=&fid=3&line=&page=4"
+                }
+            ]
+        },
+        {
+            "word":"Our pleasure",
+            "des":[
+                {
+                    "mf":"Our pleasure",
+                    "d":"非常荣幸",
+                    "f":340,
+                    "tag":"net",
+                    "s":"Thanks. 谢谢.  | <b>Our pleasure. 非常荣幸. <\/b> | Hope it wins a Pulitzer Prize. 希望它能得Pulitzer奖. ",
+                    "url":"http:\/\/www.am89.com\/article\/2003-4\/20034993521.htm"
+                },
+                {
+                    "mf":"Our pleasure",
+                    "d":"好的",
+                    "f":35,
+                    "tag":"net",
+                    "s":"When was it built?它是什么时候建造的? | Could you give me some information on your European tours?你可以给我一些你们经办的有关欧洲旅行的资料吗? | <b>Our pleasure.好的. <\/b>",
+                    "url":"http:\/\/www.net-china.net\/Language\/190\/342\/Lang_View_2322_2.Html"
+                },
+                {
+                    "mf":"Our pleasure",
+                    "d":"我们的荣幸",
+                    "f":3,
+                    "tag":"net",
+                    "s":"Locking on target. 锁定目标中 | <b>Our pleasure. 我们的荣幸<\/b> | Targets confirmed. 目标已确认",
+                    "url":"http:\/\/ww3.warac.cn\/viewthread.php?extra=page%3D73&tid=8004"
+                },
+                {
+                    "mf":"Our pleasure",
+                    "d":"非常荣幸. 第一英语网",
+                    "f":2,
+                    "tag":"net",
+                    "s":"Thanks. 谢谢.  | <b>Our pleasure. 非常荣幸.  第一英语网<\/b> | Hope it wins a Pulitzer Prize. 希望它能得Puliitzer奖. ",
+                    "url":"http:\/\/www.no1english.com.cn\/html\/kouyuxuexi\/20090210\/521_3.html"
+                }
+            ]
+        },
+        {
+            "word":"OUR TOWN",
+            "des":[
+                {
+                    "mf":"OUR TOWN",
+                    "d":"我们的小镇",
+                    "f":88,
+                    "tag":"net",
+                    "s":"&quot;罗伯特参演的戏剧很多,比如&lt;&lt;<b>我们的小镇<\/b>&gt;&gt;(<b>Our Town<\/b>),&lt;&lt;德伯家的苔丝&gt;&gt;(Tess of the D&#39;Urbervilles)和&lt;&lt;万事成空&gt;&gt;(Anything Goes). 在桑顿.怀尔德(Thornton Wilder)所著的&lt;&lt;<b>我们的小镇<\/b>&gt;&gt;中,他第一次担任主角. 他声称这次机会纯属运气. ",
+                    "url":"http:\/\/www.hqnovel.com\/files\/article\/fulltext\/43\/43643.html"
+                },
+                {
+                    "mf":"Our Town",
+                    "d":"我们的城市",
+                    "f":6,
+                    "tag":"net",
+                    "s":"舰队周(Fleet Week),是每年一度的水手集会,海军军舰和空中救援队突然出现在这个城市里,士兵们穿着正式的白色水兵服,就像电影&lt;&lt;<b>我们的城市<\/b>&gt;&gt;(<b>Our Town<\/b>)中演绎的一样. ",
+                    "url":"http:\/\/www.ccits.com.cn\/destination\/state_city.php?action=folk&country=341"
+                },
+                {
+                    "mf":"Our Town",
+                    "d":"&lt;汽车总动员&gt;",
+                    "f":216,
+                    "tag":"net",
+                    "s":"&quot;Love You I Do&quot; -&lt;&lt;追梦女孩&gt;&gt;(Dreamgirls) | <b>&quot;Our Town&quot; -&lt;&lt;汽车总动员&gt;&gt;(Cars)<\/b> | &quot;Patience&quot; -&lt;&lt;追梦女孩&gt;&gt;(Dreamgirls)",
+                    "url":"http:\/\/www.puppeter.cn\/?paged=12&q=node%2F159"
+                },
+                {
+                    "mf":"Our Town",
+                    "d":"&lt;&lt;赛车总动员&gt;",
+                    "f":22,
+                    "tag":"net",
+                    "s":"&lt;&lt;夏洛的网&gt;&gt;:Ordinary Miracle | <b>&lt;&lt;赛车总动员&gt;&gt;:Our Town<\/b> | &lt;&lt;追梦女郎&gt;&gt;:Patience",
+                    "url":"http:\/\/group.zol.com.cn\/p_2_1\/4301.html"
+                }
+            ]
+        }
+    ],
+    "netsen":[
+        {
+            "cs":"因为我们的爱。。。",
+            "es":"And <b>our<\/b> love.....",
+            "url":"http:\/\/yule.wenda.sogou.com\/question\/3775681.html?fr=rqm"
+        },
+        {
+            "cs":"这是我们的。。。",
+            "es":"This is <b>our<\/b>....",
+            "url":"http:\/\/blog.sina.com.cn\/s\/blog_517449f10100cu60.html"
+        },
+        {
+            "cs":"这是对我们的日常生活。",
+            "es":"It is important to <b>our<\/b> daily life.",
+            "url":"http:\/\/zhidao.baidu.com\/question\/24552250.html"
+        },
+        {
+            "cs":"这也是我们的服务项目。",
+            "es":"It&#39;s part of <b>our<\/b> service.",
+            "url":"http:\/\/sl.iciba.com\/viewthread-60-477322-1.shtml"
+        },
+        {
+            "cs":"这是在我国的法律。",
+            "es":"This is the law in <b>our<\/b> country.",
+            "url":"http:\/\/www.en.articlesgratuits.com\/zh\/dodwa-temple-motor-cycle-and-the-cycle-id2358.php"
+        },
+        {
+            "cs":"这是我们的核心业务之一。",
+            "es":"This is one of <b>our<\/b> core business.",
+            "url":"http:\/\/www.itzhe.cn\/news\/20090305\/363312.html"
+        },
+        {
+            "cs":"是我们的责任。",
+            "es":"It&#39;s <b>our<\/b> duty to...",
+            "url":"http:\/\/www.dvpeixun.com\/Detail\/news-19127.html"
+        }
+    ],
+    "dlg":[
+        {
+            "s":"\/休闲娱乐",
+            "t":"作息时间",
+            "c":[
+                {
+                    "n":"A",
+                    "cs":"我们的作息时间很（离谱\/怪\/特殊）。",
+                    "es":"<b>Our<\/b> schedules are so (weird\/ strange\/ peculiar.)"
+                },
+                {
+                    "n":"B",
+                    "cs":"知道。",
+                    "es":"I know."
+                }
+            ],
+            "u":0
+        },
+        {
+            "s":"\/谈论节日",
+            "t":"结婚纪念日",
+            "c":[
+                {
+                    "n":"A",
+                    "cs":"结婚纪念日快乐。这是我们结婚10周年。",
+                    "es":"Happy anniversary! It’s <b>our<\/b> tenth anniversary."
+                },
+                {
+                    "n":"B",
+                    "cs":"谢谢你给了我美好的10年。",
+                    "es":"Thanks for ten wonderful years."
+                }
+            ],
+            "u":0
+        },
+        {
+            "s":"\/谈论节日",
+            "t":"结婚纪念日",
+            "c":[
+                {
+                    "n":"A",
+                    "cs":"这是我们结婚10周年。",
+                    "es":"It’s <b>our<\/b> tenth anniversary."
+                },
+                {
+                    "n":"B",
+                    "cs":"结婚纪念日快乐。为我们的十周年纪念日干杯。",
+                    "es":"Happy anniversary! To <b>our<\/b> tenth anniversary!"
+                }
+            ],
+            "u":0
+        }
+    ],
+    "baike":[
+        {
+            "title":"our",
+            "pic":"",
+            "pw":"0",
+            "ph":"0",
+            "abs":"\r\n<br>\r\n　　OUR，oxygen uptake\/utilization rate\r\n&nbsp;\r\n&nbsp; 氧吸收\/利用率，反映活性污泥微生物代谢状态的重要参数。 <br>",
+            "link":"http://baike.soso.com/v8961972.htm"
+        }
+    ],
+    "lang":"eng"
+}

@@ -1,0 +1,416 @@
+{
+    "local":[
+        {
+            "word":"is",
+            "sd":"0e11512b4e376dea31c9bb272d093b85",
+            "pho":[
+                "iz;"
+            ],
+            "des":[
+                {
+                    "d":"be的现在式第三人称"
+                }
+            ],
+            "sen":[
+                {
+                    "p":"v.",
+                    "s":[
+                        {
+                            "es":"She <b>is<\/b> Peter&#39;s sister.",
+                            "cs":"她是彼得的妹妹。"
+                        },
+                        {
+                            "es":"What <b>is<\/b> she doing over there?",
+                            "cs":"她在那儿做什么？"
+                        }
+                    ]
+                },
+                {
+                    "p":"vi.",
+                    "s":[
+                        {
+                            "es":"Mr.Smith <b>is<\/b> a very good English teacher.",
+                            "cs":"史密斯先生是个很好的英语教师。"
+                        },
+                        {
+                            "es":"The picture on the wall <b>is<\/b> beautiful.",
+                            "cs":"墙上的画很美。"
+                        }
+                    ]
+                }
+            ],
+            "syn":[
+                {
+                    "p":"v.",
+                    "c":[
+                        "be"
+                    ]
+                }
+            ],
+            "ph":[
+                {
+                    "phs":"as is",
+                    "phd":"照现在的样子"
+                }
+            ]
+        }
+    ],
+    "netdes":[
+        {
+            "word":"is",
+            "des":[
+                {
+                    "mf":"is",
+                    "d":"是",
+                    "f":4763,
+                    "tag":"net",
+                    "s":"边沁把\\&quot;善\\&quot;规定为\\&quot;最大多数人的最大幸福\\&quot;,混淆了\\&quot;善性\\&quot;与幸福、功利之类自然属性或\\&quot;善的东西\\&quot;,犯了从\\&quot;<b>是<\/b>\\&quot;(<b>is<\/b>)中求\\&quot;应当\\&quot;(ought)的错误. 另一种<b>是<\/b>形而上学伦理学,以康德为代表. 这类伦理学把\\&quot;善性\\&quot;等同于超自然、超感觉的实在. ",
+                    "url":"http:\/\/wwf.net.cn\/bbs\/viewthread.php?extra=page%3D53&tid=332126"
+                },
+                {
+                    "mf":".is",
+                    "d":"冰岛",
+                    "f":1276,
+                    "tag":"net",
+                    "s":"中国(c川、原捷克斯洛代克(Cs)、德国(DE)、丹麦(DK)、西班牙(Es)、芬兰(Fi)、法国(FU、英国(oI3)、希腊(GR)、匈牙利(nU、爱尔兰(IE)、以色列(it)、印度(IN)、<b>冰岛<\/b>(<b>is<\/b>)、意大利(r)、日本(SV)、韩国(KR)、荷兰(NT)、挪威(No)、波兰(PL)、瑞典(s",
+                    "url":"http:\/\/xiaowho.blog.china.alibaba.com\/"
+                },
+                {
+                    "mf":"IS",
+                    "d":"信息安全",
+                    "f":824,
+                    "tag":"net",
+                    "s":"计算智能和安全(C<b>IS<\/b>)国际会议是信息处理、计算智能(CI)及<b>信息安全<\/b>(<b>IS<\/b>)领域的一个主要国际性年会,她把高校、研究所和企业的研究者、工程师及开发人员聚集在一起,共享该领域的研究经验及成果,相互交换研究心得. ",
+                    "url":"http:\/\/211.68.23.76\/webmedia\/oemui\/newsinfo\/newsshow.asp?news_id=8723&news_type_id=3"
+                },
+                {
+                    "mf":"is",
+                    "d":"哀思",
+                    "f":92,
+                    "tag":"net",
+                    "s":"武则天的履历表(ll)上表明,她原本是个会使双枪(ll)的女子,因情人离开发出<b>哀思<\/b>(<b>is<\/b>),刚好李世明(li)进寺(si)烧香,看中了她,于是让她入宫,从此她就走红(hong)运啦,身边也能有几个仆人(pr)侍候她了. ",
+                    "url":"http:\/\/www.jiyili.net\/viewthread.php?extra=page%3D12&tid=10944"
+                },
+                {
+                    "mf":"is",
+                    "d":"abbr. it system; 信息系统",
+                    "f":1,
+                    "tag":"abbr",
+                    "s":-1,
+                    "url":-1
+                },
+                {
+                    "mf":"is",
+                    "d":"abbr. international service; 信息服务",
+                    "f":1,
+                    "tag":"abbr",
+                    "s":-1,
+                    "url":-1
+                },
+                {
+                    "mf":"is",
+                    "d":"abbr. its system; 制度创新",
+                    "f":1,
+                    "tag":"abbr",
+                    "s":-1,
+                    "url":-1
+                },
+                {
+                    "mf":"is",
+                    "d":"abbr. investigative studying; 研究性学习",
+                    "f":1,
+                    "tag":"abbr",
+                    "s":-1,
+                    "url":-1
+                }
+            ],
+            "wf":"1"
+        },
+        {
+            "word":"is : Iceland",
+            "des":[
+                {
+                    "mf":"is : Iceland",
+                    "d":"冰岛",
+                    "f":10395,
+                    "tag":"net",
+                    "s":"ir : Iran , 伊朗 | <b>is : Iceland , 冰岛<\/b> | it : Italy , 意大利",
+                    "url":"http:\/\/www.c818.cn\/support\/doc.php?IDCate=1&IDDoc=483&keyword="
+                },
+                {
+                    "mf":"IS Iceland",
+                    "d":"冰岛 欧洲",
+                    "f":243,
+                    "tag":"net",
+                    "s":"VA Vatican City梵蒂冈 欧洲 | <b>IS Iceland冰岛 欧洲<\/b> | VE Venezuela委内瑞拉 北美洲",
+                    "url":"http:\/\/orgsr.com\/html\/xwzx\/31.Html"
+                },
+                {
+                    "mf":"IS ICELAND",
+                    "d":"冰岛 LGG 比利时列日 欧",
+                    "f":16,
+                    "tag":"net",
+                    "s":"80 HU HUNGARY 匈牙利 LGG 比利时列日 欧 | <b>81 IS ICELAND 冰岛 LGG 比利时列日 欧<\/b> | 82 IN INDIA 印度 SIN 新加坡 东南亚",
+                    "url":"http:\/\/www.ebs56.net\/default.aspx?P_ID=355&P_IDS=WL&R_ID=4870&TT_IN=T1&T_N=D1"
+                },
+                {
+                    "mf":"IS Iceland",
+                    "d":"冰岛(域名)",
+                    "f":6,
+                    "tag":"net",
+                    "s":"IRUC Intermediate Resource Usage Condition 中介资源利用状况 | <b>is Iceland 冰岛(域名)<\/b> | IS Idle State 空闲状态",
+                    "url":"http:\/\/bbs.translators.com.cn\/mtsbbs\/viewthread?thread=2242"
+                }
+            ]
+        },
+        {
+            "word":"that is",
+            "des":[
+                {
+                    "mf":"that is",
+                    "d":"就是说;即(略为i.e)",
+                    "f":1789,
+                    "tag":"net",
+                    "s":"that is to say 那就是说,换句话说 | <b>that is 就是说;即(略为i.e)<\/b> | the mass of 大多数,大部分",
+                    "url":"http:\/\/xiaoshuo59561.580590.com\/htmlbook\/53\/53020\/27_B.html"
+                },
+                {
+                    "mf":"that is",
+                    "d":"就是说,即",
+                    "f":1240,
+                    "tag":"net",
+                    "s":"thanks to 由于,多亏 | <b>that is 就是说,即<\/b> | think of 想到,记得;想一想;考虑,关心",
+                    "url":"http:\/\/rmg.chinack.net\/news_info\/new_4998.html"
+                },
+                {
+                    "mf":"that is",
+                    "d":"也就是说",
+                    "f":715,
+                    "tag":"net",
+                    "s":"13. take measures to do sth 采取措施做某事 | <b>14. that is 也就是说<\/b> | 15. adapt to 适应",
+                    "url":"http:\/\/xinruomengyu.blog.163.com\/blog\/static\/1339621992010028114035398\/"
+                },
+                {
+                    "mf":"that is",
+                    "d":"即,也就是",
+                    "f":502,
+                    "tag":"net",
+                    "s":"talk into 说服 | <b>that is 即,也就是<\/b> | turn in 上交",
+                    "url":"http:\/\/blog.pet2008.cn\/html\/28\/t-17228.html"
+                }
+            ]
+        },
+        {
+            "word":"Solomon Is",
+            "des":[
+                {
+                    "mf":"Solomon Is",
+                    "d":"所罗门群岛",
+                    "f":2665,
+                    "tag":"net",
+                    "s":"SA 沙特阿拉伯 Saudi Arabia | <b>SB 所罗门群岛 Solomon Is<\/b> | SC 塞舌尔 Seychelles",
+                    "url":"http:\/\/bazziflying.spaces.live.com\/blog\/cns!9A1A1144FEE0E898!1256.entry"
+                },
+                {
+                    "mf":"SOLOMON IS",
+                    "d":"所罗门群岛(英)",
+                    "f":95,
+                    "tag":"net",
+                    "s":"斯洛文尼亚 SLOVENIA 386 -7 | <b>所罗门群岛(英) SOLOMON IS 677 3<\/b> | 索马里 SOMAIL 252 -5",
+                    "url":"http:\/\/zmanxxxxx.blog.163.com\/blog\/static\/59891519200982114548765"
+                },
+                {
+                    "mf":"Solomon Is",
+                    "d":"所罗门群岛 所羅門群島",
+                    "f":72,
+                    "tag":"net",
+                    "s":"Magadan 马加丹 馬加丹 | <b>Solomon Is. 所罗门群岛 所羅門群島<\/b> | New Caledonia 新喀里多尼亚 新喀裡多尼亞",
+                    "url":"http:\/\/www.chinglish.com\/community\/show\/diff\/timezones?lang=zh_CN"
+                },
+                {
+                    "mf":"SOLOMON IS",
+                    "d":"索羅門群島",
+                    "f":11,
+                    "tag":"net",
+                    "s":"SLOVENIA 斯洛維尼亞 386 | <b>SOLOMON IS. 索羅門群島 677<\/b> | SOMALIA 索馬里252",
+                    "url":"http:\/\/dating.taobao.com\/q\/6246374.htm"
+                }
+            ]
+        },
+        {
+            "word":"Cook Is",
+            "des":[
+                {
+                    "mf":"Cook Is",
+                    "d":"库克群岛",
+                    "f":2003,
+                    "tag":"net",
+                    "s":"Congo 刚果 CG | <b>Cook Is. 库克群岛 CK<\/b> | Costa Rica 哥斯达黎加 CR",
+                    "url":"http:\/\/www.bgyedu.com\/beikao\/bianma\/zhidao\/20080701\/083148122.html"
+                },
+                {
+                    "mf":"Cook Is",
+                    "d":"科克群岛",
+                    "f":330,
+                    "tag":"net",
+                    "s":"Congo 刚果 242 | <b>Cook Is. 科克群岛 682<\/b> | Costa Rica 哥斯达黎加 506",
+                    "url":"http:\/\/www.scmlzl.com\/html\/zhixun\/changshi\/20091203\/14599.html"
+                },
+                {
+                    "mf":"COOK IS",
+                    "d":"科克群岛(新)",
+                    "f":148,
+                    "tag":"net",
+                    "s":"刚果 CONGO 242 -7 | <b>科克群岛(新) COOK IS 682 -18.5<\/b> | 哥斯达黎加 COSTA RICA 506 -14",
+                    "url":"http:\/\/zmanxxxxx.blog.163.com\/blog\/static\/59891519200982114548765"
+                },
+                {
+                    "mf":"Cook Is",
+                    "d":"库克群岛(科克群岛)",
+                    "f":5,
+                    "tag":"net",
+                    "s":"45 Congo 刚果 90 25 E | <b>46 Cook Is 库克群岛(科克群岛) 90 25 E<\/b> | 47 Cope Verde 佛得角群岛 90 25 E",
+                    "url":"http:\/\/astexpress.com\/serviceguidedetail.aspx?id=113"
+                }
+            ]
+        },
+        {
+            "word":"Cayman Is",
+            "des":[
+                {
+                    "mf":"Cayman Is",
+                    "d":"开曼群岛",
+                    "f":2142,
+                    "tag":"net",
+                    "s":"Canada 加拿大 CA | <b>Cayman Is. 开曼群岛<\/b> | Central African Republic 中非共和国 CF",
+                    "url":"http:\/\/www.bgyedu.com\/beikao\/bianma\/zhidao\/20080701\/083148122.html"
+                },
+                {
+                    "mf":"CAYMAN IS",
+                    "d":"开曼群岛(英)",
+                    "f":177,
+                    "tag":"net",
+                    "s":"佛得角 CAPE VERDE 238 -9 | <b>开曼群岛(英) CAYMAN IS 1345 -13<\/b> | 中非 CENTRAL AFRICA 236 -7",
+                    "url":"http:\/\/zmanxxxxx.blog.163.com\/blog\/static\/59891519200982114548765"
+                },
+                {
+                    "mf":"Cayman Is",
+                    "d":"凯曼群岛",
+                    "f":3,
+                    "tag":"net",
+                    "s":"437 伯利兹 Belize | <b>438 凯曼群岛 Cayman Is.<\/b> | 439 法属圭亚那 French Guiana",
+                    "url":"http:\/\/law.baidu.com\/pages\/chinalawinfo\/1\/51\/e36cec509e0db61193095067453343a6_0.html"
+                },
+                {
+                    "mf":"Cayman Is",
+                    "d":"国际 开曼群岛(英)",
+                    "f":1,
+                    "tag":"net",
+                    "s":"国际 佛得角 Cape Verde 238 | <b>国际 开曼群岛(英) Cayman Is. 1345<\/b> | 国际 中非 Central Africa 236",
+                    "url":"http:\/\/know.sjzsw.cn\/post.jsp?typeid=1"
+                }
+            ]
+        }
+    ],
+    "netsen":[
+        {
+            "cs":"他是。。。。。",
+            "es":"He <b>is<\/b> .....",
+            "url":"http:\/\/hi.baidu.com\/downloadmovie\/blog\/item\/1ebc2f33cdfb4c46ad4b5feb.html"
+        },
+        {
+            "cs":"因为是你的。。。。。。。。。",
+            "es":"Because <b>is<\/b> you........",
+            "url":"http:\/\/hi.baidu.com\/amtf147\/blog\/index\/0"
+        },
+        {
+            "cs":"她是那样的。。。。。。。。",
+            "es":"She <b>is<\/b> so ........",
+            "url":"http:\/\/zhidao.baidu.com\/question\/56029953.html"
+        },
+        {
+            "cs":"这个是一个。。。。。。",
+            "es":"This <b>is<\/b> a\/an.....",
+            "url":"http:\/\/www.beyond001.com\/home\/space.php?do=blog&id=239&uid=258"
+        },
+        {
+            "cs":"它是。。。。",
+            "es":"And it <b>is<\/b>....",
+            "url":"http:\/\/www.nowamagic.net\/internet\/internet_OpportunityChecklistForEntrepreneurs.php"
+        },
+        {
+            "cs":"你要做的就是。。。",
+            "es":"What you have to do <b>is<\/b>...",
+            "url":"http:\/\/www.nciku.com\/lewe.p\/vocab?pageSize=10&range=ALL&sortOption=DATE_DESC&sourceID=ME&viewLevel=EXAM&vocabID=155219"
+        },
+        {
+            "cs":"这是不值得的。。。",
+            "es":"It <b>is<\/b> not worth it...",
+            "url":"http:\/\/www.anti-cnn.com\/?action-viewthread-tid-135942"
+        }
+    ],
+    "dlg":[
+        {
+            "s":"\/衣食住行",
+            "t":"询问",
+            "c":[
+                {
+                    "n":"A",
+                    "cs":"清楚了吗?",
+                    "es":"<b>Is<\/b> that clear?"
+                },
+                {
+                    "n":"B",
+                    "cs":"清楚了。",
+                    "es":"It’s clear."
+                }
+            ],
+            "u":0
+        },
+        {
+            "s":"\/衣食住行",
+            "t":"夜生活",
+            "c":[
+                {
+                    "n":"A",
+                    "cs":"你推荐什么（酒\/意大利面\/甜食）？",
+                    "es":"What (wine\/ pasta\/ dessert) do you recommend?"
+                },
+                {
+                    "n":"B",
+                    "cs":"这种不错。",
+                    "es":"This one <b>is<\/b> excellent."
+                }
+            ],
+            "u":1
+        },
+        {
+            "s":"\/休闲娱乐\/旅游英语",
+            "t":"户外运动",
+            "c":[
+                {
+                    "n":"A",
+                    "cs":"你喜欢哪种运动？",
+                    "es":"What kind of sports do you like?"
+                },
+                {
+                    "n":"B",
+                    "cs":"我喜欢所有的户外运动。",
+                    "es":"Anything outdoor <b>is<\/b> prefeered."
+                }
+            ],
+            "u":1
+        }
+    ],
+    "baike":[
+        {
+            "title":"IS",
+            "pic":"http://pic.baike.soso.com/p/20110221/bki-20110221174113-285793827.jpg",
+            "pw":"200",
+            "ph":"70",
+            "abs":" 这是一个多义项词条。在英语中，is是一个动词，be的第三人称单数现正式。在电脑软件中，IS是国内知名语音软件“I Speak”的简称。IS也是日本漫画和动画《I&quot;s》，以及日本轻小说、漫画、动画《Infinite Stratos》的简称。此外，iS也可以表示数码影像技术（Image Stabilizer）、小说《爱上无题诗》（拼音首字母ISWTS，取头两个字母IS）和英语单词间性人（intersexual） &nbsp;是<br/>　 动画《I\"s》<br/>　　I\"s（日文：アイズ）是日本知名漫画家桂正和的爱情漫画作品。自1997年（第19期）至2000年（第24期）间在少年Jump周刊上连载，并有发行单行本全套共15集。2005年12月开始发行动画，约1个月左右出一集，到2006年6月23日已出售了最后的第6集 　　I\"s漫画从头到尾透着酸涩的感觉，充分地让读者体会初恋的感动。这部漫画被认为是桂正和最经典的代表作",
+            "link":"http://baike.soso.com/v729536.htm"
+        }
+    ],
+    "lang":"eng"
+}

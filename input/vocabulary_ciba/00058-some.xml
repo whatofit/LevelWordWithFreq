@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>some</key>
+	<ps>sʌm, səm</ps>
+	<pron>http://res-tts.iciba.com/0/3/d/03d59e663c1af9ac33a9949d1193505a.mp3</pron>
+	<ps>sʌm</ps>
+	<pron>http://res.iciba.com/resource/amp3/1/0/03/d5/03d59e663c1af9ac33a9949d1193505a.mp3</pron>
+	<pos>adj.</pos>
+	<acceptation>一些；某个；大约；相当多的；
+	</acceptation>
+	<pos>pron.</pos>
+	<acceptation>一些；若干；其中的一部分；（数量不确切时用）有些人；
+	</acceptation>
+	<pos>adv.</pos>
+	<acceptation>
+		非常；相当；
+		<美>稍微；
+	</acceptation>
+	<sent>
+		<orig>
+			For some years some people had been murmuring against him.
+		</orig>
+		<trans>
+			几年来人们一直在私下议论他。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			His conduct has some shortcomings.; There are some shortcomings in one's
+			conduct.
+		</orig>
+		<trans>
+			行止有亏。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			I have been brewing up some beer. Would you like to try some?
+		</orig>
+		<trans>
+			我酿了一些啤酒，你愿意尝一点吗？
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Let's brainstorm some ideas here. Consentrate on some new and different
+			solutions. We need to think out of the box.
+		</orig>
+		<trans>
+			大家来出出主意吧。有没有什么新的，与以往不同的解决方案。我们要敢想，要有创意。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			My mother cut some meat up and cooked some meatballs for us.
+		</orig>
+		<trans>
+			我妈妈剁了些肉，为我们做了些肉丸子吃。
+		</trans>
+	</sent>
+</dict>

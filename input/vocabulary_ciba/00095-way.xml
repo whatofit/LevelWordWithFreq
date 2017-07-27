@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>way</key>
+	<ps>wei</ps>
+	<pron>http://res.iciba.com/resource/amp3/0/0/c8/3b/c83b72dd001482ce10f0b106c7a0ed0e.mp3</pron>
+	<ps>we</ps>
+	<pron>http://res.iciba.com/resource/amp3/1/0/c8/3b/c83b72dd001482ce10f0b106c7a0ed0e.mp3</pron>
+	<pos>n.</pos>
+	<acceptation>道路；方法；方向；某方面；
+	</acceptation>
+	<pos>adv.</pos>
+	<acceptation>远远地，大大地；
+	</acceptation>
+	<sent>
+		<orig>
+			Make way there-make way-make way!
+		</orig>
+		<trans>
+			嘿，让一下道，让一下道，让一下道！
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			The farthest way about is the nearest way home.
+		</orig>
+		<trans>
+			遥程路反近，捷径常误人。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			The longest way round is the nearest way home.
+		</orig>
+		<trans>
+			绕远路反近，捷径常误人。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			There is an analogy between the way water moves in waves and the way light
+			travels.
+		</orig>
+		<trans>
+			水的波动与光的运行有类似之处。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			There is no other way than this.; This is the only way.
+		</orig>
+		<trans>
+			舍此别无他法。
+		</trans>
+	</sent>
+</dict>

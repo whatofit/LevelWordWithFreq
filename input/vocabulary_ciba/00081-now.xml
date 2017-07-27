@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>now</key>
+	<ps>nau</ps>
+	<pron>http://res.iciba.com/resource/amp3/0/0/97/bc/97bc592b27a9ada2d9a4bb418ed0ebed.mp3</pron>
+	<ps>naʊ</ps>
+	<pron>http://res.iciba.com/resource/amp3/1/0/97/bc/97bc592b27a9ada2d9a4bb418ed0ebed.mp3</pron>
+	<pos>adv.</pos>
+	<acceptation>现在；其时；立刻；（改变话题或要对方做某事前，引起对方注意）喂；
+	</acceptation>
+	<pos>adj.</pos>
+	<acceptation>现在的；当今的；现任的；
+	</acceptation>
+	<pos>n.</pos>
+	<acceptation>现在；目前；目前；
+	</acceptation>
+	<pos>conj.</pos>
+	<acceptation>由于；既然；
+	</acceptation>
+	<sent>
+		<orig>
+			Her moods were very changeable, now laughing loudly, and now sunk in
+			despair.
+		</orig>
+		<trans>
+			她的情绪变化无常，一会儿放声大笑，一会儿陷于绝望。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			His moods kept changing—now happy, now filled with despair.
+		</orig>
+		<trans>
+			他情绪多变——时而高兴，时而感到绝望。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Now, now, Harriet!It's all right!There's no need to cry!
+		</orig>
+		<trans>
+			好啦，好啦，哈利特！沒有关系！没有必要哭呀！
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Now, now, boys and girls, don't get so excited!
+		</orig>
+		<trans>
+			好了，好了，同学们，别这么激动！
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Now, you're on the right track.; Now, that's better.
+		</orig>
+		<trans>
+			这就对了。
+		</trans>
+	</sent>
+</dict>

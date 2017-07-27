@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>your</key>
+	<ps>jɔ:</ps>
+	<pron>http://res-tts.iciba.com/6/2/c/62cc0b4ebb0b57b40778179234246c38.mp3</pron>
+	<ps>jʊr, jɔr, jor,jə</ps>
+	<pron>http://res.iciba.com/resource/amp3/1/0/62/cc/62cc0b4ebb0b57b40778179234246c38.mp3</pron>
+	<pos>pron.</pos>
+	<acceptation>你的，你们的；尊；玉；乃；
+	</acceptation>
+	<sent>
+		<orig>
+			Asking your father to pay your debts isn't quite the thing, especially
+			after he's already given you what should have been enough for all
+			your needs.
+		</orig>
+		<trans>
+			要求你父亲替你还债不合适，尤其是在他满足了你所有的要求以后。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Save your breath!Don't even mention your illness to your unsympathetic
+			boss.
+		</orig>
+		<trans>
+			省点力气吧！甚至别对你那位没有同情心的老板提及你生病的事。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Your teacher will take your recent illness into consideration when
+			judging your examination results.
+		</orig>
+		<trans>
+			老师评考分时肯定会考虑你最近生病的情况的。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			"The wife of your father's brother" is a circumlocution for "your aunt".
+		</orig>
+		<trans>
+			“你爸爸的兄弟的妻子”是“你婶子”的累赘的说法。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			All your faculties have come into play in your work.
+		</orig>
+		<trans>
+			在你的工作中，你的全部才能已起到了作用。
+		</trans>
+	</sent>
+</dict>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>in</key>
+	<ps>in</ps>
+	<pron>http://res.iciba.com/resource/amp3/0/0/13/b5/13b5bfe96f3e2fe411c9f66f4a582adf.mp3</pron>
+	<ps>ɪn</ps>
+	<pron>http://res.iciba.com/resource/amp3/1/0/13/b5/13b5bfe96f3e2fe411c9f66f4a582adf.mp3</pron>
+	<pos>prep.</pos>
+	<acceptation>采用（某种方式）；穿着，带着；（表示位置）在…里面，（表示领域，范围）在…以内；（表示品质、能力等）在…之中；
+	</acceptation>
+	<pos>adv.</pos>
+	<acceptation>在家；进入，到达；流行；当选；
+	</acceptation>
+	<pos>adj.</pos>
+	<acceptation>在内的，朝内的；在位的，执政的；[口语]流行的，时髦的；（车等）到站的；
+	</acceptation>
+	<pos>n.</pos>
+	<acceptation>
+		执政党，掌权者；知情者；
+		<美口>
+			入口，门路；
+			<体>（板球或棒球）攻球的一方；
+	</acceptation>
+	<sent>
+		<orig>
+			There are a few mistakes in it.
+		</orig>
+		<trans>
+			这里有几个错误。（比较：There are few mistakes in it.这里几乎没有错误。）
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Printing originated in China. In the period between the Sui Dynasty in the
+			second half of the 6th century and the Tang Dynasty in the first half
+			of the early 7th century, lithographic printing was invented and, in
+			the 9th century, a large number of books began to be printed by the
+			lithographic process. In the reign of Emperor Qingli of the Northern
+			Song Dynasty (960 A.D.-1127 A.D.), a common fellow named Bi Sheng
+			invented printing by movable type and started to use baked clay types
+			for printing. The technology was introduced to other countries in
+			about the mid-8th century.
+		</orig>
+		<trans>
+			中国首先发明印刷术。公元6世纪下半叶到7世纪上半叶的隋、唐之际， 中国就发明了雕版印刷，到9世纪， 开始了大规模的雕版印书。北宋庆历年间， 平民毕升发明用胶泥焙烧的活字，
+			开始了活字印刷。约在8世纪中叶，印刷术传到国外。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			"The Deeds of King Gesar," a folk epic of the Tibetan nationality in
+			China, is the world's longest epic, comprising 36 volumes in 15
+			million words, with one million to 1.5 million lines in poetry alone
+			in addition to those in prose. The epic enjoys popularity in areas
+			inhabited by people of the Tibetan, Mongolian, and Tu nationalities.
+		</orig>
+		<trans>
+			中国藏族的长篇叙事诗《格萨尔王传》是世界最长的史诗。 除散文 部 分， 仅史诗部分就有100万至150万行， 36部， 1500万字。 史诗流传于藏族、蒙古族、土族等地区。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Papermaking originated in China in the second century B.C. Paper made from linen
+			in the early West Han Dynasty (206 B.C.-24 A.D.) was the world's
+			earliest kind of paper made from plant fibres. By pooling the
+			expertise of craftsmen in papermaking, Cai Lun of the East Han
+			Dynasty (25 A. D.-220 A.D.) succeeded in producing quality paper from
+			linen craps, rags, and used fish nets. Papermaking technology was
+			introduced to the West in the third century.
+		</orig>
+		<trans>
+			公元前2世纪我国发明纸。 而汉初造的麻纸是世界上现存最早的植物纤维纸。
+			东汉蔡伦集中了工匠们的造纸经验，用麻头、破布、旧鱼网作原料，监造出一批良纸。造纸术从3世纪起传到国外。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			China boasts the world's earliest observatory, built in Nanking in 1385 in
+			the Ming Dynasty (1368 A.D.-1644 A.D.), three centuries ahead of the
+			Greenwich Observatory built in Britain in 1670.
+		</orig>
+		<trans>
+			中国建有世界上最早的气象台。公元1385年， 明朝在南京建立观象台，比英国格林尼治观象台（建于1670年）早三个世纪。
+		</trans>
+	</sent>
+</dict>

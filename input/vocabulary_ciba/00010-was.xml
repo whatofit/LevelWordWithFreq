@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>was</key>
+	<ps>wʌz, wɔz,wəz</ps>
+	<pron>http://res-tts.iciba.com/a/7/7/a77b3598941cb803eac0fcdafe44fac9.mp3</pron>
+	<ps>wʌz, wɑz,wəz</ps>
+	<pron>http://res.iciba.com/resource/amp3/1/0/a7/7b/a77b3598941cb803eac0fcdafe44fac9.mp3</pron>
+	<pos>v.</pos>
+	<acceptation>用来表示某人或某物即主语本身，用来表示某人或某物属于某一群体或有某种性质（ be的过去式 ）；在，存在；不受干扰；
+	</acceptation>
+	<sent>
+		<orig>
+			Joe was no richer than his friend.
+		</orig>
+		<trans>
+			乔并不比他的朋友富。[乔和他的朋友一样穷。]（比较：Joe was not richer than his friend。乔比不上他的朋友富。）
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			The compass was invented in China. As early as in the Warring States
+			Period (450 B.C.-221 B.C.), a magnet was used as a device that
+			pointed to magnetic north, and this device was named "Si Nan" by the
+			ancient Chinese. In the Northern Song Dynasty (960 A.D.-1127 A.D.),
+			another device was invented with a magnetic iron needle that pointed
+			to magnetic north, and this device was later used in navigation. The
+			compass was introduced to Europe in the 13th century.
+		</orig>
+		<trans>
+			中国首先发明指南针。 战国时期， 中国已经用磁石制成了指南的仪器， 古人称它为“司南”。 北宋时， 又发明了用天然磁石摩擦钢针制成的罗盘针，
+			即真正的指南针，并应用于航海。 13世纪指南针传到欧洲。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Comrade Bethune was a doctor; the art of healing was his profession and he
+			was constantly perfecting his skill.
+		</orig>
+		<trans>
+			白求恩同志是个医生， 他以医疗为职业，对技术精益求精。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Gunpowder was invented in China. Gunpowder, invented as early as in the Tang
+			Dynasty (618-907 A.D.), was used militarily on a large scale in the
+			Song Dynasty (960-1279 A.D.). In the period between the Yuan Dynasty
+			(1271-1368 A.D.) and the Ming Dynasty (1368-1644 A.D.), "rockets"
+			were invented with the use of the fundamentals of jet. Gunpowder was
+			introduced to other countries in the 13th century.
+		</orig>
+		<trans>
+			中国首先发明火药。 早在唐代， 中国就发明了火药。 到宋代已被大量运用到军事上。 元、明之际， 还利用喷气原理制造了“火箭”。火药从13世纪起传到国外。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			He was interned but,as he was in no way implicated in war crimes,was
+			released.
+		</orig>
+		<trans>
+			他曾被拘留过，但因未曾涉嫌战争罪行而被释放了。
+		</trans>
+	</sent>
+</dict>

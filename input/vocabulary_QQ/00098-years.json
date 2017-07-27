@@ -1,0 +1,496 @@
+{
+    "local":[
+        {
+            "word":"year",
+            "sd":"d322e425ddf9aa54a3c21adecc5f23b1",
+            "pho":[
+                "ji&#601;"
+            ],
+            "des":[
+                {
+                    "p":"n.",
+                    "d":"年, 年龄"
+                }
+            ],
+            "sen":[
+                {
+                    "s":[
+                        {
+                            "es":"The weather is so good here that we can swim all (the) <b>year<\/b> round.",
+                            "cs":"天气如此之好，以至于我们全年都能游泳。"
+                        }
+                    ]
+                },
+                {
+                    "p":"n.",
+                    "s":[
+                        {
+                            "es":"He&#39;s twenty years of age.",
+                            "cs":"他二十岁。"
+                        },
+                        {
+                            "es":"On January 1st, the New <b>Year<\/b> begins.",
+                            "cs":"1月1日新年开始了。"
+                        },
+                        {
+                            "es":"We haven&#39;t seen him this <b>year<\/b>.",
+                            "cs":"我们今年没见过他。"
+                        },
+                        {
+                            "es":"She migrated to Australia years ago.",
+                            "cs":"她是好多年以前移居澳大利亚的。"
+                        }
+                    ]
+                }
+            ],
+            "ph":[
+                {
+                    "phs":"year after year",
+                    "phd":"年复一年地, 年年, 每年"
+                },
+                {
+                    "phs":"for years",
+                    "phd":"多年以来, 好多年"
+                },
+                {
+                    "phs":"all the year round",
+                    "phd":"一年到头"
+                },
+                {
+                    "phs":"year in year out",
+                    "phd":"年复一年地, 始终, 不断地"
+                },
+                {
+                    "phs":"from year to year",
+                    "phd":"年年"
+                }
+            ]
+        }
+    ],
+    "netdes":[
+        {
+            "word":"YEARS",
+            "des":[
+                {
+                    "mf":"YEARS",
+                    "d":"年",
+                    "f":4432,
+                    "tag":"net",
+                    "s":"2 D 前后照应逻辑推理 雪人的传说已经流传有好些<b>年<\/b>(<b>years<\/b>)了. 从第二段的in the l920s...,第三段的in 1951...,第四段的in 1964...,以及第五段的These <b>years<\/b>可以推断出关于snowman的话题是近几十<b>年<\/b>的事情. 最早的报道始于1920s,",
+                    "url":"http:\/\/www.unjs.com\/Article\/ks\/zx\/20090209090704_117010.html"
+                },
+                {
+                    "mf":"years",
+                    "d":"八年",
+                    "f":95,
+                    "tag":"net",
+                    "s":"Black Knight Story 黑骑士物语 | <b>8 years 八年<\/b> | The GT racing forever 永远的GT赛车",
+                    "url":"http:\/\/popgo.net\/w\/index.php?diff=prev&oldid=9543&printable=yes&title=PSP4000"
+                },
+                {
+                    "mf":"years",
+                    "d":"(两年)",
+                    "f":70,
+                    "tag":"net",
+                    "s":"Work experience in skilled employment (有工作经验的技能型职员) | <b>2 years (两年)--10<\/b> | 4 years (两年)--15",
+                    "url":"http:\/\/club.renren.com\/show_112_64773_1.html"
+                },
+                {
+                    "mf":"years",
+                    "d":"年代",
+                    "f":63,
+                    "tag":"net",
+                    "s":"years 年 | <b>years 年代<\/b> | yellow books 黄皮书",
+                    "url":"http:\/\/www.cibotrans.com\/index.php?fenlei=navigation&m=kejicihui&theid=material-1175580667261328.html"
+                }
+            ],
+            "wf":"1"
+        },
+        {
+            "word":"three years",
+            "des":[
+                {
+                    "mf":"three years",
+                    "d":"年",
+                    "f":528,
+                    "tag":"net",
+                    "s":"签发地 Issue At | <b>3年 three years<\/b> | 签发日期 Issue Date",
+                    "url":"http:\/\/iask.sina.com.cn\/b\/13496093.html"
+                },
+                {
+                    "mf":"Three Years",
+                    "d":"三年",
+                    "f":481,
+                    "tag":"net",
+                    "s":"07 似水流年 Time is floing like water | <b>08 三年 Three years<\/b> | 09 魂牵梦縈 Always in my dream",
+                    "url":"http:\/\/guangdie.cnave.com\/productdetail.php?pid=133288"
+                },
+                {
+                    "mf":"Three years",
+                    "d":"三年? 古老的犯罪",
+                    "f":18,
+                    "tag":"net",
+                    "s":"- How old is that machine gun shit, huh?. - About thre... | <b>Three years?. Come on, man, that&#39;s a old crime, man.|三年? 古老的犯罪<\/b> | They ain&#39;t got room in the joint for all these niggers out here killi...",
+                    "url":"http:\/\/engxue.com.cn\/bencandy.php?aid=426&buy=&fid=6&line=&page=2"
+                },
+                {
+                    "mf":"Three years",
+                    "d":"整整三年",
+                    "f":16,
+                    "tag":"net",
+                    "s":"I&#39;m sorry.|抱歉 | <b>Three years.|整整三年<\/b> | I&#39;ve thought of nothing except Titanic.|我满脑子想的都是泰坦尼克号",
+                    "url":"http:\/\/www.engxue.com\/bencandy.php?aid=700&buy=2&fid=6&line=&page=5"
+                }
+            ]
+        },
+        {
+            "word":"years old",
+            "des":[
+                {
+                    "mf":"years old",
+                    "d":"岁",
+                    "f":241,
+                    "tag":"net",
+                    "s":"a very interesting country 一个很有趣的国家 | <b>years old..... ....岁<\/b> | a little 一点儿",
+                    "url":"http:\/\/www.jydoc.com\/article\/543575.html"
+                },
+                {
+                    "mf":"years old",
+                    "d":"年龄 如:ten years old 十岁",
+                    "f":176,
+                    "tag":"net",
+                    "s":"a kind of 一种... | <b>...years old ...年龄 如:ten years old 十岁<\/b> | like to do sth 喜欢做某事",
+                    "url":"http:\/\/text.k12zy.com\/jiaoan\/html\/2006\/430573.html"
+                },
+                {
+                    "mf":"Years Old",
+                    "d":"八十岁",
+                    "f":28,
+                    "tag":"net",
+                    "s":"10 Miscommunication 理解错误 | <b>11 80 Years Old 八十岁<\/b> | 12 The Russian Baby 俄国婴儿",
+                    "url":"http:\/\/www.amazon.cn\/dp\/bkbk802531"
+                },
+                {
+                    "mf":"years old",
+                    "d":"十四岁",
+                    "f":26,
+                    "tag":"net",
+                    "s":"an interesting book 一本有趣的书.  | <b>27. 14 years old 十四岁<\/b> | 28. a little 一点. 可修饰语言. 如:",
+                    "url":"http:\/\/eblog.cersp.com\/userlog2\/59841\/archives\/2007\/283857.shtml"
+                }
+            ]
+        },
+        {
+            "word":"durable years",
+            "des":[
+                {
+                    "mf":"durable years",
+                    "d":"耐用年数, 可用年限",
+                    "f":305,
+                    "tag":"net",
+                    "s":"working section area 试验段横截面面积 | <b>durable years 耐用年数, 可用年限<\/b> | ovogonium 卵原细胞",
+                    "url":"http:\/\/topic.petrochinaxt.com\/archive\/4a642f8db34a9.html"
+                },
+                {
+                    "mf":"durable years",
+                    "d":"可用年限",
+                    "f":61,
+                    "tag":"net",
+                    "s":"durable sand control system 长效防砂系统 | <b>durable years 可用年限<\/b> | durain 暗煤",
+                    "url":"http:\/\/www.enfans.com\/16\/061C12362008.shtml"
+                },
+                {
+                    "mf":"durable years",
+                    "d":"使用年限",
+                    "f":1,
+                    "tag":"net",
+                    "s":"high water condition year丰水年 | <b>durable years使用年限<\/b> | Z zone(区)域;(地)带",
+                    "url":"http:\/\/www.diantiao.com\/attachments\/folder_0904\/gd6j_pl3.doc"
+                },
+                {
+                    "mf":"durable years",
+                    "d":"耐用年限",
+                    "f":1,
+                    "tag":"net",
+                    "s":"durable shopping bag ==&gt; 耐用购物袋 | <b>durable years ==&gt; 耐用年限<\/b> | durable-press resin ==&gt; 永压树脂",
+                    "url":"http:\/\/www.mapeng.net\/news\/mechanical_English_vocabulary\/2009\/5\/mapeng_09524191636336_129.html"
+                }
+            ]
+        },
+        {
+            "word":"Seven Years",
+            "des":[
+                {
+                    "mf":"Seven Years",
+                    "d":"七年",
+                    "f":300,
+                    "tag":"net",
+                    "s":"<b>02 Seven Years 七年<\/b> | 03 Cold Cold Heart 冷酷的心 | 04 Feelin&#39; The Same Way 似曾相识",
+                    "url":"http:\/\/www.joyo.com\/detail\/product.asp?prodid=bkmu509205&ref=GS&uid=168-5575095-5524233"
+                },
+                {
+                    "mf":"Seven Years",
+                    "d":"(寂寞七岁)",
+                    "f":35,
+                    "tag":"net",
+                    "s":"3、One Flight Down(低调) | <b>4、Seven Years(寂寞七岁)<\/b> | 5、Feelin&#39;The Same Way(一如往昔)",
+                    "url":"http:\/\/mail.fgav.com\/shop\/productdetail\/C9C8CAC5.html"
+                },
+                {
+                    "mf":"seven years",
+                    "d":"你知道 像是 &quot;噢 我已经玩彩弹游戏有大概七年了",
+                    "f":14,
+                    "tag":"net",
+                    "s":"I was taIking all this shit...|我在说所有的这些狗屎... | <b>you know, Iike, &quot;Oh, I&#39;ve been paint balling for, like, seven years&quot;|你知道 像是 &quot;噢 我已经玩彩弹游戏有大概七年了&quot;<\/b> | or whatever.|或其他类似的东...",
+                    "url":"http:\/\/www.engxue.com\/bencandy.php?aid=541&buy=2&fid=7&line=60.12.166.11&page=2"
+                },
+                {
+                    "mf":"Seven years",
+                    "d":"都七年了",
+                    "f":10,
+                    "tag":"net",
+                    "s":"I&#39;m sorry.|对不起 | <b>Seven years!|都七年了<\/b> | I mean, we&#39;ve been together seven years.|我们在一起七年了",
+                    "url":"http:\/\/www.engxue.com\/bencandy.php?aid=194&buy=2&fid=10&line=60.191.233.102&page=7"
+                }
+            ]
+        },
+        {
+            "word":"for years",
+            "des":[
+                {
+                    "mf":"for years",
+                    "d":"好多年, 好长时间",
+                    "f":122,
+                    "tag":"net",
+                    "s":"for the life of me 无论如何(常用于否定句) | <b>for years 好多年,好长时间<\/b> | framed poster 带框的装饰画",
+                    "url":"http:\/\/hxen.com.cn\/toefl\/tingli\/2008-09-24\/53859_2.html"
+                },
+                {
+                    "mf":"for years",
+                    "d":"多年",
+                    "f":91,
+                    "tag":"net",
+                    "s":"2.arrive in... 到达 | <b>4.for years 多年<\/b> | 5.look at... 看",
+                    "url":"http:\/\/bbs.topsage.com\/dispbbs_28_145616_4.html"
+                },
+                {
+                    "mf":"for years",
+                    "d":"多年来",
+                    "f":84,
+                    "tag":"net",
+                    "s":"19.depend on... 取决于 | <b>20.for years 多年来<\/b> | 21.be in place 在适当的地位;适当的,相称的",
+                    "url":"http:\/\/bbs.topsage.com\/dispbbs_28_145616_4.html"
+                },
+                {
+                    "mf":"For years",
+                    "d":"数年",
+                    "f":46,
+                    "tag":"net",
+                    "s":"I think it my duty to protect the weak.责任,弱者 | ┌All these years这些年来 | <b>└For years, 数年<\/b>",
+                    "url":"http:\/\/www.youtheme.cn\/html\/20081016\/7431_2.html"
+                }
+            ]
+        }
+    ],
+    "netsen":[
+        {
+            "cs":"这是30多年的经验。&quot;&quot;",
+            "es":"This is the 30 <b>years<\/b> of experience.&quot;&quot;",
+            "url":"http:\/\/www.oursolo.cn\/realty\/market-shanghai-property-real\/"
+        },
+        {
+            "cs":"我已经73岁了。",
+            "es":"I&#39;m 73 <b>years<\/b> of age.",
+            "url":"http:\/\/bbs.hoopchina.com\/read.php?tid=1173526&toread=1&zz_authorid=3134343"
+        },
+        {
+            "cs":"它有100多年的历史。",
+            "es":"It has more than 100 <b>years<\/b> of history.",
+            "url":"http:\/\/www.rrjkw.cn\/zuowen\/daxue\/4041.html"
+        },
+        {
+            "cs":"你32岁。。。。",
+            "es":"You are 32 <b>years<\/b> of age....",
+            "url":"http:\/\/translate.google.com\/translate_s?eotf=1&hl=en&layout=1&q=how+old+are+you%3F&sl=en&source=translation_tab&tl=zh-CN"
+        },
+        {
+            "cs":"这是600多年前。",
+            "es":"This was more than 6 <b>years<\/b> ago.",
+            "url":"http:\/\/www.emf-health.com\/zh\/blog\/2005\/03\/cell-phones-and-cancer.html&usg=ALkJrhgtMazG4ATodmhwHD93jcrEYh1G3A"
+        },
+        {
+            "cs":"经过100多年的。。。",
+            "es":"During 10 <b>years<\/b>, the...",
+            "url":"http:\/\/search.51job.com\/list\/0200,0000,0000,00,6,99,%2B,2,1.html?address=%B3%A4%C4%FE%C7%F8%D1%D3%B0%B2%CE%F7%C2%B72077%BA%C5%BD%F0%C7%C5%B4%F3%CF%C31207%CA%D2&cotype=01&degreefrom=99&fromType=8%3FfromType%3D21?fromType=22&jobterm=01&lang=c&list_type=0&lonlat=121.41247%2C31.20229&ord_field=1&postchannel=0000&radius=0.03&stype=3&workyear=3"
+        },
+        {
+            "cs":"她是17，我是18岁。",
+            "es":"She was 17 and I was 18 <b>years<\/b> old.",
+            "url":"http:\/\/www.allthingsemily.com\/inner-circle\/zh\/"
+        }
+    ],
+    "dlg":[
+        {
+            "s":"\/商务外贸",
+            "t":"A going concern-(赢利企业)",
+            "c":[
+                {
+                    "n":"A",
+                    "cs":"你海外的分厂进展如何？",
+                    "es":"What&#39;s your overseas branch factory going?"
+                },
+                {
+                    "n":"B",
+                    "cs":"开始不太理想，直到两年以后才开始赢利。",
+                    "es":"Not very good at first. It has been two <b>years<\/b> before it becomes a going concern."
+                },
+                {
+                    "n":"A",
+                    "cs":"一旦打开局面，肯定会越来越好的。",
+                    "es":"Once you break the ice, it will be better and better."
+                },
+                {
+                    "n":"B",
+                    "cs":"但愿如此。",
+                    "es":"I hope so."
+                }
+            ],
+            "u":1
+        },
+        {
+            "s":"\/职场英语",
+            "t":"求职面试",
+            "c":[
+                {
+                    "n":"B",
+                    "cs":"对你目前的工作，能否做个概括的说明。",
+                    "es":"Give me a summary of your current job description."
+                },
+                {
+                    "n":"A",
+                    "cs":"我干了五年的电脑程序员。具体地说，我做系统分析，解决问题以及软件供应方面的支持。",
+                    "es":"I have been working as a computer programmer for five <b>years<\/b>. To be specific, I do system analysis, trouble shooting and provide software support."
+                },
+                {
+                    "n":"B",
+                    "cs":"你为什么离职呢？",
+                    "es":"Why did you leave your last job？"
+                },
+                {
+                    "n":"A",
+                    "cs":"我希望能获得一份更好的工作，如果机会来临，我会抓 住。\/我觉得目前的工作，已经达到顶峰，即沒有升迁机会。",
+                    "es":"Well, I am hoping to get an offer of a better position. If opportunity knocks, I will take it.\/I feel I have reached the &quot;glass ceiling&quot; in my current job. \/ I feel there is no opportunity for advancement."
+                }
+            ],
+            "u":1
+        },
+        {
+            "s":"\/职场英语",
+            "t":"在办公室",
+            "c":[
+                {
+                    "n":"A",
+                    "cs":"我能帮你做点什么？",
+                    "es":"May I help you?"
+                },
+                {
+                    "n":"B",
+                    "cs":"今天是我第一天上班，你知道复印机在哪吗？",
+                    "es":"Yes, today is my first day. Do you know where the photocopier is?"
+                },
+                {
+                    "n":"A",
+                    "cs":"当然，我带你去。我叫凯文，你叫什么名字？",
+                    "es":"Of course. I’ll show you. My name is Kevin. What’s your name?"
+                },
+                {
+                    "n":"B",
+                    "cs":"我叫艾米丽，很高兴见到你。",
+                    "es":"Emily. Nice to meet you."
+                },
+                {
+                    "n":"A",
+                    "cs":"我也是，你在哪个部门工作？",
+                    "es":"Likewise. So, what department are you working in?"
+                },
+                {
+                    "n":"B",
+                    "cs":"我在报名处工作，你呢？",
+                    "es":"I’m working in Admissions. How about you?"
+                },
+                {
+                    "n":"A",
+                    "cs":"我是销售经理。",
+                    "es":"I’m the sales manager."
+                },
+                {
+                    "n":"B",
+                    "cs":"你在这里工作多长时间了？",
+                    "es":"How long have you been working here?"
+                },
+                {
+                    "n":"A",
+                    "cs":"大约六年了。",
+                    "es":"About 6 <b>years<\/b> now."
+                },
+                {
+                    "n":"B",
+                    "cs":"你一定很喜欢这里吧？",
+                    "es":"You must like it then."
+                },
+                {
+                    "n":"A",
+                    "cs":"是的，这是一家不错的公司。员工们很友好，福利业不错。",
+                    "es":"Yes, it’s a good company to work for. The staff is friendly and the benefits are great."
+                },
+                {
+                    "n":"B",
+                    "cs":"你觉得老板怎么样？",
+                    "es":"What do you think about the boss?"
+                },
+                {
+                    "n":"A",
+                    "cs":"还好吧.",
+                    "es":"He’s alright."
+                },
+                {
+                    "n":"B",
+                    "cs":"他很严厉吗？",
+                    "es":"Is he really strict?"
+                },
+                {
+                    "n":"A",
+                    "cs":"不，恰恰相反。他是我所碰到的最随和的老板。",
+                    "es":"No, he’s quite the opposite. He’s the most laid-back boss I’ve ever had."
+                },
+                {
+                    "n":"B",
+                    "cs":"我听说他有时候很容易发脾气。",
+                    "es":"I heard that sometimes he loses his tempter easily."
+                },
+                {
+                    "n":"A",
+                    "cs":"是的，但他过后通常很快就忘了。",
+                    "es":"Sometimes, but usually forgets about it later."
+                },
+                {
+                    "n":"B",
+                    "cs":"他对你大叫过吗？",
+                    "es":"Has he ever yelled at you?"
+                },
+                {
+                    "n":"A",
+                    "cs":"很多次，你只要学会无视他的存在就可以了。",
+                    "es":"Plenty of times. You just have to learn to ignore it."
+                },
+                {
+                    "n":"B",
+                    "cs":"谢谢你的帮助，我现在要复印了。",
+                    "es":"Thanks for the help. I’m going to make these photocopies now."
+                }
+            ],
+            "u":8
+        }
+    ],
+    "lang":"eng"
+}

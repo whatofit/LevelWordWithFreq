@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>or</key>
+	<ps>ɔ:, ə</ps>
+	<pron>http://res.iciba.com/resource/amp3/0/0/e8/1c/e81c4e4f2b7b93b481e13a8553c2ae1b.mp3</pron>
+	<ps>ɔr</ps>
+	<pron>http://res-tts.iciba.com/e/8/1/e81c4e4f2b7b93b481e13a8553c2ae1b.mp3</pron>
+	<pos>conj.</pos>
+	<acceptation>或，或者；还是；不然，否则；左右；
+	</acceptation>
+	<pos>prep.</pos>
+	<acceptation>
+		<古 、 诗>在……之前，比……更早；
+	</acceptation>
+	<pos>n.</pos>
+	<acceptation>[纹章]黑金色、黑色；
+	</acceptation>
+	<sent>
+		<orig>
+			All patriots belong to one big family, whether they rally to the common
+			cause early or late.; All patriots belong to one big family, whether
+			they come forward early or late.
+		</orig>
+		<trans>
+			爱国一家，爱国不分先后。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Do you do aerobics or play tennis, or anything like that?
+		</orig>
+		<trans>
+			你是做有氧健身操还是打网球，或是其他类似的活动？
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Don't just do things simply for the sake of a raise or a promotion or a
+			byline.
+		</orig>
+		<trans>
+			不要只为一次发财、升迁或露脸做事情。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Experience teachs me that whatever a fellow-guest may have of power to instruct
+			or to amuse when he is sitting in a chair, or standing on a
+			hearth-rug, quickly leaves him when he takes one out for a walk.
+		</orig>
+		<trans>
+			经验告诉我们，无论哪一个与我一同作客的人，当他坐在椅子里或站在炉前地毯上的时候，他可能具有教导或逗乐的精力；当他陪别人出去散步的时候，他的这种精力很快就不见了。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			I don't care to see plays or films that depict murders or violence.
+		</orig>
+		<trans>
+			我不喜欢看描写谋杀或暴力的戏剧或电影。
+		</trans>
+	</sent>
+</dict>

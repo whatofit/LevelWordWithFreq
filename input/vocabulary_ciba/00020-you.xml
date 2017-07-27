@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>you</key>
+	<ps>ju:, ju, jə</ps>
+	<pron>http://res-tts.iciba.com/6/3/9/639bae9ac6b3e1a84cebb7b403297b79.mp3</pron>
+	<ps>ju</ps>
+	<pron>http://res-tts.iciba.com/6/3/9/639bae9ac6b3e1a84cebb7b403297b79.mp3</pron>
+	<pos>pron.</pos>
+	<acceptation>你，恁；你们，您们；各位；大家；
+	</acceptation>
+	<sent>
+		<orig>
+			"I", "you"and "he" are all personal pronouns.
+		</orig>
+		<trans>
+			I，you和he都是人称代词。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			In "if I were you" the verb "were" is in the subjunctive.
+		</orig>
+		<trans>
+			在“If I were you”中动词“were”是虚拟语气。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Mountaineers rely on the mountains, just like those by the waterside profit from
+			water.; If you live on a mountain, you live off the mountain; if you
+			live by the water, you live off the water.
+		</orig>
+		<trans>
+			靠山吃山，靠水吃水。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			What time is it now?; What is the time?; Have you the right time?; Can
+			you tell me the time?; What o'clock is it?; What time do you like
+			it?; What do you make the time?
+		</orig>
+		<trans>
+			现在几点钟？
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Whether you go or not is up to you.; You may go or not, as you wish.
+		</orig>
+		<trans>
+			去不去随你。
+		</trans>
+	</sent>
+</dict>

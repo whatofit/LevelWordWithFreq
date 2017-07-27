@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>do</key>
+	<ps>du:, du, də, d</ps>
+	<pron>http://res.iciba.com/resource/amp3/0/0/d4/57/d4579b2688d675235f402f6b4b43bcbf.mp3</pron>
+	<ps>du</ps>
+	<pron>http://res.iciba.com/resource/amp3/1/0/d4/57/d4579b2688d675235f402f6b4b43bcbf.mp3</pron>
+	<pos>aux.</pos>
+	<acceptation>（构成疑问句和否定句）；（代替动词）；（用于加强语气）；
+	</acceptation>
+	<pos>vt.&amp; vi.</pos>
+	<acceptation>做；干；学习；研究；
+	</acceptation>
+	<pos>vt.</pos>
+	<acceptation>整理；算出；引起；行过；
+	</acceptation>
+	<pos>vi.</pos>
+	<acceptation>行，足够；生长；
+	</acceptation>
+	<pos>n.</pos>
+	<acceptation>[口语]事件；[主英国口语]诈骗；[主英国、新西兰口语]宴会；[口语]必须做到的事情；
+	</acceptation>
+	<sent>
+		<orig>
+			Look, you've typed "do" as "so", and made nonsense of the whole sentence.
+		</orig>
+		<trans>
+			瞧，你把do打成了so，这样一来句子就不通了。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Do in Rome as Rome does.; Do as the Romans do.
+		</orig>
+		<trans>
+			入乡随俗。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Do not do to others what you would not have them do to you.
+		</orig>
+		<trans>
+			己所不欲，勿施于人。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			If other people can do it, so can we.; What other people can do we can
+			do, too.
+		</orig>
+		<trans>
+			人家能做到的，我们也能做到。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Why do you egg him on to do what you won't do yourself?
+		</orig>
+		<trans>
+			你自己不干，为什么撺弄他呢？
+		</trans>
+	</sent>
+</dict>

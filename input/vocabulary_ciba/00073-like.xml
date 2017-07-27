@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>like</key>
+	<ps>laik</ps>
+	<pron>http://res.iciba.com/resource/amp3/0/0/be/1a/be1ab1632e4285edc3733b142935c60b.mp3</pron>
+	<ps>laɪk</ps>
+	<pron>http://res.iciba.com/resource/amp3/1/0/be/1a/be1ab1632e4285edc3733b142935c60b.mp3</pron>
+	<pos>vt.</pos>
+	<acceptation>喜欢；（与 would 或 should 连用表示客气）想；想要；喜欢做；
+	</acceptation>
+	<pos>prep.</pos>
+	<acceptation>（表示属性）像；（表示方式）如同；（询问意见）……怎么样；（表示列举）比如；
+	</acceptation>
+	<pos>adj.</pos>
+	<acceptation>相似的；相同的；
+	</acceptation>
+	<pos>n.</pos>
+	<acceptation>相类似的人[事物]；喜好；爱好；（尤指被视为没有某人或某物那么好的）种类，类型；
+	</acceptation>
+	<pos>conj.</pos>
+	<acceptation>像……一样；如同；好像；仿佛；
+	</acceptation>
+	<pos>adv.</pos>
+	<acceptation>（非正式口语，代替 as）和……一样；如；（非正式口语，思考说下句话、解释或举例时用）大概；可能；
+	</acceptation>
+	<sent>
+		<orig>
+			Similes usually start with "like" or "as".
+		</orig>
+		<trans>
+			明喻通常以like或as开头。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			A tiny insect, trying to shake a mighty tree, is ludicrously ignorant
+			of its own weakness.; like ants trying to shake a huge tree,
+			ridiculously overrating themselves; They were merely like ants trying
+			to shake a giant tree. How they overrated themselves!
+		</orig>
+		<trans>
+			蚍蜉撼大树，可笑不自量。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			He looks like his father, and talks like his mother.
+		</orig>
+		<trans>
+			他长得随他父亲，说话的神情随他母亲。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			High in the smooth ocean of sky floated a dazzling, majestic sun.
+			Fragments of powdery cloud,like spray flung from a wave crest,
+			sprinkled the radiant, like-blue heaven.
+		</orig>
+		<trans>
+			静谧而浩瀚的苍穹，高高地悬挂着那庄严而刺眼的太阳。在那蔚蓝的天空中，撒着缕缕的浮云，宛如喷出浪峰的薄雾
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			I can't imagine why a dynamic young woman like her is marrying a
+			shrinking violet like him.
+		</orig>
+		<trans>
+			我不能想像，像她这样一个充满活力的年轻女子为什么会嫁给他这样一个胆怯害羞的人。
+		</trans>
+	</sent>
+</dict>

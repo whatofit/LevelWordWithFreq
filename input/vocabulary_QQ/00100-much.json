@@ -1,0 +1,471 @@
+{
+    "local":[
+        {
+            "word":"much",
+            "sd":"7f3256600f23ada420a7d9356ad4a73a",
+            "pho":[
+                "m&#652;t&#643;"
+            ],
+            "des":[
+                {
+                    "p":"adj.",
+                    "d":"很多的, 许多的"
+                },
+                {
+                    "p":"n.",
+                    "d":"许多, 大量, 重要的事"
+                },
+                {
+                    "p":"adv.",
+                    "d":"非常, 多, 甚, 几乎, 很"
+                },
+                {
+                    "p":"num.",
+                    "d":"许多"
+                }
+            ],
+            "sen":[
+                {
+                    "p":"adj.",
+                    "s":[
+                        {
+                            "es":"There was so <b>much<\/b> food that we couldn&#39;t eat it all.",
+                            "cs":"食物太多了，我们吃不完。"
+                        }
+                    ]
+                },
+                {
+                    "p":"adv.",
+                    "s":[
+                        {
+                            "es":"He doesn&#39;t swim <b>much<\/b>.",
+                            "cs":"他不常游泳。"
+                        },
+                        {
+                            "es":"Our room is <b>much<\/b> bigger than theirs.",
+                            "cs":"我们的房间比他们的大多了。"
+                        }
+                    ]
+                },
+                {
+                    "p":"n.",
+                    "s":[
+                        {
+                            "es":"I don&#39;t see <b>much<\/b> of him.",
+                            "cs":"我不大见到他。"
+                        }
+                    ]
+                }
+            ],
+            "mor":[
+                {
+                    "c":"形容词比较级",
+                    "m":"more"
+                }
+            ],
+            "syn":[
+                {
+                    "p":"adv.",
+                    "c":[
+                        "a great deal"
+                    ]
+                },
+                {
+                    "p":"n.",
+                    "c":[
+                        "volume",
+                        "abundance",
+                        "mass",
+                        "quantity"
+                    ]
+                }
+            ],
+            "ant":[
+                {
+                    "p":"adj.",
+                    "c":[
+                        "little"
+                    ]
+                }
+            ],
+            "ph":[
+                {
+                    "phs":"make much of",
+                    "phd":"重视"
+                },
+                {
+                    "phs":"I thought as much",
+                    "phd":"我也料到"
+                },
+                {
+                    "phs":"much at one",
+                    "phd":"几乎相等, 几乎等价"
+                },
+                {
+                    "phs":"as much",
+                    "phd":"同样多少"
+                },
+                {
+                    "phs":"as much as",
+                    "phd":"差不多"
+                },
+                {
+                    "phs":"not much of a",
+                    "phd":"不善于..., 不很好, 不是怎么了不起的..."
+                },
+                {
+                    "phs":"leave much to be desired",
+                    "phd":"还有许多待改进之处"
+                },
+                {
+                    "phs":"so much",
+                    "phd":"那么多, 全是"
+                },
+                {
+                    "phs":"much more",
+                    "phd":"更加"
+                },
+                {
+                    "phs":"much less",
+                    "phd":"更不"
+                },
+                {
+                    "phs":"up to much",
+                    "phd":"有很大价值的"
+                }
+            ]
+        }
+    ],
+    "netdes":[
+        {
+            "word":"much",
+            "des":[
+                {
+                    "mf":"much",
+                    "d":"多",
+                    "f":16,
+                    "tag":"net",
+                    "s":"根据后面的说法,一个了<b>much<\/b>)的含义是什么,拉丁谚语&quot;大非大&quot;(multum non multa)在&quot;甚<b>多<\/b>&quot;(<b>much<\/b>)一词的两个含义之间作出区分. 迎合一种含义而抛弃另一种含义纯粹是数量方面的. 根据后面的说法,一个了解20个项目的人比一个了解2个项目的人<b>多<\/b>知十倍. ",
+                    "url":"http:\/\/bioguider.com\/ebook\/study\/psycology\/39967_4.html"
+                },
+                {
+                    "mf":"much",
+                    "d":"非常",
+                    "f":3,
+                    "tag":"net",
+                    "s":"8 D 词义比较逻辑推理 直到那时作者才意识到每天早晨作者<b>非常<\/b>(<b>much<\/b>)想看到她. long长时间地;often经常,常常,表示动作出现的频率;soon不久,立刻;<b>much<\/b><b>非常<\/b>,很,表示动作的程度. 9 B 逻辑推理词义比较 作者肯定尊敬(respect)她,",
+                    "url":"http:\/\/hi.baidu.com\/tqingling\/blog\/item\/30e630c8aa24524df31fe777.html"
+                },
+                {
+                    "mf":"much ",
+                    "d":"许多",
+                    "f":1960,
+                    "tag":"net",
+                    "s":"six 六 | <b>much . 许多<\/b> | how much 多少",
+                    "url":"http:\/\/www.hty2008.com\/a\/yingyutingli\/20091217\/3607.html"
+                },
+                {
+                    "mf":"Much",
+                    "d":"麦克麦克",
+                    "f":745,
+                    "tag":"net",
+                    "s":"Monkey: &quot;门槛&quot;精 | <b>Much: 麦克麦克<\/b> | on-sale: 盎三",
+                    "url":"http:\/\/www.shlxhd.gov.cn\/lxbbs\/read.bbscs?action=topic&bid=838&fcaction=index&fcpage=5&id=bd01c1e91f860b23011f87a5105628a4&tagId=0"
+                },
+                {
+                    "mf":"much",
+                    "d":"abbr. many using and creating hypertext; 使用多创新多的超文本",
+                    "f":1,
+                    "tag":"abbr",
+                    "s":-1,
+                    "url":-1
+                },
+                {
+                    "mf":"much",
+                    "d":"abbr. multiple circuit handler; 多线路处理程序",
+                    "f":1,
+                    "tag":"abbr",
+                    "s":-1,
+                    "url":-1
+                }
+            ],
+            "wf":"1"
+        },
+        {
+            "word":"How much",
+            "des":[
+                {
+                    "mf":"How much",
+                    "d":"多少钱",
+                    "f":145340,
+                    "tag":"net",
+                    "s":"去市场或商店里买东西,只要问<b>多少钱<\/b>(<b>How much<\/b>)?便宜点(Cheaper)?打个折(Would you give me a discount)?或者拿个计算器敲数字,最后就可以ok了. 吴哥窟(Angkor)的门票分三种:一天,两至三天,七天. 一般情况下,需要二到三天才可以玩遍. ",
+                    "url":"http:\/\/jiema168.spaces.live.com\/?_c=BlogPart&_c11_BlogPart_BlogPart=blogview&_c11_BlogPart_pagedir=Last"
+                },
+                {
+                    "mf":"How much",
+                    "d":"多少",
+                    "f":2844,
+                    "tag":"net",
+                    "s":"接著将各阶段的结果&quot;如何&quot;(HOW)及&quot;<b>多少<\/b>&quot;(<b>HOW MUCH<\/b>)展开至下一阶段之&quot;什么&quot;(WHAT),如此反覆由矩阵分析而展开至下一阶段,最后展开至制程之管制方法,确保各个阶段之要求、管制皆符合顾客要求. ",
+                    "url":"http:\/\/www.6sq.net\/sup\/index.php\/viewthread-77870.html"
+                },
+                {
+                    "mf":"How much",
+                    "d":"有多少",
+                    "f":24,
+                    "tag":"net",
+                    "s":"监视这种资源:资源<b>有多少<\/b>(<b>How much<\/b>)、状态如何(How)、在哪里(Where)、谁在使用(Who&#39;s)、可以分配的<b>有多少<\/b>(Who&#39;s free)、使用历史(When)等都是监视的含义. 它基于两种环境:多处理器(CPU)系统或 计算机系统(网络)",
+                    "url":"http:\/\/wow8.blog.163.com\/blog\/static\/108561079201041094122612\/"
+                },
+                {
+                    "mf":"How much",
+                    "d":"是多少",
+                    "f":9,
+                    "tag":"net",
+                    "s":"并在&lt;&lt;营销人员职位税明书&gt;&gt;中描述各级各类营销人员(who),明确干什么(what),为什么干(why),对象是谁(whom),什么时间干(when),什么地点(where),如何干(how to do),营销任务多少(how many),营销成本<b>是多少<\/b>(<b>how much<\/b>)以及后果怎么样(how about),",
+                    "url":"http:\/\/www.js56.com\/document\/open.asp?filename=20100429101405.htm&id=34344&path=expert"
+                }
+            ]
+        },
+        {
+            "word":"Much Better",
+            "des":[
+                {
+                    "mf":"Much Better",
+                    "d":"更好",
+                    "f":66,
+                    "tag":"net",
+                    "s":"至于对十年后国家安全的形势,百分之十二点三选择更差(MUCH WORSE),认为是<b>更好<\/b>(<b>MUCH BETTER<\/b>)的人为百分之五点四,,百分之三十二点九看法持平,不知道的人有百分之十二点六. ",
+                    "url":"http:\/\/business.sohu.com\/2004\/01\/26\/66\/article218766634.shtml"
+                },
+                {
+                    "mf":"Much better",
+                    "d":"好多了",
+                    "f":7398,
+                    "tag":"net",
+                    "s":"Fine! 好! | <b>Much better! 好多了. <\/b> | That&#39;s really nice.真好. ",
+                    "url":"http:\/\/zuowen.fhchzx.com\/n1891c97p4.aspx"
+                },
+                {
+                    "mf":"Much better",
+                    "d":"较前更好",
+                    "f":33,
+                    "tag":"net",
+                    "s":"Needs to show more effort!需花气力! | <b>Much better!较前更好!<\/b> | Not up to your usual standard! 不如以前!",
+                    "url":"http:\/\/www.flshzxyy.com\/showart.asp?id=67&page=42"
+                },
+                {
+                    "mf":"much better",
+                    "d":"好得多",
+                    "f":29,
+                    "tag":"net",
+                    "s":"move to Paris 搬到巴黎 | <b>much better 好得多<\/b> | much too 太,非常",
+                    "url":"http:\/\/zhuowenhong.cnpkm.com\/ArticlePrint.aspx?DetailID=301911"
+                }
+            ]
+        },
+        {
+            "word":"That much",
+            "des":[
+                {
+                    "mf":"That much",
+                    "d":"太贵了吧",
+                    "f":2734,
+                    "tag":"net",
+                    "s":"146. How much do you want for that for that?多少钱肯卖? | <b>147. That much?太贵了吧?<\/b> | 148. I&#39;ll tell you what, I&#39;ll give you...那我告诉你吧,我只能出...",
+                    "url":"http:\/\/www.lznews.gov.cn\/bbs\/dispbbs.asp?Id=3708&boardid=20&page=3"
+                },
+                {
+                    "mf":"that much",
+                    "d":"那么多",
+                    "f":38,
+                    "tag":"net",
+                    "s":"try to do sth 尽力去做某事 | <b>16 that much 那么多<\/b> | 17 be said to be doing 据说正在进行",
+                    "url":"http:\/\/www.jsxkzx.com\/show.aspx?cid=13&id=33800"
+                },
+                {
+                    "mf":"that much",
+                    "d":"那么",
+                    "f":9,
+                    "tag":"net",
+                    "s":"turn on 开,打开 | <b>that much 那么......<\/b> | bolt out 匆匆离开",
+                    "url":"http:\/\/blog.sina.com.cn\/s\/blog_417a1feb0100b360.html"
+                },
+                {
+                    "mf":"that much",
+                    "d":"这[那]么多, 这[那]么些",
+                    "f":5,
+                    "tag":"net",
+                    "s":"this much这[那]么多,这[那]么些 | <b>that much这[那]么多,这[那]么些<\/b> | thus much这么多;到这种程度为止",
+                    "url":"http:\/\/edu.sina.com.cn\/en\/2004-04-01\/20299.html"
+                }
+            ]
+        },
+        {
+            "word":"very much",
+            "des":[
+                {
+                    "mf":"very much",
+                    "d":"很;非常",
+                    "f":900,
+                    "tag":"net",
+                    "s":"very 很,非常 (3A3) | <b>very much 很,非常 (4A4)<\/b> | vest 背心 (3B9)",
+                    "url":"http:\/\/home.51.com\/diary.view.php?id=10034867&user=lovekuangjuan"
+                },
+                {
+                    "mf":"very much",
+                    "d":"非常",
+                    "f":886,
+                    "tag":"net",
+                    "s":"forty-two n. 四十二 | <b>very much 非常<\/b> | only adv. 仅仅 adj. 唯一的,单独的",
+                    "url":"http:\/\/mykh.net\/bbs\/viewthread.php?tid=219116"
+                },
+                {
+                    "mf":"very much",
+                    "d":"非常地",
+                    "f":854,
+                    "tag":"net",
+                    "s":"thank you 感谢你(们) | <b>very much 非常地<\/b> | Excuse me用法:",
+                    "url":"http:\/\/blog.sina.com.cn\/s\/blog_460a6042010008j1.html"
+                },
+                {
+                    "mf":"very much",
+                    "d":"很,十分",
+                    "f":68,
+                    "tag":"net",
+                    "s":"answer the question回答这个问题 | <b>very much很,十分<\/b> | a cup of tea 一杯茶",
+                    "url":"http:\/\/blog.sina.com.cn\/s\/blog_60d291d10100e6d9.html"
+                }
+            ]
+        },
+        {
+            "word":"much less",
+            "des":[
+                {
+                    "mf":"much less",
+                    "d":"更不",
+                    "f":801,
+                    "tag":"net",
+                    "s":"make much of 重视;充分利用 . | <b>much less 更不 .<\/b> | much more 更加,何况 .",
+                    "url":"http:\/\/bbs.eduu.com\/viewthread.php?extra=&ordertype=2&tid=35778"
+                },
+                {
+                    "mf":"much less",
+                    "d":"更不用说;更少;不及",
+                    "f":791,
+                    "tag":"net",
+                    "s":"look beyond朝比...更远的地方看;考虑...以后(更大)的问题 | <b>much less更不用说;更少;不及<\/b> | narrow down缩小或限制范围(使更确切)",
+                    "url":"http:\/\/www.toeflcn.net\/2002\/bbs\/printpage-boardid16rootid2529id2530.html"
+                },
+                {
+                    "mf":"much less",
+                    "d":"更谈不上",
+                    "f":573,
+                    "tag":"net",
+                    "s":"many a许多 | <b>much less更谈不上<\/b> | may well很可能",
+                    "url":"http:\/\/chengkao.bfyxedu.com\/a\/huijikaoshi\/redianzhuanti\/2009\/1228\/570.html"
+                },
+                {
+                    "mf":"much less",
+                    "d":"更不用说",
+                    "f":206,
+                    "tag":"net",
+                    "s":"admittedly 无可否认 | <b>much less 更不用说<\/b> | unrealistic 不现实的",
+                    "url":"http:\/\/space.gter.net\/viewthread-880700.html"
+                }
+            ]
+        }
+    ],
+    "netsen":[
+        {
+            "cs":"那是我太爱你了。。。。。。。。。。。。。",
+            "es":"It was too <b>much<\/b>, I love you .............",
+            "url":"http:\/\/blog.sina.com.cn\/s\/blog_52e3be8b0100b7ut.html"
+        },
+        {
+            "cs":"我是多么的想要告诉你，我爱你。。",
+            "es":"And I want to tell you so <b>much<\/b>, I love you ...",
+            "url":"http:\/\/www.kb120.com\/content\/17653209.html"
+        },
+        {
+            "cs":"我爱你，我很爱你",
+            "es":"I love you, I love you so <b>much<\/b>.",
+            "url":"http:\/\/tieba.baidu.com\/f?kz=715744428"
+        },
+        {
+            "cs":"我想要告诉你，我有多爱你。",
+            "es":"I want to tell you how <b>much<\/b> i love you .",
+            "url":"http:\/\/5201314.fr.blog.163.com\/blog\/static\/274925592007451726310"
+        },
+        {
+            "cs":"我爱你，我非常爱你",
+            "es":"I love you, I love you so <b>much<\/b>.",
+            "url":"http:\/\/0772zd.cn\/question\/106297778.html"
+        },
+        {
+            "cs":"我非常地爱你。。。",
+            "es":"I love you so <b>much<\/b>...",
+            "url":"http:\/\/wwww.icoolen.com\/film_veido\/gossip_season2_chapter25"
+        },
+        {
+            "cs":"我想告诉你，我有多爱你。",
+            "es":"I want to tell you that I love you so <b>much<\/b>.",
+            "url":"http:\/\/zhidao.baidu.com\/question\/121093217.html"
+        }
+    ],
+    "dlg":[
+        {
+            "s":"\/衣食住行",
+            "t":"价格",
+            "c":[
+                {
+                    "n":"B",
+                    "cs":"（你花了\/付了\/它是）多少钱？",
+                    "es":"How <b>much<\/b> (did you pay\/ did it cost\/ was it)?"
+                },
+                {
+                    "n":"A",
+                    "cs":"1万4千。",
+                    "es":"$14,000."
+                }
+            ],
+            "u":0
+        },
+        {
+            "s":"\/衣食住行",
+            "t":"道歉及回答",
+            "c":[
+                {
+                    "n":"A",
+                    "cs":"真对不起，造成你那么多的麻烦。",
+                    "es":"I’m terribly sorry to have caused you so <b>much<\/b> trouble."
+                },
+                {
+                    "n":"B",
+                    "cs":"没关系。",
+                    "es":"That’s all right."
+                }
+            ],
+            "u":0
+        },
+        {
+            "s":"\/休闲娱乐",
+            "t":"购物",
+            "c":[
+                {
+                    "n":"B",
+                    "cs":"太贵了。",
+                    "es":"It (is too expensive\/costs too <b>much<\/b>\/ is too <b>much<\/b> money)."
+                },
+                {
+                    "n":"A",
+                    "cs":"但是，它很漂亮。",
+                    "es":"But, it’s so pretty."
+                }
+            ],
+            "u":0
+        }
+    ],
+    "lang":"eng"
+}

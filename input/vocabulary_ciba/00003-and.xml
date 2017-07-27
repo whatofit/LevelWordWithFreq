@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>and</key>
+	<ps>ænd, ənd, ən</ps>
+	<pron>http://res.iciba.com/resource/amp3/0/0/be/5d/be5d5d37542d75f93a87094459f76678.mp3</pron>
+	<ps>ənd, ən,ænd</ps>
+	<pron>http://res.iciba.com/resource/amp3/1/0/be/5d/be5d5d37542d75f93a87094459f76678.mp3</pron>
+	<pos>conj.</pos>
+	<acceptation>和，与；而且；于是，然后；因此；
+	</acceptation>
+	<sent>
+		<orig>
+			"And", "but"and"whereas" are conjunctions.
+		</orig>
+		<trans>
+			and，but和whereas是连词。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			There is a mass of murkiness which neither moonlight nor sunlight can
+			penetrate.; There is gloom above and darkness below, with the rays of
+			the sun and the moon completely shut out.;(The cold winds whirled up
+			the yellow sands) veiling the earth and the sky in shadows and
+			dulling the light of the sun and the moon.
+		</orig>
+		<trans>
+			天昏地暗，日月无光。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			As they grow old, people also accumulate belongings for two other
+			reasons, lack of physical and mental energy, both of which are
+			essential in turning out and throwing out and throwing away,and
+			sentiment.
+		</orig>
+		<trans>
+			当人到老年时，他们还会由于两个原因而积聚东西，其一为缺乏体力和脑力——这两方面的精力在翻出无用的东西并把它们扔掉都是重要的；另一个原因是感情问题。不管是power，force
+			还是strength，都离不开食物中的营养所提供的energy。用作技术术语时，strength的意思的“强度”
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			It's better to go back and make a net than to stand by the pond and long
+			for fish.; Better return home and make a net than long for fish by
+			the waterside.; It's better to go back and make a net than to covet
+			the fish by merely staring into the water -- one should have a
+			down-to-earth style of work to attain one's goal.; One should take
+			practical steps to achieve one's aims.
+		</orig>
+		<trans>
+			临渊羡鱼，莫如退而结网。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			The Great Wall of China is the longest and greatest wall in the world.
+			Starting from the Shanhaiguan Pass in the east and ending at the
+			Jiayuguan Pass in the west, it covers a total length of over 13,400
+			li (6,700 kilometres). If the bricks and stones that went into the
+			construction of the Great Wall were used to pave a road five metres
+			wide and 35 centimetres thick, it would encircle the globe three to
+			four times.
+		</orig>
+		<trans>
+			中国的万里长城是世界上最长最伟大的城墙。它东起山海关，西至嘉峪关，全长13400多里。修筑长城的砖石，如果用来铺筑宽5米、厚35厘米的马路，那就能环绕地球三、四周。
+		</trans>
+	</sent>
+</dict>

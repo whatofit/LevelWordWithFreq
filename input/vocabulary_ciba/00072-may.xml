@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>may</key>
+	<ps>mei</ps>
+	<pron>http://res.iciba.com/resource/amp3/0/0/9a/4b/9a4b6f884971dcb4a5172876b335baab.mp3</pron>
+	<ps>me</ps>
+	<pron>http://res.iciba.com/resource/amp3/1/0/9a/4b/9a4b6f884971dcb4a5172876b335baab.mp3</pron>
+	<pos>aux.</pos>
+	<acceptation>可以；也许；会；但愿；
+	</acceptation>
+	<pos>n.</pos>
+	<acceptation>[May]五月；山楂属植物；（五朔节装饰用的）绿枝花枝；（春天开花的）绣线菊属植物；
+	</acceptation>
+	<sent>
+		<orig>
+			He may come, or he may not.
+		</orig>
+		<trans>
+			他也许会来，也许不会来。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			He may or may not come tomorrow.
+		</orig>
+		<trans>
+			明天他也兴来，也兴不来。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			May your fortune be as boundless as the East Sea and may you live a long
+			and happy life!
+		</orig>
+		<trans>
+			福如东海，寿比南山。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			No one is so old but he may learn.[No one is so old that he may not
+			learn.
+		</orig>
+		<trans>
+			]活到老，学到老。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			On the grassland, it may be fine and sunny one moment, then almost
+			immediately heavy wind and storm may come down on you like winking.
+		</orig>
+		<trans>
+			在草原上， 一会儿晴空万里， 阳光灿烂， 但转瞬间，又会刮起狂风暴雨。
+		</trans>
+	</sent>
+</dict>

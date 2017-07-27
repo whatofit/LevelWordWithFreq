@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>as</key>
+	<ps>æz, əz</ps>
+	<pron>http://res.iciba.com/resource/amp3/0/0/f9/70/f970e2767d0cfe75876ea857f92e319b.mp3</pron>
+	<ps>æz,əz</ps>
+	<pron>http://res.iciba.com/resource/amp3/1/0/f9/70/f970e2767d0cfe75876ea857f92e319b.mp3</pron>
+	<pos>adv.</pos>
+	<acceptation>同样地，一样地；例如；
+	</acceptation>
+	<pos>prep.</pos>
+	<acceptation>作为，以……的身份；如同；
+	</acceptation>
+	<pos>conj.</pos>
+	<acceptation>像，像……一样；由于；同时，当……时；尽管；
+	</acceptation>
+	<pos>n.</pos>
+	<acceptation>阿斯（古罗马重量单位，约373克）；
+	</acceptation>
+	<sent>
+		<orig>
+			Similes usually start with "like" or "as".
+		</orig>
+		<trans>
+			明喻通常以like或as开头。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			The time isn't as important as the terrain; but the terrain isn't as
+			important as unity with the people.
+		</orig>
+		<trans>
+			天时不如地利，地利不如人和。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			As the story goes, she left him as soon as she discovered that he had
+			no money.
+		</orig>
+		<trans>
+			据说她一发现他没有钱就离开了他。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Better work as hard as an ant than lead a parasitic life as a sparrow.
+		</orig>
+		<trans>
+			宁做蚂蚁腿，不做麻雀嘴。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Do English as spoken in the UK and English as spoken in the USA
+			differentiate more as the years pass?
+		</orig>
+		<trans>
+			英式英语与美式英语的差异是否会随着时间推移而进一步加大？
+		</trans>
+	</sent>
+</dict>

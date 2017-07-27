@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>can</key>
+	<ps>kæn, kən</ps>
+	<pron>http://res.iciba.com/resource/amp3/0/0/2c/61/2c61ebff5a7f675451467527df66788d.mp3</pron>
+	<ps>kən,kæn</ps>
+	<pron>http://res.iciba.com/resource/amp3/1/0/2c/61/2c61ebff5a7f675451467527df66788d.mp3</pron>
+	<pos>aux.</pos>
+	<acceptation>能；能够；可以；可能；
+	</acceptation>
+	<pos>vt.</pos>
+	<acceptation>将…装入密封罐中保存；
+	</acceptation>
+	<pos>n.</pos>
+	<acceptation>罐头；（用金属或塑料制作的）容器；（马口铁或其他金属制作的）食品罐头；
+	</acceptation>
+	<sent>
+		<orig>
+			If you invert "I can", you have "can I".
+		</orig>
+		<trans>
+			如果你把I can两词前后颠倒一下，就成了can I。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			He can't do it, nor can I, nor can you, nor can anybody.
+		</orig>
+		<trans>
+			他不能做，我也不能，你也不能，任何人都不能。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			If other people can do it, so can we.; What other people can do we can
+			do, too.
+		</orig>
+		<trans>
+			人家能做到的，我们也能做到。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Neither riches nor honours can corrupt him; neither poverty nor humbleness
+			can make him swerve from principle; and neither threats nor forces
+			can subdue him.
+		</orig>
+		<trans>
+			富贵不能淫， 贫贱不能移，威武不能屈。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			A baby can only receive sense impressions,but it can not understand
+			them.
+		</orig>
+		<trans>
+			婴儿只能接受感官方面的印象，而不能理解。
+		</trans>
+	</sent>
+</dict>

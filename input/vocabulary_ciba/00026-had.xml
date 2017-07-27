@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>had</key>
+	<ps>hæd</ps>
+	<pron>http://res-tts.iciba.com/a/1/e/a1e6cd7f9480f01643245e0b648d9fbe.mp3</pron>
+	<ps>hæd</ps>
+	<pron>http://res.iciba.com/resource/amp3/1/0/a1/e6/a1e6cd7f9480f01643245e0b648d9fbe.mp3</pron>
+	<pos></pos>
+	<acceptation>have的过去式和过去分词；
+	</acceptation>
+	<pos>v.</pos>
+	<acceptation>有（ have的过去式和过去分词 ）；（亲属关系中）接受；拿；买到；
+	</acceptation>
+	<sent>
+		<orig>
+			He waited until everyone had had a say and he had had the opportunity
+			of thinking things over before he put forward a different view from
+			the rest.
+		</orig>
+		<trans>
+			他等到大家发言差不多了，自己反复思考，再提出与众不同的见解。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Both men had hardly had time to realize what had happened when they were
+			thrown violenly into the sea.
+		</orig>
+		<trans>
+			那个人未来得及弄明白所发生的事，突然都被猛烈地抛进了大海。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			A mosquito had bitten her and her arm had swollen up.
+		</orig>
+		<trans>
+			蚊子叮了她，她的手臂肿起来了。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			After their quarrel, Jim and Mary found that their relationship had gone
+			off the boil, and they were never again as loving as they had been.
+		</orig>
+		<trans>
+			吵架过后，吉姆和玛丽发现，他们之间的关系已经冷了下来，再也不会像以前那么相亲相爱了。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Ah Q had always had the greatest contempt for such people as little
+			nuns.
+		</orig>
+		<trans>
+			小尼姑之流是阿Q本来视如草芥的。
+		</trans>
+	</sent>
+</dict>

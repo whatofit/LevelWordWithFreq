@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>by</key>
+	<ps>bai</ps>
+	<pron>http://res.iciba.com/resource/amp3/0/0/df/3f/df3f079de6961496f0460dcfdbf9bca3.mp3</pron>
+	<ps>baɪ</ps>
+	<pron>http://res-tts.iciba.com/d/f/3/df3f079de6961496f0460dcfdbf9bca3.mp3</pron>
+	<pos>prep.</pos>
+	<acceptation>靠，通过；被，由；沿着；按照；
+	</acceptation>
+	<pos>adv.</pos>
+	<acceptation>经过，过去；在侧，在附近；短暂拜访；
+	</acceptation>
+	<sent>
+		<orig>
+			"The Star Chart" written by Gan De and "Astronomy" by Shi Shen of the
+			Warring States Period (475 B.C.-221 B.C.) were the earliest star
+			catalogues in the world. The two star charts presented in the books
+			record positions of 120 stars. These positions, recorded 200 years
+			earlier than those by other countries, are remarkably accurate, even
+			by modern standards.
+		</orig>
+		<trans>
+			中国战国时代甘德著的《星点》和石申著的《天文》是世界上最早的星表。 两表里记有120颗恒星的位置， 至今还非常准确， 比其他国家观测恒星早200多年。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			It's better to go back and make a net than to stand by the pond and long
+			for fish.; Better return home and make a net than long for fish by
+			the waterside.; It's better to go back and make a net than to covet
+			the fish by merely staring into the water -- one should have a
+			down-to-earth style of work to attain one's goal.; One should take
+			practical steps to achieve one's aims.
+		</orig>
+		<trans>
+			临渊羡鱼，莫如退而结网。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			A good share of the answer rested in the kind of pride that is
+			stimulated by the job, by the activity of accomplishing.
+		</orig>
+		<trans>
+			答案很大程度上在于工作和成就所激发出来的那种自豪。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			A sound made by tapping on the hull of a ship will be reflected from
+			the sea bottom, and by measuring the time interval between the taps
+			and the receipt of the echoes the depth of the sea at that point can
+			be calculated.
+		</orig>
+		<trans>
+			在船体上轻轻敲击的声响会从海底反射回来，通过测量敲击和收到回声之间的时间间隔，可以计算出该处海洋的深度。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Admittedly we can make the journey by train, but there is no harm in our
+			travelling by boat.
+		</orig>
+		<trans>
+			乘车固可，乘船亦无不可。
+		</trans>
+	</sent>
+</dict>

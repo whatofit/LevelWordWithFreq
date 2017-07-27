@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>could</key>
+	<ps>kud, kəd</ps>
+	<pron>http://res.iciba.com/resource/amp3/0/0/f0/44/f0441366488bd123be0e5fb7d6c03c2b.mp3</pron>
+	<ps>kʊd</ps>
+	<pron>http://res.iciba.com/resource/amp3/1/0/f0/44/f0441366488bd123be0e5fb7d6c03c2b.mp3</pron>
+	<pos>aux.</pos>
+	<acceptation>“can”的过去式；能够，打算；用于假设语气的条件句；用于虚拟语气的结论句；
+	</acceptation>
+	<sent>
+		<orig>
+			Historically there was no letter "l" in the word "could"; it was inserted by
+			analogy with "would".
+		</orig>
+		<trans>
+			在历史上，could一词中没有字母l；那是按照would一词类推而加上去的
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Neither could theory do without practice, nor could practice do without
+			theory.
+		</orig>
+		<trans>
+			理论没有实践不行，实践没有理论也不行。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			No one could emerge from that avalanche alive, unless one believed that
+			man could rise from the dead.
+		</orig>
+		<trans>
+			没人能从那次雪崩中活着出来，除非相信人能死而复生。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			She could hate as passionately as she could love.
+		</orig>
+		<trans>
+			她能恨得咬牙切齿，也能爱得一往情深。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			The two-way choice system as a reform of the present job assignment
+			system for college graduates means that graduates could choose
+			employers and employers could choose graduates, both of their own
+			free will.
+		</orig>
+		<trans>
+			作为对大学毕业生分配制度的改革，双向选择制度意味着，毕业生可以选择用人单位，用人单位也可以选择毕业生，双方均出于自愿。
+		</trans>
+	</sent>
+</dict>

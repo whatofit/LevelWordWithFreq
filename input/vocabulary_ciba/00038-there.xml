@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>there</key>
+	<ps>ðɛə</ps>
+	<pron>http://res.iciba.com/resource/amp3/0/0/d8/50/d850f04cdb48312a9be171e214c0b4ee.mp3</pron>
+	<ps>ðɛr</ps>
+	<pron>http://res-tts.iciba.com/d/8/5/d850f04cdb48312a9be171e214c0b4ee.mp3</pron>
+	<pos>adv.</pos>
+	<acceptation>在那里；那里；在那一点上；
+	</acceptation>
+	<pos>pron.</pos>
+	<acceptation>表示某物或某人的存在或某事的发生（常用作be, seem或appear的主语）；
+	</acceptation>
+	<pos>int.</pos>
+	<acceptation>（表示满足、烦恼）你瞧，好啦，得啦；
+	</acceptation>
+	<sent>
+		<orig>
+			There are a few mistakes in it.
+		</orig>
+		<trans>
+			这里有几个错误。（比较：There are few mistakes in it.这里几乎没有错误。）
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			There is (but) little hope.
+		</orig>
+		<trans>
+			没有什么希望。（比较：There is a little hope。还有一点希望。）
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Are there any means of getting there?
+		</orig>
+		<trans>
+			有什么方法可以到那里吗？
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			As the old saying goes, where there's a will, there's a way.
+		</orig>
+		<trans>
+			古话说，有志者事竟成。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			However strong you are, there's always someone stronger.; For every able
+			person there is always one still abler.
+		</orig>
+		<trans>
+			强中自有强中手，能人背后有能人。
+		</trans>
+	</sent>
+</dict>

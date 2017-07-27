@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>should</key>
+	<ps>ʃud, ʃəd</ps>
+	<pron>http://res-tts.iciba.com/5/5/f/55f195813a158d82e2934cfac569575d.mp3</pron>
+	<ps>ʃʊd</ps>
+	<pron>http://res.iciba.com/resource/amp3/1/0/55/f1/55f195813a158d82e2934cfac569575d.mp3</pron>
+	<pos>aux.</pos>
+	<acceptation>应该〔不问人称，表示义务，责任〕；大概是，有可能；将会；
+	</acceptation>
+	<pos>v.</pos>
+	<acceptation>shall的过去式；
+	</acceptation>
+	<sent>
+		<orig>
+			All particulars should be carefully checked and verified; nothing should
+			be taken for granted.
+		</orig>
+		<trans>
+			所有细节都应仔细核实，任何事都不能想当然。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			It's better to go back and make a net than to stand by the pond and long
+			for fish.; Better return home and make a net than long for fish by
+			the waterside.; It's better to go back and make a net than to covet
+			the fish by merely staring into the water -- one should have a
+			down-to-earth style of work to attain one's goal.; One should take
+			practical steps to achieve one's aims.
+		</orig>
+		<trans>
+			临渊羡鱼，莫如退而结网。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			One should never intend to do harm to others, but should always guard
+			against the harm others might do to him.
+		</orig>
+		<trans>
+			害人之心不可有，防人之心不可无。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Strategically we should despise all our enemies, but tactically we should take
+			them all seriously.
+		</orig>
+		<trans>
+			在战略上我们要藐视一切敌人，在战术上我们要重视一切敌人。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			We should not insult them, take away their personal effects or try to
+			exact recantations from them, but without exception should treat them
+			sincerely and kindly.
+		</orig>
+		<trans>
+			不加侮辱，不搜财物，不要自首，一律以诚恳和气的态度对待之。
+		</trans>
+	</sent>
+</dict>

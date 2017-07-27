@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>is</key>
+	<ps>iz;z;s</ps>
+	<pron>http://res-tts.iciba.com/a/2/a/a2a551a6458a8de22446cc76d639a9e9.mp3</pron>
+	<ps>ɪz</ps>
+	<pron>http://res.iciba.com/resource/amp3/1/0/a2/a5/a2a551a6458a8de22446cc76d639a9e9.mp3</pron>
+	<pos>vt.&amp; vi.</pos>
+	<acceptation>（与v-ing连用构成现在进行时，与v-ed连用构成被动语态）；
+	</acceptation>
+	<sent>
+		<orig>
+			He is no scholar.
+		</orig>
+		<trans>
+			他根本不是（一个）学者。（比较：He is not a scholar。他不是一个学者。）
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			In conversational English "is not" often contracts to "isn't".
+		</orig>
+		<trans>
+			口头英语中is not常缩写为isn‘t。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Neither statement is true.
+		</orig>
+		<trans>
+			（=Neither of the statements is true。）两种说法都不正确。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			There is (but) little hope.
+		</orig>
+		<trans>
+			没有什么希望。（比较：There is a little hope。还有一点希望。）
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			What is it worth?
+		</orig>
+		<trans>
+			（或How much is it worth？）这值多少钱？
+		</trans>
+	</sent>
+</dict>

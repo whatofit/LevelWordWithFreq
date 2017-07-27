@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>her</key>
+	<ps>hə:</ps>
+	<pron>http://res-tts.iciba.com/a/4/3/a43b4caa46fb39a1d48b89e25f0e79df.mp3</pron>
+	<ps>hɚ, ɚ,hɚr</ps>
+	<pron>http://res.iciba.com/resource/amp3/1/0/a4/3b/a43b4caa46fb39a1d48b89e25f0e79df.mp3</pron>
+	<pos>pron.</pos>
+	<acceptation>（she的宾格）她；（she的所有格）她的；她，指某个国家，（一艘）船；
+	</acceptation>
+	<sent>
+		<orig>
+			He helped her up to her feet by holding her arm.
+		</orig>
+		<trans>
+			他搀着她的手臂帮她站起身来。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Her close relationship with the teacher increased her unpopularity among
+			her schoolmates.
+		</orig>
+		<trans>
+			她和那位老师的密切关系使她在同学中越发不受欢迎。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Her face twisted up with pain as her leg lay bent beneath her.
+		</orig>
+		<trans>
+			她的腿弯曲着压在身子下疼得她痛苦不堪。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Her friends had deserted her, and she was thrown back on her own
+			resources.
+		</orig>
+		<trans>
+			她的朋友们都抛弃了她，因此她只得依靠自己了。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Her mind misgave her about her friend.
+		</orig>
+		<trans>
+			她对她的朋友心存疑虑。
+		</trans>
+	</sent>
+</dict>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>what</key>
+	<ps>hwɔt</ps>
+	<pron>http://res.iciba.com/resource/amp3/0/0/4a/20/4a2028eceac5e1f4d252ea13c71ecec6.mp3</pron>
+	<ps>hwɑt, hwʌt, wɔt, wʌt,hwət, wət</ps>
+	<pron>http://res-tts.iciba.com/4/a/2/4a2028eceac5e1f4d252ea13c71ecec6.mp3</pron>
+	<pos>pron.</pos>
+	<acceptation>（用以询问某人或某事物的词）什么，多少；…的事物；
+	</acceptation>
+	<pos>adj.</pos>
+	<acceptation>…的（事物或人）；
+	</acceptation>
+	<pos>adv.</pos>
+	<acceptation>（用于感叹句中）；
+	</acceptation>
+	<pos>int.</pos>
+	<acceptation>（用以表示不相信或惊奇）；（用以表示未听清楚对方说的话）；
+	</acceptation>
+	<sent>
+		<orig>
+			What has happened?; What's the matter?; What has occurred?; What took
+			place?; What has come about?; Has something come up?; What's up with
+			(sb. and sth.)?
+		</orig>
+		<trans>
+			发生了什么事？
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			What time is it now?; What is the time?; Have you the right time?; Can
+			you tell me the time?; What o'clock is it?; What time do you like
+			it?; What do you make the time?
+		</orig>
+		<trans>
+			现在几点钟？
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			A good student must connect what he reads with what he sees around
+			him.
+		</orig>
+		<trans>
+			一个好学生应该将他读到的东西与他在周围看到的东西联系起来。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			By feeling we tell what is hard from what is soft.
+		</orig>
+		<trans>
+			凭感触分辨软与硬。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Even four horses cannot take back what one has said.; What has been said
+			cannot be unsaid.
+		</orig>
+		<trans>
+			一言既出，驷马难追。
+		</trans>
+	</sent>
+</dict>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>other</key>
+	<ps>ˈʌðə(r</ps>
+	<pron>http://res.iciba.com/resource/amp3/0/0/79/5f/795f3202b17cb6bc3d4b771d8c6c9eaf.mp3</pron>
+	<ps>ˈʌðər</ps>
+	<pron>http://res.iciba.com/resource/amp3/1/0/79/5f/795f3202b17cb6bc3d4b771d8c6c9eaf.mp3</pron>
+	<pos>adj.</pos>
+	<acceptation>别的；其他的；（两个中的）另一个；其余的；
+	</acceptation>
+	<pos>pron.</pos>
+	<acceptation>其他的；（指两个人或事物中的第二个）那个；（指一组中其余的人或事物）其余的；（指与说话人所在位置等相反的方向或地点）另一边；
+	</acceptation>
+	<pos>n.</pos>
+	<acceptation>[the other]对立面；对立的事物；
+	</acceptation>
+	<sent>
+		<orig>
+			There is no need for people to meet each other before they know each
+			other.; You needn't be acquaintances to meet with each other.
+		</orig>
+		<trans>
+			相逢何必曾相识。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			If other people can do it, so can we.; What other people can do we can
+			do, too.
+		</orig>
+		<trans>
+			人家能做到的，我们也能做到。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Old and young cadres learn from each other and encourage each other.
+		</orig>
+		<trans>
+			新老干部相互学习，相互激励。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			The children compete against each other to reach the other end of the
+			pool.
+		</orig>
+		<trans>
+			孩子们互相竞争着抵达池子的另一端。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			They oppose each other also complement each other.
+		</orig>
+		<trans>
+			它们相辅相成。
+		</trans>
+	</sent>
+</dict>

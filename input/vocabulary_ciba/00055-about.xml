@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>about</key>
+	<ps>əˈbaut</ps>
+	<pron>http://res.iciba.com/resource/amp3/0/0/46/b3/46b3931b9959c927df4fc65fdee94b07.mp3</pron>
+	<ps>əˈbaʊt</ps>
+	<pron>http://res.iciba.com/resource/amp3/1/0/46/b3/46b3931b9959c927df4fc65fdee94b07.mp3</pron>
+	<pos>prep.</pos>
+	<acceptation>（表示论及）关于；（表示过程）忙于；（表示对象）对；（表示原因）由于；
+	</acceptation>
+	<pos>adv.</pos>
+	<acceptation>大约；在附近；在四周；几乎；
+	</acceptation>
+	<pos>adj.</pos>
+	<acceptation>在附近的；四处走动的；在起作用的；
+	</acceptation>
+	<sent>
+		<orig>
+			Don't worry about not knowing much about the goods; just compare and you
+			will see which is better.; Don't fear it won't be appreciated; it
+			stands up well to comparison.
+		</orig>
+		<trans>
+			不怕不识货，就怕货比货。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Don't worry about not knowing much about the goods; just compare and you
+			will see which is better.
+		</orig>
+		<trans>
+			不怕不识货，就怕货比货。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			He bitched about the service, then bitched about the bill.
+		</orig>
+		<trans>
+			他埋怨服务不周到，后来又埋怨要钱太多。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Mr. White had a bad cold about a week ago, and he is out and about this
+			morning.
+		</orig>
+		<trans>
+			怀特先生一星期前患了重感冒，今天早晨能出来走走了。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			The next I'd like to talk about is about agriculture.
+		</orig>
+		<trans>
+			下面我要谈的是关于农业问题。
+		</trans>
+	</sent>
+</dict>

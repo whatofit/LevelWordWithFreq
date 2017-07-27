@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>these</key>
+	<ps>ði:z</ps>
+	<pron>http://res.iciba.com/resource/amp3/0/0/bd/4c/bd4c4ea1b44a8ff2afa18dfd261ec2c8.mp3</pron>
+	<ps>ðiz</ps>
+	<pron>http://res.iciba.com/resource/amp3/1/0/bd/4c/bd4c4ea1b44a8ff2afa18dfd261ec2c8.mp3</pron>
+	<pos>adj.</pos>
+	<acceptation>这些的；
+	</acceptation>
+	<pos>pron.</pos>
+	<acceptation>这些；
+	</acceptation>
+	<sent>
+		<orig>
+			Mind you, don't trip over these roots; they're difficult to see under all
+			these leaves.
+		</orig>
+		<trans>
+			当心别被那些树根绊倒，它们埋在这些树叶底下不容易发现。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			These qualities adorn the character of Portia,and these go to accomplish a
+			perfect woman.
+		</orig>
+		<trans>
+			这些品质使得鲍西娅的性格更加光彩照人，也使得一个高尚的女性形象更加完美。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			"The Star Chart" written by Gan De and "Astronomy" by Shi Shen of the
+			Warring States Period (475 B.C.-221 B.C.) were the earliest star
+			catalogues in the world. The two star charts presented in the books
+			record positions of 120 stars. These positions, recorded 200 years
+			earlier than those by other countries, are remarkably accurate, even
+			by modern standards.
+		</orig>
+		<trans>
+			中国战国时代甘德著的《星点》和石申著的《天文》是世界上最早的星表。 两表里记有120颗恒星的位置， 至今还非常准确， 比其他国家观测恒星早200多年。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			A customs union would integrate the economies of these countries.
+		</orig>
+		<trans>
+			关税联盟会把这些国家的经济紧密结合在一起。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			A game that is very popular with these young swimmers is the
+			underwater tricycle race.
+		</orig>
+		<trans>
+			这些幼小的游泳运动员非常喜爱的一项运动就是水下三轮车比赛。
+		</trans>
+	</sent>
+</dict>

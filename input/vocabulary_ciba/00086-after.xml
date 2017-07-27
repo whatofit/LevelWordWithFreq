@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>after</key>
+	<ps>ˈɑ:ftə</ps>
+	<pron>http://res.iciba.com/resource/amp3/0/0/63/2a/632a2406bbcbcd553eec45ac14b40a0a.mp3</pron>
+	<ps>ˈæftɚ</ps>
+	<pron>http://res.iciba.com/resource/amp3/1/0/63/2a/632a2406bbcbcd553eec45ac14b40a0a.mp3</pron>
+	<pos>prep.</pos>
+	<acceptation>……后的；（表示时间）在……以后；（表示位置、顺序）在……后面；
+	</acceptation>
+	<pos>conj.</pos>
+	<acceptation>在……以后；
+	</acceptation>
+	<pos>adv.</pos>
+	<acceptation>以后，继后；
+	</acceptation>
+	<pos>adj.</pos>
+	<acceptation>后来的，以后的；
+	</acceptation>
+	<sent>
+		<orig>
+			After become effective of property insurance contract, those who serve as
+			insurance mark insurance belongings reachs his to concern a benefit,
+			because the meeting is buying and selling, given, accede to wait for
+			the happening of the circumstance and be transferred, after the
+			cession of insurance mark, the alienee that insurance profit meets
+			what change insurance bid subsequently of course.
+		</orig>
+		<trans>
+			财产保险合同生效后，作为保险标的的保险财产及其有关利益，会由于买卖、赠予、继续等情况的发生而转移，保险标的转让后，保险利益当然会随之转移给保险标的的受让人。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			After dinner sit awhile, after supper walk a mile.
+		</orig>
+		<trans>
+			正餐以后，休息片刻；晚餐以后，步行一里。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			The general trend under heaven is that there is bound to be unification
+			after prolonged division and division after prolonged unification.
+		</orig>
+		<trans>
+			天下大势， 分久必合，合久必分。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			"Say after me."the teacher said.
+		</orig>
+		<trans>
+			老师说道“跟我说！”
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			A bright rainbow arched above after the rain.
+		</orig>
+		<trans>
+			雨后彩虹在天上形成弓状。
+		</trans>
+	</sent>
+</dict>

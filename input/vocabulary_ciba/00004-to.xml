@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>to</key>
+	<ps>tu:,tu,tə</ps>
+	<pron>http://res-tts.iciba.com/0/1/b/01b6e20344b68835c5ed1ddedf20d531.mp3</pron>
+	<ps>tu,tə</ps>
+	<pron>http://res.iciba.com/resource/amp3/1/0/01/b6/01b6e20344b68835c5ed1ddedf20d531.mp3</pron>
+	<pos>prep.</pos>
+	<acceptation>向，朝着；到；关于；属于；
+	</acceptation>
+	<pos>adv.</pos>
+	<acceptation>朝一个方向的；到某种状态；关闭；
+	</acceptation>
+	<sent>
+		<orig>
+			In English"to have " conjugates irregularly.
+		</orig>
+		<trans>
+			英语中“to have”变化不规则。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			In Polish the verb 'to be' takes the instrumental case.
+		</orig>
+		<trans>
+			在波兰语中，动词to be 用工具格。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			It's better to go back and make a net than to stand by the pond and long
+			for fish.; Better return home and make a net than long for fish by
+			the waterside.; It's better to go back and make a net than to covet
+			the fish by merely staring into the water -- one should have a
+			down-to-earth style of work to attain one's goal.; One should take
+			practical steps to achieve one's aims.
+		</orig>
+		<trans>
+			临渊羡鱼，莫如退而结网。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			I regret having to tell you to leave[I regret to have to tell you to
+			leave].
+		</orig>
+		<trans>
+			很抱歉，我现在得叫你走。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Bonny Hicks appeared to me to be the paradigmatic example of an
+			autonomous, free-choosing individual who decided early on to
+			construct a lifestyle congenial to her idiosyncratic sense of
+			self-expression.
+		</orig>
+		<trans>
+			对我而言，彭妮充分体现了一个自由自主的人，如何在年轻的时候根据个人的自我表现来决定她所要的生活方式。
+		</trans>
+	</sent>
+</dict>

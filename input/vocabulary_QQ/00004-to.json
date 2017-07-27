@@ -1,0 +1,425 @@
+{
+    "local":[
+        {
+            "word":"to",
+            "sd":"feaa3933cf62830b3bbe8856fa262a79",
+            "pho":[
+                "tu:"
+            ],
+            "des":[
+                {
+                    "p":"prep.",
+                    "d":"向, (表示方向)到, (表示间接关系)给"
+                },
+                {
+                    "p":"adv.",
+                    "d":"向前"
+                }
+            ],
+            "sen":[
+                {
+                    "p":"adv.",
+                    "s":[
+                        {
+                            "es":"The girl came <b>to<\/b> after a while.",
+                            "cs":"过了一会儿那个女孩醒过来了。"
+                        }
+                    ]
+                },
+                {
+                    "p":"prep.",
+                    "s":[
+                        {
+                            "es":"I give a book <b>to<\/b> him.",
+                            "cs":"我给他一本书。"
+                        },
+                        {
+                            "es":"She works from two o&#39;clock <b>to<\/b> ten o&#39;clock.",
+                            "cs":"她从两点钟工作到10点。"
+                        },
+                        {
+                            "es":"The government offered <b>to<\/b> give us financial help.",
+                            "cs":"政府提出在经济上给我们援助。"
+                        },
+                        {
+                            "es":"He wouldn&#39;t dare say rude things about her <b>to<\/b> her face.",
+                            "cs":"他不敢当面对她出言不逊。"
+                        }
+                    ]
+                }
+            ],
+            "ant":[
+                {
+                    "p":"prep.",
+                    "c":[
+                        "from"
+                    ]
+                }
+            ],
+            "ph":[
+                {
+                    "phs":"to and fro",
+                    "phd":"来回"
+                }
+            ]
+        }
+    ],
+    "netdes":[
+        {
+            "word":"To",
+            "des":[
+                {
+                    "mf":"To",
+                    "d":"到",
+                    "f":5392,
+                    "tag":"net",
+                    "s":"Date 从(From) 至(<b>To<\/b>)申请人姓名: 您认识申请人多长时间:从(From)<b>到<\/b>(<b>To<\/b>)申请人姓名: 您认识申请人多长时间:从(From)<b>到<\/b>(<b>To<\/b>)",
+                    "url":"http:\/\/oldweb.fdsm.sh.cn\/emba\/admin\/editor\/UploadFile\/200671093748765.doc"
+                },
+                {
+                    "mf":"to",
+                    "d":"至",
+                    "f":369,
+                    "tag":"net",
+                    "s":"软件会根据情况适当地将其设置为分析的&quot;起始&quot;(Start) 或&quot;终止&quot;(End) 时间. 对于动态、静态和力平衡分析,既可使用伺服电动机,也可使用执行电动机. 在这些分析期间,伺服电动机均处于活动状态. 伺服电动机的&quot;从&quot;(From) 和&quot;<b>至<\/b>&quot;(<b>To<\/b>) 时间是不可编辑的. ",
+                    "url":"http:\/\/www.hotmold.com\/cms\/manual\/proe4\/mech_des\/analysis\/ent_motors_info.htm"
+                },
+                {
+                    "mf":"To",
+                    "d":"收件人",
+                    "f":311,
+                    "tag":"net",
+                    "s":"此外,还有其他几个参数都可以采用同样的方法,比如&quot;<b>收件人<\/b>&quot;(<b>to<\/b>)、&quot;已发送邮件&quot;(sent)、&quot;抄送&quot;(cc)和&quot;邮件大小&quot;(message size)等. 在Outlook菜单的文件夹列表中,有一个放大镜图标的&quot;搜索文件夹&quot;(Search Folders)功能,",
+                    "url":"http:\/\/cn.wsj.com\/gb\/20091002\/ptk152344.asp?source=article"
+                },
+                {
+                    "mf":"to",
+                    "d":"给",
+                    "f":197,
+                    "tag":"net",
+                    "s":"培训项目: 工商管理硕士(MBA) 公共管理硕士(MPA) 工程硕士(GCT) 建造师A可以说从(from)出发地前往(<b>to<\/b>)目的地:也可以说送(send)\/邮寄(post)信件<b>给<\/b>(<b>to<\/b>)人或到(<b>to<\/b>)某地. ",
+                    "url":"http:\/\/www.tjtqedu.com\/n972c31.aspx"
+                },
+                {
+                    "mf":"to",
+                    "d":"abbr. turn-off; 断开",
+                    "f":1,
+                    "tag":"abbr",
+                    "s":-1,
+                    "url":-1
+                },
+                {
+                    "mf":"to",
+                    "d":"abbr. technology operation; 技术操作",
+                    "f":1,
+                    "tag":"abbr",
+                    "s":-1,
+                    "url":-1
+                },
+                {
+                    "mf":"to",
+                    "d":"abbr. the target organ; 靶器官",
+                    "f":1,
+                    "tag":"abbr",
+                    "s":-1,
+                    "url":-1
+                },
+                {
+                    "mf":"to",
+                    "d":"abbr. technical orders; 技术指令",
+                    "f":1,
+                    "tag":"abbr",
+                    "s":-1,
+                    "url":-1
+                }
+            ],
+            "wf":"1"
+        },
+        {
+            "word":"up to",
+            "des":[
+                {
+                    "mf":"up to",
+                    "d":"直到",
+                    "f":7879,
+                    "tag":"net",
+                    "s":"twice a week 一周两次 7A – 2 | <b>up to 直到 7B – 4<\/b> | used to 过去经常;以前经常 8B – 5",
+                    "url":"http:\/\/aghv.cn\/20070708\/188660.html"
+                },
+                {
+                    "mf":"up to",
+                    "d":"胜任",
+                    "f":7396,
+                    "tag":"net",
+                    "s":"Too bad... 很可惜... | <b>up to 胜任<\/b> | we&#39;re yellin&#39; for Ellen! 为...欢呼",
+                    "url":"http:\/\/blog.sina.com.cn\/s\/blog_5db1dccd0100hald.html"
+                },
+                {
+                    "mf":"up to",
+                    "d":"多达",
+                    "f":6991,
+                    "tag":"net",
+                    "s":"entitled to有权享有 | <b>up to多达<\/b> | in the wake of 在...之后",
+                    "url":"http:\/\/movie.edu.cn\/yingyu_3977\/20071227\/t20071227_273327.shtml"
+                },
+                {
+                    "mf":"up to",
+                    "d":"多达;直到;胜任;取决于",
+                    "f":6332,
+                    "tag":"net",
+                    "s":"up to date 在进行中 | <b>up to 多达;直到;胜任;取决于<\/b> | what if 切合目前情况的",
+                    "url":"http:\/\/www.hezhici.com\/sort\/yingyusijikaoshi\/2008-12\/17\/16195588_23.html"
+                }
+            ]
+        },
+        {
+            "word":"Chapman To",
+            "des":[
+                {
+                    "mf":"Chapman To",
+                    "d":"杜汶泽",
+                    "f":21978,
+                    "tag":"net",
+                    "s":"我们就是想让游戏和电影成为同一个世界的两部分. &quot;因此,在游戏中,你照样可以尽情享受电影版的动感体验. ◎导 演 麦兆辉(Alan Mak), 庄文强(Felix Chong)◎主 演 黎明(Leon Lai), <b>杜汶泽<\/b>(<b>Chapman To<\/b>)",
+                    "url":"http:\/\/www.gzcity.com\/o\/show.php?tid=66577"
+                },
+                {
+                    "mf":"Chapman To",
+                    "d":"中国丁字裤美女#迅雷不能播放r杜汶泽",
+                    "f":2,
+                    "tag":"net",
+                    "s":"詹瑞文 Sui-man Chim | <b>中国丁字裤美女#迅雷不能播放r杜汶泽 Chapman To<\/b> | 曾志伟 Eric Tsang",
+                    "url":"http:\/\/gg.20bo.info\/Article.asp?dir=2009-12-27\/3120.html"
+                },
+                {
+                    "mf":"Chapman To",
+                    "d":"监 制 杜汶泽",
+                    "f":2,
+                    "tag":"net",
+                    "s":"◎导 演 彭浩翔 Ho-Cheung Pang | <b>◎监 制 杜汶泽 Chapman To<\/b> | ◎主 演 梁洛施 Isabella Leung",
+                    "url":"http:\/\/star4ish.spaces.live.com\/Blog\/cns!7C53C442BC5EBB81!2062.entry"
+                },
+                {
+                    "mf":"Chapman To",
+                    "d":"是 杜汶泽",
+                    "f":1,
+                    "tag":"net",
+                    "s":"江若琳 Elanne kwong | <b>是 杜汶泽 Chapman To<\/b> | 蔡少芬 Ada Choi",
+                    "url":"http:\/\/yd.tzhaowl.com\/gaoqing\/dianying5458.html"
+                }
+            ]
+        },
+        {
+            "word":"as to",
+            "des":[
+                {
+                    "mf":"as to",
+                    "d":"关于",
+                    "f":626,
+                    "tag":"net",
+                    "s":"句子是:随着CAM实践在美国日渐增多,国家食品和药品监督局(FDA或称我们)发现<b>关于<\/b>(<b>as to<\/b>)CAM产品是否(whether)要遵守(subject to)食品、药品及化妆品法案(下面简称&quot;法案&quot;)和公共卫生署法案(下面简称&quot;卫生署法&quot;)的条文方面有越",
+                    "url":"http:\/\/forum.e2002.com\/viewthread.php?tid=175613"
+                },
+                {
+                    "mf":"as to",
+                    "d":"至于,关于",
+                    "f":17380,
+                    "tag":"net",
+                    "s":"as though 好像,仿佛 | <b>as to 至于,关于<\/b> | as well 也,同样",
+                    "url":"http:\/\/www.enfans.com\/21\/1215ZI52008.shtml"
+                },
+                {
+                    "mf":"as to",
+                    "d":"关于;至于",
+                    "f":236,
+                    "tag":"net",
+                    "s":"be new to 对......不习惯;对......陌生 | <b>as to 关于;至于<\/b> | next to(否定词前)几乎;",
+                    "url":"http:\/\/love0663.com\/viewthread.php?extra=&ordertype=1&tid=1038"
+                },
+                {
+                    "mf":"as to",
+                    "d":"至于",
+                    "f":235,
+                    "tag":"net",
+                    "s":"39 as though好像,仿佛 | <b>40 as to 至于,;<\/b> | 41 as well也,一样",
+                    "url":"http:\/\/chinaekao.com\/archiver\/showtopic-288.aspx"
+                }
+            ]
+        },
+        {
+            "word":"stick to",
+            "des":[
+                {
+                    "mf":"stick to",
+                    "d":"坚持",
+                    "f":8060,
+                    "tag":"net",
+                    "s":"devote... to 贡献给... | <b>stick to 坚持<\/b> | lead to 导致",
+                    "url":"http:\/\/class.canet.com.cn\/web_news\/html\/2008-6\/2008612103636653_2.html"
+                },
+                {
+                    "mf":"stick to",
+                    "d":"坚持,忠于,信守",
+                    "f":6179,
+                    "tag":"net",
+                    "s":"stick out伸出,突出;坚持到底,继续 | <b>stick to坚持,忠于,信守<\/b> | succeed in成功",
+                    "url":"http:\/\/paper77.blog.163.com\/blog\/static\/2831122520073174343255"
+                },
+                {
+                    "mf":"stick to",
+                    "d":"坚持,忠于,信守;紧跟,紧随;粘贴在...上",
+                    "f":2247,
+                    "tag":"net",
+                    "s":"stick out (把...)坚持到底;突出,显眼 | <b>stick to 坚持,忠于,信守;紧跟,紧随;粘贴在...上<\/b> | take after (在外貌、性格等方面)与(父、母等)相像",
+                    "url":"http:\/\/blog.sina.com.cn\/s\/blog_4c8b5dfc010007re.html"
+                },
+                {
+                    "mf":"stick to",
+                    "d":"粘贴在......上;紧跟,紧随;坚持;忠于;信守",
+                    "f":1382,
+                    "tag":"net",
+                    "s":"stand up起立;(论点、证据等)站得住脚 | <b>stick to粘贴在......上;紧跟,紧随;坚持;忠于;信守<\/b> | such as例如,诸如",
+                    "url":"http:\/\/edu.changxue5.com\/web_news\/html\/2009-9\/2009910101317197_3.html"
+                }
+            ]
+        },
+        {
+            "word":"come to",
+            "des":[
+                {
+                    "mf":"come to",
+                    "d":"达到",
+                    "f":4729,
+                    "tag":"net",
+                    "s":"belong to属于, | <b>come to达到,<\/b> | drink to为...干杯,",
+                    "url":"http:\/\/iask.sina.com.cn\/b\/11676972.html"
+                },
+                {
+                    "mf":"come to",
+                    "d":"苏醒",
+                    "f":4144,
+                    "tag":"net",
+                    "s":"come out 出现 | <b>come to 苏醒<\/b> | come up with 想出(主意,想法)赶上,提出",
+                    "url":"http:\/\/ranking.yes-asia.com.cn\/html\/ExamNews\/2008-12-687491249879.html"
+                },
+                {
+                    "mf":"come to",
+                    "d":"总计",
+                    "f":3984,
+                    "tag":"net",
+                    "s":"come at 袭击 | <b>come to 总计<\/b> | come up 出现",
+                    "url":"http:\/\/antonia929.blogchina.com\/blog\/index.html"
+                },
+                {
+                    "mf":"come to",
+                    "d":"总计,达到;苏醒,复原",
+                    "f":3137,
+                    "tag":"net",
+                    "s":"come through 经历,脱险 | <b>come to 总计,达到;苏醒,复原<\/b> | come true 实现,达到",
+                    "url":"http:\/\/yoursit.cn\/mydoc029.htm"
+                }
+            ]
+        }
+    ],
+    "netsen":[
+        {
+            "cs":"我。。。。。。",
+            "es":"<b>To<\/b> me......",
+            "url":"http:\/\/blog.19lou.com\/?uid-12243810-action-viewspace-itemid-1952893"
+        },
+        {
+            "cs":"我要。。。。。。",
+            "es":"I want <b>to<\/b>......",
+            "url":"http:\/\/blog.sina.com.cn\/s\/blog_44b723370100i6br.html"
+        },
+        {
+            "cs":"为了你，我愿意。。。。。。。。",
+            "es":"<b>To<\/b> you, I am willing <b>to<\/b> ........",
+            "url":"http:\/\/bbs.diandian.net\/showtopic.aspx?forumid=141&go=prev&topicid=99369"
+        },
+        {
+            "cs":"我们要做的是。。。",
+            "es":"What we have <b>to<\/b> do...",
+            "url":"http:\/\/www.derenglish.com\/bbs\/dispbbs.asp?Id=1793&boardid=4"
+        },
+        {
+            "cs":"你要做的就是。。。",
+            "es":"What you have <b>to<\/b> do is...",
+            "url":"http:\/\/www.nciku.com\/lewe.p\/vocab?pageSize=10&range=ALL&sortOption=DATE_DESC&sourceID=ME&viewLevel=EXAM&vocabID=155219"
+        },
+        {
+            "cs":"我想对你说，我爱你。",
+            "es":"I want <b>to<\/b> say <b>to<\/b> you , I love you.",
+            "url":"http:\/\/hi.baidu.com\/gyltby2002\/blog\/index\/17"
+        },
+        {
+            "cs":"本研究的目的是。。。。",
+            "es":"The purpose of this study is <b>to<\/b>....",
+            "url":"http:\/\/zhidao.baidu.com\/question\/58730275.html"
+        }
+    ],
+    "dlg":[
+        {
+            "s":"\/谈论节日",
+            "t":"新年快乐",
+            "c":[
+                {
+                    "n":"A",
+                    "cs":"新年快乐!",
+                    "es":"Happy New Year!"
+                },
+                {
+                    "n":"B",
+                    "cs":"新年快乐!",
+                    "es":"The same <b>to<\/b> you!"
+                }
+            ],
+            "u":1
+        },
+        {
+            "s":"\/谈论节日",
+            "t":"新年快乐",
+            "c":[
+                {
+                    "n":"A",
+                    "cs":"祝贺新年!",
+                    "es":"Here’s <b>to<\/b> the New Year!"
+                },
+                {
+                    "n":"B",
+                    "cs":"干杯!",
+                    "es":"Cheers!"
+                }
+            ],
+            "u":0
+        },
+        {
+            "s":"\/休闲娱乐",
+            "t":"自责",
+            "c":[
+                {
+                    "n":"A",
+                    "cs":"我竟然忘了，（真蠢\/愚蠢\/苯）。",
+                    "es":"How (silly\/ stupid\/ lame brained) of me <b>to<\/b> forget."
+                },
+                {
+                    "n":"B",
+                    "cs":"没什么。",
+                    "es":"That’s alright."
+                }
+            ],
+            "u":0
+        }
+    ],
+    "baike":[
+        {
+            "title":"to",
+            "pic":"",
+            "pw":"0",
+            "ph":"0",
+            "abs":"　　1. 英语单词<br>\r\n　　prep.<br>\r\n　　向, 往, 给...,于...,直到...为止, 在...之前, 比, 对, &#91;表示程度、范围&#93; 到, 达<br>\r\n　　情态动词后不加to直接加v.（原）<br>\r\n　　行为动词加to do sth.(如：need) <br>\r\n　　2. &#91;域&#93; Tonga , 汤加<br>\r\n　　3. TO=Technical Observer 技术观察员<br>\r\n　　4.RPG在线游戏。全名“TO星钻物语”。<br>\r\n　　《TO~星钻物语》是一款题裁新颖的RPG在线游戏，舞台是太平洋上的一座小岛，它的名字叫作「卡巴拉岛」。在卡巴拉岛上，你和你的同伴们都必须装扮成各种动物的模样，在岛上进行一场华丽又充满谜题的冒险旅程。<br>\r\n　　试试钻地吧！这座小岛的特色，就是地底上埋藏了许多许多的物品，梦想中的宝物也在其中。还有、还有，虽然是在冒险，但我们可不是流浪，有个温暖的家是很重要的，你可以布置你想要的房",
+            "link":"http://baike.soso.com/v641888.htm"
+        }
+    ],
+    "lang":"eng"
+}

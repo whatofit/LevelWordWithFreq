@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>are</key>
+	<ps>ɑ:</ps>
+	<pron>http://res.iciba.com/resource/amp3/0/0/40/15/4015e9ce43edfb0668ddaa973ebc7e87.mp3</pron>
+	<ps>e(r)</ps>
+	<pron>http://res-tts.iciba.com/4/0/1/4015e9ce43edfb0668ddaa973ebc7e87.mp3</pron>
+	<pos>vi.</pos>
+	<acceptation>（用于第二人称单复数现在时，第一、三人称复数现在时）是；
+	</acceptation>
+	<sent>
+		<orig>
+			There are a few mistakes in it.
+		</orig>
+		<trans>
+			这里有几个错误。（比较：There are few mistakes in it.这里几乎没有错误。）
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Eggs are cheap when they are plentiful and they are dear when they are
+			scare.
+		</orig>
+		<trans>
+			鸡蛋多了就便宜，少了就贵。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			It may also be said that rational, industrious, useful human beings are
+			divided into two classes: first, those whose work is work and whose
+			pleasure is pleasure; and secondly, those whose work and pleasure are
+			one. Of course the former are the majority. They have their
+			compensations.
+		</orig>
+		<trans>
+			也可以说，勤劳而有理性的、对社会有益的人共分为两类：第一类人的工作是工作，娱乐是娱乐；第二类人的工作就是娱乐。当然，第一类人是绝大多数，他们劳逸均衡。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			When all birds are shot, the bow will be set aside;when all hares are
+			killed, the hounds will be stewed and eaten -- kick out sb. after his
+			services are no longer needed.
+		</orig>
+		<trans>
+			鸟尽弓藏，兔死狗烹。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			A few days after the eggs are laid,young frogs which are called
+			tadpole come out of them.
+		</orig>
+		<trans>
+			卵产下几天以后，称为蝌蚪的青蛙幼虫就从卵里出来了。
+		</trans>
+	</sent>
+</dict>

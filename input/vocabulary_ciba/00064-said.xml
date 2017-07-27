@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>said</key>
+	<pos></pos>
+	<acceptation>say的过去式和过去分词；
+	</acceptation>
+	<pos>adj.</pos>
+	<acceptation>
+		<律>上述的；少说为妙；（做）某事有/没有很多优点（或好处）：某事物有/没有多少可说的；说到底；
+	</acceptation>
+	<pos>v.</pos>
+	<acceptation>说，讲（ say的过去式和过去分词 ）；表明；念；说明；
+	</acceptation>
+	<sent>
+		<orig>
+			Even four horses cannot take back what one has said.; What has been said
+			cannot be unsaid.
+		</orig>
+		<trans>
+			一言既出，驷马难追。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			I have said all there is to be said about it.
+		</orig>
+		<trans>
+			关于这件事，该说的我都说了。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			She said nothing but sat there staring blankly.; She said nothing but
+			sat there as if in a trance.
+		</orig>
+		<trans>
+			她话也不说，坐在那里发呆。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			What he said should not be taken lightly.; What he has said carries a lot
+			of weight.
+		</orig>
+		<trans>
+			他这话说得很有分量。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			What he said was self-contradictory.; What he said didn't hang together.
+		</orig>
+		<trans>
+			他讲话前后不符。
+		</trans>
+	</sent>
+</dict>

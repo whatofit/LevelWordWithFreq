@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>if</key>
+	<ps>if</ps>
+	<pron>http://res.iciba.com/resource/amp3/0/0/39/c8/39c8942e1038872a822c0dc75eedbde3.mp3</pron>
+	<ps>ɪf</ps>
+	<pron>http://res.iciba.com/resource/amp3/1/0/39/c8/39c8942e1038872a822c0dc75eedbde3.mp3</pron>
+	<pos>conj.</pos>
+	<acceptation>如果，倘若；即使；〈口〉是否；假设；
+	</acceptation>
+	<pos>n.</pos>
+	<acceptation>条件，设想；
+	</acceptation>
+	<sent>
+		<orig>
+			In "if I were you" the verb "were" is in the subjunctive.
+		</orig>
+		<trans>
+			在“If I were you”中动词“were”是虚拟语气。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			According to one estimate, about19 in20 people can be hypnotizd to some degree
+			if they want to be and if they trust the hypnotist.
+		</orig>
+		<trans>
+			据估计，20个人中有19个人可程度不同地被催眠，如果他们想被催眠并相信催眠的人。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Correct mistakes if you have made any and guard against them if you have
+			not.
+		</orig>
+		<trans>
+			有则改之，无则加勉。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			If a book is hard going, it ought to be good. If it posits a complex
+			moral situation, it ought to be even better.
+		</orig>
+		<trans>
+			如果一本书很难读，那么它应该是一本好书；如果它提出了一个复杂的道德状况，那么它就更应该是本好书了。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			If an administrator has no access to information, it's as if he was
+			purblind and hard of hearing and had a stuffed nose.
+		</orig>
+		<trans>
+			做管理工作的人没有信息，就是鼻子不通，耳目不灵。
+		</trans>
+	</sent>
+</dict>

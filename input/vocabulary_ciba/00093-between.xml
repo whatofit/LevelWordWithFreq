@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>between</key>
+	<ps>biˈtwi:n</ps>
+	<pron>http://res.iciba.com/resource/amp3/0/0/29/42/2942c466ae985c4fe2d8cc9d0c801501.mp3</pron>
+	<ps>bɪˈtwin</ps>
+	<pron>http://res.iciba.com/resource/amp3/1/0/29/42/2942c466ae985c4fe2d8cc9d0c801501.mp3</pron>
+	<pos>prep.</pos>
+	<acceptation>在……之间；私下，暗中；在……中任择其一；来往于……之间；
+	</acceptation>
+	<pos>adv.</pos>
+	<acceptation>当中，中间；
+	</acceptation>
+	<sent>
+		<orig>
+			A child develops rapidly between the ages of 13 and 16.
+		</orig>
+		<trans>
+			孩子在13到16岁之间发育得很快。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			A communication will be opened between the two places.
+		</orig>
+		<trans>
+			两地间的交通即将开通。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			A coolness grew between them.
+		</orig>
+		<trans>
+			他们间的关系变得冷漠了。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			A distinction should be made between the primary and secondary tasks.
+		</orig>
+		<trans>
+			要区别主要的和次要的任务。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			A fierce battle is raging between the two countries.
+		</orig>
+		<trans>
+			这两个国家正在进行一场激战。
+		</trans>
+	</sent>
+</dict>

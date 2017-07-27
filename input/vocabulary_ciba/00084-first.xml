@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>first</key>
+	<ps>fə:st</ps>
+	<pron>http://res.iciba.com/resource/amp3/0/0/8b/04/8b04d5e3775d298e78455efc5ca404d5.mp3</pron>
+	<ps>fɚst</ps>
+	<pron>http://res.iciba.com/resource/amp3/1/0/8b/04/8b04d5e3775d298e78455efc5ca404d5.mp3</pron>
+	<pos>n.</pos>
+	<acceptation>第一，最初；头等；一号，；[乐]高音部；
+	</acceptation>
+	<pos>adv.</pos>
+	<acceptation>最早，最初；首次；宁愿；优先；
+	</acceptation>
+	<pos>adj.</pos>
+	<acceptation>第一流的；最初的，最早的；基本的，概要的；高音的；
+	</acceptation>
+	<pos>num.</pos>
+	<acceptation>第一；
+	</acceptation>
+	<sent>
+		<orig>
+			First comers will be served first.
+		</orig>
+		<trans>
+			先到先招待。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			In the first week the moon is in its first quarter, in the third week
+			it is in its last quarter.
+		</orig>
+		<trans>
+			第一个星期月亮处于上弦月的状态，第三个星期月亮处于下弦月的状态。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			The rule in the restaurant is first come, first served.
+		</orig>
+		<trans>
+			餐馆的规矩是先到先招待。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			"Oh,thank you!" she enthused gratefully."You're a real gem,a diamond of the
+			first water.”
+		</orig>
+		<trans>
+			“谢谢！”她表示感激热情洋溢地说，“你真是一个被人尊敬的人，第一流的好人。”
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			"The Capital Gazatte", first published in the Han Dynasty (206 B. C.-220
+			A. D.), was the earliest newspaper in the world.
+		</orig>
+		<trans>
+			创始于中国汉代的《邸报》是世界上最早的报纸。
+		</trans>
+	</sent>
+</dict>

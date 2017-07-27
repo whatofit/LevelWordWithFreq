@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>at</key>
+	<ps>æt, ət</ps>
+	<pron>http://res.iciba.com/resource/amp3/0/0/7d/0d/7d0db380a5b95a8ba1da0bca241abda1.mp3</pron>
+	<ps>æt,ət</ps>
+	<pron>http://res.iciba.com/resource/amp3/1/0/7d/0d/7d0db380a5b95a8ba1da0bca241abda1.mp3</pron>
+	<pos>prep.</pos>
+	<acceptation>（表示位置）在；因为；（表示方向）在…方面；（表示方式）以…的方式；
+	</acceptation>
+	<pos>n.</pos>
+	<acceptation>阿特（老挝辅币单位，100 阿特 = 1 基普）；
+	</acceptation>
+	<sent>
+		<orig>
+			Your presence is requested at a banquet to be given at the Friendship
+			Hotel at 7:30 p.m. of March 2.
+		</orig>
+		<trans>
+			兹定于三月二日晚七时半在友谊宾馆举行宴会，敬请光临。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			A test tube is closed at one end and open at the other.
+		</orig>
+		<trans>
+			试管一端封闭，一端开口。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Affronted at his impertinence,she stared at him coldly and wordlessly.
+		</orig>
+		<trans>
+			被他的无礼而冒犯，她冷冷地、无言地盯着他。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			After a hard day at work, a nice meal at home is just what the doctor
+			ordered.
+		</orig>
+		<trans>
+			一天的辛苦工作后，家里的一顿美餐正合我意。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			After all the briefing sessions at head office,our sales team is at
+			concert pitch.
+		</orig>
+		<trans>
+			在总公司开过各种情况介绍会后，我们全体销售人员都跃跃欲试，准备大干一场。
+		</trans>
+	</sent>
+</dict>

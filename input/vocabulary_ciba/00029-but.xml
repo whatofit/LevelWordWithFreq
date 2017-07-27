@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>but</key>
+	<ps>bʌt, bət</ps>
+	<pron>http://res-tts.iciba.com/3/7/5/37598dad8f8805ce708ba8c4f67ce367.mp3</pron>
+	<ps>bʌt,bət</ps>
+	<pron>http://res.iciba.com/resource/amp3/1/0/37/59/37598dad8f8805ce708ba8c4f67ce367.mp3</pron>
+	<pos>conj.</pos>
+	<acceptation>但是；而是；除了；只因为；
+	</acceptation>
+	<pos>prep.</pos>
+	<acceptation>除…以外；
+	</acceptation>
+	<pos>adv.</pos>
+	<acceptation>只；不过；只是；另一方面；
+	</acceptation>
+	<pos>n.</pos>
+	<acceptation>借口；推辞；但是；反对；
+	</acceptation>
+	<pos>pron.</pos>
+	<acceptation>[关系代词，意义相当于 who…not, which…not]；
+	</acceptation>
+	<pos>vt.</pos>
+	<acceptation>对…说“但是”；
+	</acceptation>
+	<sent>
+		<orig>
+			"And", "but"and"whereas" are conjunctions.
+		</orig>
+		<trans>
+			and，but和whereas是连词。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			But I have refined everything away by this time—anger, indignation,
+			scorn itself.Nothing left but disgust.
+		</orig>
+		<trans>
+			到这时，我一切不平都没有了——发火，愤慨，嘲笑本身。什么都没了，只有厌恶。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Have grandiose aims but puny abilities,great ambition but little talent.
+		</orig>
+		<trans>
+			眼高手低，志大才疏。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			He's only staying three days, but he arrived with everything but the
+			kitchen sink.
+		</orig>
+		<trans>
+			他只住三天，可是他把一切杂七杂八的东西都带来了。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			She said nothing but sat there staring blankly.; She said nothing but
+			sat there as if in a trance.
+		</orig>
+		<trans>
+			她话也不说，坐在那里发呆。
+		</trans>
+	</sent>
+</dict>

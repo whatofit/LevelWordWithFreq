@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>this</key>
+	<ps>ðis, ðəs</ps>
+	<pron>http://res.iciba.com/resource/amp3/0/0/9e/92/9e925e9341b490bfd3b4c4ca3b0c1ef2.mp3</pron>
+	<ps>ðɪs</ps>
+	<pron>http://res.iciba.com/resource/amp3/1/0/9e/92/9e925e9341b490bfd3b4c4ca3b0c1ef2.mp3</pron>
+	<pos>pron.</pos>
+	<acceptation>这，这个；这事，这人；这时；下面所说的事；
+	</acceptation>
+	<pos>adj.</pos>
+	<acceptation>这，这个；刚过去的，即将到来的；今…，本…；
+	</acceptation>
+	<pos>adv.</pos>
+	<acceptation>这样地；就是这样；这么地；
+	</acceptation>
+	<sent>
+		<orig>
+			Don't mention this problem this evening.
+		</orig>
+		<trans>
+			今晚别提这个问题。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			From this study we can reasonably infer that this behaviour is inherited.
+		</orig>
+		<trans>
+			根据这项研究我们可以合理地推断出这种行为是遗传的。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			He doesn't want to get involved in this dispute.; He's trying to keep
+			out of this quarrel.
+		</orig>
+		<trans>
+			他不想插身在这场纠纷中间。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			How long must this go on?What's the sense of this?
+		</orig>
+		<trans>
+			这种局势要持续多久呢？它有什么意义呢？
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			I do not think this is the right lid for this box. I cannot fit it on.
+		</orig>
+		<trans>
+			我看这个盖子不是盖这个箱子的，我怎么也盖不好它。
+		</trans>
+	</sent>
+</dict>

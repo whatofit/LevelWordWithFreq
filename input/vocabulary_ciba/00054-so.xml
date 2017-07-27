@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>so</key>
+	<ps>səʊ</ps>
+	<pron>http://res.iciba.com/resource/amp3/0/0/b8/07/b807023f87e63b8ada92f79f546ff9cc.mp3</pron>
+	<ps>soʊ</ps>
+	<pron>http://res-tts.iciba.com/b/8/0/b807023f87e63b8ada92f79f546ff9cc.mp3</pron>
+	<pos>adv.</pos>
+	<acceptation>这样；很；（表示程度）这么；同样；
+	</acceptation>
+	<pos>conj.</pos>
+	<acceptation>（表示因果关系）因此；（表示目的）为了；（引出下文）；（认为某事无关紧要，尤用于反驳他人的指责时）（口语）；
+	</acceptation>
+	<pos>pron.</pos>
+	<acceptation>如此；这样；大约；左右；
+	</acceptation>
+	<pos>int.</pos>
+	<acceptation>[表示同意、赞成等] 好啦，就这样吧！停下！（停住）别动！；[表示惊讶、冷淡等] 哦；真的吗；
+	</acceptation>
+	<pos>adj.</pos>
+	<acceptation>真的；事实如此的；如此的；整齐的；
+	</acceptation>
+	<sent>
+		<orig>
+			It is so quiet in the room that you can hear the drop of a pin.
+		</orig>
+		<trans>
+			房间里静得连（地上）掉根针都能听见。[用于so that 结构，有时 that 可以省略]以便，为了，所以
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Look, you've typed "do" as "so", and made nonsense of the whole sentence.
+		</orig>
+		<trans>
+			瞧，你把do打成了so，这样一来句子就不通了。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			An irony is so quiet and so delicate that many readers never notice it.
+		</orig>
+		<trans>
+			一句讥讽的话是那样的温和， 那样的含蓄不露，以致许多读者都没有注意到。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Are you a good swimmer? -- Just so-so. I can't swim far.
+		</orig>
+		<trans>
+			你的游泳技术怎么样？--马马虎虎，游不远。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			But it is more important not to think lies, or to slide into those
+			mechanical and untruthful habits of thought which are so pleasant and
+			so easy as descents to mental ineptitude.
+		</orig>
+		<trans>
+			但是更重要的是不去想谎言，也不陷入无意识的、不诚实的思维习惯，这种思维习惯如此他令人惬意和自在，就象沦为智力低能一样。
+		</trans>
+	</sent>
+</dict>

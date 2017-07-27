@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>it</key>
+	<ps>it</ps>
+	<pron>http://res.iciba.com/resource/amp3/0/0/0d/14/0d149b90e7394297301c90191ae775f0.mp3</pron>
+	<ps>ɪt</ps>
+	<pron>http://res.iciba.com/resource/amp3/1/0/0d/14/0d149b90e7394297301c90191ae775f0.mp3</pron>
+	<pos>pron.</pos>
+	<acceptation>它；他；正好是所需的；事实[情况]；
+	</acceptation>
+	<pos>n.</pos>
+	<acceptation>
+		<美俚>
+			傻瓜，笨蛋；
+			<俚>绝妙的人；理想的东西；登峰造极；
+	</acceptation>
+	<sent>
+		<orig>
+			In "It's a bloody miracle!", "bloody" is used as an intensive word.
+		</orig>
+		<trans>
+			在“It‘s a bloody miracle！”一句中，bloody是用作加强语气的词。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			There are a few mistakes in it.
+		</orig>
+		<trans>
+			这里有几个错误。（比较：There are few mistakes in it.这里几乎没有错误。）
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			They did it themselves.
+		</orig>
+		<trans>
+			（或They themselves did it。）这是他们亲自干的。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			What is it worth?
+		</orig>
+		<trans>
+			（或How much is it worth？）这值多少钱？
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			It (指 swallow) tires not nor does it boast of its power; but belongs to
+			the air, travelling it may be six thousand miles to and from its
+			northern nesting home feeding its flown young as it flies and
+			slipping through a medium that seems to help itspassage even when the
+			wind is adverse.
+		</orig>
+		<trans>
+			它不知疲劳，也不夸耀自己的飞翔能力，然而它在空中十分自如，可以一直飞行6，000英里。飞向北方的筑有鸟巢的家乡以及从那里飞走，在飞行的过程中还要喂养已出窠的雏燕，甚至在顶风的时候也能够不费劲地穿过那似乎有助它迁栖的气流。
+		</trans>
+	</sent>
+</dict>

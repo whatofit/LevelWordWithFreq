@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>when</key>
+	<ps>hwen</ps>
+	<pron>http://res.iciba.com/resource/amp3/0/0/df/49/df491a4de50739fa9cffdbd4e3f4b4bb.mp3</pron>
+	<ps>hwɛn, wɛn</ps>
+	<pron>http://res-tts.iciba.com/d/f/4/df491a4de50739fa9cffdbd4e3f4b4bb.mp3</pron>
+	<pos>adv.</pos>
+	<acceptation>什么时候；（用于时间的表达方式之后）在那时；其时；当时；
+	</acceptation>
+	<pos>conj.</pos>
+	<acceptation>如果；既然；可是；然后；
+	</acceptation>
+	<pos>pron.</pos>
+	<acceptation>什么时候；那时；
+	</acceptation>
+	<pos>n.</pos>
+	<acceptation>时间，时候；日期；场合；
+	</acceptation>
+	<sent>
+		<orig>
+			A lie is as much a lie,when it is whispered or when it is proclaimed
+			at the market cross.
+		</orig>
+		<trans>
+			不管是小声低语还是在市场门口大声叫喊，谎言终归是谎言。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			A man among men is he who knows when to eat humble pie and when to
+			hold his head high.
+		</orig>
+		<trans>
+			大丈夫能屈能伸。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			An overdraft results when a note discounted at a bank is not met when
+			due.
+		</orig>
+		<trans>
+			银行贴现的支票到期而未能支付就成为透支。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Eggs are cheap when they are plentiful and they are dear when they are
+			scare.
+		</orig>
+		<trans>
+			鸡蛋多了就便宜，少了就贵。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Experience teachs me that whatever a fellow-guest may have of power to instruct
+			or to amuse when he is sitting in a chair, or standing on a
+			hearth-rug, quickly leaves him when he takes one out for a walk.
+		</orig>
+		<trans>
+			经验告诉我们，无论哪一个与我一同作客的人，当他坐在椅子里或站在炉前地毯上的时候，他可能具有教导或逗乐的精力；当他陪别人出去散步的时候，他的这种精力很快就不见了。
+		</trans>
+	</sent>
+</dict>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>most</key>
+	<ps>məust</ps>
+	<pron>http://res.iciba.com/resource/amp3/0/0/f7/c0/f7c0a09108cdf26287c1bc5af2ed1f93.mp3</pron>
+	<ps>most</ps>
+	<pron>http://res.iciba.com/resource/amp3/1/0/f7/c0/f7c0a09108cdf26287c1bc5af2ed1f93.mp3</pron>
+	<pos>adv.</pos>
+	<acceptation>最，最多（大）；much的最高级；非常，很；几乎；
+	</acceptation>
+	<pos>adj.</pos>
+	<acceptation>many的最高级；最多的，最大的；大概的；大多数的，大部分的；
+	</acceptation>
+	<pos>n.</pos>
+	<acceptation>最大限度；大部分；大多数人；
+	</acceptation>
+	<sent>
+		<orig>
+			The ant is the most industrious animal; however, it is the most taciturn
+			one.
+		</orig>
+		<trans>
+			没有任何动物比蚂蚁更勤奋，然而它却最沉默寡言。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			The most furious anarchist become the most barefaced apostate.
+		</orig>
+		<trans>
+			最激烈的无政府主义者，居然成了最露骨的变节者。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Under the cash basis of accounting most receipts of money are revenues and
+			most expenditures of money are expenses.
+		</orig>
+		<trans>
+			按现金收付制规定，企业收到的现金大都作为收入处理，付出的现金大都作为费用处理。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			"This advice is most valuable," said Sun Quan.
+		</orig>
+		<trans>
+			孙权曰：“此金玉之论也！”
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			'Why are you drinking whisky at 8 o'clock in the morning?' 'Hair of the
+			dog.I've got the most terrible hangover.'
+		</orig>
+		<trans>
+			“你干吗早上8点喝威士忌？”“解宿醉，从来没有酒后这么难受过。”
+		</trans>
+	</sent>
+</dict>

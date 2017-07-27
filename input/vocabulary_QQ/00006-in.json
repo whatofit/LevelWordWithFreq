@@ -1,0 +1,453 @@
+{
+    "local":[
+        {
+            "word":"in",
+            "sd":"a682775942f673736855240372d5701f",
+            "pho":[
+                "in"
+            ],
+            "des":[
+                {
+                    "p":"prep.",
+                    "d":"在...期间, 在...之内, 从事于, 穿着"
+                },
+                {
+                    "p":"adv.",
+                    "d":"进入, 朝里, 在里面, 在屋里"
+                },
+                {
+                    "p":"adj.",
+                    "d":"在里面的, 在朝的"
+                },
+                {
+                    "p":"n.",
+                    "d":"执政者, 交情"
+                }
+            ],
+            "sen":[
+                {
+                    "p":"adv.",
+                    "s":[
+                        {
+                            "es":"Please come <b>in<\/b>.",
+                            "cs":"请进。"
+                        },
+                        {
+                            "es":"I called on him; but he wasn&#39;t <b>in<\/b>.",
+                            "cs":"我去拜访他，但他不在家。"
+                        }
+                    ]
+                },
+                {
+                    "p":"prep.",
+                    "s":[
+                        {
+                            "es":"<b>In<\/b> which direction did he go?",
+                            "cs":"他朝哪个方向去了？"
+                        },
+                        {
+                            "es":"There is a pencil <b>in<\/b> the box.",
+                            "cs":"匣子里有一枝铅笔。"
+                        },
+                        {
+                            "es":"One child <b>in<\/b> twenty has this disease.",
+                            "cs":"二十个小阿中有一个患有这种疾病。"
+                        }
+                    ]
+                }
+            ],
+            "ant":[
+                {
+                    "p":"prep.",
+                    "c":[
+                        "out"
+                    ]
+                }
+            ],
+            "ph":[
+                {
+                    "phs":"be in on it",
+                    "phd":"熟悉内情"
+                },
+                {
+                    "phs":"be in for it",
+                    "phd":"势必倒霉"
+                },
+                {
+                    "phs":"be in for",
+                    "phd":"必定遭到, 参加"
+                },
+                {
+                    "phs":"in and out",
+                    "phd":"进进出出"
+                }
+            ]
+        }
+    ],
+    "netdes":[
+        {
+            "word":"in",
+            "des":[
+                {
+                    "mf":"in",
+                    "d":"英寸",
+                    "f":2078,
+                    "tag":"net",
+                    "s":" 属性值:长度 - 用毫米(mm),厘米(cm),<b>英寸<\/b>(<b>in<\/b>),磅(pt),象素(px),pica(pc),ex(小写字母x的高度)或em(字体高度)作为度量单位.  百分比 - 相对于其父元素字体大小的百分比. 绝对尺寸分为xx-small, x-small, small, medium,",
+                    "url":"http:\/\/zhidao.baidu.com\/question\/7222831.html"
+                },
+                {
+                    "mf":".in",
+                    "d":"印度",
+                    "f":1487,
+                    "tag":"net",
+                    "s":"中国(c川、原捷克斯洛代克(Cs)、德国(DE)、丹麦(DK)、西班牙(Es)、芬兰(Fi)、法国(FU、英国(oI3)、希腊(GR)、匈牙利(nU、爱尔兰(IE)、以色列(it)、<b>印度<\/b>(<b>IN<\/b>)、冰岛(is)、意大利(r)、日本(SV)、韩国(KR)、荷兰(NT)、挪威(No)、波兰(PL)、瑞典(s",
+                    "url":"http:\/\/xiaowho.blog.china.alibaba.com\/"
+                },
+                {
+                    "mf":"in",
+                    "d":"在...里面",
+                    "f":1170,
+                    "tag":"net",
+                    "s":"转移(trans)带来能转移(transfer)sist-----表示&quot;站&quot;(站一站在那一边, 引申&quot;帮助&quot;,&quot;支持&quot;):去(as--to)&quot;站&quot;一去援助(assist);相反(re)地&quot;站&quot;一抵抗(resist);完全(per-)&quot;站&quot;在那一边一坚持、固执(perslst);&quot;站&quot;<b>在里面<\/b>(<b>in<\/b>)一坚持、强调(<b>in<\/b>",
+                    "url":"http:\/\/video.geedu.cn\/06zaizhi\/english\/在职联考英语词汇速记讲义.DOC"
+                },
+                {
+                    "mf":"In",
+                    "d":"后九洞",
+                    "f":1153,
+                    "tag":"net",
+                    "s":"52、状况:在前九洞(Out)的某洞中,以推杆代替拐杖使用时将其折断,在打<b>后九洞<\/b>(<b>In<\/b>)之前因为有时间而替换. 53、状况:在提交给委员会的记分卡(Score Card)中,某洞的分数少于实际的杆数. 55、状况:提交的记分卡没有记分员(marker)或球员本人的署名. ",
+                    "url":"http:\/\/hi.baidu.com\/seagullliang\/blog\/item\/fd925231ef1d13f21b4cff3d.html"
+                },
+                {
+                    "mf":"in.",
+                    "d":"abbr. interception; 抢断",
+                    "f":1,
+                    "tag":"abbr",
+                    "s":-1,
+                    "url":-1
+                },
+                {
+                    "mf":"in",
+                    "d":"abbr. internet network; 智能网",
+                    "f":1,
+                    "tag":"abbr",
+                    "s":-1,
+                    "url":-1
+                },
+                {
+                    "mf":"in",
+                    "d":"abbr. informationnetwork; 信息网",
+                    "f":1,
+                    "tag":"abbr",
+                    "s":-1,
+                    "url":-1
+                },
+                {
+                    "mf":"in",
+                    "d":"abbr. integrated network; 综合网络",
+                    "f":1,
+                    "tag":"abbr",
+                    "s":-1,
+                    "url":-1
+                },
+                {
+                    "mf":"in",
+                    "d":"abbr. intergrase; 嵌入酶",
+                    "f":1,
+                    "tag":"abbr",
+                    "s":-1,
+                    "url":-1
+                }
+            ],
+            "wf":"1"
+        },
+        {
+            "word":"in detail",
+            "des":[
+                {
+                    "mf":"in detail",
+                    "d":"详细地",
+                    "f":24469,
+                    "tag":"net",
+                    "s":"at large:逃遁的,没有被控制的 <b>详细地<\/b>(<b>in detail<\/b>) 总体来讲(as a whole) 在英文的表达方式中,首先呈现给读者的是结果 写议论文的时候要注意把握观点★privilege n. ",
+                    "url":"http:\/\/bbs.ly.shangdu.com\/viewthread.php?extra=page%3D232&tid=528713"
+                },
+                {
+                    "mf":"in detail",
+                    "d":"详细他",
+                    "f":3000,
+                    "tag":"net",
+                    "s":"in debt 欠债,负债 | <b>in detail 详细他<\/b> | in difficulties 处境困难",
+                    "url":"http:\/\/e.3edu.net\/CET46\/E_44712.html"
+                },
+                {
+                    "mf":"in detail",
+                    "d":"详细的",
+                    "f":925,
+                    "tag":"net",
+                    "s":"derive from 导出;由...来 | <b>in detail 详细的<\/b> | die down 渐渐消失,平息",
+                    "url":"http:\/\/hainan.edu.cn\/kstd\/ShowArticle.jsp?ID=320"
+                },
+                {
+                    "mf":"in detail",
+                    "d":"详细",
+                    "f":182,
+                    "tag":"net",
+                    "s":"<b>in detail详细<\/b> | wake up 醒 | is bound to 有责任(义务)的......",
+                    "url":"http:\/\/www.chinaenglish.com.cn\/html\/2006-12\/10283.html"
+                }
+            ]
+        },
+        {
+            "word":"in debt",
+            "des":[
+                {
+                    "mf":"in debt",
+                    "d":"负债",
+                    "f":5806,
+                    "tag":"net",
+                    "s":"在英语里也常被用来掩盖一些社会问题较为严重的如贫困、犯罪等,例如:<b>负债<\/b>(<b>in debt<\/b>)被称之为钱用得超前了(cash advance)或处于困难之中(in difficulties);一个失业的母亲(unemployed mother)被称之为welfare mother(领取福利金的母亲);",
+                    "url":"http:\/\/ljlwcom.162.71china.com\/bbs\/simple\/index.php?t37611.html"
+                },
+                {
+                    "mf":"in debt",
+                    "d":"欠债,欠情",
+                    "f":8534,
+                    "tag":"net",
+                    "s":"in danger \\\/ \\\/ 在危险中,垂危 | <b>in debt \\\/ \\\/ 欠债,欠情<\/b> | in detail \\\/ \\\/ 详细地",
+                    "url":"http:\/\/jsntjh1234.ycool.com\/index5.html"
+                },
+                {
+                    "mf":"in debt",
+                    "d":"欠债",
+                    "f":6639,
+                    "tag":"net",
+                    "s":"up to date 时新的 | <b>in debt 欠债<\/b> | in debt 欠债",
+                    "url":"http:\/\/www.chengkao88.cn\/gaozhong\/yingyu\/2217.shtml"
+                },
+                {
+                    "mf":"in debt",
+                    "d":"欠债,负债",
+                    "f":3126,
+                    "tag":"net",
+                    "s":"in demand 非常需要的,受欢迎的 | <b>in debt 欠债,负债<\/b> | in detail 详细他",
+                    "url":"http:\/\/e.3edu.net\/CET46\/E_44712.html"
+                }
+            ]
+        },
+        {
+            "word":"in all",
+            "des":[
+                {
+                    "mf":"in all",
+                    "d":"总共,合计",
+                    "f":9452,
+                    "tag":"net",
+                    "s":"all over 遍及,到处 | <b>in all 总共,合计<\/b> | not at all 一点也不",
+                    "url":"http:\/\/www.enfans.com\/21\/1215ZI52008.shtml"
+                },
+                {
+                    "mf":"in all",
+                    "d":"总共,共计",
+                    "f":6512,
+                    "tag":"net",
+                    "s":"in all directions 向四面八方 | <b>in all 总共,共计<\/b> | in and out 进进出出",
+                    "url":"http:\/\/xiaoshuo59561.580590.com\/htmlbook\/53\/53020\/27_B.html"
+                },
+                {
+                    "mf":"in all",
+                    "d":"总共",
+                    "f":3126,
+                    "tag":"net",
+                    "s":"first of all 首先 | <b>in all 总共<\/b> | most of all 最最",
+                    "url":"http:\/\/gaokao.zxxk.com\/Article\/0903\/64691.shtml"
+                },
+                {
+                    "mf":"in all",
+                    "d":"总共,总计",
+                    "f":2064,
+                    "tag":"net",
+                    "s":"all over遍及,到处 | <b>in all总共,总计<\/b> | not at all一点也不",
+                    "url":"http:\/\/bbs.topsage.com\/dispbbs_28_15614_122.html"
+                }
+            ]
+        },
+        {
+            "word":"in addition",
+            "des":[
+                {
+                    "mf":"in addition",
+                    "d":"外",
+                    "f":11,
+                    "tag":"net",
+                    "s":"此处使用的是&quot;根据&quot;(in accordance with),而不是&quot;此<b>外<\/b>&quot;(<b>in addition<\/b>). 因此,该项要求是对第3条第1款最后一句(在公布的报告中提供合理结论)要求的解释.  美国在听证会上称,第4条第2款(c)项不适用于主管当局证明未预见发展. 这是错误的. ",
+                    "url":"http:\/\/www.51lw.com\/fllw\/gjflw\/23250.html"
+                },
+                {
+                    "mf":"in addition",
+                    "d":"另外,加之",
+                    "f":8357,
+                    "tag":"net",
+                    "s":"in accordance with 与......一致,按照 | <b>in addition 另外,加之<\/b> | in addition to 除......之外(还)",
+                    "url":"http:\/\/www.eduen.cn\/page\/09-10-26\/16427.html"
+                },
+                {
+                    "mf":"in addition",
+                    "d":"另外",
+                    "f":7134,
+                    "tag":"net",
+                    "s":"in addition to 除...之外(还有) | <b>in addition 另外<\/b> | in advance of 在...的前面;超过",
+                    "url":"http:\/\/xiaoshuo59561.580590.com\/htmlbook\/53\/53020\/27_B.html"
+                },
+                {
+                    "mf":"In addition",
+                    "d":"再次",
+                    "f":4640,
+                    "tag":"net",
+                    "s":"96.其次 Second, Secondly, In the second place | <b>97. 再次 Besides,In addition, Additionally, Moreover, Furthermore<\/b> | 98. 最后 Finally, Last but not the least, Above all, Lastly,",
+                    "url":"http:\/\/dateacher.b2.redidc.com\/english\/ShowArticle.asp?ArticleID=3266"
+                }
+            ]
+        },
+        {
+            "word":"in particular",
+            "des":[
+                {
+                    "mf":"in particular",
+                    "d":"特别,尤其",
+                    "f":9947,
+                    "tag":"net",
+                    "s":"in part 部分地 | <b>in particular 特别,尤其<\/b> | in person 亲自",
+                    "url":"http:\/\/www.0771.chinack.net\/news_info\/new_5002.html"
+                },
+                {
+                    "mf":"in particular",
+                    "d":"特别地,尤其,详细地",
+                    "f":5189,
+                    "tag":"net",
+                    "s":"particle &quot;n.粒子,微粒;小品词,虚词; &quot; | <b>in particular 特别地,尤其,详细地<\/b> | partly &quot;ad.部分地,不完全地; &quot;",
+                    "url":"http:\/\/yoursit.cn\/mydoc029.htm"
+                },
+                {
+                    "mf":"in particular",
+                    "d":"特别,尤其;详细地",
+                    "f":2115,
+                    "tag":"net",
+                    "s":"take part with 与...站在一边,袒护 . | <b>in particular 特别,尤其;详细地 .<\/b> | pass away 消失;去世;终止 .",
+                    "url":"http:\/\/bbs.eduu.com\/viewthread.php?extra=&ordertype=2&tid=35778"
+                },
+                {
+                    "mf":"in particular",
+                    "d":"特别是",
+                    "f":2080,
+                    "tag":"net",
+                    "s":"9. community n.公社、团体、社会 | <b>10. in particular 特别是<\/b> | 11. consequent adj.作为结果的, 随之发生的",
+                    "url":"http:\/\/sl.iciba.com\/viewthread-44-30823-0.shtml"
+                }
+            ]
+        }
+    ],
+    "netsen":[
+        {
+            "cs":"在世界上的。。。",
+            "es":"<b>In<\/b> the world of the ...",
+            "url":"http:\/\/www.playstation3facts.com\/chinese.php?u=\/permalink.php%3Farticle%3Dps3-vs-nintendo-wii.txt"
+        },
+        {
+            "cs":"所以，你在你的梦里。。。。。。。。。。。",
+            "es":"So you are <b>in<\/b> your dreams...........",
+            "url":"http:\/\/tieba.baidu.com\/f?kz=703590822"
+        },
+        {
+            "cs":"在这里。在我的。。。",
+            "es":"Here, it&#39;s <b>in<\/b> my.....",
+            "url":"http:\/\/sl.iciba.com\/viewthread-83-524268-1.shtml"
+        },
+        {
+            "cs":"幸福到底是什么。。。。。。。。。。。。。。",
+            "es":"What is happiness <b>in<\/b> the end ..............",
+            "url":"http:\/\/zhuzhu329876996.blog.163.com\/blog\/static\/69201374200810201927245"
+        },
+        {
+            "cs":"我是支持你的。",
+            "es":"I&#39;m <b>in<\/b> favor of you.",
+            "url":"http:\/\/hi.baidu.com\/winternj\/blog\/item\/438e77cf8900183bf9dc61e5.html"
+        },
+        {
+            "cs":"我也爱你。",
+            "es":"I&#39;m <b>in<\/b> love with you.",
+            "url":"http:\/\/wendang.baidu.com\/view\/e0b19dc69ec3d5bbfd0a74b1.html"
+        },
+        {
+            "cs":"我没有。。。的经验。",
+            "es":"I have no experience <b>in<\/b>...",
+            "url":"http:\/\/kaixin67954.blog.163.com\/blog\/static\/71436741200832103141307"
+        }
+    ],
+    "dlg":[
+        {
+            "s":"\/谈论节日",
+            "t":"结婚纪念日",
+            "c":[
+                {
+                    "n":"A",
+                    "cs":"你父母的结婚纪念日是在哪天？",
+                    "es":"When is your parents’ wedding anniversary?"
+                },
+                {
+                    "n":"B",
+                    "cs":"他们的结婚纪念日是在八月。",
+                    "es":"Their anniversary is <b>in<\/b> August."
+                }
+            ],
+            "u":1
+        },
+        {
+            "s":"\/衣食住行",
+            "t":"锻炼",
+            "c":[
+                {
+                    "n":"B",
+                    "cs":"它可以帮助我保持（体形\/健康的身体\/身材）。",
+                    "es":"It helps keep me (fit\/ healthy\/ <b>in<\/b> shape)."
+                },
+                {
+                    "n":"A",
+                    "cs":"对呀。",
+                    "es":"That’s good."
+                }
+            ],
+            "u":0
+        },
+        {
+            "s":"\/谈论节日",
+            "t":"结婚纪念日",
+            "c":[
+                {
+                    "n":"A",
+                    "cs":"结婚纪念日快乐。",
+                    "es":"Happy anniversary!"
+                },
+                {
+                    "n":"B",
+                    "cs":"谢谢你陪我共度人生。",
+                    "es":"Thanks for being <b>in<\/b> my life."
+                }
+            ],
+            "u":1
+        }
+    ],
+    "baike":[
+        {
+            "title":"in",
+            "pic":"http://baike.soso.com/p/20090716/bki-20090716115104-1000559435.jpg",
+            "pw":"120",
+            "ph":"120",
+            "abs":"\r\n　　IN=in fashion，流行中的，时尚的，反义词out，就是过时的，落伍的。 <br>　　如:朱德庸曾说过，现在两个人至out，一个人才最in。<br>\r\n　　又如: 夏日最IN 短裙与短裤<br/>\r\n\r\n　　In 英文名： Indium 中文名： 铟 <br><br/>\r\n　　杨氏模量（弹性）：GPa11<br><br/>\r\n　　原子化焓：kJ \/mol @25℃242.7 <br><br/>\r\n　　热容：J \/（mol· K） 26.74 <br><br/>\r\n　　导电性：10^6\/(cm ·Ω )0.116<br><br/>\r\n　　导热系数：W\/（m·K）81.8 <br><br/>\r\n　　熔化热:(千焦\/摩尔) 3.263<br><br/>\r\n　　汽化热:(千焦\/摩尔) 231.50<br><br/>\r\n　　元素在宇宙中的含量:(ppm)0.0003<br><br/>\r\n　　相对原子质量： 114.82 <br><br/>\r\n　　常见化合价： +1,+2,+3 <br><br/>\r\n　　电负性： 1.5 <br><br/>\r\n　　外围电子排布： 5s2 5p1 <br><br/>\r\n　　核外电子排布： 2,8,18,18,3 <br><br/>\r\n　　同位素及放射线： In-111&#91;2.",
+            "link":"http://baike.soso.com/v1652997.htm"
+        }
+    ],
+    "lang":"eng"
+}

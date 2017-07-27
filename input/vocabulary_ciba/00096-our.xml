@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>our</key>
+	<ps>ˈauə</ps>
+	<pron>http://res.iciba.com/resource/amp3/0/0/16/2e/162e31afc5ade88a04d3f428e97e8f46.mp3</pron>
+	<ps>aʊr</ps>
+	<pron>http://res-tts.iciba.com/1/6/2/162e31afc5ade88a04d3f428e97e8f46.mp3</pron>
+	<pos>pron.</pos>
+	<acceptation>
+		我们的，we的所有格形式；
+		<口>我们家；敝；
+	</acceptation>
+	<sent>
+		<orig>
+			Our economy continues to grow, our financial foundation remains solid,
+			our society remains pluralistic, and our politicians continue to
+			debate openly on all the topical issues.
+		</orig>
+		<trans>
+			香港的经济继续蓬勃增长，财政基础依然稳固，社会维持多元化。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			There's no pleasing our teacher, he always grumbles about our work even when
+			we've done our best.
+		</orig>
+		<trans>
+			没有办法取悦我们的老师，他总是埋怨我们的学业不好，即使我们竭尽努力也不行。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Bandits broke into our house and stole all our money.
+		</orig>
+		<trans>
+			强盗闯入我们的住宅，偷走了所有的钱。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			From then on we raised our heads and became our own masters.
+		</orig>
+		<trans>
+			从此我们抬起头来当家做主了。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			How does our product stack up against those of our competitors?
+		</orig>
+		<trans>
+			我们的产品与我们的竞争者的产品比起来如何？
+		</trans>
+	</sent>
+</dict>

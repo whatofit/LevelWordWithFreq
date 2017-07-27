@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>them</key>
+	<ps>ðem,ðəm</ps>
+	<pron>http://res-tts.iciba.com/e/8/8/e886b5e8a9e6a8b1a306ac1efb18ec84.mp3</pron>
+	<ps>ðɛm,ðəm</ps>
+	<pron>http://res.iciba.com/resource/amp3/1/0/e8/86/e886b5e8a9e6a8b1a306ac1efb18ec84.mp3</pron>
+	<pos>pron.</pos>
+	<acceptation>他们；她们；它们；
+	</acceptation>
+	<sent>
+		<orig>
+			We should not insult them, take away their personal effects or try to
+			exact recantations from them, but without exception should treat them
+			sincerely and kindly.
+		</orig>
+		<trans>
+			不加侮辱，不搜财物，不要自首，一律以诚恳和气的态度对待之。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			While they have not got their aims, their anxiety is how to get them; when
+			they have got them, their anxiety is lest they should lose them.
+		</orig>
+		<trans>
+			其未得之也，患得之；既得之，患失之。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Ask them to be more careful. Don't let them get slack.
+		</orig>
+		<trans>
+			你要他们仔细点，不要马马虎虎。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Don't lend books to your friends; it's difficult to recover the books from
+			them when you want them.
+		</orig>
+		<trans>
+			不要把书借给你的朋友们，因为在你需要时，很难从他们那儿把书要回来。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Encouraged by them, old men and women also joined them.
+		</orig>
+		<trans>
+			在他们的鼓舞下，老年人和妇女也都加入了他们的行列。
+		</trans>
+	</sent>
+</dict>

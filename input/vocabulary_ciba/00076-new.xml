@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>new</key>
+	<ps>nju:</ps>
+	<pron>http://res.iciba.com/resource/amp3/0/0/22/af/22af645d1859cb5ca6da0c484f1f37ea.mp3</pron>
+	<ps>nu, nju</ps>
+	<pron>http://res-tts.iciba.com/2/2/a/22af645d1859cb5ca6da0c484f1f37ea.mp3</pron>
+	<pos>adj.</pos>
+	<acceptation>新的，崭新的；新鲜的，新到的；现代的；初次（听到）的；
+	</acceptation>
+	<pos>adv.</pos>
+	<acceptation>新近，最近；
+	</acceptation>
+	<sent>
+		<orig>
+			All things take on a new aspect.; Everything looks new and fresh.
+		</orig>
+		<trans>
+			万象更新。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			As a great many people will be visiting the country, the government
+			will be building new hotels, an immense stadium, and a fine new
+			swimming pool.
+		</orig>
+		<trans>
+			因为很多人将要访问这个国家，政府将要建造新的旅馆，一个巨大的体育场和一个漂亮的新游泳池。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Best wishes for your new home.; Congratulations on your new home.
+		</orig>
+		<trans>
+			恭贺乔迁之喜！
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			I had new clothes, a new hairstyle—the whole caboodle.
+		</orig>
+		<trans>
+			我身穿新衣服，头理新发型，焕然一新。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Is learning a foreign language a question of learning new skills or a
+			question of acquiring new knowledge?
+		</orig>
+		<trans>
+			学习外国语是学习一种新技能，还是获取新知识呢？
+		</trans>
+	</sent>
+</dict>

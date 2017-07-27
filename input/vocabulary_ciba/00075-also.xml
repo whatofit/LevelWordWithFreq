@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>also</key>
+	<ps>ˈɔ:lsəu</ps>
+	<pron>http://res.iciba.com/resource/amp3/0/0/07/cc/07ccfe360dce69b84595428e2ec1c1cc.mp3</pron>
+	<ps>ˈɔlso</ps>
+	<pron>http://res.iciba.com/resource/amp3/1/0/07/cc/07ccfe360dce69b84595428e2ec1c1cc.mp3</pron>
+	<pos>adv.</pos>
+	<acceptation>也；同样；并且；
+	</acceptation>
+	<pos>conj.</pos>
+	<acceptation>另外；
+	</acceptation>
+	<sent>
+		<orig>
+			Accounting principles are also referred to as standards.
+		</orig>
+		<trans>
+			会计原则也可称作会计标准。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Administrative personnel should also acquire some technical skills.
+		</orig>
+		<trans>
+			管理人员也应该学几门手艺。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Air not only occupies space but it also has weight.
+		</orig>
+		<trans>
+			空气不仅占据空间，而且它还具有重量。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			An advocate for John could make out a case for him on this score also.
+		</orig>
+		<trans>
+			约翰的一位律师在这方面也能提出有利于他的理由。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			And not only to peace, but also to democratic institutions and personal
+			liberty.
+		</orig>
+		<trans>
+			同时不仅是对和平的威胁，而且也是对民主制度和个人自由的威胁。
+		</trans>
+	</sent>
+</dict>

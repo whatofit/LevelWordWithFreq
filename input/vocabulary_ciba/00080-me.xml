@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>me</key>
+	<ps>mi:, mi</ps>
+	<pron>http://res-tts.iciba.com/a/b/8/ab86a1e1ef70dff97959067b723c5c24.mp3</pron>
+	<ps>mi</ps>
+	<pron>http://res.iciba.com/resource/amp3/1/0/ab/86/ab86a1e1ef70dff97959067b723c5c24.mp3</pron>
+	<pos>pron.</pos>
+	<acceptation>（人称代词I的宾格）我；
+	</acceptation>
+	<pos>n.</pos>
+	<acceptation>自我；自我的一部分；极端自私的人；[音乐]固定唱法时的E音；
+	</acceptation>
+	<sent>
+		<orig>
+			Me, on the stage? Do you want me to make a fool of myself?; You're
+			putting me on the spot if you want me to perform on the stage.
+		</orig>
+		<trans>
+			让我上台表演，这不是要我的好看吗？
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			"Excuse me,"she said, "Can you tell me the way to King Street please?" The
+			man smiled pleasantly. He did not understand English!
+		</orig>
+		<trans>
+			“对不起，”她说。“可以告诉我到国王街怎样走吗？”那个人令人愉快地微微一笑，他不懂英语！
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			A bicycle hit me and rolled me over.
+		</orig>
+		<trans>
+			一辆自行车把我撞了个跟头。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			A child came up to me and showed me the way to the station.
+		</orig>
+		<trans>
+			一个孩子走上前来，指点我到车站的路。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			A stranger walked up to me and asked me the time.
+		</orig>
+		<trans>
+			一个陌生人走到我跟前，问我时间。
+		</trans>
+	</sent>
+</dict>

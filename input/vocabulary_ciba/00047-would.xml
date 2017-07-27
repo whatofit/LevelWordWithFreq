@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>would</key>
+	<ps>wud, wəd, əd, d</ps>
+	<pron>http://res-tts.iciba.com/e/6/8/e680afd37e4511a8cb3ce9f63168862a.mp3</pron>
+	<ps>wʊd</ps>
+	<pron>http://res.iciba.com/resource/amp3/1/0/e6/80/e680afd37e4511a8cb3ce9f63168862a.mp3</pron>
+	<pos>aux.</pos>
+	<acceptation>将，将要；愿意；会，打算；大概；
+	</acceptation>
+	<pos>v.</pos>
+	<acceptation>（will 的过去式，用于转述）将；
+	</acceptation>
+	<sent>
+		<orig>
+			Historically there was no letter "l" in the word "could"; it was inserted by
+			analogy with "would".
+		</orig>
+		<trans>
+			在历史上，could一词中没有字母l；那是按照would一词类推而加上去的
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			She said her future husband would not let her make another film.
+		</orig>
+		<trans>
+			她说她的未婚夫不会让她再拍电影了。（此句用would not let，意思是“阻止”）
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Cat would eat fish and would not wet her feet.
+		</orig>
+		<trans>
+			猫儿想吃鱼，又怕湿了脚。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			I was only joking; who would have thought he would take it seriously.
+		</orig>
+		<trans>
+			我是开玩笑，谁知他竟当真了。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			I would be very much pleased if you would accept the trifling present
+			from me.
+		</orig>
+		<trans>
+			如果你收下我的这份薄礼，我将非常高兴。
+		</trans>
+	</sent>
+</dict>

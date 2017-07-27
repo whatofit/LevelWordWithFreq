@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>a</key>
+	<ps>ei; ə</ps>
+	<pron>http://res.iciba.com/resource/amp3/0/0/0c/c1/0cc175b9c0f1b6a831c399e269772661.mp3</pron>
+	<ps>e,ə</ps>
+	<pron>http://res-tts.iciba.com/0/c/c/0cc175b9c0f1b6a831c399e269772661.mp3</pron>
+	<pos>art.</pos>
+	<acceptation>（非特指的）一（个）；（用于表示时间、速度、价格等意义的）每一；（用在某些物质名词和抽象名词前）一阵；（同类事物中的）任何一（个）；
+	</acceptation>
+	<sent>
+		<orig>
+			A picture of a cat on a log is a rebus for catalog.
+		</orig>
+		<trans>
+			谜画中有一只猫（cat）站在一块木头（a log）上，谜底是catalog（目录）。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			A shipping company has made a claim for the cost of salvaging a sunken
+			ship.
+		</orig>
+		<trans>
+			某轮船公司要求赔赏打捞沉船的费用。（make a claim 要求）
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			The relatively short [A] of mat and the relatively long [A] of mad are
+			allophones.
+		</orig>
+		<trans>
+			单词 mat 中较短的[A]和单词 mad 中较长的 A是音素的变形。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Draw a line from A to B.
+		</orig>
+		<trans>
+			从A到B划一条线。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			It can take as long as eight days to rig up rope ladders and to
+			establish supply bases before a descent can be made into a very deep
+			cave.
+		</orig>
+		<trans>
+			在进入一个很深的岩洞之前，光是装配绳梯和建立供应基地就需要八天之久。（make a descent 下降）
+		</trans>
+	</sent>
+</dict>

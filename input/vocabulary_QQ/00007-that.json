@@ -1,0 +1,398 @@
+{
+    "local":[
+        {
+            "word":"that",
+            "sd":"62b74360dd26e2f46efefb01e52e8de7",
+            "pho":[
+                "&#240;&#230;t"
+            ],
+            "des":[
+                {
+                    "p":"pron.",
+                    "d":"那, 那个, 某事"
+                },
+                {
+                    "p":"adj.",
+                    "d":"那个"
+                },
+                {
+                    "p":"adv.",
+                    "d":"那么, 那样"
+                },
+                {
+                    "p":"conj.",
+                    "d":"[引导从句] 以致, 因为"
+                }
+            ],
+            "sen":[
+                {
+                    "p":"adv.",
+                    "s":[
+                        {
+                            "es":"I like him but not all <b>that<\/b> much.",
+                            "cs":"我喜欢他，但远不是那么着迷。"
+                        }
+                    ]
+                },
+                {
+                    "p":"pron.",
+                    "s":[
+                        {
+                            "es":"<b>That<\/b>&#39;s my English teacher over there.",
+                            "cs":"那边是我的英文老师。"
+                        }
+                    ]
+                },
+                {
+                    "p":"conj.",
+                    "s":[
+                        {
+                            "es":"We are glad <b>that<\/b> we have accomplished another arduous task.",
+                            "cs":"我们都感到高兴因为又完成了一项艰巨的任务。"
+                        },
+                        {
+                            "es":"Oh, <b>that<\/b> I could be with you again!",
+                            "cs":"我若能与你在一起多么好！"
+                        },
+                        {
+                            "es":"<b>That<\/b> I could stay at home today!",
+                            "cs":"今天要是我能待在家里多好呀！"
+                        }
+                    ]
+                }
+            ],
+            "ant":[
+                {
+                    "p":"pron.",
+                    "c":[
+                        "this"
+                    ]
+                }
+            ]
+        }
+    ],
+    "netdes":[
+        {
+            "word":"that",
+            "des":[
+                {
+                    "mf":"that",
+                    "d":"那个",
+                    "f":696,
+                    "tag":"net",
+                    "s":"它要回答的是:&quot;<b>那个<\/b>&quot;(<b>That<\/b>)存在者&quot;如何&quot;、&quot;怎样&quot;,其关注的中心是&quot;<b>那个<\/b>&quot;及作为&quot;<b>那个<\/b>&quot;的&quot;个体存在者&quot;. 海德格尔认为,传统形而上学思维方式及其元意识遮蔽人的&quot;此在&quot;、从而导致&quot;此在&quot;存在意义遗忘的根源. 传统形而上学自柏图以来,",
+                    "url":"http:\/\/pftheory.org\/zxlwbody.jsp?id=00000128"
+                },
+                {
+                    "mf":"that",
+                    "d":"那",
+                    "f":467,
+                    "tag":"net",
+                    "s":"除非在前文中清楚提过,请勿使用指示或人称代词(如&quot;这&quot;(this),&quot;<b>那<\/b>&quot;(<b>that<\/b>),&quot;这些&quot;(these),&quot;<b>那<\/b>些&quot;(those),&quot;它&quot;(it),&quot;他&quot;(he),&quot;她&quot;(she),&quot;他们&quot;(they)). 利用回答一系列问题的方式开发思路. 如&quot;这是什麼?&quot;(what)、&quot;这是哪里和",
+                    "url":"http:\/\/www.myoops.org\/twocw\/mit\/Literature\/21L-460Spring2004\/StudyMaterials\/index.htm"
+                },
+                {
+                    "mf":"that",
+                    "d":"指示代词",
+                    "f":71,
+                    "tag":"net",
+                    "s":"本题考查定语从句中关系代词的用法,也涉及到了人称代词(it),<b>指示代词<\/b>(<b>that<\/b>)和关系副词(when). 此题为一包含非限制性定语从句的复合句,which引导定语从句,代替整个主句的内容. ",
+                    "url":"http:\/\/bbs.kxkb.com\/lunwen\/1219734673963680.html"
+                },
+                {
+                    "mf":"that",
+                    "d":"引导词",
+                    "f":36,
+                    "tag":"net",
+                    "s":"(我知道他昨天晚上回来.) 主谓结构 动词 省略了<b>引导词<\/b> <b>that<\/b> 之后,从句的起始标记也就不复存在,这会给阅读造成一定的困难.作为一种经验,今后 只要在动词后面发现一对主谓结构,即可断定这对主谓结构是宾语从句,且前面省略了<b>引导词<\/b>(<b>that<\/b>). ",
+                    "url":"http:\/\/wenku.baidu.com\/view\/8fad661aff00bed5b9f31d73.html"
+                },
+                {
+                    "mf":"that",
+                    "d":"abbr. then and there; 当时",
+                    "f":1,
+                    "tag":"abbr",
+                    "s":-1,
+                    "url":-1
+                }
+            ],
+            "wf":"1"
+        },
+        {
+            "word":"That depends",
+            "des":[
+                {
+                    "mf":"That depends",
+                    "d":"看情况",
+                    "f":5625,
+                    "tag":"net",
+                    "s":"271.That couldn&#39;t be better. 那再好不过了.  | <b>272.That depends. 看情况. <\/b> | 273.That makes sense. 那可以理解. ",
+                    "url":"http:\/\/www.360doc.com\/showReflectionweb.aspx?artid=3856840&refid=203165&userid=157487"
+                },
+                {
+                    "mf":"That depends",
+                    "d":"看情况再说",
+                    "f":3884,
+                    "tag":"net",
+                    "s":"21. You can count on it. 你尽管相信好了,尽管放心.  | <b>23. That depends. 看情况再说. <\/b> | 24. Thanks anyway. 无论如何我还是得谢谢你. ",
+                    "url":"http:\/\/xiaonvrensdsx521.blogbus.com\/logs\/38673506.html"
+                },
+                {
+                    "mf":"That depends",
+                    "d":"看情况再说(这个大家应该都知道的)",
+                    "f":1873,
+                    "tag":"net",
+                    "s":"18.Mind you! 请注意!听着!(咳咳--去教老班说这句话先!) | <b>19.That depends.看情况再说(这个大家应该都知道的)<\/b> | 20.It&#39;s a deal.一言为定",
+                    "url":"http:\/\/blog.sina.com.cn\/s\/blog_5fe3d0d20100ddzj.html"
+                },
+                {
+                    "mf":"That depends",
+                    "d":"那要看情况",
+                    "f":907,
+                    "tag":"net",
+                    "s":"That dame! 那个女人! | <b>That depends. 那要看情况.<\/b> | That has a familiar ring. 那话听起来很熟悉.",
+                    "url":"http:\/\/www.eng4u.cn\/olres\/index.php?Itemid=627&id=101&layout=blog&limitstart=115&option=com_content&view=category"
+                }
+            ]
+        },
+        {
+            "word":"That happens",
+            "des":[
+                {
+                    "mf":"That happens",
+                    "d":"这样的事情经常发生",
+                    "f":10878,
+                    "tag":"net",
+                    "s":"91. Thank you very much. 多谢.  | <b>92. That happens. 这样的事情经常发生. <\/b> | 93. That&#39;s enough. 够了. ",
+                    "url":"http:\/\/teeschinese.com\/forum\/context.asp?id=1107&listpage=11"
+                },
+                {
+                    "mf":"That happens",
+                    "d":"没关系,常有这种事(这种事常发生)",
+                    "f":214,
+                    "tag":"net",
+                    "s":"86、We bloody got him! 我们可逮到他了! | <b>87、That happens! 没关系,常有这种事(这种事常发生)<\/b> | 88、Do I owe her an apology? 我要向她道歉吗?",
+                    "url":"http:\/\/www.tradesns.com\/forum\/viewtopic.php?p=24600"
+                },
+                {
+                    "mf":"That happens",
+                    "d":"这样的事经常发生",
+                    "f":62,
+                    "tag":"net",
+                    "s":"90 Tell me.告诉我.  | 91 Thank you very much.多谢.  | <b>92 That happens.这样的事经常发生. <\/b>",
+                    "url":"http:\/\/bbs.wwenglish.org\/dispbbs.asp?boardid=1&id=21358&move=next&page="
+                },
+                {
+                    "mf":"That happens",
+                    "d":"这样的事情经常发生. 来源:考试大",
+                    "f":14,
+                    "tag":"net",
+                    "s":"91. Thank you very much. 多谢.  | <b>92. That happens. 这样的事情经常发生.  来源:考试大<\/b> | 93. That&#39;s enough. 够了. ",
+                    "url":"http:\/\/www.51bec.org\/news\/html\/20091126\/943594658.htm"
+                }
+            ]
+        },
+        {
+            "word":"now that",
+            "des":[
+                {
+                    "mf":"now that",
+                    "d":"既然,由于",
+                    "f":6035,
+                    "tag":"net",
+                    "s":"just now 现在,眼下;刚才 . | <b>now that 既然,由于 .<\/b> | a number of 一些,许多 .",
+                    "url":"http:\/\/bbs.eduu.com\/viewthread.php?extra=&ordertype=2&tid=35778"
+                },
+                {
+                    "mf":"now that",
+                    "d":"既然",
+                    "f":2875,
+                    "tag":"net",
+                    "s":"not to mention\\\/speak of 更不用说;更不必说 | <b>now that 既然<\/b> | object to 反对;抗议;不支持",
+                    "url":"http:\/\/www.soenglish.com.cn\/exam\/doctor\/200610\/20061021152205_17061.html"
+                },
+                {
+                    "mf":"now that",
+                    "d":"(既然,由于)表原因",
+                    "f":636,
+                    "tag":"net",
+                    "s":"323 not ... but ... 不是...而是... | <b>324 now that(既然,由于)表原因;<\/b> | 325 object to 反对;",
+                    "url":"http:\/\/www.jgxy.xmu.edu.cn\/v3\/forstudents\/graduate\/review\/english\/200610\/article2299.php"
+                },
+                {
+                    "mf":"now that",
+                    "d":"(连词)既然,由于",
+                    "f":256,
+                    "tag":"net",
+                    "s":"4 as fresh as paint 精神饱满 | <b>5 now that (连词)既然,由于<\/b> | 6 to leave ... alone 不管,不理",
+                    "url":"http:\/\/bbs.enfamily.cn\/thread-121290-1-1.html"
+                }
+            ]
+        },
+        {
+            "word":"so that",
+            "des":[
+                {
+                    "mf":"so that",
+                    "d":"以便",
+                    "f":2944,
+                    "tag":"net",
+                    "s":"我们可以通过对每一项领导特质进行&quot;<b>以便<\/b>&quot;(<b>so that<\/b>)问题的询问而将特质转化为工作业绩. 例如,和&quot;在我的部门实行全面的质量管理&quot;的目标相比,&quot;在我的部门实行全面的质量管理,<b>以便<\/b>使我们的产品质量可以在检测时通过每千件产品不合格产品不超过25件(或更少)的检测标准. ",
+                    "url":"http:\/\/wenxue.lycos.com.cn\/GuanLi\/DiXianTongGuoRenYuanYuZuZhiChuangZaoJiaZhi GaiShanQiYeDeYeJi\/book_43.Html"
+                },
+                {
+                    "mf":"so that",
+                    "d":"目的状语从句",
+                    "f":50,
+                    "tag":"net",
+                    "s":"(2) 状语从句:条件从句(主句用一般将来时;主句用一般现在时);原因状语从句;结果状语从句(so... that ...);让步状语从句(although, unless);<b>目的状语从句<\/b>(<b>so that<\/b>)",
+                    "url":"http:\/\/tzhledu.net\/Article\/ShowArticle.asp?ArticleID=16767"
+                },
+                {
+                    "mf":"so...that",
+                    "d":"如此...以致",
+                    "f":2471,
+                    "tag":"net",
+                    "s":"so that 以便,为使;所以,因此 | <b>so...that 如此...以致<\/b> | such as 诸如,例如",
+                    "url":"http:\/\/www.enfans.com\/21\/1215ZI52008.shtml"
+                },
+                {
+                    "mf":"so...that",
+                    "d":"如此...以至于",
+                    "f":2231,
+                    "tag":"net",
+                    "s":"21.sth happen to sb 某事发生在某人身上 | <b>22.so ...that ... 如此...以至于<\/b> | 23.set off 出发,开始",
+                    "url":"http:\/\/www.en.ruiwen.com\/showfile.php?id=4781"
+                }
+            ]
+        },
+        {
+            "word":"that is",
+            "des":[
+                {
+                    "mf":"that is",
+                    "d":"就是说;即(略为i.e)",
+                    "f":1789,
+                    "tag":"net",
+                    "s":"that is to say 那就是说,换句话说 | <b>that is 就是说;即(略为i.e)<\/b> | the mass of 大多数,大部分",
+                    "url":"http:\/\/xiaoshuo59561.580590.com\/htmlbook\/53\/53020\/27_B.html"
+                },
+                {
+                    "mf":"that is",
+                    "d":"就是说,即",
+                    "f":1240,
+                    "tag":"net",
+                    "s":"thanks to 由于,多亏 | <b>that is 就是说,即<\/b> | think of 想到,记得;想一想;考虑,关心",
+                    "url":"http:\/\/rmg.chinack.net\/news_info\/new_4998.html"
+                },
+                {
+                    "mf":"that is",
+                    "d":"也就是说",
+                    "f":715,
+                    "tag":"net",
+                    "s":"13. take measures to do sth 采取措施做某事 | <b>14. that is 也就是说<\/b> | 15. adapt to 适应",
+                    "url":"http:\/\/xinruomengyu.blog.163.com\/blog\/static\/1339621992010028114035398\/"
+                },
+                {
+                    "mf":"that is",
+                    "d":"即,也就是",
+                    "f":502,
+                    "tag":"net",
+                    "s":"talk into 说服 | <b>that is 即,也就是<\/b> | turn in 上交",
+                    "url":"http:\/\/blog.pet2008.cn\/html\/28\/t-17228.html"
+                }
+            ]
+        }
+    ],
+    "netsen":[
+        {
+            "cs":"我的意思是说。。。。",
+            "es":"I mean to say <b>that<\/b> ....",
+            "url":"http:\/\/space.100e.com\/myspace\/Diary-245963"
+        },
+        {
+            "cs":"这是我们必须做的。",
+            "es":"<b>That<\/b> is what we have to do.",
+            "url":"http:\/\/usinfo.org\/PUBS\/AmReader_gb\/p279.htm"
+        },
+        {
+            "cs":"我认为这是我们需要做的。",
+            "es":"I think <b>that<\/b> is what we have to do.",
+            "url":"http:\/\/yljz.ygzlw.cn\/5790.html"
+        },
+        {
+            "cs":"那是。。。。。。我无法。。。。。。",
+            "es":"That&#39;s... I can&#39;t...",
+            "url":"http:\/\/jwc.bjfu.edu.cn\/laddernet\/tasktwo\/task54\/chinese.htm"
+        },
+        {
+            "cs":"我告诉你我是。。。",
+            "es":"I told you <b>that<\/b> I was...",
+            "url":"http:\/\/engxue.com\/bencandy.php?aid=137&buy=&fid=6&line=&page=3"
+        },
+        {
+            "cs":"我知道你是好的，给我。",
+            "es":"I know <b>that<\/b> you are good to me.",
+            "url":"http:\/\/zhidao.baidu.com\/question\/58559937.html"
+        },
+        {
+            "cs":"那是我想要的。",
+            "es":"That&#39;s what I want to do.",
+            "url":"http:\/\/www.rrting.com\/English\/xxyyshnjb\/121649\/Index.html"
+        }
+    ],
+    "dlg":[
+        {
+            "s":"\/衣食住行",
+            "t":"询问",
+            "c":[
+                {
+                    "n":"A",
+                    "cs":"清楚了吗?",
+                    "es":"Is <b>that<\/b> clear?"
+                },
+                {
+                    "n":"B",
+                    "cs":"清楚了。",
+                    "es":"It’s clear."
+                }
+            ],
+            "u":0
+        },
+        {
+            "s":"\/衣食住行",
+            "t":"风景",
+            "c":[
+                {
+                    "n":"A",
+                    "cs":"日落真（漂亮\/好看\/迷人）。",
+                    "es":"<b>That<\/b> sunset is (beautiful\/ delightful\/ gorgeous)."
+                },
+                {
+                    "n":"B",
+                    "cs":"是呀，真是好看。",
+                    "es":"Yeah, it’s pretty nice."
+                }
+            ],
+            "u":0
+        },
+        {
+            "s":"\/职场英语",
+            "t":"培训",
+            "c":[
+                {
+                    "n":"A",
+                    "cs":"你在这里不可以这样。",
+                    "es":"You can’t do <b>that<\/b> here."
+                },
+                {
+                    "n":"B",
+                    "cs":"在这儿（喝酒\/吸烟\/吃东西）有什么问题？",
+                    "es":"What’s wrong with (drinking\/ smoking\/ eating) here?"
+                }
+            ],
+            "u":0
+        }
+    ],
+    "lang":"eng"
+}

@@ -1,0 +1,541 @@
+{
+    "local":[
+        {
+            "word":"way",
+            "sd":"71826870c76200f9c0d972b22f0eb796",
+            "pho":[
+                "wei"
+            ],
+            "des":[
+                {
+                    "p":"n.",
+                    "d":"道路, 路线, 路途, 方法, 情形, 规模, 习惯, 行业, 方面, 方向"
+                },
+                {
+                    "p":"adv.",
+                    "d":"非常, 远远地"
+                },
+                {
+                    "p":"adj.",
+                    "d":"中途, 途中的"
+                }
+            ],
+            "sen":[
+                {
+                    "p":"n.",
+                    "s":[
+                        {
+                            "es":"If I had my <b>way<\/b>, I&#39;d go to the movies tonight.",
+                            "cs":"假如我做得到的话，我今晚会去看电影。"
+                        },
+                        {
+                            "es":"I&#39;m afraid she&#39;s in a bad <b>way<\/b>.",
+                            "cs":"我想她是生病了。"
+                        },
+                        {
+                            "es":"Their plan is recommendable in many ways.",
+                            "cs":"他们的计划在许多方面都是可取的。"
+                        },
+                        {
+                            "es":"Can you show me the <b>way<\/b> to the Post Office?",
+                            "cs":"你能否告诉我去邮局的路？"
+                        },
+                        {
+                            "es":"Do you know the <b>way<\/b> to the post office?",
+                            "cs":"你知道去邮局怎么走吗？"
+                        }
+                    ]
+                }
+            ],
+            "syn":[
+                {
+                    "p":"n.",
+                    "c":[
+                        "distance",
+                        "mode",
+                        "feature",
+                        "extent",
+                        "line",
+                        "course",
+                        "fashion",
+                        "reach",
+                        "custom",
+                        "humor",
+                        "direction",
+                        "means",
+                        "mood",
+                        "method",
+                        "manner",
+                        "disposition",
+                        "style",
+                        "nature",
+                        "detail",
+                        "length",
+                        "point"
+                    ]
+                }
+            ],
+            "ph":[
+                {
+                    "phs":"out of the way",
+                    "phd":"不寻常的"
+                },
+                {
+                    "phs":"by way of",
+                    "phd":"经由, 作为, 为了"
+                },
+                {
+                    "phs":"by the way",
+                    "phd":"在途中, 顺便"
+                },
+                {
+                    "phs":"under way",
+                    "phd":"进行中, 在行进"
+                },
+                {
+                    "phs":"make way",
+                    "phd":"前进"
+                },
+                {
+                    "phs":"to my way of thinking",
+                    "phd":"我认为"
+                },
+                {
+                    "phs":"feel one&#39;s way",
+                    "phd":"摸索着走, 谨慎行事"
+                },
+                {
+                    "phs":"get under way",
+                    "phd":"开动, 开始进行"
+                },
+                {
+                    "phs":"all the way",
+                    "phd":"自始至终, 一路上"
+                },
+                {
+                    "phs":"make way for",
+                    "phd":"让路给"
+                },
+                {
+                    "phs":"lose one&#39;s way",
+                    "phd":"迷路"
+                },
+                {
+                    "phs":"in a big way",
+                    "phd":"大肆地, 彻底地, 大肆炫耀地"
+                },
+                {
+                    "phs":"in no way",
+                    "phd":"决不"
+                },
+                {
+                    "phs":"win one&#39;s way",
+                    "phd":"奋力前进"
+                },
+                {
+                    "phs":"go the way of all flesh",
+                    "phd":"死"
+                },
+                {
+                    "phs":"put oneself out of the way",
+                    "phd":"不辞辛苦"
+                },
+                {
+                    "phs":"go the way of nature",
+                    "phd":"死"
+                },
+                {
+                    "phs":"lead the way",
+                    "phd":"带路"
+                },
+                {
+                    "phs":"in a small way",
+                    "phd":"小规模地"
+                },
+                {
+                    "phs":"make the best of one&#39;s way",
+                    "phd":"尽快走"
+                },
+                {
+                    "phs":"fight one&#39;s way",
+                    "phd":"努力开辟(一条路), 奋斗前进"
+                },
+                {
+                    "phs":"in a general way",
+                    "phd":"一般地"
+                },
+                {
+                    "phs":"in the way",
+                    "phd":"挡道"
+                },
+                {
+                    "phs":"have it both ways",
+                    "phd":"见风使舵"
+                },
+                {
+                    "phs":"in a tin-pot way",
+                    "phd":"蹩脚地, 低劣地"
+                },
+                {
+                    "phs":"beat one&#39;s way",
+                    "phd":"偷搭车"
+                },
+                {
+                    "phs":"pick one&#39;s way",
+                    "phd":"小心行路, 谨慎行事"
+                },
+                {
+                    "phs":"pay one&#39;s way",
+                    "phd":"支付生活费"
+                },
+                {
+                    "phs":"go a long way",
+                    "phd":"大有帮助, 走了一大段路"
+                },
+                {
+                    "phs":"in a way",
+                    "phd":"在某种程度上"
+                }
+            ]
+        }
+    ],
+    "netdes":[
+        {
+            "word":"way",
+            "des":[
+                {
+                    "mf":"way",
+                    "d":"道路",
+                    "f":611,
+                    "tag":"net",
+                    "s":"就字面的意义而言,道家一词指称一个学派,这个学派以&quot;道&quot;(Tao)或&quot;<b>道路<\/b>&quot;(<b>Way<\/b>)为其核心概念. 但是,谈论&quot;道&quot;的不仅有道家,还有古代中国的其他学派,诸如儒家和法家,他们以不同的方式使用着&quot;道&quot;的概念. 即便是道家本身,",
+                    "url":"http:\/\/www.digouwu.com\/detail_257332.html"
+                },
+                {
+                    "mf":"way",
+                    "d":"路",
+                    "f":476,
+                    "tag":"net",
+                    "s":"而在SDRAM平台上,常用的词汇是&quot;<b>路<\/b>&quot;(<b>Way<\/b>),比如著名的Server Work公司,经常用x-<b>Way<\/b>的方式来介绍自己产品的内存设计(但目前也与Channel公用). 在哪个年代,由于CPU前端总线(FSB)带宽的限制. 多<b>路<\/b>的SDRAM系统的带宽即使真如宣传所说,",
+                    "url":"http:\/\/cq.yesky.com\/acceessory\/361134598437994496\/20040316\/1777513.shtml"
+                },
+                {
+                    "mf":"way",
+                    "d":"途径",
+                    "f":251,
+                    "tag":"net",
+                    "s":"图论中的链(chain),<b>途径<\/b>(<b>way<\/b>),道路(path)的长度到底怎么算的?图论中的链(chain),<b>途径<\/b>(<b>way<\/b>),道路(path)的长度到底怎么算的?图论中的链(chain),<b>途径<\/b>(<b>way<\/b>),道路(path)的长度到底怎么算的?",
+                    "url":"http:\/\/www.xue163.com\/html\/2010212\/3905696.html"
+                },
+                {
+                    "mf":"way",
+                    "d":"方法",
+                    "f":191,
+                    "tag":"net",
+                    "s":"在英语中,&quot;<b>方法<\/b>&quot;(<b>Way<\/b>)和&quot;道路&quot;、&quot;途径&quot;是同一词汇,这也从一个侧解放思想、实事求是的思想路线与以教条主义为特征的&quot;两个凡是&quot;相比较;学习邓小平关于社会主义初级阶段理论时,",
+                    "url":"http:\/\/lwsir.com\/xz\/dengxp\/200611\/12616_3.html"
+                },
+                {
+                    "mf":"way",
+                    "d":"abbr. world assembly of youth; 世界青年大会",
+                    "f":1,
+                    "tag":"abbr",
+                    "s":-1,
+                    "url":-1
+                }
+            ],
+            "wf":"1"
+        },
+        {
+            "word":"No way",
+            "des":[
+                {
+                    "mf":"No way",
+                    "d":"不可能",
+                    "f":37131,
+                    "tag":"net",
+                    "s":"&quot;安华绝<b>不可能<\/b>(<b>No Way<\/b>)再回到巫统,现在的巫统已有许多比安华更能干的领袖,我们不再须要等他(重回巫统). &quot;",
+                    "url":"http:\/\/www.sinchew-i.com\/node\/10637"
+                },
+                {
+                    "mf":"No way",
+                    "d":"没门儿",
+                    "f":101,
+                    "tag":"net",
+                    "s":"设备有了,接下来就是想办法聚集人气,钱多多思前想后,觉得让已经成名的乐队或歌星参加&quot;乌托邦&quot;乐队的首发仪式这样的方法最为有效,于是,在与其他经纪人交流后,钱多多请来了&quot;<b>没门儿<\/b>&quot; (<b>No way<\/b>)乐队担任开场嘉宾. ",
+                    "url":"http:\/\/www.qixingge.com\/modules\/article\/showvolume.php?aid=4148&vid=740918"
+                },
+                {
+                    "mf":"No way",
+                    "d":"无计可施",
+                    "f":1,
+                    "tag":"net",
+                    "s":"歌曲介绍:<b>无计可施<\/b>(<b>No Way<\/b>)是宝儿的发布的专辑[ID : Peace B]中的一首歌曲,如果你觉得好听就把它推荐给其它好友.",
+                    "url":"http:\/\/mingbai.pojaa.com\/viewquestion.php?tid=25913"
+                },
+                {
+                    "mf":"No way",
+                    "d":"不行",
+                    "f":153105,
+                    "tag":"net",
+                    "s":"5. My god! 天哪! | <b>6. No way! 不行!<\/b> | 7. Come on. 来吧(赶快)",
+                    "url":"http:\/\/laiba.tianya.cn\/laiba\/CommMsgs?cmm=113072&tid=2679434024279741432"
+                }
+            ]
+        },
+        {
+            "word":"This way",
+            "des":[
+                {
+                    "mf":"This way",
+                    "d":"这边请",
+                    "f":139669,
+                    "tag":"net",
+                    "s":"26. So do I. 我也一样.  | <b>27. This way.  这边请. <\/b> | 28. After you. 您先. ",
+                    "url":"http:\/\/laiba.tianya.cn\/laiba\/CommMsgs?cmm=113072&tid=2679434024279741432"
+                },
+                {
+                    "mf":"this way",
+                    "d":"这边儿",
+                    "f":1666,
+                    "tag":"net",
+                    "s":"175.手提箱suitcase | <b>176.这边儿this way<\/b> | 177.各种各样kinds of",
+                    "url":"http:\/\/www.ok.pwzx.com.cn\/info\/detail\/9-1147.html"
+                },
+                {
+                    "mf":"This way",
+                    "d":"这边",
+                    "f":633,
+                    "tag":"net",
+                    "s":"26. So do I. 我也一样.  | <b>27. This way.  这边<\/b> | 28. After you. 您先. ",
+                    "url":"http:\/\/yy.china-b.com\/bec\/beccj\/20090817\/228409_1.html"
+                },
+                {
+                    "mf":"this way",
+                    "d":"这边走",
+                    "f":334,
+                    "tag":"net",
+                    "s":"family tree 家谱 | have a seat 坐下,就坐 | <b>this way 这边走<\/b>",
+                    "url":"http:\/\/blog.sina.com.cn\/s\/blog_6351e8670100i3do.html"
+                }
+            ]
+        },
+        {
+            "word":"give way",
+            "des":[
+                {
+                    "mf":"give way",
+                    "d":"让路",
+                    "f":5953,
+                    "tag":"net",
+                    "s":"没有指示灯的路口和转盘采用的是&quot;<b>让路<\/b>&quot;(<b>GIVE WAY<\/b>)制度,凡有<b>让路<\/b>标记的路口必须无条件让行. 平时过马路养成向两边看的习惯,人行道上注意自行车来往. 夜间走路最好穿戴有荧光带的衣物或鞋帽,以便行车识别,避免意外发生. ",
+                    "url":"http:\/\/www.fwjia.cn\/plus\/view.php?aid=1685&pageno=8"
+                },
+                {
+                    "mf":"Give Way",
+                    "d":"让行",
+                    "f":2,
+                    "tag":"net",
+                    "s":"注意各个路口地面的<b>让行<\/b>(<b>give way<\/b>)标志,不要抢道,看到行人优先过街的标志一定要等待无人时才可行驶. 不要闯单行线,也不要太慢,30英里限速你跑15英里肯定没戏,不要频繁变道,如果前车慢下来了,右边快车道空着,不要变道,慢慢的跟着就行了. ",
+                    "url":"http:\/\/www.uk0086.com\/viewthread.php?tid=18858"
+                },
+                {
+                    "mf":"Give Way",
+                    "d":"快车先行",
+                    "f":10694,
+                    "tag":"net",
+                    "s":"23、Lost and Found 失物招领处 | <b>24、Give Way 快车先行<\/b> | 25、Safety First 安全第一",
+                    "url":"http:\/\/www.waiyulm.com\/article\/show.asp?id=1141"
+                },
+                {
+                    "mf":"give way",
+                    "d":"让路,让步",
+                    "f":6869,
+                    "tag":"net",
+                    "s":"by the way 顺便提一下,另外 | <b>give way 让路,让步<\/b> | in a way 在某点,在某种程度上",
+                    "url":"http:\/\/yoursit.cn\/mydoc029.htm"
+                }
+            ]
+        },
+        {
+            "word":"make way",
+            "des":[
+                {
+                    "mf":"make way",
+                    "d":"开路,让路",
+                    "f":3386,
+                    "tag":"net",
+                    "s":"make use of 利用,使用 | <b>make way 开路,让路<\/b> | make way 让路;开路;进展",
+                    "url":"http:\/\/xiaoshuo59561.580590.com\/htmlbook\/53\/53020\/27_B.html"
+                },
+                {
+                    "mf":"make way",
+                    "d":"让路,开路",
+                    "f":3075,
+                    "tag":"net",
+                    "s":"make one&quot;s way 前进,进行 | <b>make way 让路,开路<\/b> | keep one&quot;s word 遵守诺言",
+                    "url":"http:\/\/linyiyaohua.cn\/info\/24-218-1015-121185.html"
+                },
+                {
+                    "mf":"make way",
+                    "d":"让路,腾出地方或位置",
+                    "f":2698,
+                    "tag":"net",
+                    "s":"make one&#39;s way 前往,行进,去 | <b>make way 让路,腾出地方或位置<\/b> | credit card 信用卡",
+                    "url":"http:\/\/e.3edu.net\/CET46\/E_44712.html"
+                },
+                {
+                    "mf":"make way",
+                    "d":"让路;开路;进展",
+                    "f":1831,
+                    "tag":"net",
+                    "s":"make way 开路,让路 | <b>make way 让路;开路;进展<\/b> | many a 许多的,一个又一个的",
+                    "url":"http:\/\/xiaoshuo59561.580590.com\/htmlbook\/53\/53020\/27_B.html"
+                }
+            ]
+        },
+        {
+            "word":"Milky Way",
+            "des":[
+                {
+                    "mf":"Milky Way",
+                    "d":"银河",
+                    "f":2461,
+                    "tag":"net",
+                    "s":"因为要赶译赶写,有时难免粗疏,于是就闹出了将&quot;<b>银河<\/b>&quot;(<b>Milky way<\/b>)译为&quot;牛奶路&quot;的笑话,因而受到鲁迅的批评. 不过赵先生是勇于接受批评、善于改正错误的,他倒并不固执己见,因而总能不断进步.  赵先生既做书局总编辑,又是多产作家,",
+                    "url":"http:\/\/wenku.baidu.com\/view\/7c177e29647d27284b735198.html"
+                },
+                {
+                    "mf":"Milky Way",
+                    "d":"银河系",
+                    "f":2042,
+                    "tag":"net",
+                    "s":"&quot;;林语堂会给你翻一个口语版的&quot;独立宣言&quot;; 鲁迅听到有人把&quot;<b>银河系<\/b>&quot;(<b>milky way<\/b>)翻译成了&quot;牛奶路&quot;,赋诗一首&quot;调侃&quot;译者的&quot;译才&quot;. 那首诗我还记得,是这么写的:可怜织女星,化做马郎妇,燕雀疑不来,迢迢牛奶路. ",
+                    "url":"http:\/\/blog.sina.com.cn\/s\/blog_59cb73340100hwo4.html"
+                },
+                {
+                    "mf":"Milky Way",
+                    "d":"天川",
+                    "f":55,
+                    "tag":"net",
+                    "s":"铃兰 04 <b>天川<\/b>(<b>Milky Way<\/b>)[演唱:邵容] 这首是邵容小姐首次亲自开腔演唱的,她的声音属于那种素面朝天,很干净毫无娇 纵的感觉,是以中文来演唱的. 歌词寓意是中国民间著名的神话爱情故事&lt;&lt;牛郎织女&gt;&gt; 大家也可以感受到这种唱法属于空灵唯美型唱腔. ",
+                    "url":"http:\/\/softwarecentro.com\/clock\/orient\/dollorient\/"
+                },
+                {
+                    "mf":"Milky way",
+                    "d":"天河",
+                    "f":17,
+                    "tag":"net",
+                    "s":"赵景深曾将契诃夫小说&lt;&lt;万卡&gt;&gt;中的<b>天河<\/b>(<b>Milky Way<\/b>)误译为&quot;牛奶路&quot;,又将德国作家塞意斯的小说&lt;&lt;半人半马怪&gt;&gt;误译为&lt;&lt;半人半牛怪&gt;&gt;. 参看&lt;&lt;二心集.风马牛&gt;&gt;. ",
+                    "url":"http:\/\/club.topsage.com\/viewthread.php?extra=page%3D1&ordertype=2&tid=755068"
+                }
+            ]
+        }
+    ],
+    "netsen":[
+        {
+            "cs":"这是一个很好的方式去做。",
+            "es":"This is a good <b>way<\/b> to do it.",
+            "url":"http:\/\/www.simplehelp.net\/2007\/09\/11\/how-to-completely-wipe-all-of-the-data-from-your-hard-drive\/zh\/"
+        },
+        {
+            "cs":"它是一种生活方式。",
+            "es":"It`s a <b>way<\/b> of life.",
+            "url":"http:\/\/www.yappr.cn\/welcome\/Video.action?videoGuid=749491D0-FB76-41C6-A07A-37F3EEF8542B"
+        },
+        {
+            "cs":"这是我的生活方式。",
+            "es":"It&#39;s a <b>way<\/b> of life for me.",
+            "url":"http:\/\/www.hellof1.com\/racepedia\/driver\/45.html"
+        },
+        {
+            "cs":"通过这种方式，你。。。。。。",
+            "es":"In this <b>way<\/b> you......",
+            "url":"http:\/\/zhidao.baidu.com\/question\/100936304.html"
+        },
+        {
+            "cs":"这是我的方式",
+            "es":"It&#39;s the <b>way<\/b> i am.",
+            "url":"http:\/\/blog.sina.com.cn\/yuanhongmei?"
+        },
+        {
+            "cs":"这就是我爱你的方式。",
+            "es":"This is the <b>way<\/b> i love you.",
+            "url":"http:\/\/blog.sina.com.cn\/s\/blog_5ee85cd80100d5pl.html"
+        },
+        {
+            "cs":"我的问题我的问题。。。",
+            "es":"I did it my <b>way<\/b>...",
+            "url":"http:\/\/www.mtime.com\/group\/queen\/discussion\/787833\/"
+        }
+    ],
+    "dlg":[
+        {
+            "s":"\/休闲娱乐\/旅游英语",
+            "t":"问路",
+            "c":[
+                {
+                    "n":"A",
+                    "cs":"请问去（商业中心\/剧院\/那条河）怎么走最好？",
+                    "es":"Can you tell me the best <b>way<\/b> to get to (downtown\/ the theater\/ the river)?"
+                },
+                {
+                    "n":"B",
+                    "cs":"坐4路公共汽车。",
+                    "es":"Take bus No. 4."
+                }
+            ],
+            "u":0
+        },
+        {
+            "s":"\/衣食住行",
+            "t":"问路",
+            "c":[
+                {
+                    "n":"A",
+                    "cs":"打扰一下，请问到邮局怎么走？",
+                    "es":"Excuse me, which <b>way<\/b> is to the post office?"
+                },
+                {
+                    "n":"B",
+                    "cs":"邮局？对不起，我不能确定。",
+                    "es":"The post office? Sorry, I’m not sure."
+                },
+                {
+                    "n":"A",
+                    "cs":"哦，还是要谢谢你。",
+                    "es":"Well, thanks anyway."
+                }
+            ],
+            "u":0
+        },
+        {
+            "s":"\/衣食住行",
+            "t":"关于迷路",
+            "c":[
+                {
+                    "n":"A",
+                    "cs":"对不起，我迷路了，请问您能告诉我去车站怎么走吗？",
+                    "es":"Excuse me. I’m afraid I got lost. Can you show me the <b>way<\/b> to the station?"
+                },
+                {
+                    "n":"B",
+                    "cs":"我正朝那边去。让我给你带路吧！",
+                    "es":"I’m walking that <b>way<\/b>. Let me lead you the <b>way<\/b>."
+                }
+            ],
+            "u":0
+        }
+    ],
+    "baike":[
+        {
+            "title":"WAY",
+            "pic":"http://pic.baike.soso.com/p/20111016/bki-20111016170418-1572771831.jpg",
+            "pw":"230",
+            "ph":"229",
+            "abs":"　　常用英语单词，作为名词有14个不同解释。除此之外，WAY还是世界青年大会(WorldAssemblyofYouth)的缩写，该大会旨是增进不同种族、性别、语言、宗教及政治信仰的青年人之间的相互宽容、理解、团结和合作。　　　　<b>词典解释</b><br/>　　名词n.<br/>　　1.路，通路，道路&#91;C&#93;<br/>　　CanyoushowmethewaytothePostOffice？<br/>　　你能否告诉我去邮局的路？　　2.方向&#91;C&#93;<br/>　　3.路程，距离&#91;theS&#93;<br/>　　It&apos;salongwaytotherailroadstation.<br/>　　到火车站路程很远。　　4.方法，方式&#91;C&#93;&#91;(+to-v)&#93;<br/>　　Scientistsaretryingtofindwaystopreventdisease.<br/>　　科学家们正试图找到防止疾病的方法。　　5.风俗，习惯；风度；作风&#91;C&#93;<br/>　　Ididnotlikethewayhetalkedtome.<br/>　　我不喜欢他跟我讲话的方式。　　6.方面，点&#91;C&#93;<br/>　　Theirplanisrecommendablei",
+            "link":"http://baike.soso.com/v8068962.htm"
+        }
+    ],
+    "lang":"eng"
+}

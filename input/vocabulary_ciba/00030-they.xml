@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>they</key>
+	<ps>ðei, ðe</ps>
+	<pron>http://res-tts.iciba.com/2/b/b/2bb3d86d95234affa7c5bd68c4bab606.mp3</pron>
+	<ps>ðe</ps>
+	<pron>http://res.iciba.com/resource/amp3/1/0/2b/b3/2bb3d86d95234affa7c5bd68c4bab606.mp3</pron>
+	<pos>pron.</pos>
+	<acceptation>他/她/它们；人们，大家；政府，当局；她们；
+	</acceptation>
+	<sent>
+		<orig>
+			The verb should be in the plural,e.g."have" in "they have".
+		</orig>
+		<trans>
+			这个动词应用复数形式，如they have中的have。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			They did it themselves.
+		</orig>
+		<trans>
+			（或They themselves did it。）这是他们亲自干的。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			They're so lacking in confidence in the attraction of the games they
+			televise that they feel they have to hype up with some hysterical
+			commentator in order to get anyone to watch them.
+		</orig>
+		<trans>
+			他们对于用电视播映比赛的吸引力太缺乏信心，以至于他们感到必须要用一个说得天花乱坠的讲解员来做实况广播，以便招揽观众。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Eggs are cheap when they are plentiful and they are dear when they are
+			scare.
+		</orig>
+		<trans>
+			鸡蛋多了就便宜，少了就贵。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			If they had [had they] time, they would certainly come and help us.
+		</orig>
+		<trans>
+			如果他们有时间，他们一定会来帮助我们。
+		</trans>
+	</sent>
+</dict>

@@ -1,0 +1,473 @@
+{
+    "local":[
+        {
+            "word":"back",
+            "sd":"d7a7f7108e9047fad3bd605030ede2e7",
+            "pho":[
+                "b&#230;k"
+            ],
+            "des":[
+                {
+                    "p":"n.",
+                    "d":"背部, 后面"
+                },
+                {
+                    "p":"adv.",
+                    "d":"向后地"
+                },
+                {
+                    "p":"vt.",
+                    "d":"使后退, 支持"
+                },
+                {
+                    "p":"vi.",
+                    "d":"倒退, 背靠"
+                },
+                {
+                    "p":"adj.",
+                    "d":"后面的"
+                }
+            ],
+            "sen":[
+                {
+                    "p":"adv.",
+                    "s":[
+                        {
+                            "es":"The house is set <b>back<\/b> from the road.",
+                            "cs":"那所房屋远离公路。"
+                        }
+                    ]
+                },
+                {
+                    "p":"vt.",
+                    "s":[
+                        {
+                            "es":"You could <b>back<\/b> the dress with silk.",
+                            "cs":"你可以用丝绸布给这件衣服加衬里。"
+                        }
+                    ]
+                },
+                {
+                    "s":[
+                        {
+                            "es":"Someone was pacing <b>back<\/b> and forth behind the curtain.",
+                            "cs":"有人在幕布后踱来踱去。"
+                        }
+                    ]
+                },
+                {
+                    "p":"n.",
+                    "s":[
+                        {
+                            "es":"We lay on our <b>backs<\/b> under the tree.",
+                            "cs":"我们在树下躺着。"
+                        }
+                    ]
+                }
+            ],
+            "mor":[
+                {
+                    "c":"第三人称单数",
+                    "m":"backs"
+                },
+                {
+                    "c":"动词过去式",
+                    "m":"backed"
+                },
+                {
+                    "c":"过去分词",
+                    "m":"backed"
+                },
+                {
+                    "c":"现在分词",
+                    "m":"backing"
+                }
+            ],
+            "syn":[
+                {
+                    "p":"adv.",
+                    "c":[
+                        "backward"
+                    ]
+                },
+                {
+                    "p":"v.",
+                    "c":[
+                        "indorse",
+                        "endorse"
+                    ]
+                },
+                {
+                    "p":"n.",
+                    "c":[
+                        "rear"
+                    ]
+                }
+            ],
+            "ph":[
+                {
+                    "phs":"back to back",
+                    "phd":"背靠背"
+                },
+                {
+                    "phs":"turn one&#39;s back on",
+                    "phd":"背弃, 抛弃"
+                },
+                {
+                    "phs":"back down",
+                    "phd":"放弃要求, 取消前言"
+                },
+                {
+                    "phs":"back and forth",
+                    "phd":"来回地"
+                },
+                {
+                    "phs":"back up",
+                    "phd":"支持"
+                },
+                {
+                    "phs":"see the back of",
+                    "phd":"看(某人)离开, 赶走[摆脱](某人)"
+                },
+                {
+                    "phs":"be on one&#39;s back",
+                    "phd":"仰卧, 生病卧床"
+                },
+                {
+                    "phs":"back of",
+                    "phd":"在...后边"
+                },
+                {
+                    "phs":"with one&#39;s back to the wall",
+                    "phd":"困兽犹斗地"
+                }
+            ]
+        }
+    ],
+    "netdes":[
+        {
+            "word":"back",
+            "des":[
+                {
+                    "mf":"back",
+                    "d":"后卫",
+                    "f":5422,
+                    "tag":"net",
+                    "s":"之后这些防守型的球员被正名为&quot;<b>后卫<\/b>&quot;(<b>Back<\/b>)或者&quot;前卫&quot;(Half <b>Back<\/b>). 随着橄榄球运动的愈加复杂,不同站位的<b>后卫<\/b>球员(指<b>后卫<\/b>站位和前锋线的距离)被细化为前卫(half back)、中<b>后卫<\/b>(three quarters back)和最<b>后卫<\/b>(full back). ",
+                    "url":"http:\/\/watdehell.com\/viewthread.WatDH-Rock!?extra=page%3D1%26amp%3Borderby%3Dlastpost&tid=1481"
+                },
+                {
+                    "mf":"back",
+                    "d":"背",
+                    "f":3064,
+                    "tag":"net",
+                    "s":"记法:后<b>背<\/b>(<b>back)<\/b>缺少了脊梁骨大头钉(tack)来代. wack n.怪人 W的形状像翅膀. 记法:后<b>背<\/b>(<b>back)<\/b>长翅膀(W)的人不是圣人就是怪人(wack). 故事串联:墨水当水喝,我想(think)是胡说,喝完墨水去滑冰(ice),一不注意(notice)落水中,",
+                    "url":"http:\/\/jinhua.yjzjcn.com\/ReadNews-7950313441.html"
+                },
+                {
+                    "mf":"Back",
+                    "d":"后 方",
+                    "f":2318,
+                    "tag":"net",
+                    "s":"以下是它的特性:5.第一步移动离身体远些同时加些压力入地板,保留一些重心在支撑脚,在第一步即将结束时脚尖稍转向外,这一步可移动向前(Forward)、斜前(Diagonal Forward)、旁边(Sideways)、斜后(Diagonally <b>Back<\/b>)和<b>后方<\/b>(<b>Back<\/b>). ",
+                    "url":"http:\/\/qqbb008.bb.iyaya.com\/biji-1086745.html"
+                },
+                {
+                    "mf":"Back",
+                    "d":"背板",
+                    "f":2008,
+                    "tag":"net",
+                    "s":"&quot;如果要百分之百复制出另一把吉他,需要面板的材料来自同一棵树,弹性相同,琴颈(neck)用料也要相同,并且重量一致,<b>背板<\/b>(<b>back<\/b>)和音梁(ribs)也要有相同的密度,只有这样才有可能做出两把完全相同的来. ",
+                    "url":"http:\/\/guitarera.com\/bbs\/thread-9498-1-1.html"
+                }
+            ],
+            "wf":"1"
+        },
+        {
+            "word":"keep back",
+            "des":[
+                {
+                    "mf":"keep back",
+                    "d":"保留",
+                    "f":4690,
+                    "tag":"net",
+                    "s":"K--<b>保留<\/b>(<b>keep back<\/b>)最好的人. 盖茨曾对微软的人力资源部说过:&quot;只要他们真是我们们需要的人,要什么给什么. &quot;相对于微软的&quot;财大气粗&quot;,国内似乎没有多少企业能有底气说出如此&quot;不惜代价&quot;的话. 但是,面对人才的流失,特别是不可替代人才的出走,",
+                    "url":"http:\/\/club.ganji.com\/viewthread.php?tid=151524"
+                },
+                {
+                    "mf":"keep back",
+                    "d":"隐瞒",
+                    "f":4963,
+                    "tag":"net",
+                    "s":"keep 保存 | <b>keep back 隐瞒<\/b> | keep under 控制",
+                    "url":"http:\/\/new.ppen.net\/life\/utility\/23461.html"
+                },
+                {
+                    "mf":"keep back",
+                    "d":"阻止",
+                    "f":4957,
+                    "tag":"net",
+                    "s":"keep away 防范 | <b>keep back 阻止<\/b> | keep bad time 走得不准",
+                    "url":"http:\/\/www.360doc.com\/content\/070611\/17\/20247_552231.html"
+                },
+                {
+                    "mf":"keep back",
+                    "d":"阻止,阻挡;隐瞒,保留",
+                    "f":2855,
+                    "tag":"net",
+                    "s":"intervene in干涉,干预;插入 | <b>keep back阻止,阻挡;隐瞒,保留<\/b> | keep down控制,压制,镇压;压低",
+                    "url":"http:\/\/paper77.blog.163.com\/blog\/static\/2831122520073174343255"
+                }
+            ]
+        },
+        {
+            "word":"hold back",
+            "des":[
+                {
+                    "mf":"hold back",
+                    "d":"阻止",
+                    "f":5663,
+                    "tag":"net",
+                    "s":"&quot;,每当这时,她总是说&quot;孩子,你不懂,生活真的需要总结,一个人阅历的多少往往决定着这个人一生的前途...&quot;,当时我知道我是<b>阻止<\/b>(<b>hold back<\/b>)不了他了,所以干脆就开溜. ",
+                    "url":"http:\/\/www.51test.net\/show\/88940.html"
+                },
+                {
+                    "mf":"hold back",
+                    "d":"忍住",
+                    "f":174,
+                    "tag":"net",
+                    "s":"可以试试看. 但是因为他似乎从未以这个配速(MP)练习过,所以比赛当天主要还是应该凭感觉跑:32K之前,必须随时提醒自己<b>忍住<\/b>(<b>hold back<\/b>)不乱开. ",
+                    "url":"http:\/\/www.taiwanrunners.com\/phorum\/read.php?f=4&i=6089&t=6081&v=f"
+                },
+                {
+                    "mf":"hold back",
+                    "d":"退缩",
+                    "f":5645,
+                    "tag":"net",
+                    "s":"hit the ceiling 勃然大怒 | <b>hold back 退缩<\/b> | hold up 举起,支撑,阻挡",
+                    "url":"http:\/\/bbs.148365.com\/post2_541706_1.html"
+                },
+                {
+                    "mf":"hold back",
+                    "d":"抑制",
+                    "f":5080,
+                    "tag":"net",
+                    "s":"in accordance with== 根据 | <b>hold back 抑制<\/b> | slide 幻灯片",
+                    "url":"http:\/\/hi.baidu.com\/goodlucktjb\/blog\/index\/0"
+                }
+            ]
+        },
+        {
+            "word":"set back",
+            "des":[
+                {
+                    "mf":"set back",
+                    "d":"推迟,延缓,阻碍",
+                    "f":4295,
+                    "tag":"net",
+                    "s":"set aside挑出,拨出,留出;拒绝 | <b>set back推迟,延缓,阻碍<\/b> | set down卸下,放下,记下,记入",
+                    "url":"http:\/\/paper77.blog.163.com\/blog\/static\/2831122520073174343255"
+                },
+                {
+                    "mf":"set back",
+                    "d":"阻碍",
+                    "f":4107,
+                    "tag":"net",
+                    "s":"set at 袭击 | <b>set back 阻碍<\/b> | set before 放在面前",
+                    "url":"http:\/\/www.ebigear.com\/news-481-56796.html"
+                },
+                {
+                    "mf":"set back",
+                    "d":"推迟",
+                    "f":3990,
+                    "tag":"net",
+                    "s":"set aside 余出来,拿出来,省,存 | <b>set back 推迟<\/b> | set down 写下,记下",
+                    "url":"http:\/\/free.21cn.com\/forum\/bbsMessageList.act?bbsThreadId=614629"
+                },
+                {
+                    "mf":"set back",
+                    "d":"延缓",
+                    "f":3940,
+                    "tag":"net",
+                    "s":"set aside 留出钱(时间)做某事 | <b>set back 延缓<\/b> | set off 炫耀",
+                    "url":"http:\/\/nchong.szstudy.cn\/showArticle\/46616.shtml"
+                }
+            ]
+        },
+        {
+            "word":"give back",
+            "des":[
+                {
+                    "mf":"give back",
+                    "d":"送还,恢复",
+                    "f":4544,
+                    "tag":"net",
+                    "s":"give away泄露;分送 | <b>give back送还,恢复<\/b> | give in交上;投降,屈服",
+                    "url":"http:\/\/paper77.blog.163.com\/blog\/static\/2831122520073174343255"
+                },
+                {
+                    "mf":"give back",
+                    "d":"归还",
+                    "f":4189,
+                    "tag":"net",
+                    "s":"look back on回顾 | <b>give back归还<\/b> | keep back隐瞒;忍住",
+                    "url":"http:\/\/www.ewteacher.com\/UploadFiles\/20061026195723269.doc"
+                },
+                {
+                    "mf":"give back",
+                    "d":"归还;送回",
+                    "f":2362,
+                    "tag":"net",
+                    "s":"give away 分发 | <b>give back 归还,送回<\/b> | give in 屈服,让步",
+                    "url":"http:\/\/www.gz16.com\/jiaoshi\/UploadFiles_9392\/200905\/2009052210361316.doc"
+                },
+                {
+                    "mf":"give back",
+                    "d":"归还;恢复;后退",
+                    "f":2054,
+                    "tag":"net",
+                    "s":"give away 泄露(秘密等);增送 | <b>give back 归还;恢复;后退<\/b> | give birth 使诞生;生(孩子)",
+                    "url":"http:\/\/xiaoshuo59561.580590.com\/htmlbook\/53\/53020\/27_B.html"
+                }
+            ]
+        },
+        {
+            "word":"pay back",
+            "des":[
+                {
+                    "mf":"pay back",
+                    "d":"偿还",
+                    "f":4222,
+                    "tag":"net",
+                    "s":"法思高画廊画廊&quot;巴洛克式一致&quot;(Baroque Coherence)美国纽约DCA画廊&quot;短篇小说&quot;(Short Stories)丹麦哥本哈根,法思高画廊1997 &quot;<b>偿还<\/b>&quot;(<b>Pay Back<\/b>),比利时安特卫普当代美术馆(MUHKA)&quot;家常情景&quot;(Domestic Scene)丹麦哥本哈根法思高画廊&quot;基本节奏&quot;(Basic Rhythm),",
+                    "url":"http:\/\/situtan668753.blog.163.com\/blog\/static\/61696305200828113333291"
+                },
+                {
+                    "mf":"Pay Back",
+                    "d":"危險人物",
+                    "f":1,
+                    "tag":"net",
+                    "s":"好莱坞巨星梅尔.吉布森(Mel Gibson)在他的新片&lt;&lt;<b>危险人物<\/b>&gt;&gt;(<b>Pay Back<\/b>) 中开始了他从影以来的全新尝试, 出演一位亦正亦邪的黑道人物,英雄神采仍然不减当年. ",
+                    "url":"http:\/\/news.ifeng.com\/home\/phoenixtv\/200402\/27\/207990.html"
+                },
+                {
+                    "mf":"pay back",
+                    "d":"偿还,回报",
+                    "f":4094,
+                    "tag":"net",
+                    "s":"pay &quot;v.支付,付出;给予(注意);值得;进行(访问等); n.工资,薪金; &quot; | <b>pay back 偿还,回报<\/b> | pay up 全部付清",
+                    "url":"http:\/\/yoursit.cn\/mydoc029.htm"
+                },
+                {
+                    "mf":"pay back",
+                    "d":"偿还(借款等);回报",
+                    "f":3329,
+                    "tag":"net",
+                    "s":"pat sb. on the back 对某人表示赞许 . | <b>pay back 偿还(借款等);回报 .<\/b> | pay for 偿还;受到惩罚 .",
+                    "url":"http:\/\/bbs.eduu.com\/viewthread.php?extra=&ordertype=2&tid=35778"
+                }
+            ]
+        }
+    ],
+    "netsen":[
+        {
+            "cs":"我还会再来的。",
+            "es":"I`ll get <b>back<\/b> to you.",
+            "url":"http:\/\/www.1363.cn\/article\/1879\/112176"
+        },
+        {
+            "cs":"我不想让你回来了。",
+            "es":"I don&#39;t want you <b>back<\/b>.",
+            "url":"http:\/\/wenxi2064.blog.sohu.com\/129414981.html"
+        },
+        {
+            "cs":"我回来的时候。。。",
+            "es":"And when I come <b>back<\/b>...",
+            "url":"http:\/\/www.sfileydy.com\/bbs\/viewthread.php?tid=183747"
+        },
+        {
+            "cs":"我要去工作了。",
+            "es":"I have to get <b>back<\/b> to work.",
+            "url":"http:\/\/www.icoolen.net\/film_veido\/uglybetty_s1e09"
+        },
+        {
+            "cs":"后面我自己来。。。。。。。。。",
+            "es":"<b>Back<\/b> to my own .........",
+            "url":"http:\/\/zhidao.baidu.com\/question\/35247146.html"
+        },
+        {
+            "cs":"你要知道，我希望你回来。",
+            "es":"YOU KNOW, I LOVE YOU <b>BACK<\/b>.",
+            "url":"http:\/\/sobar.soso.com\/tie\/47060731.html"
+        },
+        {
+            "cs":"我会再回来的。。。",
+            "es":"I will come <b>back<\/b> again ...",
+            "url":"http:\/\/att.alive.tom.com\/invincibleadi\/-Singapore-Trip--profile-919076.html?r_andhpphoto"
+        }
+    ],
+    "dlg":[
+        {
+            "s":"\/职场英语",
+            "t":"电影",
+            "c":[
+                {
+                    "n":"A",
+                    "cs":"（快\/快一些\/快点）！电影开始了。",
+                    "es":"(Hurry\/ Quick\/ Hurry up)! The movie is coming <b>back<\/b> on."
+                },
+                {
+                    "n":"B",
+                    "cs":"来了。",
+                    "es":"I’m coming."
+                }
+            ],
+            "u":0
+        },
+        {
+            "s":"\/职场英语",
+            "t":"培训",
+            "c":[
+                {
+                    "n":"A",
+                    "cs":"你去了哪里？",
+                    "es":"Where have you been?"
+                },
+                {
+                    "n":"B",
+                    "cs":"我刚刚（从营地\/从学校\/上课）回来。",
+                    "es":"I just got <b>back<\/b> from (camp\/ school\/ class)."
+                }
+            ],
+            "u":1
+        },
+        {
+            "s":"\/休闲娱乐",
+            "t":"假期",
+            "c":[
+                {
+                    "n":"B",
+                    "cs":"这本书归还期限是什么时候？",
+                    "es":"When is this book due <b>back<\/b>?"
+                },
+                {
+                    "n":"A",
+                    "cs":"下星期二\/星期五开始后的一个星期\/三天以内。",
+                    "es":"It’s due <b>back<\/b> (next Tuesday\/ a week from Friday\/ in three days)."
+                }
+            ],
+            "u":0
+        }
+    ],
+    "baike":[
+        {
+            "title":"back",
+            "pic":"",
+            "pw":"0",
+            "ph":"0",
+            "abs":"<b>名词 n. <br></b>1. 背脊,背部&#91;C&#93;<br>Someone patted me on the back. <br>有人在我背上轻轻地拍了一下。 2. 后部&#91;the S&#93;&#91;(+of)&#93;<br>Grandpa and grandma sat in the back of the car. <br>爷爷和奶奶坐在汽车后排的座位上。 3. 后面,背面&#91;the S&#93;&#91;(+of)&#93; 4. 椅背&#91;the S&#93; &#91;(+of)&#93; 5. (书报等的)末尾&#91;the S&#93;&#91;(+of)&#93;<br>There is an appendix at the back of the book. <br>该书末尾处有一附录。 6. (足球等的)后卫;后卫球员&#91;C&#93;&#91;U&#93;<br><b>副词 ad. <br></b>1. 在原处;回原处<br>Joan and I walked back to the college. <br>我和琼步行回到学校。 2. 向后;后退地<br>Please go back three steps. <br>请退后三步。 3. 以前;追溯<br>A few years back you could see nothing but barren land there. <br>数年前人们在那儿所能看到的只是荒野。 4. 回复;还;往回 5. 止住;延缓<br><b>形容词 a. &#91;Z&#93;<br></b>1. 后面的,后部的",
+            "link":"http://baike.soso.com/v8054798.htm"
+        }
+    ],
+    "lang":"eng"
+}

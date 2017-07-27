@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>his</key>
+	<ps>hiz, ɪz</ps>
+	<pron>http://res-tts.iciba.com/6/5/b/65b50b04a6af50bb2f174db30a8c6dad.mp3</pron>
+	<ps>hɪz</ps>
+	<pron>http://res.iciba.com/resource/amp3/1/0/65/b5/65b50b04a6af50bb2f174db30a8c6dad.mp3</pron>
+	<pos>pron.</pos>
+	<acceptation>（he的所有格）他的；（he的物主代词）他的东西；
+	</acceptation>
+	<pos>det.</pos>
+	<acceptation>属于他的，用于名词前；自己的；指某人的；上帝的；
+	</acceptation>
+	<sent>
+		<orig>
+			Joe was no richer than his friend.
+		</orig>
+		<trans>
+			乔并不比他的朋友富。[乔和他的朋友一样穷。]（比较：Joe was not richer than his friend。乔比不上他的朋友富。）
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			The position of the pronoun "his" shows that it is to be betoned.
+		</orig>
+		<trans>
+			代词“his”在句中的位置表示此词应加强调。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			A good teacher should be able to infect his students with his own
+			keenness for his subject.
+		</orig>
+		<trans>
+			一个好教师应能以自己对本学科的热爱来影响学生。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			A multimillionaire media magnate has shocked his employees with his
+			candor by telling them all that he's putting his business affairs on
+			hold to enter an alcoholism-counseling program.
+		</orig>
+		<trans>
+			一位身份数百万的媒体大亨，坦诚地告诉他全体员工他将暂时搁置他的事业以便参加戒酒班，令员工大为惊愕。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			After his death his property was shared between his children.
+		</orig>
+		<trans>
+			他死后，财产由孩子们平分。
+		</trans>
+	</sent>
+</dict>

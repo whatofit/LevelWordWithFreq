@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>than</key>
+	<ps>ðæn, ðən</ps>
+	<pron>http://res-tts.iciba.comðæn, ðən</pron>
+	<pos>conj.</pos>
+	<acceptation>比（用于比较级）；宁愿……而不愿；除……以外；一……就；
+	</acceptation>
+	<pos>prep.</pos>
+	<acceptation>超过；比；
+	</acceptation>
+	<sent>
+		<orig>
+			Joe was no richer than his friend.
+		</orig>
+		<trans>
+			乔并不比他的朋友富。[乔和他的朋友一样穷。]（比较：Joe was not richer than his friend。乔比不上他的朋友富。）
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			It's better to go back and make a net than to stand by the pond and long
+			for fish.; Better return home and make a net than long for fish by
+			the waterside.; It's better to go back and make a net than to covet
+			the fish by merely staring into the water -- one should have a
+			down-to-earth style of work to attain one's goal.; One should take
+			practical steps to achieve one's aims.
+		</orig>
+		<trans>
+			临渊羡鱼，莫如退而结网。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			He is younger than I by much.; He is much younger than I.
+		</orig>
+		<trans>
+			他比我年纪小得多。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			If the illegal gains are very large the counterfeiter shall be
+			sentenced to fixed-term imprisonment of not less than three years and
+			not more than seven years and be fined.
+		</orig>
+		<trans>
+			对于违法所得数额巨大的，处3年以上7年以下有期徒刑，并处罚金。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			They raised their output by more than half in less than three years.
+		</orig>
+		<trans>
+			不到三年，他们把产量提高了一半还多。
+		</trans>
+	</sent>
+</dict>

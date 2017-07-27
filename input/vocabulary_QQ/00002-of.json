@@ -1,0 +1,369 @@
+{
+    "local":[
+        {
+            "word":"of",
+            "sd":"7dacbb7ff07d33325e9de59076e0cfe8",
+            "pho":[
+                "&#596;v"
+            ],
+            "des":[
+                {
+                    "p":"prep.",
+                    "d":"的, ...的, 由...制成的, 关于, 对于"
+                }
+            ],
+            "sen":[
+                {
+                    "p":"prep.",
+                    "s":[
+                        {
+                            "es":"He gave a lecture on the use <b>of<\/b> solar energy.",
+                            "cs":"他就太阳能的利用作了一场讲演。"
+                        },
+                        {
+                            "es":"We waited for the arrival <b>of<\/b> the next bus.",
+                            "cs":"我们等待下一班汽车的到来。"
+                        },
+                        {
+                            "es":"He died <b>of<\/b> fever.",
+                            "cs":"他死于高烧。"
+                        },
+                        {
+                            "es":"Mr.Brown is a friend <b>of<\/b> mine.",
+                            "cs":"布朗先生是我的朋友。"
+                        },
+                        {
+                            "es":"The house is <b>of<\/b> stone.",
+                            "cs":"这房子是石建的。"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "netdes":[
+        {
+            "word":"of",
+            "des":[
+                {
+                    "mf":"of",
+                    "d":"的",
+                    "f":2502,
+                    "tag":"net",
+                    "s":"职业,行业 空<b>的<\/b>,空虚<b>的<\/b>,(<b>of<\/b>)没有<b>的<\/b>,缺乏<b>的<\/b>; ,(<b>of<\/b>)没有<b>的<\/b> a. 空<b>的<\/b>,空虚<b>的<\/b>,(<b>of<\/b>)没有<b>的<\/b>,缺乏<b>的<\/b>;无效<b>的<\/b> n. 电压 n. 伏特 元音, n. 元音,元音字母 a.粗俗<b>的<\/b> 庸俗<b>的<\/b>, 粗俗<b>的<\/b>, a.粗俗<b>的<\/b>,庸俗<b>的<\/b>,普通<b>的<\/b> a.易受攻击<b>的<\/b> a.易受攻击<b>的<\/b> n.[常 pl.]工资 工资,",
+                    "url":"http:\/\/wendang.baidu.com\/view\/4de187c7aa00b52acfc7ca2b.html"
+                },
+                {
+                    "mf":"of",
+                    "d":" 关于",
+                    "f":320,
+                    "tag":"net",
+                    "s":"&quot;<b>关于<\/b>&quot;(<b>of<\/b>)为主语和宾语的使用形式. 在此主语为1860年以后、一名来自维也纳被称为西格蒙德读了许多书的人. 弗洛依德在阅览这些读物的同时也著书立传,然后成为我们的读物,我们&quot;解读弗洛依德&quot;代表着弗洛依德不同的对象,",
+                    "url":"http:\/\/www.lantian99.com.cn\/bbs\/ShowPost.asp?ForumID=35&ThreadID=1383&menu=Previous"
+                },
+                {
+                    "mf":"of",
+                    "d":"介词",
+                    "f":287,
+                    "tag":"net",
+                    "s":"原句由连词(which)、<b>介词<\/b>(<b>of<\/b>)、分词(creating)连接,十分紧凑. 而S1的译文首先理解有误,由于受到by many times的干扰,理解为&quot;集成电路已经被缩小了好几倍&quot;;S2的译文很难懂,将&quot;the integrated circuit&quot;误解为&quot;综合线路的简化&quot;,",
+                    "url":"http:\/\/www.abcfanyi.com\/fanyishixun_content.asp?news_id=738"
+                },
+                {
+                    "mf":"of",
+                    "d":"属于",
+                    "f":76,
+                    "tag":"net",
+                    "s":"这是<b>属于<\/b>(<b>of<\/b>)我的十(ten)万元钱,可是常常被人家给偷了两只漂亮(pl)的小狗吃(eat)着美味的狗粮,我看着他们,相信(sure)他们现在一定 很高兴.两只小狗广场上死去(squ)他们都是(are)我的最爱,我伤心得吃不下饭.糖糖说,",
+                    "url":"http:\/\/xn--4kr072k.com\/bbs\/thread-4465-1-5.html"
+                },
+                {
+                    "mf":"of",
+                    "d":"abbr. open fracture; 开口裂缝",
+                    "f":1,
+                    "tag":"abbr",
+                    "s":-1,
+                    "url":"http:\/\/wendang.baidu.com\/view\/4de187c7aa00b52acfc7ca2b.html"
+                },
+                {
+                    "mf":"of",
+                    "d":"abbr. of forecasting; 预测模型",
+                    "f":1,
+                    "tag":"abbr",
+                    "s":-1,
+                    "url":"http:\/\/www.lantian99.com.cn\/bbs\/ShowPost.asp?ForumID=35&ThreadID=1383&menu=Previous"
+                },
+                {
+                    "mf":"of",
+                    "d":"abbr. out for; 进行",
+                    "f":1,
+                    "tag":"abbr",
+                    "s":-1,
+                    "url":"http:\/\/www.abcfanyi.com\/fanyishixun_content.asp?news_id=738"
+                }
+            ],
+            "wf":"1"
+        },
+        {
+            "word":" of",
+            "des":[
+                {
+                    "d":"ignorance n",
+                    "f":3,
+                    "tag":"net",
+                    "s":"ignite vt 点燃;激起vi 着火 | <b>ignorance n 无知,愚昧; of,about 不知<\/b> | illuminate vt 照明;阐明启发",
+                    "url":"http:\/\/oian.cn\/CET6\/Glossary\/2009\/1022\/11157.html"
+                }
+            ]
+        },
+        {
+            "word":"of course",
+            "des":[
+                {
+                    "mf":"of course",
+                    "d":"当然",
+                    "f":18925,
+                    "tag":"net",
+                    "s":"女性也喜欢使用修饰词及&quot;你知道......(you know)&quot;,&quot;我想......(I think)&quot;等辅助附加语;而男性则喜欢用&quot;<b>当然<\/b>(<b>of course<\/b>)&quot;. 女性擅长语音、语调的运用,喜欢使用升调结尾以强调会话双方文化背景的一致和对他人观点的赞同,表达礼貌(Brend,",
+                    "url":"http:\/\/www.studa.net\/wenhuayanjiu\/080724\/15411792.html"
+                },
+                {
+                    "mf":"of course",
+                    "d":"自然",
+                    "f":1,
+                    "tag":"net",
+                    "s":"客观因素决定了它的这些作用(Role),在别人的大型blog网站上创建blog,权重也好,框架也好,都已经决定了,那么便是内容支撑着起一些作用(Role),<b>自然<\/b>(<b>Of course<\/b>)这些内容都是创建在链接为基本(Basic)的情况下产生的. ",
+                    "url":"http:\/\/www.cnkanke.com\/html\/webdesign\/wangzhanyouhua\/709.html"
+                },
+                {
+                    "mf":"Of course",
+                    "d":"当然了",
+                    "f":134250,
+                    "tag":"net",
+                    "s":"34. I promise. 我保证.  | <b>35. Of course! 当然了!<\/b> | 36. Slow down! 慢点!",
+                    "url":"http:\/\/laiba.tianya.cn\/laiba\/CommMsgs?cmm=113072&tid=2679434024279741432"
+                },
+                {
+                    "mf":"of course",
+                    "d":"当然,自然",
+                    "f":7142,
+                    "tag":"net",
+                    "s":"in the course of 在...过程中,在...期间 | <b>of course 当然,自然<\/b> | in danger 在危险中,垂危",
+                    "url":"http:\/\/e.3edu.net\/CET46\/E_44712.html"
+                }
+            ]
+        },
+        {
+            "word":"instead of",
+            "des":[
+                {
+                    "mf":"instead of",
+                    "d":"替代",
+                    "f":1202,
+                    "tag":"net",
+                    "s":"数 ...触发器功能 1、 允许\/限制对表的修改 2、 自动生成派生列,比如自增字段 3、 强制数据一致性 4、 提供审计和日志记录 5、 防止无效的事务处理 6、 启用复杂的业务逻辑 触发器种类 触发器的种类可划分为4种:1.数据操纵语言(DML)触发器、2.<b>替代<\/b>(<b>INSTEAD OF<\/b>)触发器、3.数据定",
+                    "url":"http:\/\/www.xpadd.com\/index.php\/xpzx\/page-1724"
+                },
+                {
+                    "mf":"instead of",
+                    "d":"代替,而不是",
+                    "f":13234,
+                    "tag":"net",
+                    "s":"<b>instead of 代替;而不是<\/b> | interfere with 干涉;干预;妨碍;干扰;影响 | involve in 涉及;卷入;陷入;使进入;使连累",
+                    "url":"http:\/\/www.soenglish.com.cn\/exam\/doctor\/200610\/20061021152205_17061.html"
+                },
+                {
+                    "mf":"instead of",
+                    "d":"代替",
+                    "f":5234,
+                    "tag":"net",
+                    "s":"in the charge of 由......掌管 | in honour of 为了纪念,为向......表示敬意 | <b>instead of 代替<\/b>",
+                    "url":"http:\/\/12edu.cn\/gaokao\/zjfd\/yy\/200903\/253539_4.shtml"
+                },
+                {
+                    "mf":"instead of",
+                    "d":"替代,而不是",
+                    "f":1190,
+                    "tag":"net",
+                    "s":"in vain 徒劳,白费力 | <b>instead of 替代,而不是<\/b> | bear...in mind 记住(某事)",
+                    "url":"http:\/\/www.chafenwang.cn\/chafen\/zhuanshengbenzhinan\/18277.html"
+                }
+            ]
+        },
+        {
+            "word":"ahead of",
+            "des":[
+                {
+                    "mf":"ahead of",
+                    "d":"前面",
+                    "f":87,
+                    "tag":"net",
+                    "s":"但是这种说法有很多版本(edition),在<b>前面<\/b>(<b>ahead of<\/b>)说他是学校部门(department)的杰出的人才,这种说法可能比较正确(accurate),因为即使在高年级的(senior)的评比当中,他也显得很光亮(polish),并且他是部门的主席(chief). ",
+                    "url":"http:\/\/www.laizixi.com\/topic\/36\/10761.html"
+                },
+                {
+                    "mf":"ahead of",
+                    "d":"在...之前",
+                    "f":8852,
+                    "tag":"net",
+                    "s":"after all 毕竟,究竟 | <b>ahead of 在...之前<\/b> | ahead of time 提前",
+                    "url":"http:\/\/hi.baidu.com\/????С??Ь\/blog\/index\/6"
+                },
+                {
+                    "mf":"ahead of",
+                    "d":"在......前面,先于",
+                    "f":3780,
+                    "tag":"net",
+                    "s":"after all \\\/ \\\/ 终于,毕竟;虽然这样 | <b>ahead of \\\/ \\\/ 在...前面,先于<\/b> | ahead of time \\\/ \\\/ 提前",
+                    "url":"http:\/\/jsntjh1234.ycool.com\/index5.html"
+                },
+                {
+                    "mf":"ahead of",
+                    "d":"在...前面,先于;胜过",
+                    "f":2431,
+                    "tag":"net",
+                    "s":"ahead of time 提前,在原定时间以前 | <b>ahead of 在...前面,先于;胜过<\/b> | aim for 力争...,针对",
+                    "url":"http:\/\/xiaoshuo59561.580590.com\/htmlbook\/53\/53020\/27_B.html"
+                }
+            ]
+        },
+        {
+            "word":"lots of",
+            "des":[
+                {
+                    "mf":"lots of",
+                    "d":"很多",
+                    "f":339,
+                    "tag":"net",
+                    "s":"我(I)以前不开(run)外挂的,后来发现(find)网(Internet)上<b>很多<\/b>(<b>lots of<\/b>)人都是开(use)外挂的,我就花(take)了一个月的时间(time)去网吧上网自学VB,一直到我会(know)做属于自己(myself)的外挂(Cheat\/Hack). ",
+                    "url":"http:\/\/blog.360quan.com\/u\/266d40"
+                },
+                {
+                    "mf":"lots of",
+                    "d":"许多",
+                    "f":6790,
+                    "tag":"net",
+                    "s":"little by little 逐渐地 | <b>lots of 许多<\/b> | many a 许多",
+                    "url":"http:\/\/www.360doc.com\/content\/10\/0306\/13\/529735_17761126.shtml"
+                },
+                {
+                    "mf":"lots of",
+                    "d":"大量,许多",
+                    "f":4420,
+                    "tag":"net",
+                    "s":"a lot of 大量,许多;非常 . | <b>lots of 大量,许多 .<\/b> | lots and lots 许许多多(的) .",
+                    "url":"http:\/\/bbs.eduu.com\/viewthread.php?extra=&ordertype=2&tid=35778"
+                },
+                {
+                    "mf":"lots of",
+                    "d":"大量的,许多的",
+                    "f":1574,
+                    "tag":"net",
+                    "s":"lose heart 灰心,泄气 | lose sight of 看不见;忽略 | <b>lots of 大量的,许多的<\/b>",
+                    "url":"http:\/\/sd.chinack.net\/news_info\/new_5001.html"
+                }
+            ]
+        }
+    ],
+    "netsen":[
+        {
+            "cs":"如果你是我们的人。。。",
+            "es":"If you are one <b>of<\/b> us...",
+            "url":"http:\/\/www.engxue.com\/bencandy.php?aid=662&buy=2&fid=3&line=60.190.101.203&page=3"
+        },
+        {
+            "cs":"在世界上的。。。",
+            "es":"In the world <b>of<\/b> the ...",
+            "url":"http:\/\/www.playstation3facts.com\/chinese.php?u=\/permalink.php%3Farticle%3Dps3-vs-nintendo-wii.txt"
+        },
+        {
+            "cs":"因为你和我。。。",
+            "es":"Because <b>of<\/b> you and I...",
+            "url":"http:\/\/i.yoho.cn\/miclin\/logview\/1785696_3_71353.html"
+        },
+        {
+            "cs":"如果你是一位。。。",
+            "es":"If you are one <b>of<\/b>...",
+            "url":"http:\/\/www.approved-mortgages.net\/chinese.php?u=\/lowest-interest-rate-mortgage-refinance-loans-3-ways-to-get-a-low-rate-refinance\/"
+        },
+        {
+            "cs":"本研究的目的是。。。。",
+            "es":"The purpose <b>of<\/b> this study is to....",
+            "url":"http:\/\/zhidao.baidu.com\/question\/58730275.html"
+        },
+        {
+            "cs":"我爱你，因为你。",
+            "es":"I love you, because <b>of<\/b> you.",
+            "url":"http:\/\/zhidao.baidu.com\/question\/102698642.html"
+        },
+        {
+            "cs":"的&#39;。&#39;&#39;奇迹。",
+            "es":"<b>Of<\/b>&#39;.&#39;&#39; the &#39;&#39;.",
+            "url":"http:\/\/www.iciba.com\/total+amount+of+general+average"
+        }
+    ],
+    "dlg":[
+        {
+            "s":"\/休闲娱乐",
+            "t":"自责",
+            "c":[
+                {
+                    "n":"A",
+                    "cs":"我竟然忘了，（真蠢\/愚蠢\/苯）。",
+                    "es":"How (silly\/ stupid\/ lame brained) <b>of<\/b> me to forget."
+                },
+                {
+                    "n":"B",
+                    "cs":"没什么。",
+                    "es":"That’s alright."
+                }
+            ],
+            "u":0
+        },
+        {
+            "s":"\/谈论节日",
+            "t":"情人节",
+            "c":[
+                {
+                    "n":"A",
+                    "cs":"情人节快乐。",
+                    "es":"Happy Valentine’s Day!"
+                },
+                {
+                    "n":"B",
+                    "cs":"你太好了。",
+                    "es":"That’s nice <b>of<\/b> you."
+                }
+            ],
+            "u":1
+        },
+        {
+            "s":"\/休闲娱乐\/旅游英语",
+            "t":"户外运动",
+            "c":[
+                {
+                    "n":"A",
+                    "cs":"你喜欢哪种运动？",
+                    "es":"What kind <b>of<\/b> sports do you like?"
+                },
+                {
+                    "n":"B",
+                    "cs":"我喜欢所有的户外运动。",
+                    "es":"Anything outdoor is prefeered."
+                }
+            ],
+            "u":0
+        }
+    ],
+    "baike":[
+        {
+            "title":"of",
+            "pic":"http://baike.soso.com/p/20090717/bki-20090717152334-1242847272.jpg",
+            "pw":"66",
+            "ph":"66",
+            "abs":"\r\n\r\n&nbsp;of<br>&#91;v,v,v,f&#93;<br>prep.<br/>\r\n1.&#91;表示所属关系&#93;(属于)...的<br>&nbsp; man&nbsp;of&nbsp;that&nbsp;time<br>&nbsp; 那个时代的人<br/>\r\n2.&#91;表示关于&#93;(关于)...的<br>&nbsp;a&nbsp;long&nbsp;story&nbsp;of&nbsp;adventure<br>&nbsp; 一个很长的冒险故事<br/>\r\n3.&#91;表示同位关系&#93;<br>&nbsp; the&nbsp;city&nbsp;of&nbsp;Rome<br>&nbsp; 罗马市<br>&nbsp; the&nbsp;name&nbsp;of&nbsp;James<br>&nbsp; 詹姆士这个名字<br/>\r\n4.&#91;表示性质、内容&nbsp;、状况等&#93;<br>&nbsp;a&nbsp;look&nbsp;of&nbsp;pity<br>&nbsp; 令人哀怜的神色<br>&nbsp; a&nbsp;man&nbsp;of&nbsp;ability<br>&nbsp; 能干的人<br/>\r\n5.&#91;表示数量、种类&#93;<br>&nbsp; a&nbsp;kind&nbsp;of&nbsp;oil<br>&nbsp; 一种油<br>&nbsp; three&nbsp;pieces&nbsp;of&nbsp;meat<br>&nbsp; 三块肉<br/>\r\n6.&#91;表示部分或全部&#93;<br>&nbsp; five&nbsp;of&nbsp;us<br>&nbsp; 我们中五个人<br>&nbsp; the&nbsp;five&nbsp;of&nbsp;us<br>",
+            "link":"http://baike.soso.com/v4578876.htm"
+        }
+    ],
+    "lang":"eng"
+}

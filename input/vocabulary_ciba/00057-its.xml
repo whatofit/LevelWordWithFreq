@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>its</key>
+	<ps>its</ps>
+	<pron>http://res.iciba.com/resource/amp3/0/0/58/48/584826e70485130530f7f01a973d5637.mp3</pron>
+	<ps>ɪts</ps>
+	<pron>http://res.iciba.com/resource/amp3/1/0/58/48/584826e70485130530f7f01a973d5637.mp3</pron>
+	<pos>pron.</pos>
+	<acceptation>（it的所有格形式）它的；厥；
+	</acceptation>
+	<sent>
+		<orig>
+			It (指 swallow) tires not nor does it boast of its power; but belongs to
+			the air, travelling it may be six thousand miles to and from its
+			northern nesting home feeding its flown young as it flies and
+			slipping through a medium that seems to help itspassage even when the
+			wind is adverse.
+		</orig>
+		<trans>
+			它不知疲劳，也不夸耀自己的飞翔能力，然而它在空中十分自如，可以一直飞行6，000英里。飞向北方的筑有鸟巢的家乡以及从那里飞走，在飞行的过程中还要喂养已出窠的雏燕，甚至在顶风的时候也能够不费劲地穿过那似乎有助它迁栖的气流。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			It grasps its victim in its forelegs and pierce it with its rostrum.
+		</orig>
+		<trans>
+			它用前腿抓住牺牲品，把喙刺入对方身体。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			A stream has its source, a tree has its root.
+		</orig>
+		<trans>
+			水有源，木有本。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			After the devastating attack on its military bases, the country was
+			determined not to be caught with its pants down a second time.
+		</orig>
+		<trans>
+			军事基地遭受破坏性袭击之后，该国下决心再不会被人打个措手不及。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Despite its immensity, it is both simple and elegant, fulfilling its
+			designer's dream to create 'an enormous object drawn as faintly as
+			possible.
+		</orig>
+		<trans>
+			桥尽管很大，但它结构简单，而外形雅观，实现了设计师要创造出“一个在重物作用下尽可能不变形的庞然大物”的理想。
+		</trans>
+	</sent>
+</dict>

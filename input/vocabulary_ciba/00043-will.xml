@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>will</key>
+	<ps>wil</ps>
+	<pron>http://res.iciba.com/resource/amp3/0/0/18/21/18218139eec55d83cf82679934e5cd75.mp3</pron>
+	<ps>wɪl</ps>
+	<pron>http://res.iciba.com/resource/amp3/1/0/18/21/18218139eec55d83cf82679934e5cd75.mp3</pron>
+	<pos>n.</pos>
+	<acceptation>愿意；意志（力）；[法]遗嘱；
+	</acceptation>
+	<pos>vt.</pos>
+	<acceptation>决心要；将（财产等）遗赠某人；用意志力驱使（某事发生）；
+	</acceptation>
+	<pos>vi.</pos>
+	<acceptation>愿意， 希望， 想要；
+	</acceptation>
+	<pos>aux.</pos>
+	<acceptation>将，将会；会，要；
+	</acceptation>
+	<sent>
+		<orig>
+			Your bodies and names will perish, but the river will flow on for ever --
+			the names of mediocre writers will be forgottern, but those of the
+			great masters will live.
+		</orig>
+		<trans>
+			尔曹身与名俱灭，不废江河万古流。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			All those who have contributed towards the gift will sign their names in
+			a large album which will be sent to the headmaster's home.
+		</orig>
+		<trans>
+			凡是凑钱买此礼品的人都要在一本大签名簿上签名，这本签名簿要送到校长家里去。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			As a great many people will be visiting the country, the government
+			will be building new hotels, an immense stadium, and a fine new
+			swimming pool.
+		</orig>
+		<trans>
+			因为很多人将要访问这个国家，政府将要建造新的旅馆，一个巨大的体育场和一个漂亮的新游泳池。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Do as he told you and you will find every attempt successful and you
+			will make every shot tell.
+		</orig>
+		<trans>
+			照他的话去做，包你百用百灵，百发百中。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Even if the seas go dry and rocks crumble, my will will remain firm.
+		</orig>
+		<trans>
+			纵然海枯石烂，意志永不动摇。
+		</trans>
+	</sent>
+</dict>

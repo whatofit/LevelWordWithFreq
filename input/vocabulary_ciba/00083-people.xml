@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>people</key>
+	<ps>ˈpi:pl</ps>
+	<pron>http://res.iciba.com/resource/amp3/0/0/12/a0/12a032ce9179c32a6c7ab397b9d871fa.mp3</pron>
+	<ps>ˈpipəl</ps>
+	<pron>http://res-tts.iciba.com/1/2/a/12a032ce9179c32a6c7ab397b9d871fa.mp3</pron>
+	<pos>n.</pos>
+	<acceptation>人，人类；居民；人民；种族；
+	</acceptation>
+	<pos>vt.</pos>
+	<acceptation>居住于，布满；使住满人，在……殖民；把动物放养在；
+	</acceptation>
+	<sent>
+		<orig>
+			Bad elements hold sway, while good people are pushed around.; The bad
+			eggs wielded power, while the good people were oppressed.
+		</orig>
+		<trans>
+			坏人当道，好人受气
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Bad people were not looked down on and good people were not looked up
+			to.
+		</orig>
+		<trans>
+			坏人不臭，好人不香
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			I don't like the kind of people who always nose into other people's
+			affairs.
+		</orig>
+		<trans>
+			我不喜欢总是打听别人事情的那种人。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			If other people can do it, so can we.; What other people can do we can
+			do, too.
+		</orig>
+		<trans>
+			人家能做到的，我们也能做到。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			In the city there are many black people as well as white people.
+		</orig>
+		<trans>
+			城里除了白人外还有许多黑人。
+		</trans>
+	</sent>
+</dict>

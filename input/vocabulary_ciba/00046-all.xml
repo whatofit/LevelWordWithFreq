@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>all</key>
+	<ps>ɔ:l</ps>
+	<pron>http://res.iciba.com/resource/amp3/0/0/a1/81/a181a603769c1f98ad927e7367c7aa51.mp3</pron>
+	<ps>ɔl</ps>
+	<pron>http://res.iciba.com/resource/amp3/1/0/a1/81/a181a603769c1f98ad927e7367c7aa51.mp3</pron>
+	<pos>adj.</pos>
+	<acceptation>全部的；一切的；各种的；极度的，尽量的；
+	</acceptation>
+	<pos>pron.</pos>
+	<acceptation>全部；一切；每个人，每件东西；全部情况；
+	</acceptation>
+	<pos>adv.</pos>
+	<acceptation>全部地；完全地；每个；非常；
+	</acceptation>
+	<pos>n.</pos>
+	<acceptation>全体；[常作A-]整体；[常与my, your, his, her等连用]（某人）所有的一切；
+	</acceptation>
+	<sent>
+		<orig>
+			All efforts of mediation by a third party were in vain at all.
+		</orig>
+		<trans>
+			第三方所作的从中调解的一切努力均告失败。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			All in all, it has been a great success.
+		</orig>
+		<trans>
+			总的来说，非常成功。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			All in all, there were twenty present.
+		</orig>
+		<trans>
+			一总有20人出席。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			All patriots belong to one big family, whether they rally to the common
+			cause early or late.; All patriots belong to one big family, whether
+			they come forward early or late.
+		</orig>
+		<trans>
+			爱国一家，爱国不分先后。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Death pays all debts and all thoughts are dashed.
+		</orig>
+		<trans>
+			一死百了，万念俱灰。
+		</trans>
+	</sent>
+</dict>

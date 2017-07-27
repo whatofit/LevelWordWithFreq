@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>time</key>
+	<ps>taim</ps>
+	<pron>http://res.iciba.com/resource/amp3/0/0/07/cc/07cc694b9b3fc636710fa08b6922c42b.mp3</pron>
+	<ps>taɪm</ps>
+	<pron>http://res-tts.iciba.com/0/7/c/07cc694b9b3fc636710fa08b6922c42b.mp3</pron>
+	<pos>n.</pos>
+	<acceptation>时间；时机；时代；所需时间；
+	</acceptation>
+	<pos>vt.</pos>
+	<acceptation>为……安排时间；测定……的时间；调准（机械的）速度；拨准（钟、表）的快慢；
+	</acceptation>
+	<pos>vi.</pos>
+	<acceptation>合拍；和谐；打拍子；
+	</acceptation>
+	<pos>adj.</pos>
+	<acceptation>定时的；定期的；[美国英语]分期（付款）的；
+	</acceptation>
+	<pos>int.</pos>
+	<acceptation>[体育]时间到，（一场或一局等的）比赛时限，暂停；
+	</acceptation>
+	<sent>
+		<orig>
+			The "e" in " time" is a silent letter.
+		</orig>
+		<trans>
+			time中的e不发音。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			There is (but) little time left.
+		</orig>
+		<trans>
+			没剩下多少时间了。（比较 Don‘t worry，we still have a little time。别担心，我们还有一点时间呢。）
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			What time is it now?; What is the time?; Have you the right time?; Can
+			you tell me the time?; What o'clock is it?; What time do you like
+			it?; What do you make the time?
+		</orig>
+		<trans>
+			现在几点钟？
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Return the borrowed things on time, you'll be welcome next time.; It's easy
+			to borrow again if one returns the borrowed things in time.
+		</orig>
+		<trans>
+			好借好还，再借不难。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			An inch of time is an inch of gold.; Time is money.
+		</orig>
+		<trans>
+			一寸光阴一寸金。
+		</trans>
+	</sent>
+</dict>

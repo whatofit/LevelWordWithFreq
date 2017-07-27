@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>over</key>
+	<ps>ˈəuvə</ps>
+	<pron>http://res.iciba.com/resource/amp3/0/0/3b/75/3b759a9ca80234563d87672350659b2b.mp3</pron>
+	<ps>ˈovɚ</ps>
+	<pron>http://res.iciba.com/resource/amp3/1/0/3b/75/3b759a9ca80234563d87672350659b2b.mp3</pron>
+	<pos>prep.</pos>
+	<acceptation>（表示方向）越过；（部份或全部覆盖）在…上面；由于；（表示论及）关于；
+	</acceptation>
+	<pos>adv.</pos>
+	<acceptation>结束；再；（倒）下；从一边至另一边；
+	</acceptation>
+	<pos>adj.</pos>
+	<acceptation>过去的；外面的；在上的；上级的；
+	</acceptation>
+	<pos>n.</pos>
+	<acceptation>额外；剩余；剩余（或多余）的量；剩余物；
+	</acceptation>
+	<pos>int.</pos>
+	<acceptation>[电信学]报文完，请回复！；
+	</acceptation>
+	<pos>vt.</pos>
+	<acceptation>走过，跳过；[美国方言]从…恢复过来；
+	</acceptation>
+	<sent>
+		<orig>
+			Carelessly,I knocked my teacup over and the tea went all over the tablecloth.
+		</orig>
+		<trans>
+			我不小心把茶杯打翻了，洒得桌布上一塌糊涂。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Don't be complacent over occasional success.; Don't feel self-satisfied
+			over a minor success.
+		</orig>
+		<trans>
+			不要沾沾自喜于一得之功。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Five over ten can be reduced to one over two.
+		</orig>
+		<trans>
+			5/10可以约成1/2。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			He repeated the same story over and over.; He kept harping on the same
+			story.
+		</orig>
+		<trans>
+			他颠来倒去地重复着同一个故事。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			I lay awake all night, turning the problem over and over in my mind.
+		</orig>
+		<trans>
+			我一夜没睡着，反复思索这个问题。
+		</trans>
+	</sent>
+</dict>

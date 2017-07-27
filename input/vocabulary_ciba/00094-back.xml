@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>back</key>
+	<ps>bæk</ps>
+	<pron>http://res.iciba.com/resource/amp3/0/0/46/9b/469bba0a564235dfceede42db14f17b0.mp3</pron>
+	<ps>bæk</ps>
+	<pron>http://res.iciba.com/resource/amp3/1/0/46/9b/469bba0a564235dfceede42db14f17b0.mp3</pron>
+	<pos>n.</pos>
+	<acceptation>背，背部；背面，反面；后面，后部；（椅子等的）靠背；
+	</acceptation>
+	<pos>vt.</pos>
+	<acceptation>使后退；支持；加背书于；下赌注于；
+	</acceptation>
+	<pos>vi.</pos>
+	<acceptation>后退；倒退；
+	</acceptation>
+	<pos>adj.</pos>
+	<acceptation>背部的；后面的；以前的；拖欠的；
+	</acceptation>
+	<pos>adv.</pos>
+	<acceptation>以前；向后地；
+	</acceptation>
+	<sent>
+		<orig>
+			He has just come back.; He came back just now.
+		</orig>
+		<trans>
+			他方才回来。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			He scored two home runs back to back in the 9th inning.
+		</orig>
+		<trans>
+			他在第9局连续获2分。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			It's better to go back and make a net than to stand by the pond and long
+			for fish.; Better return home and make a net than long for fish by
+			the waterside.; It's better to go back and make a net than to covet
+			the fish by merely staring into the water -- one should have a
+			down-to-earth style of work to attain one's goal.; One should take
+			practical steps to achieve one's aims.
+		</orig>
+		<trans>
+			临渊羡鱼，莫如退而结网。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Scenes of the past rose before my eyes.; The past came back to my mind.; My
+			mind flashed back to scenes of the past.
+		</orig>
+		<trans>
+			往事浮现在我眼前。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			She fought her way back to health so quickly after the accident that she
+			was soon back at school.
+		</orig>
+		<trans>
+			车祸之后，她很快恢复健康回学校上课。
+		</trans>
+	</sent>
+</dict>

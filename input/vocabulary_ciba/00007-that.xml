@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>that</key>
+	<ps>ðæt, ðət</ps>
+	<pron>http://res.iciba.com/resource/amp3/0/0/21/58/21582c6c30be1217322cdb9aebaf4a59.mp3</pron>
+	<ps>ðæt, ðət</ps>
+	<pron>http://res.iciba.com/resource/amp3/1/0/21/58/21582c6c30be1217322cdb9aebaf4a59.mp3</pron>
+	<pos>adj.</pos>
+	<acceptation>那， 那个；那样的；
+	</acceptation>
+	<pos>pron.</pos>
+	<acceptation>（指较远的人或事物）那；那个；（指已提到过或已知的人或事物）那；（特指）那；
+	</acceptation>
+	<pos>conj.</pos>
+	<acceptation>（用于某些动词、形容词和名词后，引出各种从句）；（表示结果）如此…以至；（表示希望或愿望）多么；
+	</acceptation>
+	<pos>adv.</pos>
+	<acceptation>（以手势表示长度、大小等时用）那样；不很；不那么；（用以强调程度）那么；
+	</acceptation>
+	<sent>
+		<orig>
+			It is so quiet in the room that you can hear the drop of a pin.
+		</orig>
+		<trans>
+			房间里静得连（地上）掉根针都能听见。[用于so that 结构，有时 that 可以省略]以便，为了，所以
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			That's the one thing that keeps worrying me.; That's my only worry.
+		</orig>
+		<trans>
+			只有这件事丢不开。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			The bottom line, he said, is that altruism may rely on a basic
+			understanding that others hae motiations and actions that may be
+			similar to our own.
+		</orig>
+		<trans>
+			他说，底线是利他主义可能是基于这样的基本认识：别人也有和我们自己近似的动机和行为。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			We are so familiar with the fact that man ages, that people have for
+			years assumed that the process of losing vigour with time, of
+			becoming more likely to die the older we get, was something
+			self-evident, like the cooling of a hot kettle or thewearing-out of a
+			pair of shoes.
+		</orig>
+		<trans>
+			我们都非常熟悉人总是要衰老的这样一个事实，以致多年来人们就认为，随着时光的流逝而丧失活力或者越衰老就越可能死掉这一过程是不言而喻的，正象一壶热水会冷却，一双鞋子会穿破一样。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			A career such as that is not one that should be thrown up without
+			serious thought.
+		</orig>
+		<trans>
+			这种职业不是那种可以不经慎重考虑就放弃掉的职业。
+		</trans>
+	</sent>
+</dict>

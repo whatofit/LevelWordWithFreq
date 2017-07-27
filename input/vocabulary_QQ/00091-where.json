@@ -1,0 +1,338 @@
+{
+    "local":[
+        {
+            "word":"where",
+            "sd":"6710417a64a173372a963df7454b6eee",
+            "pho":[
+                "(h)w&#603;&#601;"
+            ],
+            "des":[
+                {
+                    "p":"adv.",
+                    "d":"在哪里"
+                },
+                {
+                    "p":"n.",
+                    "d":"地点"
+                },
+                {
+                    "p":"pron.",
+                    "d":"哪里"
+                }
+            ],
+            "sen":[
+                {
+                    "p":"adv.",
+                    "s":[
+                        {
+                            "es":"That is just <b>where<\/b> you are wrong.",
+                            "cs":"那正是你错误所在。"
+                        },
+                        {
+                            "es":"<b>Where<\/b> did you go?",
+                            "cs":"你上哪去了？"
+                        },
+                        {
+                            "es":"<b>Where<\/b> shall we go?",
+                            "cs":"我们去哪里？"
+                        }
+                    ]
+                },
+                {
+                    "p":"conj.",
+                    "s":[
+                        {
+                            "es":"I&#39;ll meet him <b>where<\/b> I first met you.",
+                            "cs":"我将在初次见你的地方与他会面。"
+                        }
+                    ]
+                },
+                {
+                    "p":"pron.",
+                    "s":[
+                        {
+                            "es":"<b>Where<\/b> does he come from?",
+                            "cs":"他是哪里人？"
+                        }
+                    ]
+                }
+            ],
+            "ph":[
+                {
+                    "phs":"where it&#39;s at",
+                    "phd":"事情的核心所在"
+                }
+            ]
+        }
+    ],
+    "netdes":[
+        {
+            "word":"where",
+            "des":[
+                {
+                    "mf":"where",
+                    "d":"哪里",
+                    "f":1015,
+                    "tag":"net",
+                    "s":"我们知道了新闻的定义和几种写作体裁,还要了解一条新闻应该具备哪些基本要素及其写作特点. 简单概括起来,新闻的要素就是五个W和一个H. 即&quot;什么时候&quot;(when)、&quot;<b>哪里<\/b>&quot;(<b>where<\/b>)、&quot;谁&quot;(who)、&quot;是什么&quot;(what)、&quot;为什么&quot;(why)和&quot;怎么样&quot;(how).新闻写作的特点可以用六个",
+                    "url":"http:\/\/www.zsnews.cn\/zt\/2006YiZhiTaiDu\/showcontent.asp?id=636891"
+                },
+                {
+                    "mf":"Where",
+                    "d":"在哪",
+                    "f":577,
+                    "tag":"net",
+                    "s":"职务分析为管理活动提供各种有关工作方面的信息,这些信息概括起来就是提供每一工作的7w: 用谁(Who) 做什么(What) 何时(When) <b>在哪<\/b>(<b>Where<\/b>) 如何(How) 为什么(Why) 为谁(For Whom) 职务分析获得的信息有多种多样的用处. ",
+                    "url":"http:\/\/zhoujian.jiangshi.org\/News\/Html\/2008-05-07\/3fa9c71d-9187-44ee-9c6e-d4461561b6ea.html"
+                },
+                {
+                    "mf":"where",
+                    "d":"在哪里",
+                    "f":423,
+                    "tag":"net",
+                    "s":"(5)明确交谈场合--- <b>在哪里<\/b>(<b>Where<\/b>)进行交谈. 谈判桌上的交谈与休闲场合下的交谈是不同的. 不同的地点,谈话的氛围、态度与主题等也有所不同. (6)明确交谈技巧--- 怎样交谈( How)效果更好. 交谈中如能正确使用一些技巧,",
+                    "url":"http:\/\/www.nbliyi.com\/news_show.asp?showid=7325"
+                },
+                {
+                    "mf":"Where",
+                    "d":"在什麽地方",
+                    "f":417,
+                    "tag":"net",
+                    "s":"四W法则:任何时候都要了解孩子跟谁在一起(who), <b>在什么地方<\/b>(<b>where<\/b>), 在干什么(what)以及在什么时候回家(when)",
+                    "url":"http:\/\/zhongsir.jsblog.cn\/group.asp?cmd=show&gid=10&pid=62024"
+                }
+            ],
+            "wf":"1"
+        },
+        {
+            "word":"where else",
+            "des":[
+                {
+                    "mf":"where else",
+                    "d":"别的什么地方",
+                    "f":525,
+                    "tag":"net",
+                    "s":"17. be founded (被)成立 | <b>18. where else 别的什么地方<\/b> | 19. look up 查阅(单词......)",
+                    "url":"http:\/\/www.tzsy.cn\/ja\/english\/yy9nj\/ja_291152.html"
+                },
+                {
+                    "mf":"where else",
+                    "d":"其它的地方",
+                    "f":81,
+                    "tag":"net",
+                    "s":"叫某人不要做某事 ask\\\/tell sb not to do sth | <b>37 其它的地方 where else<\/b> | 38 想要做某事 would like to do sth=want to do sth",
+                    "url":"http:\/\/www.njzxxyy.com\/bbs\/viewthread.php?extra=&ordertype=1&tid=11421"
+                },
+                {
+                    "mf":"Where else",
+                    "d":"还有呢",
+                    "f":14,
+                    "tag":"net",
+                    "s":"Tiffany.|蒂芙尼 | <b>Where else?|还有呢?<\/b> | I hope you can sleep in a little.|我希望你能睡一会儿",
+                    "url":"http:\/\/engxue.com\/bencandy.php?aid=318&buy=&fid=14&line=&page=6"
+                },
+                {
+                    "mf":"Where else",
+                    "d":"那还能去哪儿",
+                    "f":11,
+                    "tag":"net",
+                    "s":"You still here?|你还在这儿? | <b>Where else?|那还能去哪儿?<\/b> | You look fine, Harry.|你看起来还行,哈里",
+                    "url":"http:\/\/www.engxue.com\/bencandy.php?aid=113&buy=2&fid=7&line=&page=2"
+                }
+            ]
+        },
+        {
+            "word":"Where to",
+            "des":[
+                {
+                    "mf":"Where to",
+                    "d":"(你)要去哪儿",
+                    "f":251,
+                    "tag":"net",
+                    "s":"20、I&#39;ve gotta catch the bus. 我要去赶公共汽车了.  | <b>23、Where to ? (你)要去哪儿?<\/b> | 24、I want to go to... 我要到...地方去. ",
+                    "url":"http:\/\/www.qnr.cn\/waimao\/wxy\/dao\/200803\/27818.html"
+                },
+                {
+                    "mf":"Where to",
+                    "d":"去哪里",
+                    "f":125,
+                    "tag":"net",
+                    "s":"You are not, I see.|而你没变 我看得出 | <b>Where to?|去哪里<\/b> | Tonight I know not.|今晚 我不知道",
+                    "url":"http:\/\/engxue.cn\/bencandy.php?aid=376&buy=&fid=6&line=&page=3"
+                },
+                {
+                    "mf":"Where to",
+                    "d":"去哪儿",
+                    "f":58,
+                    "tag":"net",
+                    "s":"Buy tickets for all of us.|把全部人的票都买了 | <b>Where to?|去哪儿?<\/b> | Anywhere this train is going. We need to keep moving for half an hour.|不管这车去哪儿 我们得继续走半个小时",
+                    "url":"http:\/\/engxue.cn\/bencandy.php?aid=209&buy=&fid=3&line=&page=3"
+                },
+                {
+                    "mf":"Where to",
+                    "d":"到哪里",
+                    "f":54,
+                    "tag":"net",
+                    "s":"Oh T-A-X-I !!! 噢 出租车!!! | <b>Where to? 到哪里?<\/b> | Take me to the hospital 带我去医院",
+                    "url":"http:\/\/zhuhongmeng2468.blog.163.com\/blog\/static\/306402042009011401625"
+                }
+            ]
+        },
+        {
+            "word":"t where",
+            "des":[
+                {
+                    "mf":"t where",
+                    "d":"显示当前状态,列出所有设置的变量值",
+                    "f":418,
+                    "tag":"net",
+                    "s":"j status 显示当前断点 | <b>t where 显示当前状态,列出所有设置的变量值<\/b> | di display 开显示窗,用于查看变量",
+                    "url":"http:\/\/chongsoft.bokee.com\/5745873.html"
+                },
+                {
+                    "mf":"t where",
+                    "d":"显示当前状态,列出任何配置的变量值",
+                    "f":11,
+                    "tag":"net",
+                    "s":"j status 显示当前断点 | <b>t where 显示当前状态,列出任何配置的变量值<\/b> | di display 开显示窗,用于查看变量",
+                    "url":"http:\/\/idcnews.net\/html\/edu\/code\/20070930\/87451.html"
+                }
+            ]
+        },
+        {
+            "word":"move where",
+            "des":[
+                {
+                    "mf":"move where",
+                    "d":"移动您给的座标",
+                    "f":382,
+                    "tag":"net",
+                    "s":".gm announce : 寄发一则消息到世界. | <b>.move where : 移动您给的座标.<\/b> | .move there : 移动到命名的用户.",
+                    "url":"http:\/\/yoosky.net\/art\/mo\/200702\/29635.html"
+                },
+                {
+                    "mf":"move where",
+                    "d":"移动您给得座标",
+                    "f":6,
+                    "tag":"net",
+                    "s":".gm announce message : 寄发一则消息到世界. | <b>.move where : 移动您给得座标.<\/b> | .move there name : 移动到命名得用户.",
+                    "url":"http:\/\/gm333.com\/plus\/view.php?aid=164"
+                }
+            ]
+        },
+        {
+            "word":"Where IsMother",
+            "des":[
+                {
+                    "mf":"Where IsMother",
+                    "d":"母親在何方",
+                    "f":158,
+                    "tag":"net",
+                    "s":"05 尋找母親-Looking For Mother | <b>06 母親在何方?-Where IsMother?<\/b> | 07 再一次-Here She Goes Again",
+                    "url":"http:\/\/www.macx.cn\/a\/a8736i489497.htm"
+                }
+            ]
+        }
+    ],
+    "netsen":[
+        {
+            "cs":"我不知道你是怎么想的。",
+            "es":"I don&#39;t know <b>where<\/b> you are.",
+            "url":"http:\/\/hi.baidu.com\/winternj\/blog\/item\/438e77cf8900183bf9dc61e5.html"
+        },
+        {
+            "cs":"这是我想去的地方。",
+            "es":"This is <b>where<\/b> I want to go.",
+            "url":"http:\/\/qixiamei881212.blog.163.com\/blog\/static\/79357583200841369597"
+        },
+        {
+            "cs":"我不知道你在那里。",
+            "es":"I don&#39;t know <b>where<\/b> you are.",
+            "url":"http:\/\/gaoshann.blog.sohu.com\/89024604.html"
+        },
+        {
+            "cs":"这是我想去的地方。",
+            "es":"This is <b>where<\/b> I&#39;d like to go.",
+            "url":"http:\/\/www.tingroom.com\/lesson\/mgggyyhh\/77680.html"
+        },
+        {
+            "cs":"我不知道我在那里",
+            "es":"I don&#39;t know <b>where<\/b> I am.",
+            "url":"http:\/\/www.engxue.cn\/bencandy.php?aid=525&buy=2&fid=5&page=2"
+        },
+        {
+            "cs":"我不知道我在哪里",
+            "es":"I don&#39;t know <b>where<\/b> I am.",
+            "url":"http:\/\/qitouxiang.blog.163.com\/blog\/static\/11459990720097444547735\/"
+        },
+        {
+            "cs":"我不知道他是怎么想的。",
+            "es":"I don&#39;t know <b>where<\/b> he is.",
+            "url":"http:\/\/hi.baidu.com\/winternj\/blog\/item\/438e77cf8900183bf9dc61e5.html"
+        }
+    ],
+    "dlg":[
+        {
+            "s":"\/衣食住行",
+            "t":"夜生活",
+            "c":[
+                {
+                    "n":"A",
+                    "cs":"（B区\/42F座\/出口）在哪里？",
+                    "es":"<b>Where<\/b> is (section B\/ seat 42F\/ the exit) located?"
+                },
+                {
+                    "n":"B",
+                    "cs":"请这边走。",
+                    "es":"This way, please."
+                }
+            ],
+            "u":0
+        },
+        {
+            "s":"\/职场英语",
+            "t":"培训",
+            "c":[
+                {
+                    "n":"A",
+                    "cs":"你去了哪里？",
+                    "es":"<b>Where<\/b> have you been?"
+                },
+                {
+                    "n":"B",
+                    "cs":"我刚刚（从营地\/从学校\/上课）回来。",
+                    "es":"I just got back from (camp\/ school\/ class)."
+                }
+            ],
+            "u":0
+        },
+        {
+            "s":"\/休闲娱乐\/旅游英语",
+            "t":"乘出租车1",
+            "c":[
+                {
+                    "n":"A",
+                    "cs":"哪里我可以叫到出租车？",
+                    "es":"<b>Where<\/b> can I catch a taxi?"
+                },
+                {
+                    "n":"B",
+                    "cs":"出租车站台就在左边转角处。",
+                    "es":"The taxi zone is right on the left corner over there."
+                }
+            ],
+            "u":0
+        }
+    ],
+    "baike":[
+        {
+            "title":"where",
+            "pic":"",
+            "pw":"0",
+            "ph":"0",
+            "abs":"　　WHERE 子句<br>\r\n　　指定用于限制返回的行的搜索条件。<br>\r\n　　语法<br>\r\n　　&#91; WHERE &lt; search_condition &gt; | &lt; old_outer_join &gt; &#93;<br>\r\n　　&lt; old_outer_join &gt; ::=<br>\r\n　　column_name { * = | = * } column_name<br>\r\n　　参数<br>\r\n　　&lt;search_condition&gt;<br>\r\n　　通过使用谓词限制结果集内返回的行。对搜索条件中可以包含的谓词数量没有限制。有关搜索条件和谓词的更多信息，请参见搜索条件。<br>\r\n　　&lt; old_outer_join &gt;<br>\r\n　　使用不标准的产品专用语法和 WHERE 子句指定外联接。*= 运算符用于指定左向外联接，=* 运算符用于指定右向外联接。<br>\r\n　　下例指定一个左向外联接，并在结果集内包含 Tab1 中不满足指定条件的行：<br>\r\n　　SELECT Tab1.name, Tab2.id<br>\r\n　　FROM Tab1, Tab2<br>\r\n　　WHERE Tab1.id *=Tab2.id<br>\r\n　　说明 这种语法具有潜在",
+            "link":"http://baike.soso.com/v453756.htm"
+        }
+    ],
+    "lang":"eng"
+}

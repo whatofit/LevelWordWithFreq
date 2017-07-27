@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>did</key>
+	<ps>did</ps>
+	<pron>http://res-tts.iciba.comdid</pron>
+	<pos>v.</pos>
+	<acceptation>做（ do的过去式）；干；学习；研究；
+	</acceptation>
+	<sent>
+		<orig>
+			They did it themselves.
+		</orig>
+		<trans>
+			（或They themselves did it。）这是他们亲自干的。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Although she did not reciprocate his feelings, she did not discourage him.
+		</orig>
+		<trans>
+			尽管她没有回应他的感情，她也没有使他丧失信心。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Did he divorce his wife or did she divorce him?
+		</orig>
+		<trans>
+			是他要和妻子离婚，还是妻子要和他离婚？
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Did you design this, or did it just happen itself?
+		</orig>
+		<trans>
+			这件事是你有意图安排的还是它自行发生的？
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			He did more than the rest of us did together.
+		</orig>
+		<trans>
+			他做的比我们其余人合在一起做的还要多。
+		</trans>
+	</sent>
+</dict>

@@ -1,0 +1,457 @@
+{
+    "local":[
+        {
+            "word":"on",
+            "sd":"1ec03c003254c6888da03871718c5cbc",
+            "pho":[
+                "&#596;n"
+            ],
+            "des":[
+                {
+                    "p":"prep.",
+                    "d":"在...之上"
+                },
+                {
+                    "p":"adv.",
+                    "d":"...上去"
+                },
+                {
+                    "p":"adj.",
+                    "d":"正起作用的"
+                }
+            ],
+            "sen":[
+                {
+                    "p":"adv.",
+                    "s":[
+                        {
+                            "es":"They talked <b>on<\/b> until midnight.",
+                            "cs":"他们一直谈到深夜。"
+                        }
+                    ]
+                },
+                {
+                    "p":"adj.",
+                    "s":[
+                        {
+                            "es":"What&#39;s <b>on<\/b> for tonight at the cinema?",
+                            "cs":"今晚电影院上映什么片子？"
+                        }
+                    ]
+                },
+                {
+                    "p":"prep.",
+                    "s":[
+                        {
+                            "es":"He is <b>on<\/b> the school volleyball team.",
+                            "cs":"他是校排球队队员。"
+                        },
+                        {
+                            "es":"All the expenses fall <b>on<\/b> me.",
+                            "cs":"全部费用由我支付。"
+                        },
+                        {
+                            "es":"I&#39;ll meet you <b>on<\/b> \/ at the corner of Smith Street and Main Road.",
+                            "cs":"我将在史密斯大街和湎洇路的十字路口与你会面。"
+                        }
+                    ]
+                }
+            ],
+            "syn":[
+                {
+                    "p":"adv.",
+                    "c":[
+                        "along"
+                    ]
+                },
+                {
+                    "p":"prep.",
+                    "c":[
+                        "around"
+                    ]
+                }
+            ],
+            "ant":[
+                {
+                    "p":"prep.",
+                    "c":[
+                        "beneath",
+                        "off"
+                    ]
+                }
+            ],
+            "ph":[
+                {
+                    "phs":"on with",
+                    "phd":"穿上, 戴上, 开始"
+                },
+                {
+                    "phs":"on and on",
+                    "phd":"继续不停地"
+                },
+                {
+                    "phs":"be on it",
+                    "phd":"准备就绪, 熟练"
+                }
+            ]
+        }
+    ],
+    "netdes":[
+        {
+            "word":"On",
+            "des":[
+                {
+                    "mf":"On",
+                    "d":"(打开)",
+                    "f":29130,
+                    "tag":"net",
+                    "s":"然后被关闭同样保持该状态动作检查 SPF PS 释放电磁铁 (CLH) 被<b>打开<\/b>并保持该状态500ms,然后被关闭同样保持该状态02 阻力辊电磁铁动作检查 在子代码输入状态按下[ 开始] 键后,阻力电磁铁 (RRS) <b>打开<\/b> (<b>ON<\/b>) 500ms,然后再关闭07 机器状态检查 (CPM) 执行此项模拟时,",
+                    "url":"http:\/\/wwww.go-gddq.com\/upload\/2009_06\/09061016161731.pdf"
+                },
+                {
+                    "mf":"ON",
+                    "d":"开",
+                    "f":1297,
+                    "tag":"net",
+                    "s":"1、如果将&quot;低噪放大&quot;(lna)设置为&quot;<b>开<\/b>&quot;(<b>on<\/b>)时画面有噪讯,请选择关(off). 2、要对每个频道设置低噪放大(lna)设置. ",
+                    "url":"http:\/\/guide.it168.com\/files\/14150\/14150002005001.asp"
+                },
+                {
+                    "mf":"on",
+                    "d":"在......上面",
+                    "f":957,
+                    "tag":"net",
+                    "s":"很多男人(men)站<b>在上面<\/b>(<b>on<\/b>)都不破,这种&quot;现象&quot;使人惊奇sausage sa+us+age 上帝撒(sa)给我们一些不知哪个时代(age)的&quot;香肠&quot;arch n.拱门 v.变成弓形 arch-March 每年三月(March)大山(m)上的这种&quot;拱门&quot;就会变形launch n.发射,",
+                    "url":"http:\/\/www.51zd.net\/?dp-bbsthread-5107-0.html"
+                },
+                {
+                    "mf":"on",
+                    "d":"在...上",
+                    "f":382,
+                    "tag":"net",
+                    "s":"在&quot;基准点&quot;(Datum Point) 对话框中,单击表单元格中的&quot;在...上&quot;(<b>On<\/b>),并从下拉列表中选取&quot;在中心&quot;(At Center). 该点即被放置在中心. 单击&quot;新点&quot;(New Point) 可添加更多点,或单击&quot;确定&quot;(OK). ",
+                    "url":"http:\/\/www.mouldsky.com\/viewthread.php?tid=45991"
+                },
+                {
+                    "mf":"on",
+                    "d":"abbr. opening nc; 开放式数控系统",
+                    "f":1,
+                    "tag":"abbr",
+                    "s":-1,
+                    "url":-1
+                },
+                {
+                    "mf":"on",
+                    "d":"abbr. oetane number; 辛烷值",
+                    "f":1,
+                    "tag":"abbr",
+                    "s":-1,
+                    "url":-1
+                },
+                {
+                    "mf":"on",
+                    "d":"abbr. open-nc; 开放式数控",
+                    "f":1,
+                    "tag":"abbr",
+                    "s":-1,
+                    "url":-1
+                },
+                {
+                    "mf":"on",
+                    "d":"abbr. operated normally; 运转正常",
+                    "f":1,
+                    "tag":"abbr",
+                    "s":-1,
+                    "url":-1
+                }
+            ],
+            "wf":"1"
+        },
+        {
+            "word":"Hang on",
+            "des":[
+                {
+                    "mf":"Hang on",
+                    "d":"抓紧(别挂电话)",
+                    "f":25901,
+                    "tag":"net",
+                    "s":"What brought you here? 什么风把你吹来了? | <b>Hang on! 抓紧(别挂电话)!<\/b> | Leave me alone. 别理我. ",
+                    "url":"http:\/\/www.360doc.com\/content\/091127\/09\/452185_9843655.html"
+                },
+                {
+                    "mf":"hang on",
+                    "d":"抓紧不放;坚持下去;(电话不挂)等一会儿",
+                    "f":2092,
+                    "tag":"net",
+                    "s":"hand over 交出,移交 | <b>hang on 抓紧不放;坚持下去;(电话不挂)等一会儿<\/b> | hang up 把......挂起来;挂断(电话)",
+                    "url":"http:\/\/www.0771.chinack.net\/news_info\/new_5002.html"
+                },
+                {
+                    "mf":"hang on",
+                    "d":"坚持",
+                    "f":2028,
+                    "tag":"net",
+                    "s":"engage in 忙于 | <b>hang on 坚持<\/b> | indulge in 沉溺于",
+                    "url":"http:\/\/www.yeskao.com\/waiyu\/slj\/xxzl\/200911\/244954_4.html"
+                },
+                {
+                    "mf":"hang on",
+                    "d":"抓紧不放;坚持下去",
+                    "f":1996,
+                    "tag":"net",
+                    "s":"hang on to 紧紧握住 | <b>hang on 抓紧不放;坚持下去<\/b> | hang up 把...挂起来;挂断",
+                    "url":"http:\/\/xiaoshuo59561.580590.com\/htmlbook\/53\/53020\/27_B.html"
+                }
+            ]
+        },
+        {
+            "word":"on earth",
+            "des":[
+                {
+                    "mf":"on earth",
+                    "d":"究竟",
+                    "f":2744,
+                    "tag":"net",
+                    "s":"而 *** 有一用法则同于<b>究竟<\/b>(<b>on earth<\/b>)或是咒骂人的词组(the hell),即「the ****」,为强调之用法,如What the **** you gonna do?或How the *** sho&#39; I fly?有时可和shoot一字通用,但少用为妙. ",
+                    "url":"http:\/\/cid-28a00d5514321c8e.spaces.live.com\/blog\/"
+                },
+                {
+                    "mf":"on earth",
+                    "d":"到底",
+                    "f":708,
+                    "tag":"net",
+                    "s":"A:从现在开始的六十年后,中国<b>到底<\/b>(<b>on earth<\/b>)会怎样?B:如果最近的经济发展速度可做参考的话,你的问题应变成:六十年后,世界将在中国手里(in China)变成什么样?#日志日期:2009-10-3 星期六(Saturday) 晴",
+                    "url":"http:\/\/blog.tianya.cn\/blogger\/post_show.asp?BlogID=1952283&Key=0&PostID=19288030&idWriter=0"
+                },
+                {
+                    "mf":"on earth",
+                    "d":"究竟,到底",
+                    "f":17654,
+                    "tag":"net",
+                    "s":"on duty 值班,上班 | <b>on earth 究竟,到底<\/b> | at all events 无论如何",
+                    "url":"http:\/\/www.chengkao88.cn\/gaozhong\/yingyu\/2217.shtml"
+                },
+                {
+                    "mf":"on earth",
+                    "d":"在世界上;究竟,到底",
+                    "f":2175,
+                    "tag":"net",
+                    "s":"on duty 值班;上班 | <b>on earth 在世界上;究竟,到底<\/b> | on end 连续地;竖着",
+                    "url":"http:\/\/xiaoshuo59561.580590.com\/htmlbook\/53\/53020\/27_B.html"
+                }
+            ]
+        },
+        {
+            "word":"put on",
+            "des":[
+                {
+                    "mf":"put on",
+                    "d":"穿上",
+                    "f":10376,
+                    "tag":"net",
+                    "s":"姐妹们,神乃是要我们<b>穿上<\/b>(<b>put on<\/b>)主耶稣基督,像披戴衣服一样,用公义为袍.  神叫我们不要为肉体安排,不要露胸露乳,不要放纵自己的情欲. ",
+                    "url":"http:\/\/www.enquanw.com\/bbs\/viewthread.php?extra=page%3D2&sid=IZkITD&tid=1569"
+                },
+                {
+                    "mf":"put on",
+                    "d":"表演",
+                    "f":91,
+                    "tag":"net",
+                    "s":"晚会将在晚7:00开始10:00结束. 每个小组须准备两个或三个节目(performance). 节目内容和形式不限. 例如,英文歌曲演唱,<b>表演<\/b>(<b>put on<\/b>)英文短剧,讲英文笑话或故事,朗诵英文诗歌. 欢迎准时参加. ",
+                    "url":"http:\/\/mp3rm.com\/Highschool\/UploadFiles_9879\/200812\/20081218172605918.doc"
+                },
+                {
+                    "mf":"put on",
+                    "d":"上演",
+                    "f":6321,
+                    "tag":"net",
+                    "s":"470. put off 推迟 | <b>471. put on 上演<\/b> | 472. put out 扑灭,发表,出版",
+                    "url":"http:\/\/www.aoshuwang.cn\/Club\/DispClub.asp?ID=1784"
+                },
+                {
+                    "mf":"put on",
+                    "d":"穿上,戴上;上演;增加(体重)",
+                    "f":4555,
+                    "tag":"net",
+                    "s":"put off推迟,推延 | <b>put on穿上,戴上;上演;增加(体重)<\/b> | put out熄灭,关(灯);出版,发布;生产",
+                    "url":"http:\/\/paper77.blog.163.com\/blog\/static\/2831122520073174343255"
+                }
+            ]
+        },
+        {
+            "word":"on foot",
+            "des":[
+                {
+                    "mf":"on foot",
+                    "d":"步行",
+                    "f":17888,
+                    "tag":"net",
+                    "s":"亲爱的同学们,每天你都来学校,那你是<b>步行<\/b>(<b>on foot<\/b>)、骑自行车(by bike)、乘公共汽车(by bus)、乘地铁(by subway)还是坐小汽车(by car)呢?如果是你要去外地度假,你通常(~",
+                    "url":"http:\/\/www.21cnjy.com\/4\/1757_st\/428"
+                },
+                {
+                    "mf":"on foot",
+                    "d":"走路",
+                    "f":220,
+                    "tag":"net",
+                    "s":"表示用手 (by hand), <b>走路<\/b> (<b>on foot<\/b>), 上课 (in class), 上学 (go to school), 住院 (at hospitable)等,都不用定冠词. 世界上没有同样的指纹,没有相同的树叶,文章亦同,只有通过比较,你才会发现二者的相同点(through comparison)和不同点(through contrast). 下面是一些短语:",
+                    "url":"http:\/\/www.tvu.sh.xj.cninfo.net\/media_file\/2006_01_22\/20060122124330.doc"
+                },
+                {
+                    "mf":"on foot",
+                    "d":"步行时",
+                    "f":16,
+                    "tag":"net",
+                    "s":" <b>步行时<\/b>(<b>ON FOOT<\/b>): 摇杆移动(MOVEMENT)依推摇杆的程度区别走和跑; 方向键开始特殊任务(SPECIAL MISSION)只在可以开启特殊任务的特定地点才有作用; 方向键和切换武器和目标(CY括号中的英文与游戏中操作修改菜单(CONTROLS)中的英文相对应. ",
+                    "url":"http:\/\/www.8xx8.net\/html\/youxigonglue\/dianshigonglue\/2008\/0211\/16232.html"
+                },
+                {
+                    "mf":"on foot",
+                    "d":"步行;在进行中",
+                    "f":2366,
+                    "tag":"net",
+                    "s":"on fire 起火;(喻)非常激动 | <b>on foot 步行;在进行中<\/b> | on guard 站岗,值班",
+                    "url":"http:\/\/xiaoshuo59561.580590.com\/htmlbook\/53\/53020\/27_B.html"
+                }
+            ]
+        },
+        {
+            "word":"on time",
+            "des":[
+                {
+                    "mf":"on time",
+                    "d":"准时",
+                    "f":17537,
+                    "tag":"net",
+                    "s":"学相长(Teach and Learn) 简单(Simplicity) 坚持(Stick Out) <b>准时<\/b>(<b>ON TIME<\/b>) 携手同程的定位: 我们的工具是-互联网 我们专注的行业-旅游 我们专注的领域-营销 我们的角色是-顾问 我们的使命: 让每一个旅游企业都拥有自己的网站,",
+                    "url":"http:\/\/86086833.17u.net\/mytongcheng\/memberinfo_88512.html"
+                },
+                {
+                    "mf":"on time",
+                    "d":"按时",
+                    "f":1268,
+                    "tag":"net",
+                    "s":"&quot;<b>按时<\/b>&quot;(<b>on time<\/b>)是指在到期日或者之前,并且通常是在本月的第一天. 否则,你就可能需要交滞纳金或其它罚金. 最坏的可能是你被逐出寓所. 有时候在到期后也会有3-5天的宽限期,如果你在这段时间迟交房租则不会被处以罚金. 如果有宽限期的话,",
+                    "url":"http:\/\/www.ecad.net.cn\/html\/haiwai_15.asp"
+                },
+                {
+                    "mf":"ON TIME",
+                    "d":"时间",
+                    "f":21,
+                    "tag":"net",
+                    "s":"通电率的概念如下公式所示. 即表示通电<b>时间<\/b>(<b>On time<\/b>)除以一个周期的<b>时间<\/b>(<b>On time<\/b> + Off time),通电率的通俗叫法为占空比. ",
+                    "url":"http:\/\/china-solenoid.com\/article\/solenoid\/4529.html"
+                },
+                {
+                    "mf":"on time",
+                    "d":"准点",
+                    "f":3,
+                    "tag":"net",
+                    "s":"不要签证的. 左边是需要签证(VISA)的,你自己在留心观察一下. 你到达的应该是纽瓦克(NEWARK)机场的C号航站楼,你需要去A号航站楼,转乘美国国内20:45. 后面会注明在哪个门(GATE XX),是不是<b>准点<\/b>(<b>ON TIME<\/b>);或者晚点(DELAY)",
+                    "url":"http:\/\/blog.sina.com.cn\/s\/blog_63ebf4f40100g3cx.html"
+                }
+            ]
+        }
+    ],
+    "netsen":[
+        {
+            "cs":"来吧，你能做的。",
+            "es":"Come <b>on<\/b>, you can do it.",
+            "url":"http:\/\/www.5iehome.com\/bbs\/viewthread.php?page=1&tid=1068"
+        },
+        {
+            "cs":"这就是我想要的工作。",
+            "es":"That&#39;s what I like to work <b>on<\/b>.",
+            "url":"http:\/\/blog.voc.com.cn\/sp1\/zhangaide\/084813519556.shtml"
+        },
+        {
+            "cs":"这是我想要努力改进的。",
+            "es":"This is something I want to work <b>on<\/b>.",
+            "url":"http:\/\/zfx0921.blog.163.com\/blog\/static\/111019162006102985318774"
+        },
+        {
+            "cs":"最重要的是",
+            "es":"And <b>on<\/b> top of it all...",
+            "url":"http:\/\/www.engxue.com\/bencandy.php?aid=607&buy=2&fid=4&line=&page=2"
+        },
+        {
+            "cs":"在这点儿上。。。。。。",
+            "es":"In this something <b>on<\/b>......",
+            "url":"http:\/\/dzrys.cn\/bbs\/context.asp?id=1734&lastreply=yes"
+        },
+        {
+            "cs":"我说： 我，等等。",
+            "es":"I said: I, and so <b>on<\/b>.",
+            "url":"http:\/\/help.360.cn\/index.php?a=topic&bid=5030806&c=help&page=2&tid=19674127"
+        },
+        {
+            "cs":"你还会继续你的生活。",
+            "es":"You&#39;re going to go <b>on<\/b>.",
+            "url":"http:\/\/hi.baidu.com\/swifter%BD%DC%D7%D0\/blog\/index\/1\/"
+        }
+    ],
+    "dlg":[
+        {
+            "s":"\/衣食住行",
+            "t":"交通",
+            "c":[
+                {
+                    "n":"A",
+                    "cs":"我们放点（音乐\/新闻\/交通报道）来听。",
+                    "es":"Let’s put <b>on<\/b> (some music\/ the news\/ a traffic report)."
+                },
+                {
+                    "n":"B",
+                    "cs":"好的。",
+                    "es":"O.K."
+                }
+            ],
+            "u":0
+        },
+        {
+            "s":"\/职场英语",
+            "t":"电视节目",
+            "c":[
+                {
+                    "n":"A",
+                    "cs":"今晚有什么电视节目？",
+                    "es":"What’s <b>on<\/b> (TV\/ television\/ the tube) tonight?"
+                },
+                {
+                    "n":"B",
+                    "cs":"没有很多。",
+                    "es":"Nothing much."
+                }
+            ],
+            "u":0
+        },
+        {
+            "s":"\/休闲娱乐",
+            "t":"打折",
+            "c":[
+                {
+                    "n":"B",
+                    "cs":"（他们\/它\/麦片）打折出售。",
+                    "es":"(They’re \/ It’s \/ Cereal is) <b>on<\/b> sale."
+                },
+                {
+                    "n":"A",
+                    "cs":"太好了。",
+                    "es":"Great."
+                }
+            ],
+            "u":0
+        }
+    ],
+    "baike":[
+        {
+            "title":"On",
+            "pic":"http://pic.baike.soso.com/p/20090727/bki-20090727025950-197538648.jpg",
+            "pw":"84",
+            "ph":"140",
+            "abs":"词典解释 on<br/>介词 prep. <br/>1. 在...上<br/>He laid a hand on my shoulder. <br/>他把一只手放在我肩上。 2. 以...支持,挂在...上;以...为轴<br/>There is a picture on the wall. <br/>墙上有一幅画。 3. 朝,向4. 靠近,在...旁,沿着<br/>She stood on my left. <br/>她站在我左边。 5. 在...的时候,在...后立即<br/>He jumped with joy on hearing the news. <br/>他一听到这个消息就高兴得跳了起来。 6. 关于,有关<br/>The teacher made comments on our compositions. <br/>老师就我们的作文作了讲评。 7. 以...方式,通过<br/>Did you hear it on the radio? <br/>你是从收音机听到这消息的吗? 8. 凭...,靠...;使用...,吃...<br/>They said they were acting on instructions. <br/>他们说他们是奉命行事。 9. 处于...状态,进行中10. 属于...,参加...,是...的成员<br/>He is on the school volleyball team. <br/>他是校排球队队员。 11. 加之于,重叠于12. 由...支付<br/>Have another coffee ",
+            "link":"http://baike.soso.com/v5013992.htm"
+        }
+    ],
+    "lang":"eng"
+}

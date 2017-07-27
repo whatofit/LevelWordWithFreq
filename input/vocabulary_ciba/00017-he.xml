@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>he</key>
+	<ps>hi:, i</ps>
+	<pron>http://res.iciba.com/resource/amp3/0/0/6f/96/6f96cfdfe5ccc627cadf24b41725caa4.mp3</pron>
+	<ps>hi</ps>
+	<pron>http://res.iciba.com/resource/amp3/1/0/6f/96/6f96cfdfe5ccc627cadf24b41725caa4.mp3</pron>
+	<pos>pron.</pos>
+	<acceptation>他，它；一个人；
+	</acceptation>
+	<pos>n.</pos>
+	<acceptation>雄性动物；
+	</acceptation>
+	<sent>
+		<orig>
+			"I", "you"and "he" are all personal pronouns.
+		</orig>
+		<trans>
+			I，you和he都是人称代词。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			He is no scholar.
+		</orig>
+		<trans>
+			他根本不是（一个）学者。（比较：He is not a scholar。他不是一个学者。）
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			When we use "he", we generalize for both sex.
+		</orig>
+		<trans>
+			当我们用he时，我们泛指男女。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			At first he was most dictatorial and aggressive in what he said,but
+			when he realised that he would get nowhere by that means,he began to
+			sing another tune.
+		</orig>
+		<trans>
+			起初他的说法十分专横武断，但当他认识到这样做行不通的时候，他就开始改弦易辙了。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			He was so excited that he could not speak.;He was too excited to
+			speak.;He was so excited that words failed him.
+		</orig>
+		<trans>
+			他太兴奋，连话都说不出来了。
+		</trans>
+	</sent>
+</dict>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>made</key>
+	<ps>meɪd</ps>
+	<pron>http://res.iciba.com/resource/amp3/0/0/4a/b8/4ab8710d781ba5b13aaf561cafd896b7.mp3</pron>
+	<ps>med</ps>
+	<pron>http://res.iciba.com/resource/amp3/1/0/4a/b8/4ab8710d781ba5b13aaf561cafd896b7.mp3</pron>
+	<pos>adj.</pos>
+	<acceptation>……制的；（人工）做成的，拼成的；虚构的；保证成功的；
+	</acceptation>
+	<pos>v.</pos>
+	<acceptation>使（make的过去式和过去分词）；
+	</acceptation>
+	<sent>
+		<orig>
+			Is your overcoat made to order or ready made?
+		</orig>
+		<trans>
+			你的外套是定做的还是买现成的？
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Papermaking originated in China in the second century B.C. Paper made from linen
+			in the early West Han Dynasty (206 B.C.-24 A.D.) was the world's
+			earliest kind of paper made from plant fibres. By pooling the
+			expertise of craftsmen in papermaking, Cai Lun of the East Han
+			Dynasty (25 A. D.-220 A.D.) succeeded in producing quality paper from
+			linen craps, rags, and used fish nets. Papermaking technology was
+			introduced to the West in the third century.
+		</orig>
+		<trans>
+			公元前2世纪我国发明纸。 而汉初造的麻纸是世界上现存最早的植物纤维纸。
+			东汉蔡伦集中了工匠们的造纸经验，用麻头、破布、旧鱼网作原料，监造出一批良纸。造纸术从3世纪起传到国外。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			"Please, Sir, missis has made tea," said a female servant, bobbing into the
+			room.
+		</orig>
+		<trans>
+			一个女用人走进房来说，“先生，太太已经泡好了茶。”
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			"You've quite made my day by coming to see me, "said the old lady.
+		</orig>
+		<trans>
+			“你来看我，使我感到快活。”老太太说。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			A boat must be made of buoyant material.
+		</orig>
+		<trans>
+			船一定要用有浮力的材料来做。
+		</trans>
+	</sent>
+</dict>

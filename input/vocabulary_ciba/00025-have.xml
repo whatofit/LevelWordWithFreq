@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>have</key>
+	<ps>hæv, həv, əv, v</ps>
+	<pron>http://res.iciba.com/resource/amp3/0/0/b4/2d/b42dad5453b2128a32f6612b13ea5d9f.mp3</pron>
+	<ps>hæv</ps>
+	<pron>http://res.iciba.com/resource/amp3/1/0/b4/2d/b42dad5453b2128a32f6612b13ea5d9f.mp3</pron>
+	<pos>aux.</pos>
+	<acceptation>用以构成完成式及完成式的不定式，表示已经……；
+	</acceptation>
+	<pos>vt.</pos>
+	<acceptation>有，具有；拿，取得；从事；必须，不得不；
+	</acceptation>
+	<pos>n.</pos>
+	<acceptation>〈口〉有产者，有钱人；富国；〈英俚〉欺骗，诈骗；
+	</acceptation>
+	<sent>
+		<orig>
+			The verb should be in the plural,e.g."have" in "they have".
+		</orig>
+		<trans>
+			这个动词应用复数形式，如they have中的have。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			In English"to have " conjugates irregularly.
+		</orig>
+		<trans>
+			英语中“to have”变化不规则。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			A number of considerations have led her to have a wilful abortion.
+		</orig>
+		<trans>
+			多种考虑使她执意堕胎。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			According to what I have learnt, we are going to have an outing next week.
+		</orig>
+		<trans>
+			据我所知，下周将进行一次郊游。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Advertisers have made a close study of human nature and have classified all our
+			little weaknesses.
+		</orig>
+		<trans>
+			广告者仔细研究了人的本性并且把我们的各种小小弱点一一分类。（make a close study 仔细研究）
+		</trans>
+	</sent>
+</dict>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>been</key>
+	<ps>bɪn</ps>
+	<pron>http://res.iciba.com/resource/amp3/0/0/8c/00/8c00c19e66a7ba9d80bded9460cb1b41.mp3</pron>
+	<ps>bɪn</ps>
+	<pron>http://res.iciba.com/resource/amp3/1/0/8c/00/8c00c19e66a7ba9d80bded9460cb1b41.mp3</pron>
+	<pos></pos>
+	<acceptation>去过了；be的过去分词；老练（指性事）；以前也经历过；
+	</acceptation>
+	<pos>v.</pos>
+	<acceptation>用来表示某人或某物即主语本身，用来表示某人或某物属于某一群体或有某种性质（ be的过去分词 ）；在，存在；不受干扰；
+	</acceptation>
+	<sent>
+		<orig>
+			All sorts of sleeping bags have been developed and many have been given
+			extensive trials under various conditions.
+		</orig>
+		<trans>
+			各式的睡袋被试制出来，并且有许多曾在不同条件下广泛试用。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Atomic energy has been discovered for many years, but so far it has not
+			been widely used in industry or in our daily life.
+		</orig>
+		<trans>
+			原子能已发现多年，但至今仍未广泛用于工业或日常生活方面。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			For the past month or more, she had been unusually happy and had been
+			really throwing herself into her work.
+		</orig>
+		<trans>
+			在最近的一个多月里， 她异乎寻常地快乐，工作也做得勤快。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Fortunately he was sent to the hospital in time. If he had been delayed half an
+			hour, he would have not been still alive.
+		</orig>
+		<trans>
+			多亏及时送医院，再晚半小时他就没希望了。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			He escaped death by a hair's breadth.If the other car had been going
+			any faster, he would certainly have been killed.
+		</orig>
+		<trans>
+			他简直是死里逃生。要是那辆车开得再快一点，他肯定被撞死了。
+		</trans>
+	</sent>
+</dict>

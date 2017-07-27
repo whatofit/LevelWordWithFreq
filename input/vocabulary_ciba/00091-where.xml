@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>where</key>
+	<ps>hwɛə</ps>
+	<pron>http://res.iciba.com/resource/amp3/0/0/56/79/567904efe9e64d9faf3e41ef402cb568.mp3</pron>
+	<ps>hwɛr, wɛr</ps>
+	<pron>http://res-tts.iciba.com/5/6/7/567904efe9e64d9faf3e41ef402cb568.mp3</pron>
+	<pos>adv.</pos>
+	<acceptation>哪里，在哪里；到哪里；某种情势或位置；
+	</acceptation>
+	<pos>conj.</pos>
+	<acceptation>在……的地方；
+	</acceptation>
+	<pos>n.</pos>
+	<acceptation>地方，场所；
+	</acceptation>
+	<pos>pron.</pos>
+	<acceptation>哪里；
+	</acceptation>
+	<sent>
+		<orig>
+			Where is the W.C.?; Where can I wash my hand?; Where can I add some
+			powder?; Where is the toilet?; Where is the lavatory?; Where's the
+			restroom?
+		</orig>
+		<trans>
+			厕所在哪里？
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Pick yourself up from where you fell -- correct your mistake where you
+			made it.
+		</orig>
+		<trans>
+			在哪儿跌倒就从哪儿爬起来。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			"I know where she was!"He struck in.
+		</orig>
+		<trans>
+			“我知道她在哪儿！”他插嘴说道。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			"Where is my mother ?" demanded the little girl.
+		</orig>
+		<trans>
+			小女孩问道：“我的妈妈在哪里？”
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			"Where's the torn place?""It's been invisibly mended.”
+		</orig>
+		<trans>
+			“哪儿破了？”“天衣无缝，补好了。”
+		</trans>
+	</sent>
+</dict>

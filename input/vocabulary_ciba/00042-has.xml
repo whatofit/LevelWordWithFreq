@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>has</key>
+	<ps>hæz;həz,əz,z</ps>
+	<pron>http://res-tts.iciba.com/3/3/0/3309a7a7941818e131b4dfb9a6349914.mp3</pron>
+	<ps>hæz</ps>
+	<pron>http://res.iciba.com/resource/amp3/1/0/33/09/3309a7a7941818e131b4dfb9a6349914.mp3</pron>
+	<pos>v.</pos>
+	<acceptation>有（ have的第三人称单数 ）；（亲属关系中）接受；拿；买到；
+	</acceptation>
+	<sent>
+		<orig>
+			What has happened?; What's the matter?; What has occurred?; What took
+			place?; What has come about?; Has something come up?; What's up with
+			(sb. and sth.)?
+		</orig>
+		<trans>
+			发生了什么事？
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			The Gulf War has cost Iraq dearly.; Iraq has been drained of its
+			strength by the Gulf War.; The Gulf War has sapped Iraqi vitality
+			badly.
+		</orig>
+		<trans>
+			海湾战争使伊拉克大伤元气。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			A cause of action has accrued when the right to sue has become vested.
+		</orig>
+		<trans>
+			起诉的理由在控告权被赋予后随之存在。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			A grudge has melted away as the ice.; The feud has melted like ice.
+		</orig>
+		<trans>
+			仇隙冰消。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			A scheme has been roughed out but it has yet to be discussed and
+			amended.
+		</orig>
+		<trans>
+			方案已经草拟出来了，但还要讨论和修改。
+		</trans>
+	</sent>
+</dict>

@@ -1,0 +1,430 @@
+{
+    "local":[
+        {
+            "word":"and",
+            "sd":"98a4f6df548c617696fd3804ef564032",
+            "pho":[
+                "&#230;nd"
+            ],
+            "des":[
+                {
+                    "p":"conj.",
+                    "d":"和"
+                }
+            ],
+            "sen":[
+                {
+                    "p":"conj.",
+                    "s":[
+                        {
+                            "es":"He is so rich <b>and<\/b> lives like a beggar.",
+                            "cs":"他非常有钱可是生活得象个乞丐。"
+                        },
+                        {
+                            "es":"They sang <b>and<\/b> danced all night.",
+                            "cs":"他们通宵唱歌跳舞。"
+                        },
+                        {
+                            "es":"We ate <b>and<\/b> drank to our full content.",
+                            "cs":"我们尽情地连吃带喝饱餐了一顿。"
+                        },
+                        {
+                            "es":"We talked <b>and<\/b> talked.",
+                            "cs":"我们说呀，说呀，说个没完。"
+                        },
+                        {
+                            "es":"She did the work <b>and<\/b> she did it well.",
+                            "cs":"她做了这件工作而且做得很好。"
+                        }
+                    ]
+                }
+            ],
+            "ph":[
+                {
+                    "phs":"and that",
+                    "phd":"而且"
+                },
+                {
+                    "phs":"and so on",
+                    "phd":"等等"
+                },
+                {
+                    "phs":"and all that",
+                    "phd":"诸如此类"
+                },
+                {
+                    "phs":"and so forth",
+                    "phd":"等等"
+                },
+                {
+                    "phs":"and yet",
+                    "phd":"可是, 然而"
+                },
+                {
+                    "phs":"and then",
+                    "phd":"于是, 然后"
+                }
+            ]
+        }
+    ],
+    "netdes":[
+        {
+            "word":"and",
+            "des":[
+                {
+                    "mf":"and",
+                    "d":"和",
+                    "f":1973,
+                    "tag":"net",
+                    "s":"进入指令模式编辑后,直接键入EXIO完整指令,若指令的格式合法,按下(Enter)键态再与接点的前逻辑运算结果作 &quot;<b>和<\/b>&quot;(<b>AND<\/b>)的运算,并将结果存入累加器内.再与接点的前逻辑运算结果作 &quot;<b>和<\/b>&quot;(<b>AND<\/b>)的运算,并将结果存入累加器内.ANB是",
+                    "url":"http:\/\/www.wendang365.cn\/view\/236352"
+                },
+                {
+                    "mf":"and",
+                    "d":"而且",
+                    "f":1337,
+                    "tag":"net",
+                    "s":"未修正前的移民法规定,申请人必须有关系不真实,&quot;<b>而且<\/b>&quot;(<b>and)主<\/b>要为移民企图,两者同时成立,才能被认定为有不诚实. 新规定其实只是将所用的&quot;<b>而且<\/b>&quot;一字,改成&quot;或是&quot;(or),两者虽然只有一字之差,但对未来的配偶移民申请者,影响甚大. ",
+                    "url":"http:\/\/www.math168.com.cn\/jylx\/4802.htm"
+                },
+                {
+                    "mf":"AND",
+                    "d":"与门",
+                    "f":793,
+                    "tag":"net",
+                    "s":"功能块库适合工业的所有场合应用,包括从简单的&quot;<b>与门<\/b>&quot;(<b>AND<\/b>)和&quot;或门&quot;(OR)到自调节、自适应、PID控制器等功能,切记AC800M控制器不但提供了变频传动的接口,而且提供了有关实现软件冗余特性的接口. ",
+                    "url":"http:\/\/mirautomation.com\/product\/2009-04-27\/0000000462s.shtml"
+                },
+                {
+                    "mf":"AND",
+                    "d":"与",
+                    "f":546,
+                    "tag":"net",
+                    "s":"简单来讲,Notes 查询语法的最大特点是,用户必须明确的在搜索字符串当中使用 &quot;<b>与<\/b>&quot;(<b>AND<\/b>)操作符. 如果用户使用 IBM CSDL作为搜索字符串进行搜索,Notes 客户端将会把整个搜索字符串用双引号引用,并返回所有含有&quot;IBM CSDL&quot;这一字符串组合的文档. ",
+                    "url":"http:\/\/www.oklinux.cn\/html\/news\/os\/20090416\/69592_3.html"
+                },
+                {
+                    "mf":"and",
+                    "d":"abbr. automatic network dialing; 自动网络拨号",
+                    "f":1,
+                    "tag":"abbr",
+                    "s":-1,
+                    "url":-1
+                },
+                {
+                    "mf":"and",
+                    "d":"abbr. or andgate; 与或与门",
+                    "f":1,
+                    "tag":"abbr",
+                    "s":-1,
+                    "url":-1
+                },
+                {
+                    "mf":"and",
+                    "d":"abbr. automatic ncrvous diseae; 岁者自主神经病",
+                    "f":1,
+                    "tag":"abbr",
+                    "s":-1,
+                    "url":-1
+                },
+                {
+                    "mf":"and",
+                    "d":"abbr. all numeral dial; 全数字拨号",
+                    "f":1,
+                    "tag":"abbr",
+                    "s":-1,
+                    "url":-1
+                }
+            ],
+            "wf":"1"
+        },
+        {
+            "word":"and then",
+            "des":[
+                {
+                    "mf":"and then",
+                    "d":"然后",
+                    "f":2360,
+                    "tag":"net",
+                    "s":"亦为权威之一. 他请我共进午餐,前后数小时,细谈中日韩朝四国之历史与文化变迁,中国之于世界的责任以及亚洲法学院开设国际司法课程的必要. 他最喜欢在谈话中使用&quot;<b>然后<\/b>&quot;(<b>and then<\/b>)一词,似乎他的思维不停向前滚动但又非常缜密. ",
+                    "url":"http:\/\/eddysmile99.spaces.live.com\/"
+                },
+                {
+                    "mf":"And Then",
+                    "d":"其後",
+                    "f":106,
+                    "tag":"net",
+                    "s":"他曾以&lt;&lt;<b>其后<\/b>&gt;&gt;(<b>And Then<\/b>)一片得到蒙特利尔影展Prize of the Ecumenical Jury大奖,1998年更凭着&lt;&lt;Keiho&gt;&gt;(Keiho)入围柏林影展,荣获金熊奖提名. [主演]: Park Gun-HYung 文根英(Moon Geun-Young)",
+                    "url":"http:\/\/dzh.mop.com\/topic\/readSub_5658697_0_0.html"
+                },
+                {
+                    "mf":"and then",
+                    "d":"于是,然后",
+                    "f":2296,
+                    "tag":"net",
+                    "s":"and the like 等等,以及诸如此类 | <b>and then 于是,然后<\/b> | and what not 诸如此类,等等",
+                    "url":"http:\/\/xiaoshuo59561.580590.com\/htmlbook\/53\/53020\/27_B.html"
+                },
+                {
+                    "mf":"and then",
+                    "d":"于是",
+                    "f":1374,
+                    "tag":"net",
+                    "s":"at what I&#39;d do if I could do it all again.重新尝试着尽我所能去做我应该做的事 | <b>and then.于是<\/b> | I went sky diving. 我去高空跳伞",
+                    "url":"http:\/\/v.youku.com\/v_playlist\/f796189o1p97.html"
+                }
+            ]
+        },
+        {
+            "word":"and yet",
+            "des":[
+                {
+                    "mf":"and yet",
+                    "d":"而,然而",
+                    "f":1971,
+                    "tag":"net",
+                    "s":"and what not 诸如此类,等等 | <b>and yet 而,然而<\/b> | answer for 对...负责;符合...",
+                    "url":"http:\/\/xiaoshuo59561.580590.com\/htmlbook\/53\/53020\/27_B.html"
+                },
+                {
+                    "mf":"and yet",
+                    "d":"可是,然而",
+                    "f":1632,
+                    "tag":"net",
+                    "s":"go wrong发生故障,出毛病 | <b>and yet可是,然而<\/b> | as yet到目前(那时)为止",
+                    "url":"http:\/\/bbs.topsage.com\/dispbbs_28_15614_122.html"
+                },
+                {
+                    "mf":"and yet",
+                    "d":"然而",
+                    "f":1258,
+                    "tag":"net",
+                    "s":"23 an equal to 与......相当的人\\\/物,(地位)相同的人 | <b>24 and yet 然而<\/b> | 25 anything but 一点也不;",
+                    "url":"http:\/\/zxgxiaoguang.blog.163.com\/blog\/static\/119147265201031483041583\/"
+                },
+                {
+                    "mf":"and yet",
+                    "d":"可是",
+                    "f":115,
+                    "tag":"net",
+                    "s":"and what not 诸如此类 | <b>and yet 可是<\/b> | Andalusia 安大路西亚",
+                    "url":"http:\/\/www.cihui.biz\/batch.common.php?action=viewnews&catid=76&itemid=11160&op=down"
+                }
+            ]
+        },
+        {
+            "word":"and rank",
+            "des":[
+                {
+                    "mf":"and rank",
+                    "d":"富贵如浮云",
+                    "f":2809,
+                    "tag":"net",
+                    "s":"Give hostages to fortune. 听天由命.  | <b>Glory, honour, wealth, and rank, such things are nothing but shadows. 富贵如浮云. <\/b> | Glory is the shadow of virtue. 光荣是美德的影子. ",
+                    "url":"http:\/\/mfyyw.com\/zhishi\/yanyu\/67631.html"
+                },
+                {
+                    "mf":"and rank",
+                    "d":"富贵如浮云. 春秋中文社区",
+                    "f":1,
+                    "tag":"net",
+                    "s":"Give hostages to fortune. 听天由命... | <b>Glory, honour, wealth, and rank, such things are nothing but shadows. 富贵如浮云.  春秋中文社区http:\\\/\\\/bbs.cqzg.cn<\/b> | Glory is the shadow of virtue. 光荣是美德的影...",
+                    "url":"http:\/\/bbs.cqzg.cn\/viewthread.php?extra=page%3D1%26amp%3Bfilter%3Ddigest&tid=183721"
+                },
+                {
+                    "mf":"and rank",
+                    "d":"富贵如浮云. &lt;\/P&gt;",
+                    "f":1,
+                    "tag":"net",
+                    "s":"&lt;P&gt;Give hostages to fortune. 听天由命.  &lt;\\\/P&gt; | <b>&lt;P&gt;Glory, honour, wealth, and rank, such things are nothing but shadows. 富贵如浮云.  &lt;\\\/P&gt;<\/b> | &lt;P&gt;God helps those who help themselves. 自助者天助之.  &lt;\\\/P...",
+                    "url":"http:\/\/blog.sina.com.cn\/s\/blog_4cd2563e01000b5f.html"
+                }
+            ]
+        },
+        {
+            "word":"and that",
+            "des":[
+                {
+                    "mf":"and that",
+                    "d":"而且",
+                    "f":2701,
+                    "tag":"net",
+                    "s":"and so 所以,因此;同样 | <b>and that 而且<\/b> | and the like 等等,以及诸如此类",
+                    "url":"http:\/\/xiaoshuo59561.580590.com\/htmlbook\/53\/53020\/27_B.html"
+                },
+                {
+                    "mf":"And that",
+                    "d":"看招",
+                    "f":23,
+                    "tag":"net",
+                    "s":"Take that!|冲啊! | <b>And that!|看招!<\/b> | Mr. Nebbercracker.|怪老头先生",
+                    "url":"http:\/\/www.engxue.com\/bencandy.php?aid=391&buy=&fid=4&line=&page=3"
+                },
+                {
+                    "mf":"And that",
+                    "d":"还有这个",
+                    "f":19,
+                    "tag":"net",
+                    "s":"Up to you.|你说了算 | <b>And that.|还有这个<\/b> | I&#39;m David, by the way.|忘了说了 我叫大卫",
+                    "url":"http:\/\/engxue.com.cn\/bencandy.php?aid=717&buy=&fid=6&line=&page=2"
+                },
+                {
+                    "mf":"And that",
+                    "d":"瞧这个",
+                    "f":8,
+                    "tag":"net",
+                    "s":"For the last week,it&#39;s basically been giving him massive doses of all three at once.|上周 很大剂量的三种药... | <b>And that...|瞧这个...<\/b> | is why I won&#39;t let cameron buy a cat.|就是为什么我不让Cameron养猫...",
+                    "url":"http:\/\/engxue.com.cn\/bencandy.php?aid=347&buy=&fid=16&line=&page=4"
+                }
+            ]
+        },
+        {
+            "word":"and so",
+            "des":[
+                {
+                    "mf":"and so",
+                    "d":"所以,因此;同样",
+                    "f":1838,
+                    "tag":"net",
+                    "s":"and so on 等等 | <b>and so 所以,因此;同样<\/b> | and that 而且",
+                    "url":"http:\/\/xiaoshuo59561.580590.com\/htmlbook\/53\/53020\/27_B.html"
+                },
+                {
+                    "mf":"And so",
+                    "d":"所以",
+                    "f":471,
+                    "tag":"net",
+                    "s":"I love numbers. 我喜欢数字.  | <b>And so... 所以......<\/b> | Here we are. 所以我们才有缘相见. ",
+                    "url":"http:\/\/meephone.cn\/xuexi\/tingli\/2009\/0311\/44631.html"
+                },
+                {
+                    "mf":"And so",
+                    "d":"所以......加",
+                    "f":331,
+                    "tag":"net",
+                    "s":"I love numbers. 我喜欢弄数字.  | <b>And so... 所以......加And so]<\/b> | Here we are. 所以我们才有缘相见见",
+                    "url":"http:\/\/gjwap.pdx.cn\/blog\/diary,1004850.html"
+                },
+                {
+                    "mf":"and so",
+                    "d":"因此",
+                    "f":110,
+                    "tag":"net",
+                    "s":"and so on 等等 | <b>and so 因此<\/b> | and that 而且",
+                    "url":"http:\/\/www.cihui.biz\/batch.common.php?action=viewnews&catid=76&itemid=11160&op=down"
+                }
+            ]
+        }
+    ],
+    "netsen":[
+        {
+            "cs":"和它的。。。。",
+            "es":"<b>And<\/b> it&#39;s....",
+            "url":"http:\/\/www.rainhk.com\/bbs\/viewthread.php?tid=96434"
+        },
+        {
+            "cs":"因为你和我。。。",
+            "es":"Because of you <b>and<\/b> I...",
+            "url":"http:\/\/i.yoho.cn\/miclin\/logview\/1785696_3_71353.html"
+        },
+        {
+            "cs":"你和我一起。。。",
+            "es":"You <b>and<\/b> I do the...",
+            "url":"http:\/\/www.engxue.com.cn\/bencandy.php?aid=262&buy=2&fid=7&page=2"
+        },
+        {
+            "cs":"我是说，你和我。。。",
+            "es":"I mean, you <b>and<\/b> me....",
+            "url":"http:\/\/hi.baidu.com\/jyb_cn\/blog\/item\/bf301317019a364021a4e9eb.html"
+        },
+        {
+            "cs":"它是。。。。",
+            "es":"<b>And<\/b> it is....",
+            "url":"http:\/\/www.nowamagic.net\/internet\/internet_OpportunityChecklistForEntrepreneurs.php"
+        },
+        {
+            "cs":"你，你，你和你",
+            "es":"You, you, you, <b>and<\/b> you.",
+            "url":"http:\/\/www.engxue.com\/bencandy.php?aid=456&buy=&fid=4&page=2"
+        },
+        {
+            "cs":"我爱你，我想要和你在一起。",
+            "es":"I love you <b>and<\/b> I want to be with you.",
+            "url":"http:\/\/www.zvion.com\/html\/wenxue\/20100212\/7323.html"
+        }
+    ],
+    "dlg":[
+        {
+            "s":"\/休闲娱乐\/旅游英语",
+            "t":"点咖啡",
+            "c":[
+                {
+                    "n":"A",
+                    "cs":"您想喝点儿什么?",
+                    "es":"What would you like to drink?"
+                },
+                {
+                    "n":"B",
+                    "cs":"请来一杯咖啡。",
+                    "es":"Coffee, please."
+                },
+                {
+                    "n":"A",
+                    "cs":"要加牛奶和糖吗?",
+                    "es":"With sugar <b>and<\/b> cream?"
+                },
+                {
+                    "n":"B",
+                    "cs":"不，谢谢。",
+                    "es":"No, thanks."
+                }
+            ],
+            "u":2
+        },
+        {
+            "s":"\/衣食住行",
+            "t":"否定表达",
+            "c":[
+                {
+                    "n":"A",
+                    "cs":"我建议你找警察帮忙。",
+                    "es":"I suggest that you go <b>and<\/b> ask for help from the policeman."
+                },
+                {
+                    "n":"B",
+                    "cs":"一点儿也不行。",
+                    "es":"Not a bit."
+                }
+            ],
+            "u":0
+        },
+        {
+            "s":"\/衣食住行",
+            "t":"经典对话",
+            "c":[
+                {
+                    "n":"A",
+                    "cs":"这个座位是空的吧？",
+                    "es":"Is this seat empty?"
+                },
+                {
+                    "n":"B",
+                    "cs":"是的，如果你坐下，我的座位就是空的。",
+                    "es":"Yes, <b>and<\/b> this one will be if you sit down."
+                }
+            ],
+            "u":1
+        }
+    ],
+    "baike":[
+        {
+            "title":"AND",
+            "pic":"",
+            "pw":"0",
+            "ph":"0",
+            "abs":"andconj. &#91;连接并列的名词、代词或数词&#93;同, 和, 与, 如: Father and I went to Xinhua bookstore yesterday. 父亲和我昨天到新华书店去过。<br/>&#91;连接并列的形容词、副词&#93;又, 而且<br/>Read slowly and loudly. 读得既要慢些又要大点声音。 &#91;口&#93;&#91;连接并列的动词, 表示目的&#93;<br/>Try and shoot the bird. 开枪打那只鸟试试。 &#91;连接两个并列句&#93;而, 而且<br/>I did not answer, and he, too, kept silent. 我没有回答, (而)他也不作声。 &#91;连接两个句子, 后者表示结果&#93;只要...就会; 那么<br/>Go at once and you will see her. 马上去, 那么你就会见到她了。 &#91;连接两个相同的词&#93;反复, 一再<br/>We talked and talked. 我们说呀, 说呀, 说个没完。 &#91;表示转折&#93;但, 却<br/>He is so rich and lives like a beggar. 他非常有钱可是生活得象个乞丐。 &#91;表示加重语气&#93;而且<br/>She did the work and she did it ",
+            "link":"http://baike.soso.com/v156431.htm"
+        }
+    ],
+    "lang":"eng"
+}

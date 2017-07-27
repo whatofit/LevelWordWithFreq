@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>I</key>
+	<sent>
+		<orig>
+			If you invert "I can", you have "can I".
+		</orig>
+		<trans>
+			如果你把I can两词前后颠倒一下，就成了can I。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			You should correct the small letter i to capital letter I.
+		</orig>
+		<trans>
+			你应该把小写的i改为大写的I。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			"I", "you"and "he" are all personal pronouns.
+		</orig>
+		<trans>
+			I，you和he都是人称代词。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			In "if I were you" the verb "were" is in the subjunctive.
+		</orig>
+		<trans>
+			在“If I were you”中动词“were”是虚拟语气。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			I didn't know what I had expected of him, and I had taken no chances
+			with him, but now I found that I could relax a little.
+		</orig>
+		<trans>
+			起初我摸不清他的底，因此对他一直存有戒心，而我现在可以放心一些了。
+		</trans>
+	</sent>
+</dict>

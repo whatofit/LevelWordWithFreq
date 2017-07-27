@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>into</key>
+	<ps>ˈɪntuː</ps>
+	<pron>http://res-tts.iciba.com/b/9/7/b971be0e2e7176b90d5501eca32a0226.mp3</pron>
+	<ps>ˈɪntu</ps>
+	<pron>http://res.iciba.com/resource/amp3/1/0/b9/71/b971be0e2e7176b90d5501eca32a0226.mp3</pron>
+	<pos>prep.</pos>
+	<acceptation>（表示方向）进入……中；（表示所属）输入；（表示状态）进入……状态；（表示时间）持续到；
+	</acceptation>
+	<sent>
+		<orig>
+			A larva metamorphose into a chrysalis and then into a butterfly.
+		</orig>
+		<trans>
+			幼虫变为蛹，然後再变成蝴蝶。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			As soon as he finished reading the collect letter, he fell into a rage
+			and tore it into pieces.
+		</orig>
+		<trans>
+			他一读完那封由他付费的信，顿时大发雷霆，随即便把信撕个粉碎。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			As soon as he finished reading the collect letter, he flew into a rage
+			and tore it into pieces.
+		</orig>
+		<trans>
+			他一读完那封由他付费的信，顿时大发雷霆，随即便把信撕个粉碎。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			He launched into a long diatribe; She plunged into a dangerous
+			adventure.
+		</orig>
+		<trans>
+			他投入到一个长期的诽谤中；她投入一个非常危险的冒。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			He ran into the bank and fired his gun into the air.
+		</orig>
+		<trans>
+			他冲进银行，向空中开枪。
+		</trans>
+	</sent>
+</dict>

@@ -1,0 +1,409 @@
+{
+    "local":[
+        {
+            "word":"be",
+            "sd":"e57efff3d41877962fcdda71537023d6",
+            "pho":[
+                "bi:"
+            ],
+            "des":[
+                {
+                    "p":"vi.",
+                    "d":"是, 表示, 在"
+                },
+                {
+                    "p":"abbr.",
+                    "d":"[军] Base Ejection, 弹底喷射"
+                },
+                {
+                    "p":"vt.",
+                    "d":"是, 表示, 在"
+                },
+                {
+                    "p":"prep.",
+                    "d":"是, 在, 存在, [域] Belgium , 比利时"
+                }
+            ],
+            "sen":[
+                {
+                    "p":"v.",
+                    "s":[
+                        {
+                            "es":"What <b>were<\/b> you doing from 9 to 11 this morning?",
+                            "cs":"今天上午九点到十一点你在做什么？"
+                        },
+                        {
+                            "es":"You&#39;re to do your homework before you watch TV.",
+                            "cs":"你应该做了功课再看电视。"
+                        }
+                    ]
+                },
+                {
+                    "p":"vi.",
+                    "s":[
+                        {
+                            "es":"Tony <b>is<\/b> in the office.",
+                            "cs":"汤尼在办公室里。"
+                        },
+                        {
+                            "es":"He&#39;ll <b>be<\/b> at his uncle&#39;s till next Friday.",
+                            "cs":"他要在他舅舅家呆到下星期五。"
+                        },
+                        {
+                            "es":"It <b>was<\/b> not to <b>be<\/b>.",
+                            "cs":"不应有此事。"
+                        }
+                    ]
+                }
+            ],
+            "mor":[
+                {
+                    "c":"动词变形",
+                    "m":"am, is, are; was, were; been; being"
+                }
+            ]
+        }
+    ],
+    "netdes":[
+        {
+            "word":"be",
+            "des":[
+                {
+                    "mf":"be",
+                    "d":"比利时",
+                    "f":1732,
+                    "tag":"net",
+                    "s":"[地址]<b>比利时<\/b>沙勒罗瓦 [申请人]阿尔斯托姆<b>比利时<\/b>股份有限公司 [公开号]1289475 [国家省市]<b>比利时<\/b>(<b>BE<\/b>) [国际分类]H02M7\/00 [摘要] 本发明涉及由IGBT型静态开关组成的、用直流电源电压(Ucat)供电的功率转换器,",
+                    "url":"http:\/\/patents.dic123.com\/S_guojicata_H02M7%2f00_4.html"
+                },
+                {
+                    "mf":"be",
+                    "d":"是",
+                    "f":397,
+                    "tag":"net",
+                    "s":"[22]这段话里用系动词&quot;<b>是<\/b> &quot;(<b>be<\/b>)贯穿,而&quot;本体&quot;(Being)即&quot;<b>是<\/b>&quot;的动名词形式. 既然一切事物都可归结到&quot;<b>是<\/b>&quot;(或&quot;存在&quot;)上来,所以应有一门学术主要研究&quot;<b>是<\/b>&quot;或&quot; 实<b>是<\/b>&quot;(&quot;存在&quot;),研究&quot;实<b>是<\/b>之所以为实<b>是<\/b>&quot;,&quot;哲学家们就得去捉摸本体的原",
+                    "url":"http:\/\/dimlamp.spaces.live.com\/PersonalSpace\/"
+                },
+                {
+                    "mf":"Be",
+                    "d":"存在",
+                    "f":301,
+                    "tag":"net",
+                    "s":"因为一个人要先&quot;<b>存在<\/b>&quot;(<b>Be<\/b>),才能&quot;看见&quot;(See)等等.  比起中国字谜来,这种谜语实在太浅了. 杜甫有一名句:&quot;无边落木 萧萧下&quot;. 以这句诗作谜面打一个字,答案是&quot;曰&quot;. 因为在六朝时,东 晋之后是宋齐梁陈,齐梁的皇帝都姓萧,",
+                    "url":"http:\/\/www.youziyin.net\/bbs\/dispbbs.asp?boardid=7&id=1026&move=next"
+                },
+                {
+                    "mf":"be",
+                    "d":"在",
+                    "f":172,
+                    "tag":"net",
+                    "s":"我完全扩展开来,超越了有限的形态,甚至超越了任何对形状或面目的觉察,仅仅是&quot;<b>在<\/b>&quot;(<b> Be<\/b>),但身体还坐<b>在<\/b>那里. <b>在<\/b>这爱和喜悦的无限存<b>在<\/b>状态中,我静坐了一些时间. 我发现自己&quot;<b>在<\/b>&quot;. 我的形态<b>在<\/b>传统上被称为&quot;原人&quot;(Purusha,",
+                    "url":"http:\/\/www.wuyangzhijie.com\/forum\/viewtopic.php?f=41&p=4311&t=1215"
+                },
+                {
+                    "mf":"be",
+                    "d":"abbr. bound energy; 结合能",
+                    "f":1,
+                    "tag":"abbr",
+                    "s":-1,
+                    "url":-1
+                },
+                {
+                    "mf":"be",
+                    "d":"abbr. barrett ′ s esophagus; barrett食管",
+                    "f":1,
+                    "tag":"abbr",
+                    "s":-1,
+                    "url":-1
+                },
+                {
+                    "mf":"be",
+                    "d":"abbr. bases excess; 碱剩余",
+                    "f":1,
+                    "tag":"abbr",
+                    "s":-1,
+                    "url":-1
+                },
+                {
+                    "mf":"be",
+                    "d":"abbr. bacteria exudation; 喷菌现象",
+                    "f":1,
+                    "tag":"abbr",
+                    "s":-1,
+                    "url":-1
+                }
+            ],
+            "wf":"1"
+        },
+        {
+            "word":"be quiet",
+            "des":[
+                {
+                    "mf":"be quiet",
+                    "d":"安静",
+                    "f":3966,
+                    "tag":"net",
+                    "s":")、小心点(be careful)、做的真好(very good)、让我们放松一下(let&#39;s relax)、排整齐(stand in a line)、<b>安静<\/b>(<b>be quiet<\/b>)、加油(come on)等等. 尽可能地创造让学生用英语学英语的课堂氛围,全面提高学生的英语水平. 体育教学主要以动作教学为主,",
+                    "url":"http:\/\/test.yxedu.net\/show.aspx?cid=129&id=42855"
+                },
+                {
+                    "mf":"Be quiet",
+                    "d":"保持安静",
+                    "f":308,
+                    "tag":"net",
+                    "s":"话 (stop talk) <b>保持安静<\/b> (<b>be quiet<\/b>) 一种舟叫 &quot;鲨鱼的大便&quot;~~~~`~题目1 停止讲话 (stop talk) <b>保持安静<\/b> (<b>be quiet<\/b>) 题目2 一种很小的舟 题目3 大便或是残肢断骸题目1 停止讲话 (stop talk) <b>保持安静<\/b> (<b>be quiet<\/b>) 题目2 一种船 ",
+                    "url":"http:\/\/zhidao.baidu.com\/question\/13421994.html"
+                },
+                {
+                    "mf":"Be quiet",
+                    "d":"安静点",
+                    "f":147970,
+                    "tag":"net",
+                    "s":"16. Allow me. 让我来.  | <b>17. Be quiet! 安静点!<\/b> | 18. Cheer up! 振作起来!",
+                    "url":"http:\/\/laiba.tianya.cn\/laiba\/CommMsgs?cmm=113072&tid=2679434024279741432"
+                },
+                {
+                    "mf":"Be quiet",
+                    "d":"宁静点",
+                    "f":824,
+                    "tag":"net",
+                    "s":"16. Allow me. 让wo来.  | <b>17. Be quiet! 宁静点!<\/b> | 18. Cheer up! 振作起来!",
+                    "url":"http:\/\/hi.baidu.com\/wanglpizl\/blog"
+                }
+            ]
+        },
+        {
+            "word":"Be careful",
+            "des":[
+                {
+                    "mf":"Be careful",
+                    "d":"小心",
+                    "f":4360,
+                    "tag":"net",
+                    "s":"哈珀总理则回应,应&quot;<b>小心<\/b>&quot;(<b>be careful<\/b>)对待统计报告提供的数据,因为那不是真实的情况的&quot;完全写照&quot;. 同时,他提醒反对党,政府已经拓宽了EI的申请资格,同时还增加了再就业培训的投入,以能确保这些失业工人做好准备,经济一复苏便能找到工作. ",
+                    "url":"http:\/\/www.mymoneycat.com\/show.php?contentid=553"
+                },
+                {
+                    "mf":"Be careful",
+                    "d":"小心点",
+                    "f":1134,
+                    "tag":"net",
+                    "s":")、<b>小心点<\/b>(<b>be careful<\/b>)、做的真好(very good)、让我们放松一下(let&#39;s relax)、排整齐(stand in a line)、安静(be quiet) 、加油( come on)等等. 尽可能的创造让学生用外语学外语的课堂氛围,全面提高学生的外语水平. ",
+                    "url":"http:\/\/www.zqjyzx.jinedu.cn\/xkxx\/ShowArticle.asp?ArticleID=4071"
+                },
+                {
+                    "mf":"be careful",
+                    "d":"小心,谨慎",
+                    "f":33,
+                    "tag":"net",
+                    "s":"安藤事务所在这一地区的30多件建筑作品无一破坏,包括位于震中地区淡路岛的真言宗本福寺水御堂和六甲集合住宅. 这足以说明安藤对于建筑技术和规范要求是非常细致谨慎的,他亦由此获得了&quot;有备而来&quot;(Be prepared)和&quot;<b>小心谨慎<\/b>&quot;(<b>Be careful<\/b>)的别称. ",
+                    "url":"http:\/\/www.bcadi.com\/forum\/dispbbs.asp?Id=1595&boardid=16"
+                },
+                {
+                    "mf":"Be careful",
+                    "d":"注意",
+                    "f":133859,
+                    "tag":"net",
+                    "s":"41. What&#39;s up? 有什么事吗? | <b>42. Be careful! 注意!<\/b> | 43. Bottoms up! 干杯(见底)!",
+                    "url":"http:\/\/laiba.tianya.cn\/laiba\/CommMsgs?cmm=113072&tid=2679434024279741432"
+                }
+            ]
+        },
+        {
+            "word":"be : Belgium",
+            "des":[
+                {
+                    "mf":"be : Belgium",
+                    "d":"比利时",
+                    "f":12087,
+                    "tag":"net",
+                    "s":"bd : Bangladesh , 孟加拉国 | <b>be : Belgium , 比利时<\/b> | bf : Burkina Faso , 布基纳法索",
+                    "url":"http:\/\/www.c818.cn\/support\/doc.php?IDCate=1&IDDoc=483&keyword="
+                },
+                {
+                    "mf":"BE Belgium",
+                    "d":"比利",
+                    "f":477,
+                    "tag":"net",
+                    "s":"BD Bangladesh 孟加拉共和? | <b>BE Belgium 比利?<\/b> | BF Burkina Faso 布基那法索",
+                    "url":"http:\/\/www.y88w.com.cn\/service\/detail\/1\/0\/7\/3\/10736.html"
+                },
+                {
+                    "mf":"BE Belgium",
+                    "d":"比利时 欧洲",
+                    "f":249,
+                    "tag":"net",
+                    "s":"MC Monaco摩纳哥 欧洲 | <b>BE Belgium比利时 欧洲<\/b> | MD Moldova摩尔多瓦 欧洲",
+                    "url":"http:\/\/orgsr.com\/html\/xwzx\/31.Html"
+                },
+                {
+                    "mf":"be Belgium",
+                    "d":"比利时(域名)",
+                    "f":86,
+                    "tag":"net",
+                    "s":"BE Back End 后端 | <b>be Belgium 比利时(域名)<\/b> | BEA Broadcasting Education Association 广播教育协会",
+                    "url":"http:\/\/www.zxfy.net\/news\/200610161913341444.htm"
+                }
+            ]
+        },
+        {
+            "word":"be down-to-earth",
+            "des":[
+                {
+                    "mf":"be down-to-earth",
+                    "d":"脚踏实地",
+                    "f":11155,
+                    "tag":"net",
+                    "s":"近海渔业 offshore fishery | <b>脚踏实地 be down-to-earth<\/b> | 脚踩两只船 sit on the fence",
+                    "url":"http:\/\/www.englishok.com.cn\/article\/sort068\/sort087\/info-25875.html"
+                },
+                {
+                    "mf":"be down-to-earth",
+                    "d":"实事求是",
+                    "f":13,
+                    "tag":"net",
+                    "s":"洞开眼界 open one&#39;s eyes;broaden one&#39;s horizon;ba an eye-opener | <b>实事求是 be down-to-earth<\/b> | 脚踩两只船 sit on the fence",
+                    "url":"http:\/\/www.gzvbm.cn\/post\/page_9426.html"
+                }
+            ]
+        },
+        {
+            "word":"be off",
+            "des":[
+                {
+                    "mf":"be off",
+                    "d":"走吧;滚蛋",
+                    "f":1292,
+                    "tag":"net",
+                    "s":"be nuts 傻里傻气 | <b>be off 走吧;滚蛋<\/b> | Be off! 滚开!",
+                    "url":"http:\/\/leizisky.bokee.com\/viewdiary.13115969.html"
+                },
+                {
+                    "mf":"Be off",
+                    "d":"滚开",
+                    "f":1277,
+                    "tag":"net",
+                    "s":"be off 走吧;滚蛋 | <b>Be off! 滚开!<\/b> | be on the wagon 喝酒",
+                    "url":"http:\/\/leizisky.bokee.com\/viewdiary.13115969.html"
+                },
+                {
+                    "mf":"be off",
+                    "d":"离开;走开",
+                    "f":304,
+                    "tag":"net",
+                    "s":"be made from 由......制成;由......构成 | <b>be off 离开;走开<\/b> | be proud of 为......感到骄傲;为......感到自豪",
+                    "url":"http:\/\/ufasale.com\/a\/chuzhongyingyulunwen\/2009\/1028\/3.html"
+                },
+                {
+                    "mf":"be off",
+                    "d":"不再喜欢",
+                    "f":196,
+                    "tag":"net",
+                    "s":"on behalf of 代表 | <b>be off 不再喜欢<\/b> | response rate 回收率",
+                    "url":"http:\/\/ielts.ppen.net\/ielts\/word\/11808.html"
+                }
+            ]
+        }
+    ],
+    "netsen":[
+        {
+            "cs":"我爱你，我想要和你在一起。",
+            "es":"I love you and I want to <b>be<\/b> with you.",
+            "url":"http:\/\/www.zvion.com\/html\/wenxue\/20100212\/7323.html"
+        },
+        {
+            "cs":"我认为这将是。。。",
+            "es":"I think it will <b>be<\/b> ...",
+            "url":"http:\/\/www.mydigitallife.info\/2010\/01\/02\/tcpip-manager-maintains-network-profiles-for-fast-ip-address-switching\/zh_TW\/"
+        },
+        {
+            "cs":"我希望我是。。。",
+            "es":"I Would Like To <b>Be<\/b>....",
+            "url":"http:\/\/blog.yam.com\/mOoyAm\/article\/14381727"
+        },
+        {
+            "cs":"我不想这样的。",
+            "es":"I didn&#39;t want to <b>be<\/b>.",
+            "url":"http:\/\/wwww.icoolen.com\/film_veido\/heroe_season3_chapter11"
+        },
+        {
+            "cs":"我想和你在一起。",
+            "es":"I`d like to <b>be<\/b> with you.",
+            "url":"http:\/\/www.veryus.com\/en\/ziyuan\/014337101.htm"
+        },
+        {
+            "cs":"我知道我将和你在一起。。。。。",
+            "es":"I know I&#39;ll <b>be<\/b> with you...",
+            "url":"http:\/\/hi.baidu.com\/%CA%CD%CE%E8%B5%C4%B7%E7\/blog\/item\/70a4e78a7f62fe18c9fc7a57.html"
+        },
+        {
+            "cs":"我会想你的。",
+            "es":"I&#39;ll <b>be<\/b> thinking of you.",
+            "url":"http:\/\/q.163.com\/onlyusa\/blog\/haizerui\/981346320082185622690\/all\/"
+        }
+    ],
+    "dlg":[
+        {
+            "s":"\/衣食住行",
+            "t":"否定表达",
+            "c":[
+                {
+                    "n":"A",
+                    "cs":"我的建议是立刻做完。",
+                    "es":"My advice would <b>be<\/b> to finish it at once."
+                },
+                {
+                    "n":"B",
+                    "cs":"B：没必要。",
+                    "es":"It’s unnecessary."
+                }
+            ],
+            "u":0
+        },
+        {
+            "s":"\/衣食住行",
+            "t":"租房",
+            "c":[
+                {
+                    "n":"A",
+                    "cs":"别担心押金。",
+                    "es":"Don’t (worry\/ <b>be<\/b> concerned) about the security deposit."
+                },
+                {
+                    "n":"B",
+                    "cs":"好的，好。",
+                    "es":"O.K. Great."
+                }
+            ],
+            "u":0
+        },
+        {
+            "s":"\/休闲娱乐",
+            "t":"购物",
+            "c":[
+                {
+                    "n":"B",
+                    "cs":"是的，好像（有用了\/可以运行了\/可以正常使用了）。",
+                    "es":"Yes, it seems to <b>be<\/b> (working fine\/ operating\/ functioning properly)."
+                },
+                {
+                    "n":"A",
+                    "cs":"太好了。",
+                    "es":"Great."
+                }
+            ],
+            "u":0
+        }
+    ],
+    "baike":[
+        {
+            "title":"铍",
+            "pic":"",
+            "pw":"0",
+            "ph":"0",
+            "abs":"　　铍 拼音:pī　pí　繁体字:铍 <br/>　　部首:钅,部外笔画:5,总笔画:10 ; 繁体部首:金,部外笔画:5,总笔画:13<br/>　　五笔86:QHCY　五笔98:QBY　仓颉:XCDHE　<br/>　　笔顺编号:3111553254　四角号码:84747　UniCode:CJK 统一汉字 U+94CD<br/>　　基本字义：　　● 铍（铍） pí ㄆㄧˊ<br/>　　◎ 一种金属元素，是坚硬质轻的金属之一，应用于飞机、火箭制造业和原子能工业中。透Ｘ射线的能力最强，可用来制造Ｘ射线管。<br/>　　◎ 中医用于针灸的针。<br/>　　◎ 两刃小刀：“羽族以觜距为刀～”。<br/>　　◎ 长矛。<br/>　　------------------------------------------------------------------------------<br/>　　汉英互译：　　铍的英文写法：Beryllium(Be) 　　铍，化学符号：Be。原子序数4，原子量9.012182，莫氏硬度：5.5 ，为一种钢灰色的稀有金属，是最轻的碱土金属元素，也是最轻的结构",
+            "link":"http://baike.soso.com/v72713.htm"
+        }
+    ],
+    "lang":"eng"
+}

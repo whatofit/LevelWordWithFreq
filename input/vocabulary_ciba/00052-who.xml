@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>who</key>
+	<ps>hu:, hu</ps>
+	<pron>http://res.iciba.com/resource/amp3/0/0/53/d6/53d670af9bb16ea82e7ef41ee23ec6df.mp3</pron>
+	<ps>hu</ps>
+	<pron>http://res.iciba.com/resource/amp3/1/0/53/d6/53d670af9bb16ea82e7ef41ee23ec6df.mp3</pron>
+	<pos>pron.</pos>
+	<acceptation>谁；什么人；关系代词，有先行词；孰；
+	</acceptation>
+	<sent>
+		<orig>
+			I noticed a misuse of the word "who" in your letter.
+		</orig>
+		<trans>
+			我发现在你的信中误用了who这个词。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			He has his name in Who's Who.
+		</orig>
+		<trans>
+			他的名字已上了《名人录》。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			He who plays with fire will get burned.; Those who play with fire will
+			burn themselves.
+		</orig>
+		<trans>
+			玩火者必自焚。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			It is perfectly clear who are our friends and who are our foes.
+		</orig>
+		<trans>
+			为仇为友，了了分明。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Let others judge who is right and who is wrong.
+		</orig>
+		<trans>
+			谁是谁非，让大家来评个理。
+		</trans>
+	</sent>
+</dict>

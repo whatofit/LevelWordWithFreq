@@ -1,0 +1,414 @@
+{
+    "local":[
+        {
+            "word":"for",
+            "sd":"57fcacc0507aea99372a04fc1495c802",
+            "pho":[
+                "f&#596;:"
+            ],
+            "des":[
+                {
+                    "p":"prep.",
+                    "d":"因为, 至于, 对于, 给"
+                },
+                {
+                    "p":"conj.",
+                    "d":"因为"
+                }
+            ],
+            "sen":[
+                {
+                    "p":"prep.",
+                    "s":[
+                        {
+                            "es":"I am too old <b>for<\/b> the job.",
+                            "cs":"我年纪太大，做不了这工作。"
+                        },
+                        {
+                            "es":"Are you <b>for<\/b> the government or against it?",
+                            "cs":"你是支持还是反对政府？"
+                        },
+                        {
+                            "es":"He left <b>for<\/b> Taipei.",
+                            "cs":"他出发去台北。"
+                        },
+                        {
+                            "es":"We set off <b>for<\/b> London.",
+                            "cs":"我们动身去伦敦。"
+                        },
+                        {
+                            "es":"I am sorry <b>for<\/b> what I said to you.",
+                            "cs":"我后悔不该对你讲那些话。"
+                        }
+                    ]
+                }
+            ],
+            "ant":[
+                {
+                    "p":"prep.",
+                    "c":[
+                        "against"
+                    ]
+                }
+            ]
+        }
+    ],
+    "netdes":[
+        {
+            "word":"for",
+            "des":[
+                {
+                    "mf":"for",
+                    "d":"循环语句",
+                    "f":1051,
+                    "tag":"net",
+                    "s":"算法:定义一个整数型变量i,使用<b>循环语句<\/b>(<b>for<\/b>)让i从2到n-1,在每个循环里让n除以i,如果能整除则在屏幕上打印i. 很简练吧~^_^",
+                    "url":"http:\/\/zhidao.baidu.com\/question\/34643123.html"
+                },
+                {
+                    "mf":"for",
+                    "d":"为了",
+                    "f":297,
+                    "tag":"net",
+                    "s":"它的目标是&quot;<b>为了<\/b>&quot;(<b>for<\/b>)女性而研究,而不仅仅是&quot;关于&quot;(about)女性的研究. 因此,女性心理学的价值色彩是明显的,它的根本目的是要揭示压抑女性、病体化女性的社会条件,促进妇女的真正解放. ",
+                    "url":"http:\/\/202.119.109.14\/xlxs\/thesis_sys\/show.asp?id=70"
+                },
+                {
+                    "mf":"for",
+                    "d":"循环",
+                    "f":282,
+                    "tag":"net",
+                    "s":"<b>for<\/b> (i=0; i&lt;length; i++) \/* <b>循环<\/b>(<b>for<\/b>)控制输入 *\/<b>for<\/b> (i=0; i&lt;length; i++) \/* <b>循环<\/b>(<b>for<\/b>)控制输出 *\/任何一种计算机语言都要从某种人们容易理解的形式(源代码)转化成计算机可以执行的形式(机器指令). ",
+                    "url":"http:\/\/www.cncfan.com\/html\/?78_4354.html"
+                },
+                {
+                    "mf":"for",
+                    "d":"为",
+                    "f":274,
+                    "tag":"net",
+                    "s":"己所在学校的名字(Nancy)来命名新射线,称<b>为<\/b>N射线.果你把&quot;羊&quot;(lamb)这个词中的各个字母代以数字,如 1代A,2代B,等第二个词&quot;牺牲&quot;的数字代号是3,&quot;<b>为<\/b>&quot;(<b>for<\/b>)是3,&quot;人&quot;是1.这样,痛的来宾则听到试制成一种称<b>为<\/b>&quot;普利斯科伦&quot;(Priscolene)的药品.当",
+                    "url":"http:\/\/www.wendang365.cn\/view\/152564"
+                },
+                {
+                    "mf":"for",
+                    "d":"abbr. free on railroad; 火车上交货",
+                    "f":1,
+                    "tag":"abbr",
+                    "s":-1,
+                    "url":-1
+                },
+                {
+                    "mf":"for",
+                    "d":"abbr. fund outflow ratio; 资金外流比例",
+                    "f":1,
+                    "tag":"abbr",
+                    "s":-1,
+                    "url":-1
+                },
+                {
+                    "mf":"for",
+                    "d":"abbr. forced outage rate; 强迫停机率",
+                    "f":1,
+                    "tag":"abbr",
+                    "s":-1,
+                    "url":-1
+                },
+                {
+                    "mf":"for",
+                    "d":"abbr. fuel oil return; 燃料油回路",
+                    "f":1,
+                    "tag":"abbr",
+                    "s":-1,
+                    "url":-1
+                }
+            ],
+            "wf":"1"
+        },
+        {
+            "word":"look for",
+            "des":[
+                {
+                    "mf":"look for",
+                    "d":"寻找",
+                    "f":19120,
+                    "tag":"net",
+                    "s":"find强调在经过&quot;<b>寻找<\/b>&quot;(<b>look for<\/b>)后&quot;找的结果&quot;(找到或找不到),又可以表示&quot;(偶然地)发现......&quot;",
+                    "url":"http:\/\/home.eduu.com\/265966\/blog\/34590"
+                },
+                {
+                    "mf":"look for",
+                    "d":"找",
+                    "f":12,
+                    "tag":"net",
+                    "s":"这句话重新断句,并解释的成:地面(在地面)<b>找<\/b>(<b>look for<\/b>)平(姓平)师傅(在某方面有特殊技能的人)",
+                    "url":"http:\/\/syfile.focus.cn\/msgview\/280466\/81628610.html"
+                },
+                {
+                    "mf":"look for",
+                    "d":"寻求",
+                    "f":5510,
+                    "tag":"net",
+                    "s":"look at (看) | <b>look for (尋求)<\/b> | look forward to +Ving\\\/N (期盼.盼望...)",
+                    "url":"http:\/\/video.citimy.cn\/article.aspx?id=93447"
+                },
+                {
+                    "mf":"look for",
+                    "d":"寻找,寻求",
+                    "f":3524,
+                    "tag":"net",
+                    "s":"look down on 看不起,轻视 | <b>look for 寻找,寻求<\/b> | look forward to 盼望,期待",
+                    "url":"http:\/\/yoursit.cn\/mydoc029.htm"
+                }
+            ]
+        },
+        {
+            "word":"as for",
+            "des":[
+                {
+                    "mf":"as for",
+                    "d":"至于",
+                    "f":1840,
+                    "tag":"net",
+                    "s":"&quot;卡丽显然忘了浴盆的事,忍不住发出阵阵(fits)笑声,<b>至于<\/b>(<b>as for<\/b>)我本人,笑得在扶手椅上缩成一团(double up),直到椅子在下面吱吱作响. 我想这是我讲过的最有水平的俏皮话之一了. 不难想像当我发觉(perceive)卡明斯和高英一脸沉默,",
+                    "url":"http:\/\/bbs.lady.qq.com\/b-1000090390\/2369.htm"
+                },
+                {
+                    "mf":"as for",
+                    "d":"至于,关于",
+                    "f":11316,
+                    "tag":"net",
+                    "s":"1.多久一次how often | <b>2.至于,关于as for<\/b> | 3.垃圾食品junk food",
+                    "url":"http:\/\/wwww.kjcenter.net\/H\/4\/11147\/S88411.shtml"
+                },
+                {
+                    "mf":"as for",
+                    "d":"至于,就...方面说",
+                    "f":6672,
+                    "tag":"net",
+                    "s":"as for as 就...而论,据... | <b>as for 至于,就...方面说<\/b> | as good as 和...几乎一样",
+                    "url":"http:\/\/xiaoshuo59561.580590.com\/htmlbook\/53\/53020\/27_B.html"
+                },
+                {
+                    "mf":"as for",
+                    "d":"关于,至于",
+                    "f":389,
+                    "tag":"net",
+                    "s":"all over the world 全世界 | <b>as for 关于,至于<\/b> | ask sb. about sth. 问某人某事",
+                    "url":"http:\/\/www.21cnjy.com\/4\/11163\/V32970\/"
+                }
+            ]
+        },
+        {
+            "word":"stand for",
+            "des":[
+                {
+                    "mf":"stand for",
+                    "d":"代表",
+                    "f":8188,
+                    "tag":"net",
+                    "s":"因此任何范畴的具有<b>代表<\/b>性的成员被称为类典型成员,并&quot;<b>代表<\/b>&quot; (<b>stand for<\/b>)整个范畴(Rosch, 1978; 张辉,1999). 例(5)中的a句与b句在语义上并不同义. 我们完全可以说a句,而否认b句,并不会产生矛盾. 但在许多场合,",
+                    "url":"http:\/\/kuhn.blogbus.com\/logs\/414470.html"
+                },
+                {
+                    "mf":"stand for",
+                    "d":"意指",
+                    "f":2,
+                    "tag":"net",
+                    "s":"这样,曾经是完整和有意义的符号体系被第二符号体系接管(take over),用来<b>意指<\/b>(<b>stand for<\/b>)新的概念. 也就是说,在最初符号序列中的能指因为转换到第二符号序列中,就能够形成新的所指,产生新的含义,而这样的过程巴特认为可以被无限制地重复. ",
+                    "url":"http:\/\/www.yabaoo.com\/html\/zhanlan\/pinglun\/20080822\/6306.html"
+                },
+                {
+                    "mf":"stand for",
+                    "d":"支持",
+                    "f":6335,
+                    "tag":"net",
+                    "s":"stand against反对 | <b>stand for支持...<\/b> | stick to 粘着, 坚持",
+                    "url":"http:\/\/www.smth.edu.cn\/bbsanc.php?path=%2Fgroups%2Fsci.faq%2FEnglishWorld%2Freading%2Ftexts%2Ffamily-album%2FM.961558388.A"
+                },
+                {
+                    "mf":"stand for",
+                    "d":"代替,代表,意味着",
+                    "f":5102,
+                    "tag":"net",
+                    "s":"stand by支持,帮助;袖手旁观 | <b>stand for代替,代表,意味着<\/b> | stand out突出,显眼",
+                    "url":"http:\/\/paper77.blog.163.com\/blog\/static\/2831122520073174343255"
+                }
+            ]
+        },
+        {
+            "word":"send for",
+            "des":[
+                {
+                    "mf":"send for",
+                    "d":"派人去请;召唤;索取",
+                    "f":7098,
+                    "tag":"net",
+                    "s":"see to注意,负责,照料,修理 | <b>send for派人去请,召唤;索取<\/b> | send in呈报,递交,送来",
+                    "url":"http:\/\/paper77.blog.163.com\/blog\/static\/2831122520073174343255"
+                },
+                {
+                    "mf":"send for",
+                    "d":"派人去请",
+                    "f":4725,
+                    "tag":"net",
+                    "s":"10.break into破门而入,闯入; | <b>11.send for派人去请;<\/b> | 12.leave school毕业;",
+                    "url":"http:\/\/www.tianhaoeducation.com\/THTeacher\/ArticleShow.asp?ArticleID=791"
+                },
+                {
+                    "mf":"send for",
+                    "d":"召唤",
+                    "f":3534,
+                    "tag":"net",
+                    "s":"send down 下降 | <b>send for 召唤<\/b> | send forth 发出",
+                    "url":"http:\/\/home.ppen.net\/learning\/vocabulary\/47831.html"
+                },
+                {
+                    "mf":"send for",
+                    "d":"派人去请(叫)",
+                    "f":2663,
+                    "tag":"net",
+                    "s":"116)set an example for 为......树立榜样 | <b>117)send for 派人去请(叫)<\/b> | 118)send out 放出,发出",
+                    "url":"http:\/\/zk.juren.com\/200902\/223328_4.html"
+                }
+            ]
+        },
+        {
+            "word":"For example",
+            "des":[
+                {
+                    "mf":"For example",
+                    "d":"举例",
+                    "f":64,
+                    "tag":"net",
+                    "s":"19 C 前后照应逻辑推理 此句是对上句的<b>举例<\/b>(<b>for example<\/b>)说明. in addition加上,又, 另外,表示添加意义;in any case无论如何, 总之;after all终究,毕竟,表示让步意义. 20 D 前后照应,词义比较 由后句They prefer stories about people,",
+                    "url":"http:\/\/yingyu.eduu.com\/e\/20080304\/4b8bc9711f438.shtml"
+                },
+                {
+                    "mf":"for example",
+                    "d":"如",
+                    "f":10,
+                    "tag":"net",
+                    "s":"比<b>如<\/b> (<b>for example<\/b>) 5、11、21、51、101等都被认为是吉利 (lucky)的数字,特别 (especially) 是在赠送礼金时,整数之外要多出一卢比 (rupee),这样才会被收礼者认为是吉祥的. ",
+                    "url":"http:\/\/www.dearedu.com\/bbs\/dispbbs.asp?boardid=325&id=29538&page=7&star=1"
+                },
+                {
+                    "mf":"for example",
+                    "d":"例如",
+                    "f":16154,
+                    "tag":"net",
+                    "s":"It&#39;s just around the corner. 就在大街拐角处.  | <b>For example: 例如:<\/b> | Where&#39;s the school,please? 请问学校在哪儿?",
+                    "url":"http:\/\/blog.sina.com.cn\/s\/blog_514ce0190100c1z3.html"
+                },
+                {
+                    "mf":"for example",
+                    "d":"举例来说",
+                    "f":880,
+                    "tag":"net",
+                    "s":"192 for all 尽管; | <b>193 for example 举例来说<\/b> | 194 for instance 和 such as 都表示举例,前者常接句子,后者常接名词或名词短语;",
+                    "url":"http:\/\/zxgxiaoguang.blog.163.com\/blog\/static\/119147265201031483041583\/"
+                }
+            ]
+        }
+    ],
+    "netsen":[
+        {
+            "cs":"我。。。。。。",
+            "es":"<b>For<\/b> me......",
+            "url":"http:\/\/zhidao.baidu.com\/question\/41698566.html"
+        },
+        {
+            "cs":"给你的，他说。",
+            "es":"This is <b>for<\/b> you, he said.",
+            "url":"http:\/\/www.teacherwong.com\/zxyd\/ShowArticle.asp?ArticleID=869"
+        },
+        {
+            "cs":"谢谢你的。",
+            "es":"Thank you <b>for<\/b> .....",
+            "url":"http:\/\/www.shengnanshengnv.org\/mijue\/?action-viewnews-itemid-18205"
+        },
+        {
+            "cs":"这是给你的-这是什么？",
+            "es":"This is <b>for<\/b> you.- What is it?",
+            "url":"http:\/\/www.engxue.net\/bencandy.php?aid=835&buy=2&fid=6&line=&page=3"
+        },
+        {
+            "cs":"我会等你的。",
+            "es":"I&#39;ll be waiting <b>for<\/b> you.",
+            "url":"http:\/\/sl.iciba.com\/viewthread-60-605703-8.shtml"
+        },
+        {
+            "cs":"我会去做的。",
+            "es":"I&#39;ll do it, <b>for<\/b> you.",
+            "url":"http:\/\/www.icoolen.com\/film_veido\/lietome_chapter1_12"
+        },
+        {
+            "cs":"这是我为你做的，而且。。。",
+            "es":"This is what I had made <b>for<\/b> you, and...",
+            "url":"http:\/\/www.yappr.cn\/welcome\/Video.action?userid=916136a5-ab00-4191-ae46-7460a2f0640b&utm_campaign=011210&utm_medium=email&utm_source=%20&videoGuid=6FE3127F-167C-4AC5-ACA4-D3DD7238221A"
+        }
+    ],
+    "dlg":[
+        {
+            "s":"\/休闲娱乐",
+            "t":"退货",
+            "c":[
+                {
+                    "n":"A",
+                    "cs":"这是商店退货单的（收据\/凭证\/单据）。",
+                    "es":"Here’s (a receipt\/ a voucher\/ check) <b>for<\/b> store credit."
+                },
+                {
+                    "n":"B",
+                    "cs":"好的，谢谢。",
+                    "es":"Great. Thanks."
+                }
+            ],
+            "u":0
+        },
+        {
+            "s":"\/衣食住行",
+            "t":"兜风",
+            "c":[
+                {
+                    "n":"B",
+                    "cs":"想出去兜兜风吗？",
+                    "es":"Want to go <b>for<\/b> a (ride\/ drive\/ spin)?"
+                },
+                {
+                    "n":"A",
+                    "cs":"当然。",
+                    "es":"Sure."
+                }
+            ],
+            "u":0
+        },
+        {
+            "s":"\/衣食住行",
+            "t":"还礼",
+            "c":[
+                {
+                    "n":"A",
+                    "cs":"感谢您做的一切。",
+                    "es":"Thank you <b>for<\/b> everything."
+                },
+                {
+                    "n":"B",
+                    "cs":"不客气。",
+                    "es":"You’re quite welcome."
+                }
+            ],
+            "u":0
+        }
+    ],
+    "baike":[
+        {
+            "title":"for",
+            "pic":"",
+            "pw":"0",
+            "ph":"0",
+            "abs":"\r\n\r\n\r\n1. \r\n为,为了<br>They fought for national independence. <br>他们为民族独立而战。 <br>This letter is for you. <br>这是你的信。 \r\n2. \r\n代替;代表<br>We used boxes for chairs. <br>我们用箱子当椅子坐。 \r\n3. \r\n因为,由于<br>I am sorry for what I said to you. <br>我后悔不该对你讲那些话。 \r\n4. \r\n在(指定时间)<br>The meeting is arranged for 9 o'clock. <br>会议安排在九点钟。 \r\n5. \r\n(表示时间、距离等)达,计<br>You can see for miles from the roof. <br>你站在屋顶上可以看到数英里之外。 \r\n6. \r\n对于,关于;在...方面<br>I am too old for the job. <br>我年纪太大,做不了这工作。 \r\n7. \r\n为得到,为赢得<br>He sent the waiter for a packet of cigarettes. <br>他让侍者去拿一盒香烟。 \r\n8. \r\n以...为代价;以...交换<br>He sold his car for 500 dollars. <br>他以五百元把车卖了。 \r\n9. \r\n当作,作为<br>Do you take me for a millionaire? <br>",
+            "link":"http://baike.soso.com/v775610.htm"
+        }
+    ],
+    "lang":"eng"
+}

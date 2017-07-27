@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>him</key>
+	<ps>him, ɪm</ps>
+	<pron>http://res-tts.iciba.com/6/6/4/664d242a7528bf4230386c9ac1a437f8.mp3</pron>
+	<ps>hɪm</ps>
+	<pron>http://res.iciba.com/resource/amp3/1/0/66/4d/664d242a7528bf4230386c9ac1a437f8.mp3</pron>
+	<pos>pron.</pos>
+	<acceptation>（he的宾格）他；
+	</acceptation>
+	<sent>
+		<orig>
+			I criticized him, not because I hate him but because I love him.
+		</orig>
+		<trans>
+			我批评他不是因为我恨他而是因为我爱他。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Neither riches nor honours can corrupt him; neither poverty nor humbleness
+			can make him swerve from principle; and neither threats nor forces
+			can subdue him.
+		</orig>
+		<trans>
+			富贵不能淫， 贫贱不能移，威武不能屈。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			A gang of youths set on him outside a pub and roughed him up.
+		</orig>
+		<trans>
+			一伙青年在一家小酒店外面袭击了他，将他揍了一顿。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			A warmhearted man acted as a go-between for him and introduced him to
+			a girl.
+		</orig>
+		<trans>
+			一个热心人牵线搭桥给他介绍了一位姑娘。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			All the members of the team gathered around him, patting him on the
+			back.
+		</orig>
+		<trans>
+			全体队员都聚在他周围夸奖他。
+		</trans>
+	</sent>
+</dict>

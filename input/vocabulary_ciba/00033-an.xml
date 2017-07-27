@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>an</key>
+	<ps>æn,ən</ps>
+	<pron>http://res-tts.iciba.com/1/8/b/18b049cc8d8535787929df716f9f4e68.mp3</pron>
+	<ps>ən,æn</ps>
+	<pron>http://res.iciba.com/resource/amp3/1/0/18/b0/18b049cc8d8535787929df716f9f4e68.mp3</pron>
+	<pos>art.</pos>
+	<acceptation>一（在元音字母前代替不定代词a）；一任一某一；一个；
+	</acceptation>
+	<sent>
+		<orig>
+			"It's an antique.""An antique, my eye!”
+		</orig>
+		<trans>
+			“这是件文物。”“文物，胡说八道！”
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			"To see every bush and tree on Mount Bagong as an enemy soldier" is an
+			example of misconception.
+		</orig>
+		<trans>
+			“八公山上，草木皆兵”， 是错觉之一例。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			A man without an education,many of us believe,is an unfortunate victim
+			of adverse circumstances deprived of one of the greatest
+			twenty-century opportunities.
+		</orig>
+		<trans>
+			我们许多人都相信，没有受过教育的人是境况不佳的不幸牺牲品，他们被剥夺了20世纪最了不起的机会之一。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			An Englishman is an alien in America.
+		</orig>
+		<trans>
+			英国人在美国便是外国侨民。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			An aeroplane offers you an unusual and breathtaking view of the world.
+		</orig>
+		<trans>
+			飞机为你提供非凡的，令人惊诧不已的地球景色。（句中的 view 既有凝视的动作含义，又有风景的状态含义）
+		</trans>
+	</sent>
+</dict>

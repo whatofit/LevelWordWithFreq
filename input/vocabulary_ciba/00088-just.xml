@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>just</key>
+	<ps>dʒʌst</ps>
+	<pron>http://res.iciba.com/resource/amp3/0/0/81/34/8134b84030cca5285ed0e0b31ba06f10.mp3</pron>
+	<ps>dʒʌst</ps>
+	<pron>http://res.iciba.com/resource/amp3/1/0/81/34/8134b84030cca5285ed0e0b31ba06f10.mp3</pron>
+	<pos>adv.</pos>
+	<acceptation>刚才；仅仅，只是；正好；刚要；
+	</acceptation>
+	<pos>adj.</pos>
+	<acceptation>公正的，合理的；恰当的；合法的；正确的；
+	</acceptation>
+	<sent>
+		<orig>
+			He has just come back.; He came back just now.
+		</orig>
+		<trans>
+			他方才回来。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			You came just at the right moment. I was just going to look for you.
+		</orig>
+		<trans>
+			你来得正巧，我正想去找你。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			"But you're just as guilty!"Jane came back.
+		</orig>
+		<trans>
+			“可你同样有罪！”珍反驳道。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			"I've just arrived by train,"she said."I'm coming to see you."
+		</orig>
+		<trans>
+			“我刚刚乘火车到达这里，”她说道。“我来看你。”
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			"Just look at me", she said smugly.
+		</orig>
+		<trans>
+			“你看看我”，她沾沾自喜地说。
+		</trans>
+	</sent>
+</dict>

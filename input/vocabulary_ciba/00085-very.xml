@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>very</key>
+	<ps>ˈveri</ps>
+	<pron>http://res.iciba.com/resource/amp3/0/0/f0/16/f016441d00c16c9b912d05e9d81d894d.mp3</pron>
+	<ps>ˈvɛri</ps>
+	<pron>http://res.iciba.com/resource/amp3/1/0/f0/16/f016441d00c16c9b912d05e9d81d894d.mp3</pron>
+	<pos>adj.</pos>
+	<acceptation>很，非常；恰好是，正是；十足的；特有的；
+	</acceptation>
+	<pos>adv.</pos>
+	<acceptation>很，非常；充分，完全；
+	</acceptation>
+	<sent>
+		<orig>
+			Although my car is very old, it still runs very well.
+		</orig>
+		<trans>
+			我的汽车虽然很旧，但仍然跑得很快。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Children are very conservative where food is concerned,they are very loath to
+			try anything out of the ordinary.
+		</orig>
+		<trans>
+			孩子们在食物上非常保守，他们非常不愿意尝任何特殊的东西。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			He was very old,and thence very weak.
+		</orig>
+		<trans>
+			他年纪很老，因而身体很弱。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			He's a very sturdy child and very healthy.
+		</orig>
+		<trans>
+			他是个壮实的孩子，长的很健康。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			I was very young, and very innocent.
+		</orig>
+		<trans>
+			我那时非常年轻，幼稚无知。
+		</trans>
+	</sent>
+</dict>

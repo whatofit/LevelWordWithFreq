@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>not</key>
+	<ps>nɔt</ps>
+	<pron>http://res.iciba.com/resource/amp3/0/0/d5/29/d529e941509eb9e9b9cfaeae1fe7ca23.mp3</pron>
+	<ps>nɑt</ps>
+	<pron>http://res-tts.iciba.com/d/5/2/d529e941509eb9e9b9cfaeae1fe7ca23.mp3</pron>
+	<pos>adv.</pos>
+	<acceptation>不；[用以表示否定、否认、拒绝、禁止等]不是；几乎不；未必，没有[用于否定后面的词或短语]；
+	</acceptation>
+	<sent>
+		<orig>
+			In conversational English "is not" often contracts to "isn't".
+		</orig>
+		<trans>
+			口头英语中is not常缩写为isn‘t。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			She said her future husband would not let her make another film.
+		</orig>
+		<trans>
+			她说她的未婚夫不会让她再拍电影了。（此句用would not let，意思是“阻止”）
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			If the name is not right then speech will not be in order, and if
+			speech is not in order then nothing will be accomplished.
+		</orig>
+		<trans>
+			名不正则言不顺，言不顺则事不成！
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			It is not rude, it is not self-seeking, it is not easily angered, it
+			keeps no record of wrongs.
+		</orig>
+		<trans>
+			她不粗俗，不追求私利，不轻易发怒，不追究过失。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			"Waste not, want not" is her favourite maxim.
+		</orig>
+		<trans>
+			“不浪费则不匮乏”是她喜爱的格言。
+		</trans>
+	</sent>
+</dict>

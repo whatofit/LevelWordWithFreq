@@ -1,0 +1,435 @@
+{
+    "local":[
+        {
+            "word":"between",
+            "sd":"925e6ef326d37ca65f9726788bd7523b",
+            "pho":[
+                "bi'twi:n"
+            ],
+            "des":[
+                {
+                    "p":"prep.",
+                    "d":"在...之间"
+                }
+            ],
+            "sen":[
+                {
+                    "p":"prep.",
+                    "s":[
+                        {
+                            "es":"<b>Between<\/b> them they landed the big fish.",
+                            "cs":"他们齐心协力将大鱼捕上岸。"
+                        },
+                        {
+                            "es":"He is a man <b>between<\/b> fifty and sixty.",
+                            "cs":"他是一个50岁到60岁之间的人。"
+                        },
+                        {
+                            "es":"It is something <b>between<\/b> a jug and a vase.",
+                            "cs":"这东西既象瓦罐又象花瓶。"
+                        },
+                        {
+                            "es":"<b>Between<\/b> us we managed to finish the job.",
+                            "cs":"我们俩合作设法把工作完成了。"
+                        },
+                        {
+                            "es":"There is a path <b>between<\/b> the house and the road.",
+                            "cs":"有条小路将房子与出路连接起来。"
+                        }
+                    ]
+                }
+            ],
+            "syn":[
+                {
+                    "p":"adv.",
+                    "c":[
+                        "betwixt"
+                    ]
+                },
+                {
+                    "p":"prep.",
+                    "c":[
+                        "betwixt",
+                        "among"
+                    ]
+                }
+            ],
+            "ph":[
+                {
+                    "phs":"in between",
+                    "phd":"在中间"
+                },
+                {
+                    "phs":"between you and me",
+                    "phd":"只限于我俩之间"
+                }
+            ]
+        }
+    ],
+    "netdes":[
+        {
+            "word":"between",
+            "des":[
+                {
+                    "mf":"between",
+                    "d":"在中间",
+                    "f":213,
+                    "tag":"net",
+                    "s":"配对(matching)是 ABA 教导中很重要的工具,日后同样的方法可教自闭儿用字汇(words)配实物照片(pictures),和用字汇来配物体位置(prepositions),例如在上(on),在下(under),<b>在中间<\/b>(<b>between<\/b>)等.",
+                    "url":"http:\/\/wendang.baidu.com\/view\/76bdc122bcd126fff7050b37.html"
+                },
+                {
+                    "mf":"between",
+                    "d":"之间",
+                    "f":77,
+                    "tag":"net",
+                    "s":"无独有偶的是,在西方宗教中我们亦可以找到它的一个相应的概念,其即西方现代对话主义神学所强调的&quot;<b>之间<\/b>&quot;(<b>between<\/b>)或&quot;相遇&quot;(meeting).  然而,如果我们把中国古代宗教视为是一种真正中国式的宗教,我们就会发现上述种种概念其实都难以曲尽&quot;关系&quot;的根本的涵义,",
+                    "url":"http:\/\/www.phzyzz.net\/zf\/Article\/ShowArticle.asp?ArticleID=7417"
+                },
+                {
+                    "mf":"between",
+                    "d":"中间",
+                    "f":61,
+                    "tag":"net",
+                    "s":"配对(matching)是 ABA 教导中很重要的工具,日后同样的方法可教自闭儿用字汇(words)配实物照片(pictures),和用字汇来配物体位置(prepositions),例如在上(on),在下(under),在<b>中间<\/b>(<b>between<\/b>)等.",
+                    "url":"http:\/\/blog.sina.com.cn\/s\/blog_4aa59a3b010005id.html"
+                },
+                {
+                    "mf":"between",
+                    "d":"两者之间",
+                    "f":17,
+                    "tag":"net",
+                    "s":"与神交通,乃是对上帝存在的唯一证明--哲学的论证在此无用. 聆听是满足请求. 上帝若不聆听,便也没有&quot;<b>两者之间<\/b>&quot;(<b>between<\/b>)了. 人诉说,上帝聆听. 在人和上帝之间便发生了一些事情. 只要聆听,便是介入了. 聆听表明介入一件事情. ",
+                    "url":"http:\/\/anximeng.bokee.com\/702644.html"
+                }
+            ],
+            "wf":"1"
+        },
+        {
+            "word":"Between us",
+            "des":[
+                {
+                    "mf":"Between us",
+                    "d":"你我之间",
+                    "f":1,
+                    "tag":"net",
+                    "s":"[1]就<b>你我之间<\/b>(<b>between us<\/b>) 胡安与马拉特在西班牙相遇 一起打球 一起比赛 一起成长 一起走过十年岁月 几乎是彼此生命中的另一半. 后来马拉特结识军火大亨的女儿达莎 他想过一种正常而显赫的生活 在莫斯科纷飞大雪中对胡安提出分手. ",
+                    "url":"http:\/\/www.ppqu.com\/show-video-13965963.htm"
+                },
+                {
+                    "mf":"Between us",
+                    "d":"你知,我知",
+                    "f":35143,
+                    "tag":"net",
+                    "s":"It is a long story. 一言难尽.  | <b>Between us. 你知,我知. <\/b> | Sure thin! 當然!",
+                    "url":"http:\/\/www.360doc.com\/content\/091127\/09\/452185_9843655.html"
+                },
+                {
+                    "mf":"Between Us",
+                    "d":"(在我們之間)",
+                    "f":33,
+                    "tag":"net",
+                    "s":"Daylight (日光) | <b>Between Us (在我們之間)<\/b> | Accompaniment (配樂)",
+                    "url":"http:\/\/www.fuhz.com\/Sodagreen"
+                },
+                {
+                    "mf":"Between us",
+                    "d":"你知",
+                    "f":28,
+                    "tag":"net",
+                    "s":"Your are welcome. 你太客气了.  | It is a long story. 一言难尽.  | <b>Between us. 你知,<\/b>",
+                    "url":"http:\/\/blog.sina.com.cn\/pxiaoli0214"
+                }
+            ]
+        },
+        {
+            "word":"Published between",
+            "des":[
+                {
+                    "mf":"Published between",
+                    "d":"发布期间",
+                    "f":4993,
+                    "tag":"net",
+                    "s":"Publish Date 发表日期 | <b>Published between: 发布期间<\/b> | Publisher 出版商",
+                    "url":"http:\/\/www.scidev.net\/zh\/sub-suharan-africa\/news\/zh-133162.html"
+                }
+            ]
+        },
+        {
+            "word":"in between",
+            "des":[
+                {
+                    "mf":"in between",
+                    "d":"在中间",
+                    "f":54,
+                    "tag":"net",
+                    "s":"也并非所有的雌雄同体者会有性别认同的问题. 不过,有这些问题的雌雄同体者就常常会被包含在跨性别之中. 跨性别有时候也会被当作一种&quot;<b>在中间<\/b>&quot;(<b>in between<\/b>)的概念来使用,而不是一个包罗万象的大名词. ",
+                    "url":"http:\/\/cid-7e1e88140d4f2e22.spaces.live.com\/default.aspx?owner=1"
+                },
+                {
+                    "mf":"in between",
+                    "d":"介于...之间",
+                    "f":1,
+                    "tag":"net",
+                    "s":"一家位於美国西岸的品牌视觉沟通设计公司所创作的多媒体装置艺术,装置本身的主要概念为希望藉由即时互动影像、迷雾、光线,以及声音,呈现所谓介於之间(<b>in between<\/b>)的短暂建筑;有别於Asymptote的「形式」装置,",
+                    "url":"http:\/\/www.hawhsu.com\/page\/7\/"
+                },
+                {
+                    "mf":"In Between",
+                    "d":"新同居时代",
+                    "f":1221,
+                    "tag":"net",
+                    "s":"东成西就 Eagle Shooting Heroes:The Dong Cheng Xi Jiu (1994) | <b>新同居时代 In Between (1994)<\/b> | 东邪西毒 Ashes of Time (1994)",
+                    "url":"http:\/\/www.ppqu.com\/show-video-2213914.htm"
+                },
+                {
+                    "mf":"in between",
+                    "d":"在中间;每间隔;在...期间",
+                    "f":550,
+                    "tag":"net",
+                    "s":"11.in any event 无论如何,不管怎样 | <b>12.in between 在中间,每间隔,在...期间<\/b> | 13.in case 若,万一,如果",
+                    "url":"http:\/\/deepeng.cn\/article_content.asp?article=5253"
+                }
+            ]
+        },
+        {
+            "word":"balance between",
+            "des":[
+                {
+                    "mf":"balance between",
+                    "d":"之间的平衡",
+                    "f":1038,
+                    "tag":"net",
+                    "s":"attraction for对...的吸引力 | <b>balance between ...之间的平衡<\/b> | barrier to ...的障碍",
+                    "url":"http:\/\/www.sj.dict.cn\/ketang\/phrase\/7-7.htm"
+                },
+                {
+                    "mf":"balance between",
+                    "d":"平衡",
+                    "f":86,
+                    "tag":"net",
+                    "s":"contribute to\\\/ make contribute to贡献 | <b>balance between 平衡<\/b> | preoccupied with忙于",
+                    "url":"http:\/\/sichuan.eol.cn\/ielts_speaking_4752\/20090119\/t20090119_355625.shtml"
+                }
+            ]
+        },
+        {
+            "word":"come between",
+            "des":[
+                {
+                    "mf":"come between",
+                    "d":"在...中间;离间",
+                    "f":696,
+                    "tag":"net",
+                    "s":"come alive 活跃起来;觉悟起来 | <b>come between 在...中间;离间<\/b> | come down on 申斥;惩罚;袭击",
+                    "url":"http:\/\/www.fw1234.cn\/?\/kaoshizhuanti\/yingyusijicihui\/086305105250112573.htm"
+                },
+                {
+                    "mf":"come between",
+                    "d":" 离间",
+                    "f":180,
+                    "tag":"net",
+                    "s":"come before 在上 | <b>come between 离间<\/b> | come by 取得",
+                    "url":"http:\/\/new.enread.com\/job\/words\/52776.html"
+                },
+                {
+                    "mf":"come between",
+                    "d":"在...中间; 离间; 使分开; 妨碍某人做某事",
+                    "f":106,
+                    "tag":"net",
+                    "s":"come before 位于...之前; 被交付处理[审判]; 被提出 | <b>come between 在...中间; 离间; 使分开; 妨碍某人做某事<\/b> | come by 弄到, 获得 偶然搞到, 偶然得到 经过, 从旁边过去 [美方]来串门, 拜访",
+                    "url":"http:\/\/club.163.com\/viewArticleByOldUp.m?articleId=ffl_117b54cc6ea0cf9_0&boardId=ffl&boardOffset=1760"
+                },
+                {
+                    "mf":"come between",
+                    "d":"离间;干预......间的事;妨碍",
+                    "f":43,
+                    "tag":"net",
+                    "s":"come by 从旁边走过;(偶然)获得 | <b>come between离间;干预......间的事;妨碍<\/b> | come down 倒下,(温度,价格)下降,病倒;传下来;",
+                    "url":"http:\/\/yingyu.ht88.com\/downinfo\/229470.html"
+                }
+            ]
+        }
+    ],
+    "netsen":[
+        {
+            "cs":"我说。。。在你我之间。。。",
+            "es":"I said ... just <b>between<\/b> you and me ......",
+            "url":"http:\/\/www.tx365life.com\/viewthread.php?extra=page%3D2426&ordertype=1&tid=110073"
+        },
+        {
+            "cs":"这是你我之间的秘密。",
+            "es":"It&#39;s <b>between<\/b> you and me.",
+            "url":"http:\/\/wutongye1492.blog.163.com\/blog\/static\/37510697200762395039965"
+        },
+        {
+            "cs":"这是我们之间的秘密。。",
+            "es":"This is just <b>between<\/b> you and me .",
+            "url":"http:\/\/www.iciba.com\/This%20is%20just%20between%20you%20and%20me.\/"
+        },
+        {
+            "cs":"这是你我之间的秘密。。",
+            "es":"This is a privacy <b>between<\/b> you and me....",
+            "url":"http:\/\/www.hxxkw.com\/show.asp?id=1010"
+        },
+        {
+            "cs":"这是你我之间的秘密。",
+            "es":"It&#39;s the secret <b>between<\/b> you and me.",
+            "url":"http:\/\/bbs.kekenet.com\/thread-12415-2-30.html"
+        },
+        {
+            "cs":"这是你我之间的秘密。",
+            "es":"It is a secret <b>between<\/b> you and me.",
+            "url":"http:\/\/bbs.kekenet.com\/thread-12415-2-30.html"
+        },
+        {
+            "cs":"这是你我之间的秘密。",
+            "es":"It is secret <b>between<\/b> you and me.",
+            "url":"http:\/\/bbs.kekenet.com\/thread-12415-2-30.html"
+        }
+    ],
+    "dlg":[
+        {
+            "s":"\/态度情感",
+            "t":"排球赛",
+            "c":[
+                {
+                    "n":"A",
+                    "cs":"今天下午经济系要与外语系进行一场排球赛。有人愿意看排球赛吗？",
+                    "es":"There’s going to be a volleyball match <b>between<\/b> Economy Department and Foreign Languages Department this afternoon. Are any of you keen on volleyball?"
+                },
+                {
+                    "n":"B",
+                    "cs":"对不起，我不是排球迷。我倒愿意踢足球。你呢，王先生？你对排球感兴趣吗？",
+                    "es":"Sorry, I’m not a volleyball fan. I’d rather play football. How about you, Mr. Wang? Are you interested in volleyball?"
+                },
+                {
+                    "n":"C",
+                    "cs":"恐怕也不喜欢。我最喜欢的运动是跑步。我不喜欢球类运动。",
+                    "es":"I’m afraid not. My favorite sport is running. I don’t care for ball games."
+                }
+            ],
+            "u":0
+        },
+        {
+            "s":"\/衣食住行",
+            "t":"Apply for a school-(申请学校)",
+            "c":[
+                {
+                    "n":"A",
+                    "cs":"我在考虑申请哪一所学校。",
+                    "es":"I’m trying to decide what school to apply for."
+                },
+                {
+                    "n":"B",
+                    "cs":"是上公立学校还是私立学校？",
+                    "es":"Are you thinking about a public school or a private one？"
+                },
+                {
+                    "n":"A",
+                    "cs":"我也不知道。有什么区别？",
+                    "es":"I’m not sure. What’s the difference <b>between<\/b> them?"
+                },
+                {
+                    "n":"B",
+                    "cs":"公立学校通常是州政府投资办学，而私立学校通常是通过其他方式筹集资金。",
+                    "es":"Public schools are usually state funded, whereas private schools usually get their funding elsewhere."
+                },
+                {
+                    "n":"A",
+                    "cs":"那么哪一个更好呢？",
+                    "es":"Which is better?"
+                },
+                {
+                    "n":"B",
+                    "cs":"不是一所就比另外一所好。这跟学校的管理和师资有很大关系。",
+                    "es":"One isn’t necessarily better than the other. It depends a lot on the school administration and the teachers."
+                },
+                {
+                    "n":"A",
+                    "cs":"我听说私立学校要穿校服。",
+                    "es":"I hear you have to wear unifomp3s at private schools."
+                },
+                {
+                    "n":"B",
+                    "cs":"是，有时候是这样。",
+                    "es":"Yeah, sometimes."
+                }
+            ],
+            "u":2
+        },
+        {
+            "s":"\/职场英语",
+            "t":"工作",
+            "c":[
+                {
+                    "n":"A",
+                    "cs":"你是做什么的？",
+                    "es":"What do you do?"
+                },
+                {
+                    "n":"B",
+                    "cs":"我靠做销售谋生，但我真正的爱好是写作。",
+                    "es":"I work in sales for money, but my real passion is writing."
+                },
+                {
+                    "n":"A",
+                    "cs":"你都写些什么。",
+                    "es":"What do you write?"
+                },
+                {
+                    "n":"B",
+                    "cs":"我正在根据我的童年生活写一本书，是关于一个男孩和他祖父之间的友谊的。",
+                    "es":"I am writing a book based on my childhood. It’s about a friendship <b>between<\/b> a boy and his grandfather.."
+                },
+                {
+                    "n":"A",
+                    "cs":"听起来有点意思。你的销售工作怎么样？你喜欢吗？",
+                    "es":"That sounds interesting. How about your sales job? Do you enjoy it?"
+                },
+                {
+                    "n":"B",
+                    "cs":"不喜欢，但我得靠它吃饭。你呢？你在哪里工作。",
+                    "es":"Not really, but it pays the bills. What about you? Where do you work?"
+                },
+                {
+                    "n":"A",
+                    "cs":"我在一家大型广告代理公司工作。",
+                    "es":"I work for a large advertising agency."
+                },
+                {
+                    "n":"B",
+                    "cs":"具体做什么工作呢。",
+                    "es":"What do you do exactly?"
+                },
+                {
+                    "n":"A",
+                    "cs":"我在金融部工作。",
+                    "es":"I work in the finance department."
+                },
+                {
+                    "n":"B",
+                    "cs":"你在那里工作了很长时间吗？",
+                    "es":"Have you been there long?"
+                },
+                {
+                    "n":"A",
+                    "cs":"这只是我第一年在那里工作。我希望明年能够升职。",
+                    "es":"This is just my first year. I’m hoping to get a promotion next year."
+                },
+                {
+                    "n":"B",
+                    "cs":"祝你好运。",
+                    "es":"Good luck with that."
+                },
+                {
+                    "n":"A",
+                    "cs":"谢谢! 随时告诉我你书的进展。",
+                    "es":"Thanks! Keep me posted about your book!"
+                }
+            ],
+            "u":3
+        }
+    ],
+    "lang":"eng"
+}

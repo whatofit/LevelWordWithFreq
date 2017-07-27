@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>out</key>
+	<ps>aut</ps>
+	<pron>http://res.iciba.com/resource/amp3/0/0/c6/82/c68271a63ddbc431c307beb7d2918275.mp3</pron>
+	<ps>aʊt</ps>
+	<pron>http://res.iciba.com/resource/amp3/1/0/c6/82/c68271a63ddbc431c307beb7d2918275.mp3</pron>
+	<pos>adv.</pos>
+	<acceptation>出局；在外，在外部；完全，彻底；出版；
+	</acceptation>
+	<pos>prep.</pos>
+	<acceptation>（表示来源）从；（从……里）出来；（表示不在原状态）脱离；离去；
+	</acceptation>
+	<pos>vt.</pos>
+	<acceptation>使熄灭；揭露；驱逐；
+	</acceptation>
+	<pos>adj.</pos>
+	<acceptation>外面的；出局的；下台的；外围的；
+	</acceptation>
+	<pos>n.</pos>
+	<acceptation>不流行；出局；
+	</acceptation>
+	<sent>
+		<orig>
+			A leaf before the eye shuts out Mount Tai -- have one's view of the
+			important overshadowed by the trivial.; A single leaf before the eye
+			blacks out the view of a mountain.
+		</orig>
+		<trans>
+			一叶蔽目，不见泰山。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			After breaking out of jail, he hid out in a deserted farmhouse.
+		</orig>
+		<trans>
+			他越狱后躲藏在一个无人居住的农舍里。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			After breaking out of the jail, he hid out in a deserted farmhouse.
+		</orig>
+		<trans>
+			他越狱后，暗藏在一个无人居住的农舍里。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			And I was among a great chorus out on the hustings speaking out against
+			this consistent and constant deficit spending.
+		</orig>
+		<trans>
+			我与一大伙人在竞选台上，一致声言反对习以为常的赤字开支。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			As they grow old, people also accumulate belongings for two other
+			reasons, lack of physical and mental energy, both of which are
+			essential in turning out and throwing out and throwing away,and
+			sentiment.
+		</orig>
+		<trans>
+			当人到老年时，他们还会由于两个原因而积聚东西，其一为缺乏体力和脑力——这两方面的精力在翻出无用的东西并把它们扔掉都是重要的；另一个原因是感情问题。不管是power，force
+			还是strength，都离不开食物中的营养所提供的energy。用作技术术语时，strength的意思的“强度”
+		</trans>
+	</sent>
+</dict>

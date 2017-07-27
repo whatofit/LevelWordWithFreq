@@ -1,0 +1,356 @@
+{
+    "local":[
+        {
+            "word":"a",
+            "sd":"d1db632b9cd1799dc28e191f7e86a4bb",
+            "pho":[
+                "ei"
+            ],
+            "des":[
+                {
+                    "p":"art.",
+                    "d":"一"
+                },
+                {
+                    "p":"n.",
+                    "d":"字母A"
+                }
+            ],
+            "sen":[
+                {
+                    "p":"art.",
+                    "s":[
+                        {
+                            "es":"Let&#39;s go to <b>a<\/b> Chinese restaurant.",
+                            "cs":"我们去一家中餐餐馆。"
+                        },
+                        {
+                            "es":"<b>A<\/b> Mr.Brown wishes to see you.",
+                            "cs":"一位叫布朗的先生想见你。"
+                        },
+                        {
+                            "es":"<b>A<\/b> square has four sides.",
+                            "cs":"正方形有四条边。"
+                        },
+                        {
+                            "es":"Copper is <b>a<\/b> metal.",
+                            "cs":"铜是一种金属。"
+                        },
+                        {
+                            "es":"We met once <b>a<\/b> week.",
+                            "cs":"我们每周见面一次。"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "netdes":[
+        {
+            "word":"a",
+            "des":[
+                {
+                    "d":"minimum n",
+                    "f":8,
+                    "tag":"net",
+                    "s":"scheme n计划,方案;阴谋 | <b>minimum n最小最少;a,最小的,最低<\/b> | invade v侵入",
+                    "url":"http:\/\/ppig.cn\/viewthread.php?fpage=4&tid=22424"
+                },
+                {
+                    "d":"classic n",
+                    "f":1,
+                    "tag":"net",
+                    "s":"clasp vt.扣住,扣紧;vt.握紧,抱紧; | <b>classic n.名著,杰作;a,第一流的,经典的;<\/b> | classify vt.把..分类,把..分级;列为机密;",
+                    "url":"http:\/\/ruobing859.blog.163.com\/blog\/static\/33004899200782812242416"
+                }
+            ],
+            "wf":"1"
+        },
+        {
+            "word":"many a",
+            "des":[
+                {
+                    "mf":"many a",
+                    "d":"许多",
+                    "f":6856,
+                    "tag":"net",
+                    "s":"as a last resort作为最后手段 | <b>many a许多<\/b> | much less更谈不上",
+                    "url":"http:\/\/chengkao.bfyxedu.com\/a\/huijikaoshi\/redianzhuanti\/2009\/1228\/570.html"
+                },
+                {
+                    "mf":"many a",
+                    "d":"许多的,一个又一个的",
+                    "f":2048,
+                    "tag":"net",
+                    "s":"a good many 大量的,许多,相当多 . | <b>many a 许多的,一个又一个的 .<\/b> | mark down 记下;标低(商品)价目 .",
+                    "url":"http:\/\/bbs.eduu.com\/viewthread.php?extra=&ordertype=2&tid=35778"
+                },
+                {
+                    "mf":"many a",
+                    "d":"许多的",
+                    "f":1894,
+                    "tag":"net",
+                    "s":"many &quot;a.许多的,多的; pron.许多人,许多; &quot; | <b>many a 许多的<\/b> | map &quot;n.图,地图; &quot;",
+                    "url":"http:\/\/yoursit.cn\/mydoc029.htm"
+                },
+                {
+                    "mf":"many a",
+                    "d":"[后接单数名词]许多的,多的,一个又一个的",
+                    "f":1043,
+                    "tag":"net",
+                    "s":"make use of使用,利用 | <b>many a[后接单数名词]许多的,多的,一个又一个的<\/b> | mix up拌和;混淆",
+                    "url":"http:\/\/heilongjiang.eol.cn\/article\/20060623\/3196862_7.shtml"
+                }
+            ]
+        },
+        {
+            "word":"a headache",
+            "des":[
+                {
+                    "mf":"a headache",
+                    "d":"头痛(麻烦事)",
+                    "f":5315,
+                    "tag":"net",
+                    "s":"a cake walk 走去吃糕(易事) | <b>a headache 头痛(麻烦事)<\/b> | a knock out 击倒(美得让人倾倒)",
+                    "url":"http:\/\/sl.iciba.com\/viewthread-19-71962-1.shtml"
+                },
+                {
+                    "mf":"a headache",
+                    "d":"麻烦事",
+                    "f":158,
+                    "tag":"net",
+                    "s":"a cake walk 易事 | <b>a headache 麻烦事<\/b> | a knock out 美得让人倾倒",
+                    "url":"http:\/\/www.ryedu.net\/bbs\/dispbbs_10_20853_10_1.html"
+                },
+                {
+                    "mf":"a headache",
+                    "d":"头痛(打扰事)",
+                    "f":13,
+                    "tag":"net",
+                    "s":"a ouch potato 躺椅上的马铃薯(懒鬼) | <b>a headache 头痛(打扰事)<\/b> | a knock away 击倒(美得让人倾倒)",
+                    "url":"http:\/\/ffenglish.com\/thread-54880-1-1.html"
+                },
+                {
+                    "mf":"a headache",
+                    "d":"头痛",
+                    "f":8,
+                    "tag":"net",
+                    "s":"6) a cold 感冒 | <b>7) a headache 头痛<\/b> | 8) an earache 耳疾",
+                    "url":"http:\/\/blog.sina.com.cn\/s\/blog_000563d201009kic.html"
+                }
+            ]
+        },
+        {
+            "word":"a little",
+            "des":[
+                {
+                    "mf":"a little",
+                    "d":"一点点",
+                    "f":98,
+                    "tag":"net",
+                    "s":" 但是,朋友,我只需要<b>一点点<\/b>(<b>A little<\/b>)的距离,而不愿让距离成为遗憾.  今年看了臧克家老先生近些年出版的&lt;&lt;怀人集&gt;&gt;,&lt;&lt;诗兴生活&gt;&gt;等一批散文,心境竟也安静了些许. 是因为三字头的年龄正向我走近吗?我不知道!",
+                    "url":"http:\/\/www.shuaigay.com\/thread-30325-1-1.html"
+                },
+                {
+                    "mf":"a little",
+                    "d":"点",
+                    "f":12,
+                    "tag":"net",
+                    "s":"27楼 但是,朋友,我只需要一<b>点<\/b><b>点<\/b>(<b>A little<\/b>)的距离,而不愿让距离成为遗憾.  今年看了臧克家老先生近些年出版的&lt;&lt;怀人集&gt;&gt;,&lt;&lt;诗兴生活&gt;&gt;等一批散文,心境竟也安静了些许. 是因为三字头的年龄正向我走近吗?我不知道!",
+                    "url":"http:\/\/u.xkboy.com\/space.php?do=blog&uid=44&view=we"
+                },
+                {
+                    "mf":"a little",
+                    "d":" 些许",
+                    "f":2,
+                    "tag":"net",
+                    "s":"年轻时候也许还多多少少存有<b>些许<\/b>(<b>a little<\/b>)什么理想梦想雄心野心的,这会儿奔五了,还不四不六的,终于明白再瞎折腾也折腾不出个什么名堂来,因而听之任之,所谓&quot;鼠肝虫臂随天赋予&quot;,因而饱食终日无所用心,如此这般,不胖才怪. ",
+                    "url":"http:\/\/www.huian888.com\/home\/space.php?do=blog&id=251&uid=1026"
+                },
+                {
+                    "mf":"a little",
+                    "d":"一点",
+                    "f":4700,
+                    "tag":"net",
+                    "s":"good好的 | <b>a little一点<\/b> | every每一个的",
+                    "url":"http:\/\/blog.sina.com.cn\/s\/blog_60d291d10100e6d9.html"
+                }
+            ]
+        },
+        {
+            "word":"a tempo",
+            "des":[
+                {
+                    "mf":"a tempo",
+                    "d":"回原速",
+                    "f":1588,
+                    "tag":"net",
+                    "s":"最后介绍一下<b>回原速<\/b>(<b>A TEMPO<\/b>)演奏的小窍门. 顾名思义<b>回原速<\/b>就是在渐慢渐快之后恢复到原来速度上的意思. <b>回原速<\/b>时要注意的一个问题就是不可以在标有<b>回原速<\/b>字样的地方才开始准备,一定要在之前的小节里就开始做准备,",
+                    "url":"http:\/\/www.cndzq.com\/jiangzoshow\/?11.html"
+                },
+                {
+                    "mf":"a tempo",
+                    "d":"原速",
+                    "f":14,
+                    "tag":"net",
+                    "s":"第20-21小节渐慢要自然,第21小节回<b>原速<\/b>(<b>a tempo<\/b>) 前要有呼吸. 第30小节右手上的复倚音要贴键滚动圆滑地弹出,右手独立正确地保持好节拍与节奏. 第34小节右手上的复倚音要与左手上的分解音型配合协调,倚音的弹奏不要失去旋律的歌唱与连贯. ",
+                    "url":"http:\/\/ysxy.hutc.zj.cn\/jcgq\/piano\/article.asp?articleid=92"
+                },
+                {
+                    "mf":"A Tempo",
+                    "d":"回到原速",
+                    "f":1195,
+                    "tag":"net",
+                    "s":"AST active servo techonology 有源伺服技术 | <b>A Tempo 回到原速<\/b> | Astigmatism methord 象散法",
+                    "url":"http:\/\/www.xjcele.com\/Cn\/ArticleShow.asp?ArtID=665"
+                },
+                {
+                    "mf":"a tempo",
+                    "d":"速度还原",
+                    "f":606,
+                    "tag":"net",
+                    "s":"Prestissimo 狂板;最快;极急速的 | <b>a tempo 速度还原<\/b> | Accelerando 渐快",
+                    "url":"http:\/\/www.byguitar.com\/bbs\/viewthread.php?extra=page%3D1&tid=246"
+                }
+            ]
+        },
+        {
+            "word":"a nut",
+            "des":[
+                {
+                    "mf":"a nut",
+                    "d":"傻子,疯子",
+                    "f":3316,
+                    "tag":"net",
+                    "s":"a load off my mind 心头大石落地 | <b>a nut 傻子,疯子<\/b> | a pain in the neck 脖子疼(苦事)",
+                    "url":"http:\/\/sl.iciba.com\/viewthread-19-71962-1.shtml"
+                },
+                {
+                    "mf":"a nut",
+                    "d":"(坚果)",
+                    "f":13,
+                    "tag":"net",
+                    "s":"tne moon (月亮) | <b>a nut(坚果)<\/b> | a skirt(裙子)",
+                    "url":"http:\/\/hongyanshencang.tianyablog.com\/blogger\/post_show.asp?BlogID=1122755&Key=0&PostID=16861884&idWriter=0"
+                },
+                {
+                    "mf":"a nut",
+                    "d":"傻子,适得其反",
+                    "f":2,
+                    "tag":"net",
+                    "s":"a load off my mind 心头大石落地 | <b>a nut 傻子,适得其反)<\/b> | ball and chain 铁球铁链,灵光",
+                    "url":"http:\/\/www.cetvs4.com\/a\/sijizixun\/2010\/0126\/2488.html"
+                },
+                {
+                    "mf":"a nut",
+                    "d":"坚果(傻子,疯子)",
+                    "f":2,
+                    "tag":"net",
+                    "s":"a matter of face 面子攸关的事情 | <b>a nut 坚果(傻子,疯子)<\/b> | a pain in the neck 脖子疼(苦事)",
+                    "url":"http:\/\/bbs.voc.com.cn\/topic-1890626-1-1.html"
+                }
+            ]
+        }
+    ],
+    "netsen":[
+        {
+            "cs":"这个是一个。。。。。。",
+            "es":"This is a\/an.....",
+            "url":"http:\/\/www.beyond001.com\/home\/space.php?do=blog&id=239&uid=258"
+        },
+        {
+            "cs":"他是我生活的一部分。",
+            "es":"He is <b>a<\/b> part of my life.",
+            "url":"http:\/\/sl.iciba.com\/viewthread-52-639637-1.shtml"
+        },
+        {
+            "cs":"这是一个很好的方式去做。",
+            "es":"This is <b>a<\/b> good way to do it.",
+            "url":"http:\/\/www.simplehelp.net\/2007\/09\/11\/how-to-completely-wipe-all-of-the-data-from-your-hard-drive\/zh\/"
+        },
+        {
+            "cs":"我也不知道。",
+            "es":"<b>A<\/b>: I don&#39;t know.",
+            "url":"http:\/\/hongdou.gxnews.com.cn\/viewthread-798334-16.html"
+        },
+        {
+            "cs":"你是我生命中的一部分。",
+            "es":"You are <b>a<\/b> part of my life.",
+            "url":"http:\/\/summerlove0826.blogcn.com\/diary,108394433.shtml"
+        },
+        {
+            "cs":"这是<b>A<\/b> 。。",
+            "es":"This is <b>a<\/b>...",
+            "url":"http:\/\/hacknmod.com\/topics\/circuitry\/page\/21\/zh\/"
+        },
+        {
+            "cs":"这是…的问题。",
+            "es":"It is <b>a<\/b> matter of...",
+            "url":"http:\/\/www.iciba.com\/is%20that%20so\/"
+        }
+    ],
+    "dlg":[
+        {
+            "s":"\/谈论节日",
+            "t":"圣诞节",
+            "c":[
+                {
+                    "n":"A",
+                    "cs":"祝您圣诞快乐!",
+                    "es":"Have <b>a<\/b> Merry Christmas."
+                },
+                {
+                    "n":"B",
+                    "cs":"谢谢。",
+                    "es":"Thank you."
+                }
+            ],
+            "u":0
+        },
+        {
+            "s":"\/休闲娱乐",
+            "t":"假期",
+            "c":[
+                {
+                    "n":"B",
+                    "cs":"这尊雕像真是（漂亮\/精致\/栩栩如生）。",
+                    "es":"It’s such (<b>a<\/b> beautiful\/ an exquisite\/ <b>a<\/b> lifelike) statue.*"
+                },
+                {
+                    "n":"A",
+                    "cs":"是这样。",
+                    "es":"I agree."
+                }
+            ],
+            "u":0
+        },
+        {
+            "s":"\/衣食住行",
+            "t":"租房",
+            "c":[
+                {
+                    "n":"A",
+                    "cs":"你工作很出色。",
+                    "es":"You’ve done <b>a<\/b> (great\/ wonderful\/ magnificent) job."
+                },
+                {
+                    "n":"B",
+                    "cs":"谢谢。",
+                    "es":"Thanks."
+                }
+            ],
+            "u":0
+        }
+    ],
+    "baike":[
+        {
+            "title":"a",
+            "pic":"http://baike.soso.com/p/20090815/bki-20090815181141-1926468710.jpg",
+            "pw":"139",
+            "ph":"139",
+            "abs":"\r\n　　字母A的产生可能是由于一个牛头的符号，像在古埃及的象形文字里（1）并很早出现在闪族的书面当中-大约在公元前1500年的西奈半岛（2）。大约在公元前1000年，在比布鲁斯（a古地中海港市，位于现黎巴嫩贝鲁特以北的朱拜勒，公元前第二个千年成为繁华的腓尼基城）和腓尼基的其他一些地方以及迦南的中心，这个符号是特定的线性形式（3），对于全部的线性形式来说。在闪族的语言中这个符号叫做aleph，意思是ox（牛）。<br><br/>\r\n　　希腊人不喜欢aleph的发音，让人声门闭塞，所以他们为这个符号使用元音a，他们同样还改变了aleph的名称。他们使用几种不同的方式构成这个符号，包括英语首字母的原型（4）。罗马人把这个符号应用到拉丁文中，这就成了英语构成的源头。在希腊的手写的形式中像第一个英文的小写反而类似本英文字母的",
+            "link":"http://baike.soso.com/v2627.htm"
+        }
+    ],
+    "lang":"eng"
+}

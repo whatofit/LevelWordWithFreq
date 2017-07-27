@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>she</key>
+	<ps>ʃi:, ʃi</ps>
+	<pron>http://res.iciba.com/resource/amp3/0/0/9e/b0/9eb0d040ef57f4a06759cf307b657918.mp3</pron>
+	<ps>ʃi</ps>
+	<pron>http://res.iciba.com/resource/amp3/1/0/9e/b0/9eb0d040ef57f4a06759cf307b657918.mp3</pron>
+	<pos>pron.</pos>
+	<acceptation>她，它；
+	</acceptation>
+	<pos>abbr.</pos>
+	<acceptation>signal handling equipment 信号处理设备；sodium heat engine
+		钠压发动机；standard hydrogen electrode 标准氢电极；
+	</acceptation>
+	<sent>
+		<orig>
+			'Oops, that's torn it,' she thought, as she realized she'd ruined the
+			surprise.
+		</orig>
+		<trans>
+			“ 啊呀，糟糕。” 她想，她意识到自己把这个惊喜给破坏掉了。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			As soon as she realized she had a particular shortcoming, she
+			resolutely overcame it.
+		</orig>
+		<trans>
+			她一发现自己的毛病，就坚决改正。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			At first, she decided to go to the police, but fearing that she would
+			never see Rastus again——the letter had made that quite clear——she
+			changed her mind.
+		</orig>
+		<trans>
+			起初她决定去警察局，但是由于害怕再也见不到拉斯特斯了——那封信已经把这一点说得相当清楚——她改变了主意。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			At first,she decided to go to the police,but fearing that she would
+			never see Rastus again—the letter had made that quite clear—she
+			changed her mind.
+		</orig>
+		<trans>
+			起初，她决定去警察局，但是她由于担心再也见不到拉斯特斯了—那封信说得相当清楚—她改变了主意。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			I just kept mum when she asked me where Ben was. She'd be furious if
+			she knew.
+		</orig>
+		<trans>
+			她问我本在哪里，我没有告诉她。如果她知道了，一定非常生气。
+		</trans>
+	</sent>
+</dict>

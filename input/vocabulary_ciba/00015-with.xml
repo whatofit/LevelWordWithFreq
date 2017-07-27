@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict
+	num="219"
+	id="219"
+	name="219">
+	<key>with</key>
+	<ps>wið</ps>
+	<pron>http://res.iciba.com/resource/amp3/0/0/23/a5/23a58bf9274bedb19375e527a0744fa9.mp3</pron>
+	<ps>wɪð, wɪθ</ps>
+	<pron>http://res.iciba.com/resource/amp3/1/0/23/a5/23a58bf9274bedb19375e527a0744fa9.mp3</pron>
+	<pos>prep.</pos>
+	<acceptation>和，跟；随着；关于；和……一致；
+	</acceptation>
+	<sent>
+		<orig>
+			Despite my friendship with Frank, I tried not to take sides with him in his
+			argument with his brother.
+		</orig>
+		<trans>
+			尽管我和佛兰克好，却尽量在他们兄弟的争吵中不偏护他。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			In ideological work, we must learn to open different locks with
+			different keys because a method that answers with one person may not
+			answer with another.
+		</orig>
+		<trans>
+			做思想工作时，必须学会“一把钥匙开一把锁”，因为适用于一个人的方法不一定适用于另一个人。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Those embezzlers and grafters who are reckless with greed must be dealt
+			with seriously in accordance with the policy.
+		</orig>
+		<trans>
+			对那些利欲熏心的贪污盗窃分子，一定要按照政策严肃处理。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			A and B are in love with each other.; A falls in love with B.
+		</orig>
+		<trans>
+			甲与乙恋爱。
+		</trans>
+	</sent>
+	<sent>
+		<orig>
+			Care must be taken to unite with all those that can be united with.
+		</orig>
+		<trans>
+			必须注意团结一切可以团结的人。
+		</trans>
+	</sent>
+</dict>
