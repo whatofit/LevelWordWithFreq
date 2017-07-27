@@ -1,4 +1,4 @@
-package com.myblog.model;
+package com.myblog.dao;
 
 import java.sql.SQLException;
 import java.util.List;
@@ -10,6 +10,7 @@ import com.j256.ormlite.dao.DaoManager;
 import com.j256.ormlite.stmt.QueryBuilder;
 import com.j256.ormlite.support.ConnectionSource;
 import com.j256.ormlite.table.TableUtils;
+import com.myblog.model.Word;
 
 public class WordDaoImpl extends BaseDaoImpl<Word, String>
 // implements Dao<Word, String>

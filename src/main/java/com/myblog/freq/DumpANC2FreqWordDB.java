@@ -25,8 +25,8 @@ import org.slf4j.LoggerFactory;
 
 import com.j256.ormlite.jdbc.JdbcConnectionSource;
 import com.j256.ormlite.support.ConnectionSource;
+import com.myblog.dao.WordDaoImpl;
 import com.myblog.model.Word;
-import com.myblog.model.WordDaoImpl;
 
 /**
  * @author Dave Fan
