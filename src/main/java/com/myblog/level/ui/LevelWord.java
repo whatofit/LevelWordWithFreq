@@ -90,7 +90,7 @@ public class LevelWord extends JFrame {
    */
     private static final long serialVersionUID = -2140084363480237258L;
     // sqlite
-    private final static String DATABASE_URL = "jdbc:sqlite:LevelDict.db3";
+    private final static String DATABASE_URL = "jdbc:sqlite:./output/LevelDict.db3";
     private static ConnectionSource connectionSource;
     public static WordDaoImpl wordDao;
 
