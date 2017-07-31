@@ -98,17 +98,23 @@ public class Word implements Comparable {
         this.spelling = spelling;
     }
 
-    public Word(int frequency, String spelling) {
+    public Word(int frequency,String spelling) {
         this.frequency = frequency;
         this.spelling = spelling;
     }
 
+    public Word(String spelling, String level){
+        this.frequency = 0;
+        this.spelling = spelling;
+        this.level = level;
+    }
+    
     public Word(int frequency, String spelling, String level) {
         this.frequency = frequency;
         this.spelling = spelling;
         this.level = level;
     }
-
+      
     public int getId() {
         return id;
     }

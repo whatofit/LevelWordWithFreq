@@ -35,3 +35,54 @@ GRE 20000+ 美国研究生入学考试
 1、英语四级+1200个以上单词；
 2、约6600个左右单词；
 3、至少6000个单词； 
+
+
+# NewOrUpdateLevelDict
+New Or Update Level Dict
+
+http://www.anc.org/data/anc-second-release/frequency-data/
+
+一.第一版功能：
+1.把单词按照分频排列，再把单词分级(60/100个词汇一个级别,1*60;2*30;3*20;4*15;5*12:6*10)
+2.把单词(按年级/能力考试/)分级
+3.
+
+
+增加单词列表的阶段/add the stage of word list
+create
+
+ByLevelWordList
+
+
+Merge to WordTable
+添加指定阶段/Level的单词列表
+Add the word list at the specified stage/Level
+Update 
+
+向表格中添加指定阶段的单词列表/把指定阶段的单词列表添加到表格中
+Add a list of words at the specified stage to the table
+
+添加单词的阶段/The stage of adding words
+
+
+(不考虑在不同level之间交错的单词，以低level为准)
+1.先add高level的单词，再后add低level的单词（低level单词可覆盖高level单词）
+2.在add之前，保证各个level单词的集合无交集。
+
+
+1.可读取一个或多个已配置的数据库“列名/阶段(小学/四级)”及对应的“列记录level值”到内存
+Map<String, Map<String, String>>
+word：列，level值
+------------------
+word = word.replaceAll("[()\\d]", "");// 去掉序号
+Map<String, String> mapWord = mapResult.get(word);
+if (mapWord == null) {
+    mapWord = new HashMap<String, String>();
+    mapWord.put(file[0], courseValue);
+    mapResult.put(word, mapWord);       //新增
+} else {
+    mapWord.put(file[0], courseValue);  //修改
+}
+
+检查数据库的table中是否有
+
