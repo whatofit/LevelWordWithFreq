@@ -55,6 +55,9 @@ public class Word implements Comparable<Word> {
     public static final String FIELD_NAME_MAJOR_COMPUTER = "计算机";
     public static final String FIELD_NAME_MAJOR_CONSTRUCTION = "建筑";
 
+    //@DatabaseField(columnName = "ID", id = true, generatedId = true)
+    //private String ID;
+
     @DatabaseField(generatedId = true)
     private int id;
 

@@ -8,6 +8,8 @@ import java.io.InputStreamReader;
 import java.nio.ByteBuffer;
 import java.nio.channels.FileChannel;
 
+import com.myblog.Constant;
+
 public class FileUtil {
 
     public static String readFile2(String filename) {
@@ -121,8 +123,18 @@ public class FileUtil {
      * @param args
      */
     public static void main(String[] args) {
-        String filename = "e:/00835-wish.xml";
-        String ret = FileUtil.readFile(filename);
+        //String filename = "e:/00835-wish.xml";
+        //.getClass().
+        //ClassLoader classLoader = FileUtil.class.getClassLoader();
+        //File file = new File(classLoader.getResource(filename).getFile());  
+
+        //String filename = "." + File.separator + "freqOfWords.properties";
+        //String filename = "freqOfWords.properties";
+        File configFile = new File(Constant.FILE_FREQ_OF_WORDS);
+        System.out.println("--getAbsolutePath:" + configFile.getAbsolutePath());
+        String ret = FileUtil.readFile(Constant.FILE_FREQ_OF_WORDS);
         System.out.println("--ret---" + ret);
+        
+        System.out.println(System.getProperty("user.dir"));//user.dir指定了当前的路径
     }
 }

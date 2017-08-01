@@ -1,4 +1,4 @@
-1	the
+﻿1	the
 2	to
 3	a
 4	you

@@ -1,6 +1,8 @@
 # LevelWordWithFreq
 Level Word With Freq
 
+DumpANC2FreqWordDB
+
 你了解吗？各级英语考试对词汇量的要求
 中考 1500~1600
 高考 3000~3500
@@ -86,3 +88,26 @@ if (mapWord == null) {
 
 检查数据库的table中是否有
 
+
+File 文件路径
+路径以/开头则是指向磁盘根目录。如/usr/local/bin/xxx则是指向根目录中/usr目录
+路径以文件（文件夹）名开头则是相对于user.dir目录下的文件。如example.xml实际指向的文件是System.getProperty("user.dir") + "example.xml"文件
+
+
+CLASSPATH 资源路径
+CLASSPATH 资源有class.getResource()与classLoader.getResource()两种获取方式
+
+如果Test.class.getResource()资源是以/开头则指向CLASSPATH根目录
+如果Test.class.getResource()是以文件（包名）开头则相对Test.class文件所在包查找资源
+Test.class.getClassLoader().getResource()是以CLASSPATH根目录查找资源只能以文件（包名）开头
+
+
+获取资源文件的方法说明：
+       getResourceAsStream ()返回的是inputstream
+       getResource()返回:URL
+       Class.getResource("")    返回的是当前Class这个类所在包开始的为置
+       Class.getResource("/") 返回的是classpath的位置
+       getClassLoader().getResource("")  返回的是classpath的位置
+       getClassLoader().getResource("/")  错误的!!
+       
+http://blog.csdn.net/ak913/article/details/7399056

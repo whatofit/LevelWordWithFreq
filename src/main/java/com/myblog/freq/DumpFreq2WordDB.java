@@ -5,9 +5,11 @@
 package com.myblog.freq;
 
 import java.io.BufferedReader;
+import java.io.File;
 import java.io.FileInputStream;
 import java.io.InputStreamReader;
 import java.net.URI;
+import java.net.URL;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.sql.SQLException;
@@ -25,6 +27,7 @@ import org.slf4j.LoggerFactory;
 
 import com.j256.ormlite.jdbc.JdbcConnectionSource;
 import com.j256.ormlite.support.ConnectionSource;
+import com.myblog.Constant;
 import com.myblog.dao.WordDaoImpl;
 import com.myblog.model.Word;
 
@@ -32,28 +35,23 @@ import com.myblog.model.Word;
  * @author Dave Fan
  *
  */
-public class DumpANC2FreqWordDB {
-    private static final Logger LOGGER = LoggerFactory.getLogger(DumpANC2FreqWordDB.class);
-    private static String mUserDir = System.getProperty("user.dir");
-    // url = DumpANC2FreqWordDB.class.getResource("");
-    // file:/E:/workspace_4.6.3_LevelWord_2017-07-26/LevelWordWithFreq/bin/com/myblog/freq/
-    // url = DumpANC2FreqWordDB.class.getResource("/");
-    // file:/E:/workspace_4.6.3_LevelWord_2017-07-26/LevelWordWithFreq/bin/
-    // realPath=java.net.URLDecoder.decode(realPath,"utf-8");
-    private final static String mStageFileList = "./input/stageWordsFiles.txt";
+public class DumpFreq2WordDB {
+    private static final Logger LOGGER = LoggerFactory.getLogger(DumpFreq2WordDB.class);
+
     private static List<List<String>> mStageLevelList = new ArrayList<List<String>>();
 
     /**
      * 
      */
-    public DumpANC2FreqWordDB() {
+    public DumpFreq2WordDB() {
     }
 
     // 根据mStageFileList中单词的顺序,读取input文件夹下的txt文件列表
     public static List<List<String>> loadStagesFiles(String stagesFiles) {
         List<List<String>> stageLevelList = new ArrayList<List<String>>();
         try {
-            FileInputStream fis = new FileInputStream(stagesFiles);
+            URL url = ClassLoader.getSystemResource(stagesFiles);
+            FileInputStream fis = new FileInputStream(url.getFile());
             BufferedReader dr = new BufferedReader(new InputStreamReader(fis));
             String line = dr.readLine();
             while (line != null) {
@@ -94,11 +92,7 @@ public class DumpANC2FreqWordDB {
             String fileName = curStageFile.get(1);
             URI uri = null;
             try {
-                if (fileName.startsWith("/")) {// 相对路径
-                    uri = Paths.get(mUserDir + "/input" + fileName).toUri();
-                } else {
-                    uri = Paths.get(fileName).toUri();// 绝对路径(windows)
-                }
+                uri = ClassLoader.getSystemResource(Constant.PATH_STAGE_FILES + fileName).toURI();
             } catch (Exception e) {
                 LOGGER.error("构造URL出错", e);
             }
@@ -164,18 +158,15 @@ public class DumpANC2FreqWordDB {
      * 
      */
     public static void save(Map<String, Map<String, String>> mapResult, String path) {
-        String fileANC = "/American National Corpus,ANC.txt";
         List<String> wordList = new ArrayList<String>();
         try {
-            URI uri = Paths.get(mUserDir + "/input" + fileANC).toUri();
+            URI uri = ClassLoader.getSystemResource(Constant.FILE_FREQ_OF_WORDS).toURI();
             if (uri == null) {
-                LOGGER.error("解析词典失败：" + fileANC);
+                LOGGER.error("解析词典失败：");
                 return;
             }
             System.out.println("parse word file: " + uri);
             List<String> words = readFileLines(uri);
-            path = Paths.get(mUserDir + "/output" + path).toString();// 父目录必须存在
-            LOGGER.info("开始保存词典：" + path);
 
             StringBuilder sbTitle = new StringBuilder();
             sbTitle.append("freq\tword\t");
@@ -228,7 +219,10 @@ public class DumpANC2FreqWordDB {
                 }
                 wordList.add(sb.toString());
             }
-            Files.write(Paths.get(path), wordList);
+            
+            URI uriSave = ClassLoader.getSystemResource(path).toURI();// 父目录必须存在
+            LOGGER.info("开始保存词典：" + uriSave);
+            Files.write(Paths.get(uriSave), wordList);
             LOGGER.info("保存成功");
         } catch (Exception e) {
             LOGGER.error("保存词典失败", e);
@@ -247,13 +241,12 @@ public class DumpANC2FreqWordDB {
      * 
      */
     public static Vector<Word> map2vector(Map<String, Map<String, String>> mapResult) {
-        String fileANC = "/American National Corpus,ANC.txt";
         // List<String> wordList = new ArrayList<String>();
         Vector<Word> vecWords = new Vector<Word>();
         try {
-            URI uri = Paths.get(mUserDir + "/input" + fileANC).toUri();
+            URI uri = ClassLoader.getSystemResource(Constant.FILE_FREQ_OF_WORDS).toURI();
             if (uri == null) {
-                LOGGER.error("解析词典失败：" + fileANC);
+                LOGGER.error("解析词典失败：");
                 return vecWords;
             }
             System.out.println("parse word file: " + uri);
@@ -298,7 +291,8 @@ public class DumpANC2FreqWordDB {
                     }
                     Word dbWord = new Word();
                     dbWord.setSpelling(word);
-                    dbWord.setFrequency(Integer.valueOf(freq));
+                    Integer nFreq = Integer.parseInt(freq.trim());
+                    dbWord.setFrequency(nFreq.intValue());
                     dbWord.setLevel(sb.toString());
                     vecWords.add(dbWord);
                     // wordList.add(sb.toString());
@@ -336,9 +330,7 @@ public class DumpANC2FreqWordDB {
     public static int doInsert2DB(Vector<Word> vecWords) {
         ConnectionSource connectionSource;
         try {
-            // String databaseUrl = "jdbc:h2:./LevelDict.h2";
-            String databaseUrl = "jdbc:sqlite:./output/LevelDict.db3";
-            connectionSource = new JdbcConnectionSource(databaseUrl);
+            connectionSource = new JdbcConnectionSource(Constant.URL_DATABASE);
             WordDaoImpl wordDao = new WordDaoImpl(connectionSource);
             int affectRowCount = wordDao.create(vecWords);
             System.out.println("affectRowCount=" + affectRowCount);
@@ -353,18 +345,15 @@ public class DumpANC2FreqWordDB {
      * @param args
      */
     public static void main(String[] args) {
-        System.out.println("DumpANC2FreqWordDB,mUserDir:" + mUserDir);
         System.out.println("AddStageByWordsFile,main,args.length: " + args.length);
-        mStageLevelList = loadStagesFiles(mStageFileList);
+        mStageLevelList = loadStagesFiles(Constant.FILE_STAGE_WORDS_FILES);
         // System.out.println("AddStageByWordsFile,main,stageFileList: " +
-        // Arrays.toString(stageFileList));
-        System.out.println("AddStageByWordsFile,main,stageFileList: " + mStageLevelList);
-
+        // mStageLevelList);
         Map<String, Map<String, String>> mapResult = getWordList(mStageLevelList);// 先获取level比较低的单词集合，后获取levle较高的集合
         System.out.println("all unique words count: " + mapResult.size());
-        // String toSaveFile = "/toSaveLevelFile.txt";
-        // save(mapResult, toSaveFile);
-        Vector<Word> vecWords = map2vector(mapResult);
-        doInsert2DB(vecWords);
+//        String toSaveFile = "/toSaveLevelFile.txt";
+//        save(mapResult, toSaveFile);
+         Vector<Word> vecWords = map2vector(mapResult);
+         doInsert2DB(vecWords);
     }
 }
