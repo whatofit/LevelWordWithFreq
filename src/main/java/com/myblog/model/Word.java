@@ -512,7 +512,7 @@ public class Word implements Comparable<Word> {
 
     @Override
     public String toString() {
-        return "id=" + id + ",frequency=" + frequency + ",spelling" + spelling + ", partsOfSpeech=" + partsOfSpeech;
+        return "id=" + id + ", frequency=" + frequency + ", spelling=" + spelling + ", partsOfSpeech=" + partsOfSpeech;
     }
 
     // public String toString(int i) {

@@ -1,4 +1,4 @@
-中考 /word_Senior_Entrance_Exam.tx
+中考 /word_Senior_Entrance_Exam.txt
 高考 /word_College_Entrance_Exam.txt
 四级 /word_CET4.txt
 六级 /word_CET6.txt

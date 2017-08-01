@@ -5,8 +5,16 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileReader;
 import java.io.InputStreamReader;
+import java.net.URI;
+import java.net.URL;
 import java.nio.ByteBuffer;
 import java.nio.channels.FileChannel;
+import java.nio.file.Files;
+import java.nio.file.Paths;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collections;
+import java.util.List;
 
 import com.myblog.Constant;
 
@@ -118,7 +126,36 @@ public class FileUtil {
         }
         return "";
     }
+    
+    public static List<String> readFileLines(URI uri) {
+        try {
+            return Files.readAllLines(Paths.get(uri));
+        } catch (Exception e) {
+            System.out.println("读取文件内容操作出错:"+uri.toString());
+            return Collections.emptyList();
+        }
+    }
+    
+    // 文件以行为单位，每行用空白字符分割，load成一个二维的字符串list
+    public static List<List<String>> loadStringList(String filename) {
+        List<List<String>> stageLevelList = new ArrayList<List<String>>();
+        try {
+            FileInputStream fis = new FileInputStream(filename);
+            BufferedReader dr = new BufferedReader(new InputStreamReader(fis));
+            String line = dr.readLine();
+            while (line != null) {
+                String[] split = line.split("\\s+");
+                List<String> lineStage = new ArrayList<String>(Arrays.asList(split));
+                stageLevelList.add(lineStage);
+                line = dr.readLine();
+            }
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+        return stageLevelList;
+    }
 
+    
     /**
      * @param args
      */
