@@ -1,27 +1,32 @@
 package com.myblog.dao;
 
 import java.sql.SQLException;
+import java.util.Collection;
 import java.util.List;
 import java.util.Vector;
+import java.util.concurrent.Callable;
 
 import com.j256.ormlite.dao.BaseDaoImpl;
 import com.j256.ormlite.dao.Dao;
 import com.j256.ormlite.dao.DaoManager;
+import com.j256.ormlite.dao.Dao.CreateOrUpdateStatus;
+import com.j256.ormlite.misc.BaseDaoEnabled;
 import com.j256.ormlite.stmt.QueryBuilder;
 import com.j256.ormlite.support.ConnectionSource;
+import com.j256.ormlite.support.DatabaseConnection;
 import com.j256.ormlite.table.TableUtils;
 import com.myblog.model.Word;
 
 public class WordDaoImpl extends BaseDaoImpl<Word, String>
 // implements Dao<Word, String>
 {
-    private Dao<Word, String> wordDao;
+    private Dao<Word, String> mWordDao;
 
     public WordDaoImpl(ConnectionSource connectionSource) throws SQLException {
         super(connectionSource, Word.class);
 
         // Setup our database and DAOs
-        wordDao = DaoManager.createDao(connectionSource, Word.class);
+        mWordDao = DaoManager.createDao(connectionSource, Word.class);
         // create table
         TableUtils.createTableIfNotExists(connectionSource, Word.class);
     }
@@ -60,9 +65,11 @@ public class WordDaoImpl extends BaseDaoImpl<Word, String>
         Vector<Vector<Object>> cellsVector = new Vector<Vector<Object>>(); // rowsVector/rows
                                                                            // data/数据体集合
         try {
-            //List<Word> wordList = wordDao.queryForAll();
-            // List<Word> wordList = wordDao.queryBuilder().orderBy(Word.FIELD_NAME_FREQUENCY, true).query();
-            QueryBuilder<Word, String> qb = wordDao.queryBuilder();
+            // List<Word> wordList = wordDao.queryForAll();
+            // List<Word> wordList =
+            // wordDao.queryBuilder().orderBy(Word.FIELD_NAME_FREQUENCY,
+            // true).query();
+            QueryBuilder<Word, String> qb = mWordDao.queryBuilder();
             qb.orderBy(Word.FIELD_NAME_FREQUENCY, true);
             List<Word> wordList = qb.query();
             for (Word dbWord : wordList) {
@@ -88,7 +95,7 @@ public class WordDaoImpl extends BaseDaoImpl<Word, String>
     public Vector<Vector<Object>> findBySpelling(String spelling) {
         Vector<Vector<Object>> cellsVector = new Vector<Vector<Object>>();
         try {
-            List<Word> wordList = wordDao.queryForEq(Word.FIELD_NAME_SPELLING, spelling);
+            List<Word> wordList = mWordDao.queryForEq(Word.FIELD_NAME_SPELLING, spelling);
             for (Word dbWord : wordList) {
                 Vector<Object> curRow = new Vector<Object>();
                 curRow.addElement(dbWord.getId());
@@ -106,5 +113,49 @@ public class WordDaoImpl extends BaseDaoImpl<Word, String>
             e.printStackTrace();
         }
         return cellsVector;
+    }
+
+    public int createOrUpdate(final Collection<Word> vecWords) {
+        try {
+            // 批处理
+            int numLinesChanged = mWordDao.callBatchTasks(new Callable<Integer>() {
+                @Override
+                public Integer call() throws Exception {
+                    // int numLinesCreated = 0;
+                    // int numLinesUpdated = 0;
+                    int numLinesChanged = 0;
+                    for (Word curWord : vecWords) {
+                        if (curWord == null) {
+                            continue;
+                        }
+                        try {
+                            List<Word> wordList = mWordDao.queryForEq(Word.FIELD_NAME_SPELLING, curWord.getSpelling());
+                            int numRows = -1;
+                            if (wordList == null || wordList.size() == 0) {
+                                // String id = extractId(curWord);
+                                // // assume we need to create it if there is no
+                                // id
+                                // if (id == null || !idExists(id)) {
+                                numRows = create(curWord);
+                                // numLinesCreated +=numRows;
+                            } else {
+                                numRows = update(curWord);
+                                // numLinesUpdated +=numRows;
+                            }
+                            numLinesChanged += numRows;
+                            // System.out.println("createOrUpdate,numRows:" +
+                            // numRows);
+                        } catch (SQLException e) {
+                            e.printStackTrace();
+                        }
+                    }
+                    return numLinesChanged;
+                }
+            });
+            return numLinesChanged;
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+        return 0;
     }
 }
