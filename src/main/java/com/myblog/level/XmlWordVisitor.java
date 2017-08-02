@@ -18,7 +18,6 @@ import com.alibaba.fastjson.JSONObject;
 import com.myblog.model.JsonWord;
 import com.myblog.model.XmlSent;
 import com.myblog.model.XmlWord;
-import com.myblog.util.FileUtil;
 import com.myblog.util.ResourceUtil;
 import com.myblog.util.Utils;
 
@@ -61,8 +60,7 @@ public class XmlWordVisitor extends VisitorSupport {
             // System.out.println("--ret---" + retXml);
             // document = saxReader.read(new File(mXmlWordFile));
             // Document doc = builder.parse();
-            document = saxReader.read(new InputSource(new ByteArrayInputStream(
-                    retXml.getBytes("utf-8"))));
+            document = saxReader.read(new InputSource(new ByteArrayInputStream(retXml.getBytes("utf-8"))));
         } catch (DocumentException e) {
             mWord = new XmlWord();
             String[] name2 = Utils.splitFileName(mXmlWordFile);
@@ -184,8 +182,7 @@ public class XmlWordVisitor extends VisitorSupport {
         }
         // System.out.println("getJsonWord,local=" + objLocal);
         // JSONObject.toJavaObject(objLocal, JsonWord.class);
-        List<JsonWord> words = JSON.parseArray(objLocal.toString(),
-                JsonWord.class);
+        List<JsonWord> words = JSON.parseArray(objLocal.toString(), JsonWord.class);
         word = words.get(0);
         word.setFrequency(Integer.parseInt(arr[0]));
         // word.setWord(arr[1]);

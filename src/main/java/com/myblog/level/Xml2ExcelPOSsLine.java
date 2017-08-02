@@ -1,22 +1,15 @@
 package com.myblog.level;
 
-import java.io.FileWriter;
-import java.net.URI;
-import java.net.URISyntaxException;
-import java.nio.file.Path;
-import java.nio.file.Paths;
-
 import com.myblog.Constant;
 import com.myblog.model.XmlWord;
 import com.myblog.util.ResourceUtil;
-import com.myblog.util.Utils;
 import com.myblog.util.XlsUtil;
 
 import jxl.write.WritableSheet;
 import jxl.write.WritableWorkbook;
 
 public class Xml2ExcelPOSsLine extends XmlWordIntoSqlite {
-	protected static String mXlsFile = "LevelDict.xls";//project根目录
+    protected static String mXlsFile = "LevelDict.xls";// project根目录
     private static WritableWorkbook book = null;
     private static WritableSheet sheet = null;
     private static int mRow = 0;// 单词的词频/已生成的excel行数
@@ -46,8 +39,9 @@ public class Xml2ExcelPOSsLine extends XmlWordIntoSqlite {
      */
     public static void main(String[] args) {
         try {
-            //Path resPath = Paths.get(new URI(Constant.PROJECT_BIN_DIR + mXlsFile));
-            //mXlsFile = resPath.toAbsolutePath().toString();
+            // Path resPath = Paths.get(new URI(Constant.PROJECT_BIN_DIR +
+            // mXlsFile));
+            // mXlsFile = resPath.toAbsolutePath().toString();
             mXlsFile = Constant.PROJECT_BIN_DIR + mXlsFile;
             System.out.println("Xml2ExcelPOSsLine,mXlsFile: " + mXlsFile);
 
@@ -65,7 +59,8 @@ public class Xml2ExcelPOSsLine extends XmlWordIntoSqlite {
             levelSqlite.loadFile2WordVector();
             XlsUtil.closeXLS(book);
             // String sqlCreate =
-            // "CREATE TABLE IF NOT EXISTS LevelWordTab (frequency,spelling,DJ,KK,level,posMeanings,sents);";
+            // "CREATE TABLE IF NOT EXISTS LevelWordTab
+            // (frequency,spelling,DJ,KK,level,posMeanings,sents);";
             // String sqlInsert =
             // "INSERT INTO LevelWordTab VALUES(?,?,?,?,?,?,?)";
             // levelSqlite.doInsert2DB(sqlCreate, sqlInsert);

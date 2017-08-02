@@ -1,5 +1,7 @@
 package com.myblog.dao;
 
+import java.lang.reflect.Field;
+import java.lang.reflect.Method;
 import java.sql.SQLException;
 import java.util.Collection;
 import java.util.List;
@@ -117,7 +119,7 @@ public class WordDaoImpl extends BaseDaoImpl<Word, String>
         return cellsVector;
     }
 
-    public int createOrUpdate(final Collection<Word> vecWords) {
+    public int createOrUpdate(final Collection<Word> vecWords, String fieldName) {
         try {
             // 批处理
             int numLinesChanged = mWordDao.callBatchTasks(new Callable<Integer>() {
@@ -131,8 +133,20 @@ public class WordDaoImpl extends BaseDaoImpl<Word, String>
                             continue;
                         }
                         try {
-                            List<Word> wordList = mWordDao.queryForEq(Word.FIELD_NAME_SPELLING,
-                                    escapeSql(curWord.getSpelling()));
+                            Class<?> cWord = curWord.getClass();
+                            //获取name 字段
+                            Field nameField = cWord.getDeclaredField(fieldName) ;
+                            //打破封装 ,设置是否允许访问，因为该变量是private的，所以要手动设置允许访问，如果fieldName是public的就不需要这行了。
+                            nameField.setAccessible(true);
+                            // 获取 nameField 的值
+//                            int freq = (int) nameField.get(cWord);
+//                            System.out.println("createOrUpdate,freq:" +freq);
+                            //int freq = (int) nameField.get(nameField);
+                            // Method method = cWord.getMethod(methodName);//获取方法
+                            // int mFieldValue = (int) method.invoke(curWord);
+                            List<Word> wordList = mWordDao.queryBuilder().where().eq(Word.FIELD_NAME_SPELLING, escapeSql(curWord.getSpelling())).and().eq(fieldName, nameField.get(curWord)).query();
+//                            List<Word> wordList = mWordDao.queryForEq(Word.FIELD_NAME_SPELLING,
+//                                    escapeSql(curWord.getSpelling()));
                             int numRows = 0;
                             if (wordList == null || wordList.size() == 0) {
                                 numRows = create(curWord);

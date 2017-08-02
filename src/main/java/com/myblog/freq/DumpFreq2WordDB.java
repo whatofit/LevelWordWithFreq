@@ -4,9 +4,6 @@
  */
 package com.myblog.freq;
 
-import java.net.URI;
-import java.net.URISyntaxException;
-import java.net.URL;
 import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.Collections;
@@ -24,7 +21,6 @@ import com.j256.ormlite.support.ConnectionSource;
 import com.myblog.Constant;
 import com.myblog.dao.WordDaoImpl;
 import com.myblog.model.Word;
-import com.myblog.util.FileUtil;
 import com.myblog.util.ResourceUtil;
 
 /**
@@ -186,7 +182,7 @@ public class DumpFreq2WordDB {
             System.out.println("doInsert2DB,URL_DATABASE=" + Constant.URL_DATABASE);
             connectionSource = new JdbcConnectionSource(Constant.URL_DATABASE);
             WordDaoImpl wordDao = new WordDaoImpl(connectionSource);
-            int affectRowCount = wordDao.createOrUpdate(vecWords);
+            int affectRowCount = wordDao.createOrUpdate(vecWords, Word.FIELD_NAME_FREQUENCY);
             // int affectRowCount = wordDao.create(vecWords);
             System.out.println("affectRowCount=" + affectRowCount);
             return affectRowCount;

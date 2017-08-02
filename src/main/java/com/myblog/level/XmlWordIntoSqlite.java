@@ -69,7 +69,7 @@ public abstract class XmlWordIntoSqlite {
             System.out.println("createOrUpdateWordDB,URL_DATABASE=" + Constant.URL_DATABASE);
             connectionSource = new JdbcConnectionSource(Constant.URL_DATABASE);
             WordDaoImpl wordDao = new WordDaoImpl(connectionSource);
-            int affectRowCount = wordDao.createOrUpdate(vecWords);
+            int affectRowCount = wordDao.createOrUpdate(vecWords,Word.FIELD_NAME_FREQUENCY);
             System.out.println("affectRowCount=" + affectRowCount);
             return affectRowCount;
         } catch (SQLException e) {
