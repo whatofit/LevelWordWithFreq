@@ -8,7 +8,7 @@ public class Json2SqlitePOSsLine extends XmlWordIntoSqlite {
     }
 
     // 每一个单词,插入词性个数条记录,词频/单词/音标等,都是重复的
-    public void word2Vector(String line) {
+    public void line2WordVector(String line) {
         JsonWord word = wordParser.getJsonWord(line);
         word.add2Vector(vecWords, word);
     }
@@ -19,9 +19,9 @@ public class Json2SqlitePOSsLine extends XmlWordIntoSqlite {
     public static void main(String[] args) {
         try {
             Json2SqlitePOSsLine levelSqlite = new Json2SqlitePOSsLine();
-            levelSqlite.xmlFiles2Words();
-            // levelSqlite.word2Vector("00007	that");
-            levelSqlite.doInsert2DB();
+            levelSqlite.loadFile2WordVector();
+            //levelSqlite.line2WordVector("00007   that");
+            levelSqlite.createOrUpdateWordDB();
         } catch (Exception e) {
             e.printStackTrace();
         }

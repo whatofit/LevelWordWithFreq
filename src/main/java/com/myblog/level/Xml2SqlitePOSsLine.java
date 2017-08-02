@@ -12,7 +12,7 @@ public class Xml2SqlitePOSsLine extends XmlWordIntoSqlite {
     }
 
     // 每一个单词,插入词性个数条记录,词频/单词/音标等,都是重复的
-    public void word2Vector(String line) {
+    public void line2WordVector(String line) {
         XmlWord word = wordParser.getXmlWord(line);
         List<XmlSent> sents = word.getSents();
         String sentences = "";
@@ -51,8 +51,8 @@ public class Xml2SqlitePOSsLine extends XmlWordIntoSqlite {
     public static void main(String[] args) {
         try {
             Xml2SqlitePOSsLine levelSqlite = new Xml2SqlitePOSsLine();
-            levelSqlite.xmlFiles2Words();
-            levelSqlite.doInsert2DB();
+            levelSqlite.loadFile2WordVector();
+            levelSqlite.createOrUpdateWordDB();
         } catch (Exception e) {
             e.printStackTrace();
         }

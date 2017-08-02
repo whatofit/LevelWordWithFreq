@@ -22,9 +22,9 @@ import com.myblog.util.FileUtil;
 import com.myblog.util.Utils;
 
 public class XmlWordVisitor extends VisitorSupport {
-    protected final String mFileFolderXml = "./input/vocabulary_ciba";
-    protected final String mFileFolderJson = "./input/vocabulary_QQ";
-    protected static String mErrFileList = "./output/ErrFile.txt";
+    protected final String mFileFolderXml = "vocabulary_ciba";
+    protected final String mFileFolderJson = "vocabulary_QQ";
+    protected static String mErrFileList = "ErrFile.txt";
     private String mXmlWordFile = "";
     // private Document doc;
     private XmlWord mWord;

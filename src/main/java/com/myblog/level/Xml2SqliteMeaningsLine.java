@@ -14,7 +14,7 @@ public class Xml2SqliteMeaningsLine extends XmlWordIntoSqlite {
     }
 
     // 每一个单词,以中文分号；分割词义,插入中文词义个数条记录,词频/单词/音标等,都是重复的
-    public void word2Vector(String line) {
+    public void line2WordVector(String line) {
         XmlWord xmlWord = wordParser.getXmlWord(line);
         List<XmlSent> sents = xmlWord.getSents();
         String sentences = "";
@@ -62,8 +62,8 @@ public class Xml2SqliteMeaningsLine extends XmlWordIntoSqlite {
     public static void main(String[] args) {
         try {
             Xml2SqliteMeaningsLine levelSqlite = new Xml2SqliteMeaningsLine();
-            levelSqlite.xmlFiles2Words();
-            levelSqlite.doInsert2DB();
+            levelSqlite.loadFile2WordVector();
+            levelSqlite.createOrUpdateWordDB();
         } catch (Exception e) {
             e.printStackTrace();
         }

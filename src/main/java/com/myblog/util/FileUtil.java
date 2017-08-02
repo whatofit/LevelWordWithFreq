@@ -62,8 +62,7 @@ public class FileUtil {
             String encoding = "UTF-8"; // 字符编码(可解决中文乱码问题 )
             File file = new File(filename);
             if (file.isFile() && file.exists()) {
-                InputStreamReader read = new InputStreamReader(
-                        new FileInputStream(file), encoding);
+                InputStreamReader read = new InputStreamReader(new FileInputStream(file), encoding);
                 BufferedReader bufferedReader = new BufferedReader(read);
                 String lineTXT = "";
                 while ((lineTXT = bufferedReader.readLine()) != null) {
@@ -108,8 +107,7 @@ public class FileUtil {
             if (file.isFile() && file.exists()) {
                 FileInputStream fis = new FileInputStream(file);
                 FileChannel fc = fis.getChannel();
-                ByteBuffer bb = ByteBuffer.allocate(new Long(file.length())
-                        .intValue());
+                ByteBuffer bb = ByteBuffer.allocate(new Long(file.length()).intValue());
                 // fc向buffer中读入数据
                 fc.read(bb);
                 bb.flip();
@@ -126,16 +124,16 @@ public class FileUtil {
         }
         return "";
     }
-    
+
     public static List<String> readFileLines(URI uri) {
         try {
             return Files.readAllLines(Paths.get(uri));
         } catch (Exception e) {
-            System.out.println("读取文件内容操作出错:"+uri.toString());
+            System.out.println("读取文件内容操作出错:" + uri.toString());
             return Collections.emptyList();
         }
     }
-    
+
     // 文件以行为单位，每行用空白字符分割，load成一个二维的字符串list
     public static List<List<String>> loadStringList(String filename) {
         List<List<String>> stageLevelList = new ArrayList<List<String>>();
@@ -155,23 +153,24 @@ public class FileUtil {
         return stageLevelList;
     }
 
-    
     /**
      * @param args
      */
     public static void main(String[] args) {
-        //String filename = "e:/00835-wish.xml";
-        //.getClass().
-        //ClassLoader classLoader = FileUtil.class.getClassLoader();
-        //File file = new File(classLoader.getResource(filename).getFile());  
+        // String filename = "e:/00835-wish.xml";
+        // .getClass().
+        // ClassLoader classLoader = FileUtil.class.getClassLoader();
+        // File file = new File(classLoader.getResource(filename).getFile());
 
-        //String filename = "." + File.separator + "freqOfWords.properties";
-        //String filename = "freqOfWords.properties";
-        File configFile = new File(Constant.FILE_FREQ_OF_WORDS);
-        System.out.println("--getAbsolutePath:" + configFile.getAbsolutePath());
-        String ret = FileUtil.readFile(Constant.FILE_FREQ_OF_WORDS);
-        System.out.println("--ret---" + ret);
-        
-        System.out.println(System.getProperty("user.dir"));//user.dir指定了当前的路径
+        // String filename = "." + File.separator + "freqOfWords.properties";
+        // String filename = "freqOfWords.properties";
+
+        // File configFile = new File(Constant.FILE_FREQ_OF_WORDS);
+        // System.out.println("--getAbsolutePath:" +
+        // configFile.getAbsolutePath());
+        // String ret = FileUtil.readFile(Constant.FILE_FREQ_OF_WORDS);
+        // System.out.println("--ret---" + ret);
+
+        System.out.println(System.getProperty("user.dir"));// user.dir指定了当前的路径
     }
 }

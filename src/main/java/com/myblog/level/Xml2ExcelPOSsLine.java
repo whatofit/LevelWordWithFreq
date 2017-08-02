@@ -21,7 +21,7 @@ public class Xml2ExcelPOSsLine extends XmlWordIntoSqlite {
     }
 
     // 所有词性/词义在一行
-    public void word2Vector(String line) {
+    public void line2WordVector(String line) {
         XmlWord word = wordParser.getXmlWord(line);
         XlsUtil.addXLS(sheet, word, mRow);
         if (word.getPartsOfSpeech().size() == 0) {
@@ -49,7 +49,7 @@ public class Xml2ExcelPOSsLine extends XmlWordIntoSqlite {
             // sheet = book.createSheet("vocabulary", 0);
 
             Xml2ExcelPOSsLine levelSqlite = new Xml2ExcelPOSsLine();
-            levelSqlite.xmlFiles2Words();
+            levelSqlite.loadFile2WordVector();
             XlsUtil.closeXLS(book);
             // String sqlCreate =
             // "CREATE TABLE IF NOT EXISTS LevelWordTab (frequency,spelling,DJ,KK,level,posMeanings,sents);";

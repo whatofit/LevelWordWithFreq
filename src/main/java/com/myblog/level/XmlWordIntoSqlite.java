@@ -3,13 +3,17 @@ package com.myblog.level;
 import java.io.BufferedReader;
 import java.io.FileInputStream;
 import java.io.InputStreamReader;
+import java.net.URI;
 import java.sql.SQLException;
+import java.util.List;
 import java.util.Vector;
 
 import com.j256.ormlite.jdbc.JdbcConnectionSource;
 import com.j256.ormlite.support.ConnectionSource;
+import com.myblog.Constant;
 import com.myblog.dao.WordDaoImpl;
 import com.myblog.model.Word;
+import com.myblog.util.FileUtil;
 import com.myblog.util.Utils;
 
 /**
@@ -20,7 +24,8 @@ import com.myblog.util.Utils;
  * @version 1.0 2017/06/10
  */
 public abstract class XmlWordIntoSqlite {
-    protected final String mWordListFile = "./input/vocabulary.txt";
+    public static final String FILE_FREQ_OF_WORDS = "freqOfWords.txt";
+    // protected final String mWordListFile = "./input/vocabulary.txt";
     // protected final String mXmlFileFolder = "./vocabulary_ciba";
     protected static String mErrFileList = "./output/ErrFile.txt";
     protected XmlWordVisitor wordParser = new XmlWordVisitor();
@@ -33,64 +38,45 @@ public abstract class XmlWordIntoSqlite {
         Utils.deleteFile(mErrFileList);
     }
 
-    // /**
-    // *
-    // */
-    // public void traversalDocumentByVisitor(String xmlWordFile) {
-    // try {
-    // wordParser.getDocument(xmlWordFile).accept(wordParser);
-    // } catch (Exception ex) {
-    // Utils.writerFileTest(mErrFileList, xmlWordFile);
-    // }
-    // }
-
     // 根据filename中单词的顺序,读取vocabulary_ciba文件夹下的xml文件列表
-    public void xmlFiles2Words() {
+    public void loadFile2WordVector() {
         try {
-            FileInputStream fis = new FileInputStream(mWordListFile);
-            // DataInputStream dr = new DataInputStream(f);
-            BufferedReader dr = new BufferedReader(new InputStreamReader(fis));
-            String line = dr.readLine();
-            while (line != null) {
-                word2Vector(line);
-                line = dr.readLine();
+            URI uri = ClassLoader.getSystemResource(Constant.FILE_FREQ_OF_WORDS).toURI();
+            System.out.println("parse word file: " + uri);
+            List<String> lines = FileUtil.readFileLines(uri);
+            for (String line : lines) {// 遍历set去出里面的的Key
+                line2WordVector(line);
             }
 
+            //FileInputStream fis = new FileInputStream(mWordListFile);
+            //// DataInputStream dr = new DataInputStream(f);
+            //BufferedReader dr = new BufferedReader(new InputStreamReader(fis));
+            //String line = dr.readLine();
+            //while (line != null) {
+            //    line2WordVector(line);
+            //    line = dr.readLine();
+            //}
         } catch (Exception e) {
             e.printStackTrace();
         }
     }
 
     // 子类中重写本函数
-    public abstract void word2Vector(String line);
+    public abstract void line2WordVector(String line);
 
     /*
-     * public int doInsert2DB(String sqlCreate, String sqlInsert) { mSqlCreate =
-     * sqlCreate; mSqlInsert = sqlInsert; DBUtil dbMgr = new DBUtil(); int
-     * nCount = dbMgr.executeUpdate(mSqlCreate); if (nCount != 1) {
-     * System.out.println("Xml2JsonSqlite mSqlCreate nCount=" + nCount); } int
-     * affectRowCount = dbMgr.executeBatchInsert(mSqlInsert, vecWords);
-     * System.out.println("affectRowCount=" + affectRowCount);
-     * dbMgr.closeConn(); return affectRowCount; }
+     * 
      */
-
-    public int doInsert2DB() {
-        // WordDaoImpl wordDao = new WordDaoImpl();
-        // int nCount = wordDao.create();
-        // if (nCount != 1) {
-        // System.out.println("Xml2JsonSqlite mSqlCreate nCount=" + nCount);
-        // }
-        // int affectRowCount = wordDao.insert(vecWords);
-        // System.out.println("affectRowCount=" + affectRowCount);
-        // return affectRowCount;
-
+    public int createOrUpdateWordDB() {
         ConnectionSource connectionSource;
         try {
             // String databaseUrl = "jdbc:h2:./output/LevelDict.h2";
-            String databaseUrl = "jdbc:sqlite:./output/LevelDict.db3";
-            connectionSource = new JdbcConnectionSource(databaseUrl);
+            //String databaseUrl = "jdbc:sqlite:./output/LevelDict.db3";
+            //connectionSource = new JdbcConnectionSource(databaseUrl);
+            System.out.println("createOrUpdateWordDB,URL_DATABASE=" + Constant.URL_DATABASE);
+            connectionSource = new JdbcConnectionSource(Constant.URL_DATABASE);
             WordDaoImpl wordDao = new WordDaoImpl(connectionSource);
-            int affectRowCount = wordDao.create(vecWords);
+            int affectRowCount = wordDao.createOrUpdate(vecWords);
             System.out.println("affectRowCount=" + affectRowCount);
             return affectRowCount;
         } catch (SQLException e) {

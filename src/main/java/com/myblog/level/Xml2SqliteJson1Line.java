@@ -11,7 +11,7 @@ public class Xml2SqliteJson1Line extends XmlWordIntoSqlite {
     }
 
     // 所有词性/词义在一行的json中
-    public void word2Vector(String line) {
+    public void line2WordVector(String line) {
         XmlWord xmlWord = wordParser.getXmlWord(line);
         String wordJson = FastJsonUtil.obj2json(xmlWord);
         Word dbWord = new Word();
@@ -33,8 +33,8 @@ public class Xml2SqliteJson1Line extends XmlWordIntoSqlite {
     public static void main(String[] args) {
         try {
             Xml2SqliteJson1Line levelSqlite = new Xml2SqliteJson1Line();
-            levelSqlite.xmlFiles2Words();
-            levelSqlite.doInsert2DB();
+            levelSqlite.loadFile2WordVector();
+            levelSqlite.createOrUpdateWordDB();
         } catch (Exception e) {
             e.printStackTrace();
         }
