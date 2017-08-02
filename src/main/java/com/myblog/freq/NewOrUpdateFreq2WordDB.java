@@ -3,8 +3,8 @@
  */
 package com.myblog.freq;
 
-import com.myblog.level.Xml2Sqlite1Line;
 import com.myblog.level.XmlWordIntoSqlite;
+import com.myblog.model.Word;
 
 /**
  * @author Administrator
@@ -20,18 +20,26 @@ public class NewOrUpdateFreq2WordDB extends XmlWordIntoSqlite {
 
     @Override
     public void line2WordVector(String line) {
-        
+        //System.out.println("NewOrUpdateFreq2WordDB,line2WordVector,line:" + line);
+        String[] arr = line.trim().split("\t");
+        // line = line.trim().replaceFirst("\t", "-");
+        // String xmlFileName = arr[0] + "-" + arr[1] + ".xml";
+        Word dbWord = new Word();
+        dbWord.setId(vecWords.size());
+        dbWord.setFrequency(Integer.parseInt(arr[0]));
+        dbWord.setSpelling(arr[1]);
+        vecWords.add(dbWord);
     }
-    
+
     /**
      * @param args
      */
     public static void main(String[] args) {
         try {
             NewOrUpdateFreq2WordDB freqSqlite = new NewOrUpdateFreq2WordDB();
-            //1.读取Freq/Level of word文件到vector
+            // 1.读取Freq/Level of word文件到vector
             freqSqlite.loadFile2WordVector();
-            //2.把vector中的单词更新到数据库
+            // 2.把vector中的单词更新到数据库
             freqSqlite.createOrUpdateWordDB();
         } catch (Exception e) {
             e.printStackTrace();

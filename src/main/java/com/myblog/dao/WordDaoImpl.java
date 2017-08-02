@@ -6,6 +6,8 @@ import java.util.List;
 import java.util.Vector;
 import java.util.concurrent.Callable;
 
+import org.apache.commons.lang3.StringEscapeUtils;
+
 import com.j256.ormlite.dao.BaseDaoImpl;
 import com.j256.ormlite.dao.Dao;
 import com.j256.ormlite.dao.DaoManager;
@@ -129,13 +131,10 @@ public class WordDaoImpl extends BaseDaoImpl<Word, String>
                             continue;
                         }
                         try {
-                            List<Word> wordList = mWordDao.queryForEq(Word.FIELD_NAME_SPELLING, curWord.getSpelling());
+                            List<Word> wordList = mWordDao.queryForEq(Word.FIELD_NAME_SPELLING,
+                                    escapeSql(curWord.getSpelling()));
                             int numRows = 0;
                             if (wordList == null || wordList.size() == 0) {
-                                // String id = extractId(curWord);
-                                // // assume we need to create it if there is no
-                                // id
-                                // if (id == null || !idExists(id)) {
                                 numRows = create(curWord);
                                 // numLinesCreated +=numRows;
                             } else {
@@ -157,5 +156,12 @@ public class WordDaoImpl extends BaseDaoImpl<Word, String>
             e.printStackTrace();
         }
         return 0;
+    }
+
+    public static String escapeSql(String str) {
+        if (str == null) {
+            return null;
+        }
+        return str.replaceAll("'", "''");
     }
 }

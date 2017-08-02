@@ -1,9 +1,5 @@
 package com.myblog.level;
 
-import java.io.BufferedReader;
-import java.io.FileInputStream;
-import java.io.InputStreamReader;
-import java.net.URI;
 import java.sql.SQLException;
 import java.util.List;
 import java.util.Vector;
@@ -13,9 +9,7 @@ import com.j256.ormlite.support.ConnectionSource;
 import com.myblog.Constant;
 import com.myblog.dao.WordDaoImpl;
 import com.myblog.model.Word;
-import com.myblog.util.FileUtil;
 import com.myblog.util.ResourceUtil;
-import com.myblog.util.Utils;
 
 /**
  * implementation
