@@ -6,14 +6,13 @@ public class Constant {
     public static final String FILE_FREQ_OF_WORDS = "freqOfWords.txt";
     public static final String FILE_STAGE_WORDS_FILES = "stageWordsFiles.txt";
 
-    // public static final String PROJECT_BIN_DIR =
-    // ClassLoader.getSystemResource("").getFile();
+    public static final String PROJECT_BIN_DIR = ClassLoader.getSystemResource("").toString();
     // public static final String PATH_STAGE_FILES = PROJECT_BIN_DIR +
     // "stageFiles";
     // public static final String FILE_FREQ_OF_WORDS = PROJECT_BIN_DIR +
     // "freqOfWords.txt";
     //
-    // //ClassLoader.getSystemResource(stageWordsFiles.txt)
+    // // ClassLoader.getSystemResource(stageWordsFiles.txt)
     // public static final String FILE_STAGE_WORDS_FILES = PROJECT_BIN_DIR +
     // "stageWordsFiles.txt";
 
@@ -29,8 +28,8 @@ public class Constant {
      */
     public static void main(String[] args) {
         System.out.println("DumpANC2FreqWordDB,mUserDir:" + mUserDir);
-        // System.out.println("DumpANC2FreqWordDB,PROJECT_BIN_DIR:" +
-        // PROJECT_BIN_DIR);
-        // System.out.println("main,mStageFileList: " + FILE_STAGE_WORDS_FILES);
+        System.out.println("DumpANC2FreqWordDB,PROJECT_BIN_DIR:" + PROJECT_BIN_DIR);
+        System.out.println("main,FILE_FREQ_OF_WORDS: " + FILE_FREQ_OF_WORDS);
+        System.out.println("main,FILE_STAGE_WORDS_FILES: " + FILE_STAGE_WORDS_FILES);
     }
 }

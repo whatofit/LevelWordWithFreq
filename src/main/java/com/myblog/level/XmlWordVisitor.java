@@ -19,6 +19,7 @@ import com.myblog.model.JsonWord;
 import com.myblog.model.XmlSent;
 import com.myblog.model.XmlWord;
 import com.myblog.util.FileUtil;
+import com.myblog.util.ResourceUtil;
 import com.myblog.util.Utils;
 
 public class XmlWordVisitor extends VisitorSupport {
@@ -55,7 +56,7 @@ public class XmlWordVisitor extends VisitorSupport {
             // ' ==> apos;
 
             // aa = aa.replaceAll("mapWidth='\\d*'","mapWidth='1000'");
-            String body = FileUtil.readFile(mXmlWordFile);
+            String body = ResourceUtil.readFile(mXmlWordFile);
             String retXml = Utils.replaceAngleBrackets(body);
             // System.out.println("--ret---" + retXml);
             // document = saxReader.read(new File(mXmlWordFile));
@@ -160,7 +161,7 @@ public class XmlWordVisitor extends VisitorSupport {
         String jsonFileName = arr[0] + "-" + arr[1] + ".json";
         String jsonWordFile = mFileFolderJson + File.separator + jsonFileName;
         System.out.println(jsonWordFile);
-        String body = FileUtil.readFile(jsonWordFile);
+        String body = ResourceUtil.readFile(jsonWordFile);
         // System.out.println("body:"+body);
         JSONObject jsonWord = JSONObject.parseObject(body);
         // mWord = FastJsonUtil.json2obj(body, Word.class);

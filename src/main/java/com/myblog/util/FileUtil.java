@@ -4,12 +4,14 @@ import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileReader;
+import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.net.URI;
 import java.net.URL;
 import java.nio.ByteBuffer;
 import java.nio.channels.FileChannel;
 import java.nio.file.Files;
+import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -123,6 +125,17 @@ public class FileUtil {
             e.printStackTrace();
         }
         return "";
+    }
+
+    public static List<String> readFileLines(String uri) {
+        try {
+            Path sPath = Paths.get(uri);
+            //System.out.println("sPath:" + sPath);
+            return Files.readAllLines(sPath);
+        } catch (Exception e) {
+            System.out.println("读取文件内容操作出错:" + uri.toString());
+            return Collections.emptyList();
+        }
     }
 
     public static List<String> readFileLines(URI uri) {

@@ -5,6 +5,7 @@
 package com.myblog.freq;
 
 import java.net.URI;
+import java.net.URISyntaxException;
 import java.net.URL;
 import java.sql.SQLException;
 import java.util.ArrayList;
@@ -24,6 +25,7 @@ import com.myblog.Constant;
 import com.myblog.dao.WordDaoImpl;
 import com.myblog.model.Word;
 import com.myblog.util.FileUtil;
+import com.myblog.util.ResourceUtil;
 
 /**
  * @author Dave Fan
@@ -64,19 +66,8 @@ public class DumpFreq2WordDB {
         for (List<String> curStageFile : stageLevelList) {
             String curStage = curStageFile.get(0);
             String fileName = curStageFile.get(1);
-            URI uri = null;
-            try {
-                uri = ClassLoader.getSystemResource(Constant.PATH_STAGE_FILES + fileName).toURI();
-                // uri = new URI(Constant.PATH_STAGE_FILES + fileName);
-            } catch (Exception e) {
-                LOGGER.error("构造URL出错", e);
-            }
-            if (uri == null) {
-                LOGGER.error("解析词典失败：" + fileName);
-                continue;
-            }
-            System.out.println("parse word file: " + uri);
-            List<String> words = FileUtil.readFileLines(uri);
+            System.out.println("parse word file: " + Constant.PATH_STAGE_FILES + fileName);
+            List<String> words = ResourceUtil.readFileLines(Constant.PATH_STAGE_FILES + fileName);
             for (String line : words) {// 遍历set去出里面的的Key
                 // 用"-2"替代"★",用"-3"替代"▲",把左右小括号()删除掉，把斜线/之后的字符串删除(到行尾)
                 line = line.trim().replaceAll("★", "-2").replaceAll("▲", "-3").replaceAll("/.*$", "");
@@ -127,15 +118,8 @@ public class DumpFreq2WordDB {
     public static Vector<Word> map2vector(Map<String, Map<String, String>> mapResult) {
         Vector<Word> vecWords = new Vector<Word>();
         try {
-            URI uri = ClassLoader.getSystemResource(Constant.FILE_FREQ_OF_WORDS).toURI();
-            // URI uri = new URI(Constant.FILE_FREQ_OF_WORDS);
-            if (uri == null) {
-                LOGGER.error("解析词典失败：");
-                return vecWords;
-            }
-            System.out.println("parse word file: " + uri);
-            List<String> words = FileUtil.readFileLines(uri);
-
+            System.out.println("read word file: " + Constant.FILE_FREQ_OF_WORDS);
+            List<String> words = ResourceUtil.readFileLines(Constant.FILE_FREQ_OF_WORDS);
             for (int i = 0; i < words.size(); i++) {
                 // 用"-2"替代"★",用"-3"替代"▲",把左右小括号()删除掉，把斜线/之后的字符串删除(到行尾)
                 String line = words.get(i).trim();
@@ -217,8 +201,7 @@ public class DumpFreq2WordDB {
      */
     public static void main(String[] args) {
         System.out.println("AddStageByWordsFile,main,args.length: " + args.length);
-        URL url = ClassLoader.getSystemResource(Constant.FILE_STAGE_WORDS_FILES);
-        mStageLevelList = FileUtil.loadStringList(url.getFile());
+        mStageLevelList = ResourceUtil.readStringList(Constant.FILE_STAGE_WORDS_FILES);
         // System.out.println("AddStageByWordsFile,main,stageFileList: " +
         // mStageLevelList);
         Map<String, Map<String, String>> mapResult = getWordList(mStageLevelList);// 先获取level比较低的单词集合，后获取levle较高的集合

@@ -130,7 +130,7 @@ public class WordDaoImpl extends BaseDaoImpl<Word, String>
                         }
                         try {
                             List<Word> wordList = mWordDao.queryForEq(Word.FIELD_NAME_SPELLING, curWord.getSpelling());
-                            int numRows = -1;
+                            int numRows = 0;
                             if (wordList == null || wordList.size() == 0) {
                                 // String id = extractId(curWord);
                                 // // assume we need to create it if there is no

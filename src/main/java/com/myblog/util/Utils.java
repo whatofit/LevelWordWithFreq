@@ -41,7 +41,7 @@ public class Utils {
 
     /**
      * 分割文件名，不包含扩展名 "./vocabulary_ciba/00058-some.xml" 分割成：00058和some
-     * */
+     */
     public static String[] splitFileName(String path) {
         if (Utils.isEmpty(path)) {
             return new String[] { "", "" };

@@ -31,8 +31,7 @@ public class Xml2Json {
      * @return
      * @throws DocumentException
      */
-    public static JSONObject xmlFile2Json(String xmlFilename)
-            throws DocumentException {
+    public static JSONObject xmlFile2Json(String xmlFilename) throws DocumentException {
         String xmlString = FileUtil.readFile3(xmlFilename);
         return xml2Json(xmlString);
     }
@@ -44,8 +43,7 @@ public class Xml2Json {
      * @return
      * @throws DocumentException
      */
-    public static JSONObject xml2Json(String xmlString)
-            throws DocumentException {
+    public static JSONObject xml2Json(String xmlString) throws DocumentException {
         Document doc = DocumentHelper.parseText(xmlString);
         JSONObject json = new JSONObject();
         element2Json(doc.getRootElement(), json);
@@ -60,12 +58,12 @@ public class Xml2Json {
      */
     public static void element2Json(Element element, JSONObject json) {
         // 如果是属性
-//todo::打开注释
-//        for (Attribute attr : element.attributes()) {
-//            if (!isEmpty(attr.getValue())) {
-//                json.put("@" + attr.getName(), attr.getValue().trim());
-//            }
-//        }
+        // todo::打开注释
+        // for (Attribute attr : element.attributes()) {
+        // if (!isEmpty(attr.getValue())) {
+        // json.put("@" + attr.getName(), attr.getValue().trim());
+        // }
+        // }
         List<Element> chdEl = element.elements();
         if (chdEl.isEmpty() && !isEmpty(element.getTextTrim())) {// 如果没有子元素,只有一个值
             json.put(element.getName(), element.getTextTrim());

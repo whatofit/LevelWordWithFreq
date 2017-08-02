@@ -14,6 +14,7 @@ import com.myblog.Constant;
 import com.myblog.dao.WordDaoImpl;
 import com.myblog.model.Word;
 import com.myblog.util.FileUtil;
+import com.myblog.util.ResourceUtil;
 import com.myblog.util.Utils;
 
 /**
@@ -41,9 +42,7 @@ public abstract class XmlWordIntoSqlite {
     // 根据filename中单词的顺序,读取vocabulary_ciba文件夹下的xml文件列表
     public void loadFile2WordVector() {
         try {
-            URI uri = ClassLoader.getSystemResource(Constant.FILE_FREQ_OF_WORDS).toURI();
-            System.out.println("parse word file: " + uri);
-            List<String> lines = FileUtil.readFileLines(uri);
+            List<String> lines = ResourceUtil.readFileLines(Constant.FILE_FREQ_OF_WORDS);
             for (String line : lines) {// 遍历set去出里面的的Key
                 line2WordVector(line);
             }

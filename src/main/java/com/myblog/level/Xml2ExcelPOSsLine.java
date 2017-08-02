@@ -8,7 +8,7 @@ import jxl.write.WritableSheet;
 import jxl.write.WritableWorkbook;
 
 public class Xml2ExcelPOSsLine extends XmlWordIntoSqlite {
-	protected static String mXlsFile = "./output/LevelDict.xls";
+	protected static String mXlsFile = "LevelDict.xls";//project根目录
     private static WritableWorkbook book = null;
     private static WritableSheet sheet = null;
     private static int mRow = 0;// 单词的词频/已生成的excel行数

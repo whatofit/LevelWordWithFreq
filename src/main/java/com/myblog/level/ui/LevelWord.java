@@ -61,6 +61,7 @@ import org.apache.commons.lang3.StringUtils;
 
 import com.j256.ormlite.jdbc.JdbcConnectionSource;
 import com.j256.ormlite.support.ConnectionSource;
+import com.myblog.Constant;
 import com.myblog.dao.WordDaoImpl;
 import com.myblog.mergetablecells.AttributiveCellTableModel;
 import com.myblog.mergetablecells.ICellSpan;
@@ -90,7 +91,7 @@ public class LevelWord extends JFrame {
    */
     private static final long serialVersionUID = -2140084363480237258L;
     // sqlite
-    private final static String DATABASE_URL = "jdbc:sqlite:./output/LevelDict.db3";
+    //private final static String DATABASE_URL = "jdbc:sqlite:./output/LevelDict.db3";
     private static ConnectionSource connectionSource;
     public static WordDaoImpl wordDao;
 
@@ -108,7 +109,7 @@ public class LevelWord extends JFrame {
         // setBounds(100, 100, 800, 600);
         // setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         try {
-            connectionSource = new JdbcConnectionSource(DATABASE_URL);
+            connectionSource = new JdbcConnectionSource(Constant.URL_DATABASE);
             wordDao = new WordDaoImpl(connectionSource);
             // TableUtils.dropTable(connectionSource, Word.class, true);
             // TableUtils.createTable(connectionSource, Word.class);
