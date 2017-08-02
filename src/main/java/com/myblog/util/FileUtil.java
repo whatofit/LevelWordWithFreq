@@ -148,7 +148,7 @@ public class FileUtil {
     }
 
     // 文件以行为单位，每行用空白字符分割，load成一个二维的字符串list
-    public static List<List<String>> loadStringList(String filename) {
+    public static List<List<String>> readStringList(String filename) {
         List<List<String>> stageLevelList = new ArrayList<List<String>>();
         try {
             FileInputStream fis = new FileInputStream(filename);
@@ -160,6 +160,7 @@ public class FileUtil {
                 stageLevelList.add(lineStage);
                 line = dr.readLine();
             }
+            fis.close();
         } catch (Exception e) {
             e.printStackTrace();
         }

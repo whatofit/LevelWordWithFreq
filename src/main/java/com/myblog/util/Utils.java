@@ -99,11 +99,20 @@ public class Utils {
     }
 
     /** 把body添加到filename文件末尾 */
-    public static void writerFileTest(String filename, String body) {
-        FileWriter fw;
+    public static void writerFile(String filename, String body) {
         try {
+            // File file = new File(filename);
+            // OutputStream fos = new FileOutputStream(file);
+            // BufferedOutputStream buff = new BufferedOutputStream(fos);
+            // buff.write(body.getBytes());
+            // buff.flush();
+            // buff.close();
+            // // fos.write(body.getBytes());
+            // // fos.flush();
+            // fos.close();
+            
             // "C:/add2.txt"
-            fw = new FileWriter(filename, true);
+            FileWriter fw = new FileWriter(filename, true);
             fw.write(body);
             fw.write("\r\n");
             fw.flush();

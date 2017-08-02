@@ -28,7 +28,7 @@ public abstract class XmlWordIntoSqlite {
     public static final String FILE_FREQ_OF_WORDS = "freqOfWords.txt";
     // protected final String mWordListFile = "./input/vocabulary.txt";
     // protected final String mXmlFileFolder = "./vocabulary_ciba";
-    protected static String mErrFileList = "./output/ErrFile.txt";
+    protected static String mErrFileList = "ErrFile.txt";
     protected XmlWordVisitor wordParser = new XmlWordVisitor();
     protected Vector<Word> vecWords = new Vector<Word>();
 
@@ -36,7 +36,7 @@ public abstract class XmlWordIntoSqlite {
     // 2.解析成JavaBean/Model
     // 3.写入文件/数据库
     public XmlWordIntoSqlite() {
-        Utils.deleteFile(mErrFileList);
+        ResourceUtil.deleteFile(mErrFileList);
     }
 
     // 根据filename中单词的顺序,读取vocabulary_ciba文件夹下的xml文件列表

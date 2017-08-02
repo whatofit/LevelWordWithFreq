@@ -3,17 +3,11 @@
  */
 package com.myblog.util;
 
-import java.io.BufferedReader;
-import java.io.InputStream;
-import java.io.InputStreamReader;
-import java.net.URL;
-import java.nio.file.Files;
-import java.nio.file.Path;
-import java.nio.file.Paths;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
+
+import com.myblog.Constant;
 
 /**
  * @author FanMingyou
@@ -28,72 +22,86 @@ public class ResourceUtil {
     }
 
     public static String readFile(String resourceFilename) {
-        StringBuffer sb = new StringBuffer();
         try {
-            InputStream is = ClassLoader.getSystemResourceAsStream(resourceFilename);
-            if (is == null) {
-                System.out.println("找不到指定的文件：" + resourceFilename);
-                return sb.toString();
-            }
-            String encoding = "UTF-8"; // 字符编码(可解决中文乱码问题 )
-            InputStreamReader read = new InputStreamReader(is, encoding);
-            BufferedReader bufferedReader = new BufferedReader(read);
-            String lineTXT = "";
-            while ((lineTXT = bufferedReader.readLine()) != null) {
-                sb.append(lineTXT);
-            }
-            read.close();
+            // Path resPath = Paths.get(new URI(Constant.PROJECT_BIN_DIR +
+            // resourceFilename));
+            // Path resPath = Paths.get(Constant.PROJECT_BIN_DIR +
+            // resourceFilename);
+            // return FileUtil.readFile(resPath.toAbsolutePath().toString());
+            return FileUtil.readFile(Constant.PROJECT_BIN_DIR + resourceFilename);
         } catch (Exception e) {
-            System.out.println("读取文件内容操作出错：" + e.toString());
+            System.out.println("readFile:" + e.toString());
         }
-        return sb.toString();
+        return "";
     }
 
     public static List<String> readFileLines(String resourceFilename) {
         try {
-            URL url = ClassLoader.getSystemResource(resourceFilename);
-            if (url == null) {
-                System.out.println("readResourceFileLines,文件不存在:" + resourceFilename);
-                return Collections.emptyList();
-            }else{
-                Path sPath = Paths.get(url.toURI());
-                return Files.readAllLines(sPath);
-            }
+            // Path resPath = Paths.get(new URI(Constant.PROJECT_BIN_DIR +
+            // resourceFilename));
+            // Path resPath = Paths.get(Constant.PROJECT_BIN_DIR +
+            // resourceFilename);
+            // return
+            // FileUtil.readFileLines(resPath.toAbsolutePath().toString());
+            return FileUtil.readFileLines(Constant.PROJECT_BIN_DIR + resourceFilename);
         } catch (Exception e) {
-            System.out.println("readResourceFileLines,读取文件内容操作出错:" + e.toString());
-            return Collections.emptyList();
+            System.out.println("readFileLines:" + e.toString());
         }
+        return Collections.emptyList();
     }
 
     // 文件以行为单位，每行用空白字符分割，load成一个二维的字符串list
     public static List<List<String>> readStringList(String resourceFilename) {
-        System.out.println("readResourceStringList,resourceFilename:" + resourceFilename);
-        List<List<String>> stageLevelList = new ArrayList<List<String>>();
         try {
-            InputStream is = ClassLoader.getSystemResourceAsStream(resourceFilename);
-            if (is == null) {
-                System.out.println("找不到指定的文件：" + resourceFilename);
-                return stageLevelList;
-            }
-            BufferedReader dr = new BufferedReader(new InputStreamReader(is));
-            String line = dr.readLine();
-            while (line != null) {
-                String[] split = line.split("\\s+");
-                List<String> lineStage = new ArrayList<String>(Arrays.asList(split));
-                stageLevelList.add(lineStage);
-                line = dr.readLine();
-            }
+            // Path resPath = Paths.get(new URI(Constant.PROJECT_BIN_DIR +
+            // resourceFilename));
+            // return
+            // FileUtil.readStringList(resPath.toAbsolutePath().toString());
+            return FileUtil.readStringList(Constant.PROJECT_BIN_DIR + resourceFilename);
         } catch (Exception e) {
-            System.out.println("readResourceStringList:" + e.toString());
+            System.out.println("readStringList:" + e.toString());
         }
-        return stageLevelList;
+        return new ArrayList<List<String>>();
     }
-    
+
+    /** 把body添加到filename文件末尾 */
+    public static void writerFile(String resourceFilename, String body) {
+        try {
+            // Path resPath = Paths.get(new
+            // URI(ClassLoader.getSystemResource("")));
+            // Utils.writerFile(resPath.toAbsolutePath().toString(),body);
+            Utils.writerFile(Constant.PROJECT_BIN_DIR + resourceFilename, body);
+        } catch (Exception e) {
+            System.out.println("writerFile:" + e.toString());
+        }
+    }
+
+    /**
+     * 删除单个文件
+     * 
+     * @param sPath
+     *            被删除文件的文件名
+     * @return 单个文件删除成功返回true，否则返回false
+     */
+    public static boolean deleteFile(String resourceFilename) {
+        try {
+            // Path resPath = Paths.get(new URI(Constant.PROJECT_BIN_DIR +
+            // resourceFilename));
+            // return Utils.deleteFile(resPath.toAbsolutePath().toString());
+            return Utils.deleteFile(Constant.PROJECT_BIN_DIR + resourceFilename);
+        } catch (Exception e) {
+            System.out.println("deleteFile:" + e.toString());
+        }
+        return false;
+    }
+
     /**
      * @param args
      */
     public static void main(String[] args) {
-
+        String mErrFileList = "ErrFile.txt";
+        String xmlWordFile = "00023-this.xml";
+        writerFile(mErrFileList, xmlWordFile);
     }
 
 }

@@ -1,6 +1,14 @@
 package com.myblog.level;
 
+import java.io.FileWriter;
+import java.net.URI;
+import java.net.URISyntaxException;
+import java.nio.file.Path;
+import java.nio.file.Paths;
+
+import com.myblog.Constant;
 import com.myblog.model.XmlWord;
+import com.myblog.util.ResourceUtil;
 import com.myblog.util.Utils;
 import com.myblog.util.XlsUtil;
 
@@ -38,7 +46,12 @@ public class Xml2ExcelPOSsLine extends XmlWordIntoSqlite {
      */
     public static void main(String[] args) {
         try {
-            Utils.deleteFile(mXlsFile);
+            //Path resPath = Paths.get(new URI(Constant.PROJECT_BIN_DIR + mXlsFile));
+            //mXlsFile = resPath.toAbsolutePath().toString();
+            mXlsFile = Constant.PROJECT_BIN_DIR + mXlsFile;
+            System.out.println("Xml2ExcelPOSsLine,mXlsFile: " + mXlsFile);
+
+            ResourceUtil.deleteFile(mXlsFile);
             // book = XlsUtil.createXLS("LevelDict.xls", "vocabulary", 0);
             // sheet = book.getSheet(0);
             book = XlsUtil.createXLS(mXlsFile);

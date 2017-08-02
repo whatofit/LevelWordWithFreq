@@ -88,14 +88,15 @@ public class CfgUtil {
 //            System.out.printf("Bad path: [%s] at position %s", ex.getInput(), ex.getIndex());  
 //        }  
         
-//        try {  
-//            Path path2 = Paths.get(new URI("file:///C:/home/docs/users.txt"));  
-//            File file = new File("C:\\home\\docs\\users.txt");  
-//            Path toPath = file.toPath();  
-//            System.out.println(toPath.equals(path2));  
-//        } catch (URISyntaxException e) {  
-//            System.out.println("Bad URI");  
-//        }
+        try {  
+            Path path2 = Paths.get(new URI("file:///C:/home/docs/users.txt"));
+            System.out.println(path2.toAbsolutePath());
+            File file = new File("C:\\home\\docs\\users.txt");  
+            Path toPath = file.toPath();  
+            System.out.println(toPath.equals(path2));  
+        } catch (URISyntaxException e) {  
+            System.out.println("Bad URI");  
+        }
         
 //        String separator = FileSystems.getDefault().getSeparator();  
 //        System.out.println("The separator is " + separator);  
