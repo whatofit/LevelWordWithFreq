@@ -167,13 +167,14 @@ public class WordDaoImpl extends BaseDaoImpl<Word, String>
                                     while (idx < wordList.size()) {
                                         Word dbWord = wordList.get(idx);
                                         String dbFieldValue = (String) nameField.get(dbWord);
-                                        if (StringUtils.isBlank(dbFieldValue)) {//本单词第一个词性/词义或例句为空时，把令两个同时更新
+                                        if (StringUtils.isBlank(dbFieldValue) && !StringUtils.isBlank(curFieldValue)) {//本单词第一个词性/词义或例句为空时，把令两个同时更新
                                             //第1类.词性、词义、例句,要同时进行修改
                                             //nameField.set(dbWord, curFieldValue);
                                             dbWord.setPartsOfSpeech(curWord.getPartsOfSpeech());
                                             dbWord.setMeanings(curWord.getMeanings());
                                             dbWord.setSentences(curWord.getSentences());
                                             numRows = update(dbWord);
+                                            isFound = true;
                                             break;
                                         } else if (StringUtils.equals(curFieldValue, dbFieldValue)) {// StringUtils.isBlank(dbFieldValue)
                                             isFound = true;
