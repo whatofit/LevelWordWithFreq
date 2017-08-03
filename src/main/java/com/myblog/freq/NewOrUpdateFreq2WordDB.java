@@ -40,7 +40,7 @@ public class NewOrUpdateFreq2WordDB extends XmlWordIntoSqlite {
             // 1.读取Freq/Level of word文件到vector
             freqSqlite.loadFile2WordVector();
             // 2.把vector中的单词更新到数据库
-            freqSqlite.createOrUpdateWordDB();
+            freqSqlite.createOrUpdateWordDB(Word.FIELD_NAME_FREQUENCY);
         } catch (Exception e) {
             e.printStackTrace();
         }

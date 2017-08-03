@@ -52,7 +52,7 @@ public class Xml2SqlitePOSsLine extends XmlWordIntoSqlite {
         try {
             Xml2SqlitePOSsLine levelSqlite = new Xml2SqlitePOSsLine();
             levelSqlite.loadFile2WordVector();
-            levelSqlite.createOrUpdateWordDB();
+            levelSqlite.createOrUpdateWordDB(Word.FIELD_NAME_SPELLING);
         } catch (Exception e) {
             e.printStackTrace();
         }

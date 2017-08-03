@@ -6,6 +6,7 @@ import java.util.Vector;
 
 import com.j256.ormlite.jdbc.JdbcConnectionSource;
 import com.j256.ormlite.support.ConnectionSource;
+import com.j256.ormlite.table.TableUtils;
 import com.myblog.Constant;
 import com.myblog.dao.WordDaoImpl;
 import com.myblog.model.Word;
@@ -60,7 +61,7 @@ public abstract class XmlWordIntoSqlite {
     /*
      * 
      */
-    public int createOrUpdateWordDB() {
+    public int createOrUpdateWordDB(String fieldName) {
         ConnectionSource connectionSource;
         try {
             // String databaseUrl = "jdbc:h2:./output/LevelDict.h2";
@@ -69,7 +70,7 @@ public abstract class XmlWordIntoSqlite {
             System.out.println("createOrUpdateWordDB,URL_DATABASE=" + Constant.URL_DATABASE);
             connectionSource = new JdbcConnectionSource(Constant.URL_DATABASE);
             WordDaoImpl wordDao = new WordDaoImpl(connectionSource);
-            int affectRowCount = wordDao.createOrUpdate(vecWords,Word.FIELD_NAME_FREQUENCY);
+            int affectRowCount = wordDao.createOrUpdate(vecWords,fieldName);
             System.out.println("affectRowCount=" + affectRowCount);
             return affectRowCount;
         } catch (SQLException e) {

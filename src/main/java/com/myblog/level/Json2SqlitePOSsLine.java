@@ -1,6 +1,7 @@
 package com.myblog.level;
 
 import com.myblog.model.JsonWord;
+import com.myblog.model.Word;
 
 public class Json2SqlitePOSsLine extends XmlWordIntoSqlite {
     public Json2SqlitePOSsLine() {
@@ -21,7 +22,7 @@ public class Json2SqlitePOSsLine extends XmlWordIntoSqlite {
             Json2SqlitePOSsLine levelSqlite = new Json2SqlitePOSsLine();
             levelSqlite.loadFile2WordVector();
             //levelSqlite.line2WordVector("00007   that");
-            levelSqlite.createOrUpdateWordDB();
+            levelSqlite.createOrUpdateWordDB(Word.FIELD_NAME_SPELLING);
         } catch (Exception e) {
             e.printStackTrace();
         }

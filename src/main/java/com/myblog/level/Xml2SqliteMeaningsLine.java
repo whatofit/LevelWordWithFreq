@@ -63,7 +63,7 @@ public class Xml2SqliteMeaningsLine extends XmlWordIntoSqlite {
         try {
             Xml2SqliteMeaningsLine levelSqlite = new Xml2SqliteMeaningsLine();
             levelSqlite.loadFile2WordVector();
-            levelSqlite.createOrUpdateWordDB();
+            levelSqlite.createOrUpdateWordDB(Word.FIELD_NAME_SPELLING);
         } catch (Exception e) {
             e.printStackTrace();
         }

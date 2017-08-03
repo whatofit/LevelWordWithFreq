@@ -58,7 +58,7 @@ public class Xml2Sqlite1Line extends XmlWordIntoSqlite {
         try {
             Xml2Sqlite1Line levelSqlite = new Xml2Sqlite1Line();
             levelSqlite.loadFile2WordVector();
-            levelSqlite.createOrUpdateWordDB();
+            levelSqlite.createOrUpdateWordDB(Word.FIELD_NAME_SPELLING);
         } catch (Exception e) {
             e.printStackTrace();
         }

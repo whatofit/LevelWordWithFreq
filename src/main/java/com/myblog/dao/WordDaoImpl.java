@@ -146,7 +146,7 @@ public class WordDaoImpl extends BaseDaoImpl<Word, String>
 //                            List<Word> wordList = mWordDao.queryForEq(Word.FIELD_NAME_SPELLING,
 //                                    escapeSql(curWord.getSpelling()));
                             int numRows = 0;
-                            if (wordList == null || wordList.size() == 0) {
+                            if (wordList == null || wordList.size() == 0) {//创建时，包括word的所有字段都会创建
                                 numRows = create(curWord);
                                 //numLinesCreated +=numRows;
                                 numLinesChanged += numRows;
@@ -155,7 +155,7 @@ public class WordDaoImpl extends BaseDaoImpl<Word, String>
                                 String dbFieldValue = (String)nameField.get(dbWord);
                                 String curFieldValue = (String)nameField.get(curWord);
                                 if (!StringUtils.equals(curFieldValue, dbFieldValue)) {
-                                    nameField.set(dbWord, curFieldValue);//只更新指定的字段，沒有指定的字段不处理
+                                    nameField.set(dbWord, curFieldValue);//只更新指定的字段，沒有指定的字段不处理，每次只更新一个字段
                                     numRows = update(dbWord);
                                     //numLinesUpdated +=numRows;
                                     numLinesChanged += numRows;

@@ -34,7 +34,7 @@ public class Xml2SqliteJson1Line extends XmlWordIntoSqlite {
         try {
             Xml2SqliteJson1Line levelSqlite = new Xml2SqliteJson1Line();
             levelSqlite.loadFile2WordVector();
-            levelSqlite.createOrUpdateWordDB();
+            levelSqlite.createOrUpdateWordDB(Word.FIELD_NAME_SPELLING);
         } catch (Exception e) {
             e.printStackTrace();
         }
