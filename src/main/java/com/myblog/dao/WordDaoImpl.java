@@ -148,9 +148,8 @@ public class WordDaoImpl extends BaseDaoImpl<Word, String>
                             int numRows = 0;
                             if (wordList == null || wordList.size() == 0) {//创建时，包括word的所有字段都会创建
                                 numRows = create(curWord);
-                                //numLinesCreated +=numRows;
                                 numLinesChanged += numRows;
-                            } else {
+                            } else if (wordList.size() == 1) {
                                 Word dbWord = wordList.get(0);
                                 String dbFieldValue = (String)nameField.get(dbWord);
                                 String curFieldValue = (String)nameField.get(curWord);
@@ -158,6 +157,25 @@ public class WordDaoImpl extends BaseDaoImpl<Word, String>
                                     nameField.set(dbWord, curFieldValue);//只更新指定的字段，沒有指定的字段不处理，每次只更新一个字段
                                     numRows = update(dbWord);
                                     //numLinesUpdated +=numRows;
+                                    numLinesChanged += numRows;
+                                }
+                            } else {
+                                boolean isFound = false; //是否在数据库中已找到本记录
+                                String curFieldValue = (String)nameField.get(curWord);
+                                int idx = 0;
+                                while(idx < wordList.size()) {
+                                    Word dbWord = wordList.get(idx);
+                                    String dbFieldValue = (String)nameField.get(dbWord);
+                                    if (!StringUtils.equals(curFieldValue, dbFieldValue)) {//StringUtils.isBlank(dbFieldValue) || 
+                                        isFound = true;
+                                        nameField.set(dbWord, curFieldValue);//只更新指定的字段，沒有指定的字段不处理，每次只更新一个字段
+                                        numRows = update(dbWord);
+                                        numLinesChanged += numRows;
+                                    }
+                                    idx++;
+                                }
+                                if (idx == wordList.size() && !isFound) { //找到列表最后，也没有找到记录，做就create/insert操作
+                                    numRows = create(curWord);
                                     numLinesChanged += numRows;
                                 }
                             }
