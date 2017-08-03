@@ -298,7 +298,7 @@ public class NewOrUpdateWordLevel {
                     }
                     Word dbWord = new Word();
                     dbWord.setSpelling(word);
-                    dbWord.setFrequency(Integer.valueOf(freq));
+                    dbWord.setFrequency(freq);
                     dbWord.setLevel(sb.toString());
                     vecWords.add(dbWord);
                     // wordList.add(sb.toString());
@@ -319,7 +319,7 @@ public class NewOrUpdateWordLevel {
                 }
                 Word dbWord = new Word();
                 dbWord.setSpelling(word);
-                dbWord.setFrequency(99999);
+                dbWord.setFrequency("99999");
                 dbWord.setLevel(sb.toString());
                 vecWords.add(dbWord);
                 // wordList.add(sb.toString());

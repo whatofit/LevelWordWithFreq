@@ -144,8 +144,8 @@ public class DumpFreq2WordDB {
                     }
                     Word dbWord = new Word();
                     dbWord.setSpelling(word);
-                    Integer nFreq = Integer.parseInt(freq);
-                    dbWord.setFrequency(nFreq.intValue());
+                    // Integer nFreq = Integer.parseInt(freq);
+                    dbWord.setFrequency(freq);
                     dbWord.setLevel(sb.toString());
                     vecWords.add(dbWord);
                 }
@@ -165,7 +165,7 @@ public class DumpFreq2WordDB {
                 }
                 Word dbWord = new Word();
                 dbWord.setSpelling(word);
-                dbWord.setFrequency(99999);
+                dbWord.setFrequency("99999");
                 dbWord.setLevel(sb.toString());
                 vecWords.add(dbWord);
             }

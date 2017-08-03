@@ -132,18 +132,18 @@ class JsonMor {
 }
 
 public class JsonWord {
-    private int frequency;// = ""; // 词频
+    private String frequency;// = ""; // 词频
     private String word;// = ""; // 单词
     private List<String> pho;// = new ArrayList<String>(); // 音标
     private List<JsonDes> des = new ArrayList<JsonDes>(); // 词性/词义
     private List<JsonSen> sen = new ArrayList<JsonSen>(); // 词性/英/中文例句
     private List<JsonMor> mor;// = new ArrayList<JsonMor>(); // 单词变形
 
-    public int getFrequency() {
+    public String getFrequency() {
         return frequency;
     }
 
-    public void setFrequency(int frequency) {
+    public void setFrequency(String frequency) {
         this.frequency = frequency;
     }
 

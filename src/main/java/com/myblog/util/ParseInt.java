@@ -28,8 +28,8 @@ public class ParseInt {
         // sb.append(freq + "\t" + word + "\t");
         Word dbWord = new Word();
         dbWord.setSpelling(word);
-        Integer nFreq = Integer.parseInt(freq);
-        dbWord.setFrequency(nFreq.intValue());
+        //Integer nFreq = Integer.parseInt(freq);
+        dbWord.setFrequency(freq);
         dbWord.setLevel(sb.toString());
         
         System.out.println("word:" + dbWord);

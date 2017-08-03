@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class XmlWord {
-    private int frequency;//词频
+    private String frequency;//词频
     private String key; // 原词
     private String ps; // 英式音标
     private String pron; // 英式发音地址
@@ -41,11 +41,11 @@ public class XmlWord {
     private List<String> meaning = new ArrayList<String>(); // 意义
     private List<XmlSent> sents = new ArrayList<XmlSent>(); // 例句
 
-    public int getFrequency() {
+    public String getFrequency() {
         return frequency;
     }
 
-    public void setFrequency(int frequency) {
+    public void setFrequency(String frequency) {
         this.frequency = frequency;
     }
 

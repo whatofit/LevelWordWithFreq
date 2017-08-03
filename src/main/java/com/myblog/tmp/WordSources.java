@@ -144,7 +144,7 @@ public class WordSources {
             Set<Word> wordSet = words.parallelStream()
             		.filter(line -> !line.trim().startsWith("#") && !"".equals(line.trim()))
                     .filter(line -> line.trim().split("\\s+").length >= 2)
-                    .map(line -> new Word(Integer.parseInt(line.trim().toLowerCase().split("\\s+")[0]),line.trim().toLowerCase().split("\\s+")[1]))
+                    .map(line -> new Word(line.trim().toLowerCase().split("\\s+")[0], line.trim().toLowerCase().split("\\s+")[1]))
 //                    .map(line -> new Word(line.trim().toLowerCase().split("\\s+")[1]))
                     //.filter(word -> StringUtils.isAlphanumeric(word.getWord()))
                     .collect(Collectors.toSet());
@@ -615,7 +615,7 @@ public static Set<Word> mergeWordLevelByFreq(Set<Word> setAnc, Set<Word> setLeve
 				}
 			}
 			if (!isFound) {
-				wordLevel.setFrequency(70000); //使新加进语料库的单词排最后
+				wordLevel.setFrequency("99999"); //使新加进语料库的单词排最后
 				setAnc.add(wordLevel);//把新单词加入单词语料库
 			}
 		}

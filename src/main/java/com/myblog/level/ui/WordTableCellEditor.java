@@ -76,7 +76,7 @@ public class WordTableCellEditor extends JPanel implements TableCellEditor {
                     word.setId(id);
                     break;
                 case 1:
-                	int frequency = (int) tableModel.getValueAt(row,
+                	String frequency = (String) tableModel.getValueAt(row,
                             column);
                     word.setFrequency(frequency);
                     break;

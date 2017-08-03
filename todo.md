@@ -33,3 +33,6 @@ where.or(
 							
 select * from tb_article where ( user_id = 1 and name = 'xxx' )  or ( user_id = 2 and name = 'yyy' )  ;
 好了，再复杂的查询估计也能够凑出来了~~
+
+
+alter table tableName add columnName int;

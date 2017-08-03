@@ -64,7 +64,7 @@ public class XmlWordVisitor extends VisitorSupport {
         } catch (DocumentException e) {
             mWord = new XmlWord();
             String[] name2 = Utils.splitFileName(mXmlWordFile);
-            mWord.setFrequency(Integer.parseInt(name2[0]));
+            mWord.setFrequency(name2[0]);
             mWord.setKey(name2[1]);
             e.printStackTrace();
         } catch (UnsupportedEncodingException e) {
@@ -142,12 +142,12 @@ public class XmlWordVisitor extends VisitorSupport {
         System.out.println(xmlWordFile);
         try {
             getDocument(xmlWordFile).accept(this);
-            mWord.setFrequency(Integer.parseInt(arr[0]));
+            mWord.setFrequency(arr[0]);
             return mWord;
         } catch (Exception ex) {
             ResourceUtil.writerFile(mErrFileList, xmlWordFile);
             XmlWord word = new XmlWord();
-            word.setFrequency(Integer.parseInt(arr[0]));
+            word.setFrequency(arr[0]);
             word.setKey(arr[1]);
             return word;
         }
@@ -168,7 +168,7 @@ public class XmlWordVisitor extends VisitorSupport {
         // System.out.println("getJsonWord,Key=" + mWord.getKey() + ",name＝"
         // + mWord.getWordFrequency());
         JsonWord word = new JsonWord();
-        word.setFrequency(Integer.parseInt(arr[0]));
+        word.setFrequency(arr[0]);
         word.setWord(arr[1]);
         if (jsonWord == null) {
             return word;
@@ -184,7 +184,7 @@ public class XmlWordVisitor extends VisitorSupport {
         // JSONObject.toJavaObject(objLocal, JsonWord.class);
         List<JsonWord> words = JSON.parseArray(objLocal.toString(), JsonWord.class);
         word = words.get(0);
-        word.setFrequency(Integer.parseInt(arr[0]));
+        word.setFrequency(arr[0]);
         // word.setWord(arr[1]);
         return word;
     }

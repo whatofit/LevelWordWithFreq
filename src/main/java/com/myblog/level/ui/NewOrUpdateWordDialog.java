@@ -165,7 +165,7 @@ public class NewOrUpdateWordDialog extends JDialog {
                         return;
                     }else if (bTxtSpelling.trim().length() > 0) {
                         Word dbWord = new Word();
-                        dbWord.setFrequency(Integer.parseInt(aTxtFreq));
+                        dbWord.setFrequency(aTxtFreq);
                         dbWord.setSpelling(bTxtSpelling);
                         dbWord.setLevel(cTxtLevel);
                         try {
@@ -220,7 +220,7 @@ public class NewOrUpdateWordDialog extends JDialog {
                             || meanings != null && meanings.trim().length() > 0
                             || sentences != null
                             && sentences.trim().length() > 0) {
-                        dbWord.setFrequency(Integer.parseInt(freq));
+                        dbWord.setFrequency(freq);
                         dbWord.setSpelling(spelling);
                         dbWord.setPhoneticDJ(DJ);
                         dbWord.setPhoneticKK(KK);

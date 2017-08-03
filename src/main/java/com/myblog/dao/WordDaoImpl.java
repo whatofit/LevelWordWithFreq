@@ -1,23 +1,19 @@
 package com.myblog.dao;
 
 import java.lang.reflect.Field;
-import java.lang.reflect.Method;
 import java.sql.SQLException;
 import java.util.Collection;
 import java.util.List;
 import java.util.Vector;
 import java.util.concurrent.Callable;
 
-import org.apache.commons.lang3.StringEscapeUtils;
+import org.apache.commons.lang3.StringUtils;
 
 import com.j256.ormlite.dao.BaseDaoImpl;
 import com.j256.ormlite.dao.Dao;
 import com.j256.ormlite.dao.DaoManager;
-import com.j256.ormlite.dao.Dao.CreateOrUpdateStatus;
-import com.j256.ormlite.misc.BaseDaoEnabled;
 import com.j256.ormlite.stmt.QueryBuilder;
 import com.j256.ormlite.support.ConnectionSource;
-import com.j256.ormlite.support.DatabaseConnection;
 import com.j256.ormlite.table.TableUtils;
 import com.myblog.model.Word;
 
@@ -119,6 +115,7 @@ public class WordDaoImpl extends BaseDaoImpl<Word, String>
         return cellsVector;
     }
 
+    //只更新table中spelling等于word的spelling记录的fieldName字段值
     public int createOrUpdate(final Collection<Word> vecWords, String fieldName) {
         try {
             // 批处理
@@ -141,21 +138,29 @@ public class WordDaoImpl extends BaseDaoImpl<Word, String>
                             // 获取 nameField 的值
 //                            int freq = (int) nameField.get(cWord);
 //                            System.out.println("createOrUpdate,freq:" +freq);
-                            //int freq = (int) nameField.get(nameField);
+                            //int freq = (int) nameField.get(nameField);//获取静态变量值
                             // Method method = cWord.getMethod(methodName);//获取方法
                             // int mFieldValue = (int) method.invoke(curWord);
-                            List<Word> wordList = mWordDao.queryBuilder().where().eq(Word.FIELD_NAME_SPELLING, escapeSql(curWord.getSpelling())).and().eq(fieldName, nameField.get(curWord)).query();
+                            //List<Word> wordList = mWordDao.queryBuilder().where().eq(Word.FIELD_NAME_SPELLING, escapeSql(curWord.getSpelling())).and().eq(fieldName, nameField.get(curWord)).query();
+                            List<Word> wordList = mWordDao.queryBuilder().where().eq(Word.FIELD_NAME_SPELLING, escapeSql(curWord.getSpelling())).query();
 //                            List<Word> wordList = mWordDao.queryForEq(Word.FIELD_NAME_SPELLING,
 //                                    escapeSql(curWord.getSpelling()));
                             int numRows = 0;
                             if (wordList == null || wordList.size() == 0) {
                                 numRows = create(curWord);
-                                // numLinesCreated +=numRows;
+                                //numLinesCreated +=numRows;
+                                numLinesChanged += numRows;
                             } else {
-                                numRows = update(curWord);
-                                // numLinesUpdated +=numRows;
+                                Word dbWord = wordList.get(0);
+                                String dbFieldValue = (String)nameField.get(dbWord);
+                                String curFieldValue = (String)nameField.get(curWord);
+                                if (!StringUtils.equals(curFieldValue, dbFieldValue)) {
+                                    nameField.set(dbWord, curFieldValue);//只更新指定的字段，沒有指定的字段不处理
+                                    numRows = update(dbWord);
+                                    //numLinesUpdated +=numRows;
+                                    numLinesChanged += numRows;
+                                }
                             }
-                            numLinesChanged += numRows;
                             // System.out.println("createOrUpdate,numRows:" +
                             // numRows);
                         } catch (SQLException e) {

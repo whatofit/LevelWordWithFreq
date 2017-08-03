@@ -26,7 +26,7 @@ public class NewOrUpdateFreq2WordDB extends XmlWordIntoSqlite {
         // String xmlFileName = arr[0] + "-" + arr[1] + ".xml";
         Word dbWord = new Word();
         dbWord.setId(vecWords.size());
-        dbWord.setFrequency(Integer.parseInt(arr[0]));
+        dbWord.setFrequency(arr[0]);
         dbWord.setSpelling(arr[1]);
         vecWords.add(dbWord);
     }
