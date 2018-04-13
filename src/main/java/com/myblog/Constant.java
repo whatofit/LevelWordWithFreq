@@ -54,8 +54,7 @@ public class Constant {
      */
     public static void main(String[] args) {
         System.out.println("DumpANC2FreqWordDB,mUserDir:" + mUserDir);
-        // System.out.println("DumpANC2FreqWordDB,PROJECT_BIN_DIR:" +
-        // PROJECT_BIN_DIR);
+        System.out.println("DumpANC2FreqWordDB,PROJECT_BIN_DIR:" + PROJECT_BIN_DIR);
         System.out.println("main,FILE_FREQ_OF_WORDS: " + FILE_FREQ_OF_WORDS);
         System.out.println("main,FILE_STAGE_WORDS_FILES: " + FILE_STAGE_WORDS_FILES);
     }
