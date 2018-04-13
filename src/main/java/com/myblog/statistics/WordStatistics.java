@@ -33,6 +33,7 @@ public class WordStatistics {
         Map<String, Integer> map = countWords(body);
         List<Map.Entry<String, Integer>> infoIds = sort(map);
         output(infoIds);
+        //output2(map);
     }
 
     // java统计一段英文中单词及个数/统计各个单词出现的次数
@@ -71,59 +72,24 @@ public class WordStatistics {
         for (int i = 0; i < infoIds.size(); i++) { // 输出
             Entry<String, Integer> id = infoIds.get(i);
             totalCnt += id.getValue();
-            System.out.println(id.getValue() + ":" + id.getKey());
+            System.out.println("第" + (i+1) +  "行,个数" + id.getValue() + ":" + id.getKey());
         }
         System.out.println("单词总数:" + totalCnt);
     }
 
     // 输出2
     public static void output2(Map<String, Integer> map) {
+        int line=0;
         int totalCnt = 0;
         Set<Entry<String, Integer>> entrySet = map.entrySet();
         Iterator<Entry<String, Integer>> it = entrySet.iterator();
         while (it.hasNext()) {
             Entry<String, Integer> next = it.next();
             totalCnt += next.getValue();
-            System.out.println(next.getValue() + ":" + next.getKey());
+            System.out.println("第" + (line+1) +  "行,个数" + next.getValue() + ":" + next.getKey());
+            line++;
         }
         System.out.println("单词总数:" + totalCnt);
     }
 }
 
-//
-//WordEntity.java文件
-//
-///**
-//  * Created by IntelliJ IDEA.
-//  * User: FLY
-//  * Date: 11-9-13
-//  * Time: 下午4:57
-//  * To change this template use File | Settings | File Templates.
-//  */
-// public class WordEntity implements Comparable<WordEntity> {
-//     private String key;
-//     private Integer count;
-//     public WordEntity (String key, Integer count) {
-//         this.key = key;
-//         this.count = count;
-//     }
-//     public int compareTo(WordEntity o) {
-//         int cmp = count.intValue() - o.count.intValue();
-//         return (cmp == 0 ? key.compareTo(o.key) : -cmp);
-//         //只需在这儿加一个负号就可以决定是升序还是降序排列  -cmp降序排列，cmp升序排列
-//         //因为TreeSet会调用WorkForMap的compareTo方法来决定自己的排序
-//     }
-//  
-//    @Override
-//     public String toString() {
-//         return key + " 出现的次数为：" + count;
-//     }
-//  
-//    public String getKey() {
-//         return key;
-//     }
-//  
-//    public Integer getCount() {
-//         return count;
-//     }
-//}
