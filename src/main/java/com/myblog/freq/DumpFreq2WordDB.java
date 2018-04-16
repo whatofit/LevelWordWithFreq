@@ -62,8 +62,8 @@ public class DumpFreq2WordDB {
         for (List<String> curStageFile : stageLevelList) {
             String curStage = curStageFile.get(0);
             String fileName = curStageFile.get(1);
-            System.out.println("parse word file: " + Constant.PATH_STAGE_FILES + fileName);
-            List<String> words = ResourceUtil.readFileLines(Constant.PATH_STAGE_FILES + fileName);
+            System.out.println("parse word file: " + Constant.FOLDER_STAGE_FILES + fileName);
+            List<String> words = ResourceUtil.readFileLines(Constant.FOLDER_STAGE_FILES + fileName);
             for (String line : words) {// 遍历set去出里面的的Key
                 // 用"-2"替代"★",用"-3"替代"▲",把左右小括号()删除掉，把斜线/之后的字符串删除(到行尾)
                 line = line.trim().replaceAll("★", "-2").replaceAll("▲", "-3").replaceAll("/.*$", "");

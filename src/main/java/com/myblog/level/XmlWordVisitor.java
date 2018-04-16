@@ -145,7 +145,7 @@ public class XmlWordVisitor extends VisitorSupport {
             mWord.setFrequency(arr[0]);
             return mWord;
         } catch (Exception ex) {
-            ResourceUtil.writerFile(mErrFileList, xmlWordFile);
+            ResourceUtil.writerFile(mErrFileList, xmlWordFile,true);
             XmlWord word = new XmlWord();
             word.setFrequency(arr[0]);
             word.setKey(arr[1]);

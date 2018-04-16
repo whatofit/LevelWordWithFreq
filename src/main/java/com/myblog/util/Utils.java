@@ -98,8 +98,10 @@ public class Utils {
         return body;
     }
 
-    /** 把body添加到filename文件末尾 */
-    public static void writerFile(String filename, String body) {
+    /**
+     * 当isAppend是true时，把body添加到filename文件末尾 ，当isAppend时false时，覆盖或新建filename文件
+     */
+    public static void writerFile(String filename, String body, boolean isAppend) {
         try {
             // File file = new File(filename);
             // OutputStream fos = new FileOutputStream(file);
@@ -110,9 +112,9 @@ public class Utils {
             // // fos.write(body.getBytes());
             // // fos.flush();
             // fos.close();
-            
+
             // "C:/add2.txt"
-            FileWriter fw = new FileWriter(filename, true);
+            FileWriter fw = new FileWriter(filename, isAppend);
             fw.write(body);
             fw.write("\r\n");
             fw.flush();

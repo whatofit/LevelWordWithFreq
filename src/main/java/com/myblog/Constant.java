@@ -26,7 +26,8 @@ public class Constant {
         }
     }
     public static final String mUserDir = System.getProperty("user.dir");
-    public static final String PATH_STAGE_FILES = "stageFiles";
+    public static final String FOLDER_VOCABULARY_DICT = "vocabulary_dict";
+    public static final String FOLDER_STAGE_FILES = "stageFiles";
     public static final String FILE_FREQ_OF_WORDS = "freqOfWords.txt";
     public static final String FILE_STAGE_WORDS_FILES = "stageWordsFiles.txt";
 

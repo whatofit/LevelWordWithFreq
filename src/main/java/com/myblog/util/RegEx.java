@@ -145,15 +145,14 @@ public class RegEx {
 		// String line = "★ behavio(u)ral";
 		// String line = "★ authorize/-ise";
 		// String line = "  ax(e) ";
-		String line = "  airplane/aeroplane(r)";
+		//String line = "  airplane/aeroplane(r)";
 		//catchWord(line);
 		
 		//System.out.println("removeTrail=" + removeTrail(line,"/"));
 		
 		//System.out.println("replaceAll=" + line.replaceAll("[()\\d]", ""));
 		
-		System.out.println("containsNumber=" + containsNumber(line));
-
+		//System.out.println("containsNumber=" + containsNumber(line));
 	}
 
 }

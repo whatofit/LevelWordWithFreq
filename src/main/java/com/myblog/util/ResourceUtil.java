@@ -64,13 +64,15 @@ public class ResourceUtil {
         return new ArrayList<List<String>>();
     }
 
-    /** 把body添加到filename文件末尾 */
-    public static void writerFile(String resourceFilename, String body) {
+    /**
+     * 当isAppend是true时，把body添加到filename文件末尾 ，当isAppend时false时，覆盖或新建filename文件
+     */
+    public static void writerFile(String resourceFilename, String body, boolean isAppend) {
         try {
             // Path resPath = Paths.get(new
             // URI(ClassLoader.getSystemResource("")));
             // Utils.writerFile(resPath.toAbsolutePath().toString(),body);
-            Utils.writerFile(Constant.PROJECT_BIN_DIR + resourceFilename, body);
+            Utils.writerFile(Constant.PROJECT_BIN_DIR + resourceFilename, body, isAppend);
         } catch (Exception e) {
             System.out.println("writerFile:" + e.toString());
         }
@@ -101,7 +103,7 @@ public class ResourceUtil {
     public static void main(String[] args) {
         String mErrFileList = "ErrFile.txt";
         String xmlWordFile = "00023-this.xml";
-        writerFile(mErrFileList, xmlWordFile);
+        writerFile(mErrFileList, xmlWordFile, true);
     }
 
 }

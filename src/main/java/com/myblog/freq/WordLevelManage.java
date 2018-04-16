@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.myblog.level;
+package com.myblog.freq;
 
 /**
  * @author Administrator
