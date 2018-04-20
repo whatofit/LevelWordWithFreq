@@ -19,6 +19,12 @@ import java.util.regex.Pattern;
 
 import com.myblog.util.ResourceUtil;
 
+/**
+ * 把文章中的所有单词按照单词词频排序
+ * 
+ * @author FanMingyou
+ *
+ */
 public class WordStatistics {
 
     public WordStatistics() {

@@ -63,6 +63,21 @@ public class ResourceUtil {
         }
         return new ArrayList<List<String>>();
     }
+    
+    // 文件以行为单位，每行用空白字符分割，load成一个二维的字符串list
+    public static List<List<String>> readStringList(String resourceFilename,String comment) {
+        try {
+            // Path resPath = Paths.get(new URI(Constant.PROJECT_BIN_DIR +
+            // resourceFilename));
+            // return
+            // FileUtil.readStringList(resPath.toAbsolutePath().toString());
+            return FileUtil.readStringList(Constant.PROJECT_BIN_DIR + resourceFilename , comment);
+        } catch (Exception e) {
+            System.out.println("readStringList:" + e.toString());
+        }
+        return new ArrayList<List<String>>();
+    }
+
 
     /**
      * 当isAppend是true时，把body添加到filename文件末尾 ，当isAppend时false时，覆盖或新建filename文件

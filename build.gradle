@@ -64,6 +64,10 @@ dependencies {
 
     // https://mvnrepository.com/artifact/com.h2database/h2
     testCompile group: 'com.h2database', name: 'h2', version: '1.4.195'
+    
+    // https://mvnrepository.com/artifact/org.apache.tika/tika-app
+	compile group: 'org.apache.tika', name: 'tika-app', version: '1.17'
+
 }
 
 sourceSets {
