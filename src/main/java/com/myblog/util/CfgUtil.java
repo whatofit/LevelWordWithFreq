@@ -4,7 +4,11 @@
 package com.myblog.util;
 
 import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
 import java.io.IOException;
+import java.io.InputStreamReader;
+import java.io.OutputStreamWriter;
 import java.net.URI;
 import java.net.URISyntaxException;
 import java.nio.file.FileSystems;
@@ -13,6 +17,7 @@ import java.nio.file.InvalidPathException;
 import java.nio.file.LinkOption;
 import java.nio.file.Path;
 import java.nio.file.Paths;
+import java.util.Iterator;
 import java.util.Properties;
 import java.util.logging.Level;
 import java.util.logging.Logger;
@@ -191,5 +196,20 @@ public class CfgUtil {
 //        getClassLoader().getResource("")  返回的是classpath的位置
 //        getClassLoader().getResource("/")  错误的!!
     }
+    
+    //获取配置文件选项
+    public static String getPropCfg(String cfgFile, String key) { 
+        Properties prop = new OrderedProperties();     
+        try{
+            //读取属性文件config.properties
+            InputStreamReader in = new InputStreamReader (new FileInputStream(cfgFile), "UTF-8");
+            prop.load(in);     ///加载属性列表
+            return prop.getProperty(key) ;
+        }
+        catch(Exception e){
+            System.out.println(e);
+        }
+        return "";
+    } 
 
 }

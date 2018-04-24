@@ -120,7 +120,8 @@ public class Word implements Comparable<Word> {
     private String TOEFL;// 托福
 
     @DatabaseField(columnName = FIELD_NAME_PRIMARY_SCHOOL)
-    private String primarySchool; // 小学 (primary school)或(elementary school);//5级
+    private String primarySchool; // 小学 (primary school)或(elementary
+                                  // school);//5级
 
     @DatabaseField(columnName = FIELD_NAME_JUNIOR_SCHOOL)
     private String juniorSchool; // 初中(Junior high school)//4级
@@ -186,11 +187,10 @@ public class Word implements Comparable<Word> {
         this.spelling = spelling;
     }
 
-    // public Word(String spelling, String level) {
-    // this.frequency = 0;
-    // this.spelling = spelling;
-    // this.level = level;
-    // }
+    public Word(String spelling, int level) {
+        this.spelling = spelling;
+        this.level = level + "";
+    }
 
     public Word(String frequency, String spelling, String level) {
         this.frequency = frequency;
@@ -512,7 +512,7 @@ public class Word implements Comparable<Word> {
 
     @Override
     public String toString() {
-        return "id=" + id + ", frequency=" + frequency + ", spelling=" + spelling + ", partsOfSpeech=" + partsOfSpeech;
+        return "id=" + id + ", frequency=" + (frequency == null?"":frequency) + ", spelling=" + spelling + ", level=" + (level == null?"":level) + ", partsOfSpeech=" + (partsOfSpeech == null?"":partsOfSpeech);
     }
 
     // public String toString(int i) {
@@ -545,27 +545,30 @@ public class Word implements Comparable<Word> {
         return this.spelling.compareToIgnoreCase(t);
     }
 
-    //返回正数，零，负数各代表大于，等于，小于。
+    // 返回正数，零，负数各代表大于，等于，小于。
     // 先按照frequency排序，若frequency相等，再按照word排序
     public static final Comparator<Word> m_byFreqAndLevel = (lw, rw) -> {
         if (StringUtils.isBlank(lw.getFrequency())) {
             if (StringUtils.isBlank(rw.getFrequency())) {
-                   return 0;
+                return 0;
             } else {
                 return 1;
             }
         } else {
             if (StringUtils.isBlank(rw.getFrequency())) {
                 return -1;
-             } else {
-                 return lw.getFrequency().compareTo(rw.getFrequency());
-             }
+            } else {
+                //return lw.getFrequency().compareTo(rw.getFrequency());
+                int freqLw = Integer.parseInt(lw.getFrequency());
+                int freqRw = Integer.parseInt(rw.getFrequency());
+                return freqLw - freqRw;
+            }
         }
         // return lw.getFrequency() - rw.getFrequency();
         // if (lw.getFrequency() == rw.getFrequency())
-        //    return lw.getSpelling().compareTo(rw.getSpelling());
+        // return lw.getSpelling().compareTo(rw.getSpelling());
         // else
-        //    return lw.getFrequency() - rw.getFrequency();
+        // return lw.getFrequency() - rw.getFrequency();
     };
 
     /**

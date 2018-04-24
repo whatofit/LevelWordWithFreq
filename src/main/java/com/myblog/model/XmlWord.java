@@ -140,11 +140,12 @@ public class XmlWord {
     @Override
     public String toString() {
         StringBuffer sb = new StringBuffer();
-        sb.append("key = " + key);// 原词
-        sb.append("ps =" + ps); // 英式发音
-        sb.append("pron =" + pron);// 英式发音地址
-        sb.append("ps2 =" + ps2);// 美式发音
-        sb.append("pron2 =" + pron2);// 美式发音地址
+        sb.append("frequency = " + ((frequency==null)?"":frequency));// 原词
+        sb.append(",key = " + key);// 原词
+        sb.append(",ps =" + ((ps==null)?"":ps)); // 英式发音
+        sb.append(",pron =" + ((pron==null)?"":pron));// 英式发音地址
+        sb.append(",ps2 =" + ((ps2==null)?"":ps2));// 美式发音
+        sb.append(",pron2 =" + ((pron2==null)?"":pron2));// 美式发音地址
         // //sb.append("mapAcceptation =" + mapAcceptation.toString());//词性&意义
         // for (Map.Entry<String, String> m : mapAcceptation.entrySet()) {
         // //System.out.println(m.getKey() + "<====>" + m.getValue());

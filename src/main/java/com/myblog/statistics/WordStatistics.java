@@ -2,6 +2,7 @@ package com.myblog.statistics;
 
 import java.io.BufferedReader;
 import java.io.File;
+import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
@@ -16,7 +17,11 @@ import java.util.Map.Entry;
 import java.util.Set;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
+import java.util.stream.Collectors;
+import java.util.stream.Stream;
 
+import com.myblog.Constant;
+import com.myblog.model.Word;
 import com.myblog.util.ResourceUtil;
 
 /**
@@ -31,15 +36,18 @@ public class WordStatistics {
     }
 
     public static void main(String[] args) throws IOException {
-        String fileName = "WordStatistics.txt";// 文件路径
-        // String formfileName =
-        // "E:/workspace_4.6.3_LevelWord_2017-07-26/LevelWordWithFreq/src/main/resources/countwords.txt";
-        System.out.println(fileName);
-        String body = ResourceUtil.readFile(fileName);
-        Map<String, Integer> map = countWords(body);
-        List<Map.Entry<String, Integer>> infoIds = sort(map);
-        output(infoIds);
-        //output2(map);
+//        String fileName = "WordStatistics.txt";// 文件路径
+//        // String formfileName =
+//        // "E:/workspace_4.6.3_LevelWord_2017-07-26/LevelWordWithFreq/src/main/resources/countwords.txt";
+//        System.out.println(fileName);
+//        String body = ResourceUtil.readFile(fileName);
+//        Map<String, Integer> map = countWords(body);
+//        List<Map.Entry<String, Integer>> infoIds = sort(map);
+//        output(infoIds);
+//        // output2(map);
+
+        //getAllWord();
+        getDistinctWord();
     }
 
     // java统计一段英文中单词及个数/统计各个单词出现的次数
@@ -78,24 +86,69 @@ public class WordStatistics {
         for (int i = 0; i < infoIds.size(); i++) { // 输出
             Entry<String, Integer> id = infoIds.get(i);
             totalCnt += id.getValue();
-            System.out.println("第" + (i+1) +  "行,个数" + id.getValue() + ":" + id.getKey());
+            System.out.println("第" + (i + 1) + "行,个数" + id.getValue() + ":" + id.getKey());
         }
         System.out.println("单词总数:" + totalCnt);
     }
 
     // 输出2
     public static void output2(Map<String, Integer> map) {
-        int line=0;
+        int line = 0;
         int totalCnt = 0;
         Set<Entry<String, Integer>> entrySet = map.entrySet();
         Iterator<Entry<String, Integer>> it = entrySet.iterator();
         while (it.hasNext()) {
             Entry<String, Integer> next = it.next();
             totalCnt += next.getValue();
-            System.out.println("第" + (line+1) +  "行,个数" + next.getValue() + ":" + next.getKey());
+            System.out.println("第" + (line + 1) + "行,个数" + next.getValue() + ":" + next.getKey());
             line++;
         }
         System.out.println("单词总数:" + totalCnt);
     }
-}
 
+    // 找出全文的单词，转小写，并排序
+    public static void getAllWord() {
+        try {
+            String fileName = "WordStatistics.txt";// 文件路径
+            String resFileName = Constant.PATH_RESOURCES + fileName;
+            BufferedReader br = new BufferedReader(new FileReader(resFileName));
+            List<String> words = br.lines().flatMap(line -> Stream.of(line.split(" ")))
+                    .filter(word -> word.length() > 0).map(String::toLowerCase).distinct().sorted()
+                    .collect(Collectors.toList());
+            br.close();
+            System.out.println(words);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
+    }
+
+    // 找出全文的单词，转小写，并排序,使用 distinct 来找出不重复的单词。
+    public static List<String> getDistinctWord() {
+        try {
+            //String fileName = "ANC.txt";// 文件路径
+            //String fileName = "ANC_all.txt";// 文件路径
+            String fileName = "/ANC_spoken.txt";// 文件路径
+            String resFileName = Constant.PATH_RESOURCES + fileName;
+            BufferedReader br = new BufferedReader(new FileReader(resFileName));
+//            List<String> words = br.lines().flatMap(line -> Stream.of(line.split(" ")))
+//                    .filter(word -> word.length() > 0).map(String::toLowerCase).distinct()//.sorted()
+//                    .collect(Collectors.toList());
+            
+            List<String> words = br.lines().distinct().collect(Collectors.toList());
+            
+            br.close();
+            ResourceUtil.writerFile("distinct_ANC_spoken.txt", words, false);
+            System.out.println(words);
+            return words;
+        } catch (FileNotFoundException e) {
+            // TODO Auto-generated catch block
+            e.printStackTrace();
+        } catch (IOException e) {
+            // TODO Auto-generated catch block
+            e.printStackTrace();
+        }
+        return null;
+    }
+
+}

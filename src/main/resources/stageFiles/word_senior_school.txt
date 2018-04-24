@@ -1,4 +1,4 @@
-1	AD
+﻿1	AD
 2	AIDS
 3	Abigail
 4	Aesop

@@ -1,6 +1,5 @@
 package com.myblog.set;
 
-import java.net.URL;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.ArrayList;
@@ -13,11 +12,14 @@ import java.util.Map;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+import com.myblog.Constant;
+import com.myblog.util.ResourceUtil;
 
-public class MyWord2DTable {
 
-	private MyWord2DTable(){}
-    private static final Logger LOGGER = LoggerFactory.getLogger(MyWord2DTable.class);
+public class WordLevelMatrixWithFreq {
+
+	private WordLevelMatrixWithFreq(){}
+    private static final Logger LOGGER = LoggerFactory.getLogger(WordLevelMatrixWithFreq.class);
 	
     //1.小学/2.初中/3.高中/4.大学/
     //5.新概念英语
@@ -79,22 +81,8 @@ public class MyWord2DTable {
         // word,courseLevel,0/1/2/3
         Map<String, Map<String, String>> mapResult = Collections.synchronizedMap(new HashMap<String, Map<String, String>>());
         for(String []file : files){
-            URL url = null;
-            if(file[1].startsWith("/")){
-                url = WordSources.class.getResource("/resources"+file[1]);
-            }else{
-                try {
-                    url = Paths.get(file[1]).toUri().toURL();
-                }catch (Exception e){
-                    LOGGER.error("构造URL出错", e);
-                }
-            }
-            if(url == null){
-                LOGGER.error("解析词典失败："+file[1]);
-                continue;
-            }
-            System.out.println("parse word file: "+url);
-            List<String> words = getExistWords(url);
+            System.out.println("parse word file: " +file[0] +","+ file[1]);
+            List<String> words = ResourceUtil.readFileLines(Constant.PATH_STAGE + file[1]);
             for (String line : words) {// 遍历set去出里面的的Key
             	//用"-2"替代"★",用"-3"替代"▲",把左右小括号()删除掉，把斜线/之后的字符串删除(到行尾)
             	line = line.trim().replaceAll("★", "-2").replaceAll("▲", "-3").replaceAll("/.*$", "");
@@ -134,14 +122,6 @@ public class MyWord2DTable {
         return mapResult;
     }
 
-    private static List<String> getExistWords(URL url){
-        try {
-            return Files.readAllLines(Paths.get(url.toURI()));
-        }catch (Exception e){
-            return Collections.emptyList();
-        }
-    }
-    
     /**
      * 根据《American National Corpus,ANC.txt》词汇列表保存文件
      * 
@@ -152,21 +132,12 @@ public class MyWord2DTable {
      * @return void 
      * 
      */
-	public static void save(Map<String, Map<String, String>> mapResult, String path){
+	public static void outputWithMatrix(Map<String, Map<String, String>> mapResult, String path){
     	String file = "/American National Corpus,ANC.txt";
     	List<String> wordList = new ArrayList<String> ();
     	try {
-    		URL url = WordSources.class.getResource("/resources"+file);
-            if(url == null){
-                LOGGER.error("解析词典失败："+file);
-                return;
-            }
-            System.out.println("parse word file: "+url);
-            List<String> words = getExistWords(url);
-            
-			path = "src/target" + path; // 父目录必须存在
+    	    List<String> words = ResourceUtil.readFileLines(Constant.PATH_RESOURCES + file);
 			LOGGER.info("开始保存词典：" + path);
-			
 			StringBuilder sbTitle= new StringBuilder();
 			sbTitle.append("freq\tword\t");
 			for (int j = 0;j <fileLevel.length;j++) {
@@ -228,10 +199,11 @@ public class MyWord2DTable {
 	
 	public static void main(String[] args) {
 		String toSaveFile = "";
-		toSaveFile = "/toSaveLevelFile.txt";
 		Map<String, Map<String, String>> mapResult = getWordList(fileLevel);//先获取level比较低的单词集合，后获取levle较高的集合
     	System.out.println("all unique words count: "+mapResult.size());
-    	save(mapResult,toSaveFile);
+    	
+    	toSaveFile = Constant.PATH_RESOURCES + "/wordLevelsFile_new.txt";
+    	outputWithMatrix(mapResult,toSaveFile);
 	}
 
 }

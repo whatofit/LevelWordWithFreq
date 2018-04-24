@@ -1,4 +1,4 @@
-1	AM
+﻿1	AM
 2	Africa
 3	Alan
 4	Alice

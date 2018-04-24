@@ -304,7 +304,7 @@
 360	chance		1	1		1	1	1	1	1										1	
 361	play	1	1	1		1	1	1	1	1				1						1	
 362	family	1	1	1		1	1	1	1	1										1	
-363	TRUE		1	1		1		1	1	1										1	
+363	true		1	1		1		1	1	1										1	
 366	check		1	1		1	1	1	1						1	1		1	1	1	
 367	door	1	1	1		1	1	1	1	1										1	
 368	change	1	1	1		1	1	1	1	1										1	
@@ -15854,7 +15854,7 @@
 99999	invidious													1				1	1		
 99999	gustation																	1			
 99999	helot																	1			
-99999	FALSE		1	1	1	1		1	1	1										1	
+99999	false		1	1	1	1		1	1	1										1	
 99999	parry																	1			
 99999	descry																	1			
 99999	laity																	1			
@@ -17177,7 +17177,7 @@
 99999	auspice																	1			
 99999	nonagon																1				
 99999	auricular																	1			
-99999	miUimeter					1															
+99999	milimeter					1															
 99999	doughty																		1		
 99999	subjugate																	1			
 99999	marquis						1														

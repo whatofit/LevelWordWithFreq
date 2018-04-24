@@ -7,8 +7,6 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-import com.myblog.Constant;
-
 /**
  * @author FanMingyou
  *
@@ -28,7 +26,7 @@ public class ResourceUtil {
             // Path resPath = Paths.get(Constant.PROJECT_BIN_DIR +
             // resourceFilename);
             // return FileUtil.readFile(resPath.toAbsolutePath().toString());
-            return FileUtil.readFile(Constant.PROJECT_BIN_DIR + resourceFilename);
+            return FileUtil.readFile(resourceFilename);
         } catch (Exception e) {
             System.out.println("readFile:" + e.toString());
         }
@@ -43,7 +41,7 @@ public class ResourceUtil {
             // resourceFilename);
             // return
             // FileUtil.readFileLines(resPath.toAbsolutePath().toString());
-            return FileUtil.readFileLines(Constant.PROJECT_BIN_DIR + resourceFilename);
+            return FileUtil.readFileLines(resourceFilename);
         } catch (Exception e) {
             System.out.println("readFileLines:" + e.toString());
         }
@@ -57,7 +55,7 @@ public class ResourceUtil {
             // resourceFilename));
             // return
             // FileUtil.readStringList(resPath.toAbsolutePath().toString());
-            return FileUtil.readStringList(Constant.PROJECT_BIN_DIR + resourceFilename);
+            return FileUtil.readStringList(resourceFilename);
         } catch (Exception e) {
             System.out.println("readStringList:" + e.toString());
         }
@@ -71,7 +69,7 @@ public class ResourceUtil {
             // resourceFilename));
             // return
             // FileUtil.readStringList(resPath.toAbsolutePath().toString());
-            return FileUtil.readStringList(Constant.PROJECT_BIN_DIR + resourceFilename , comment);
+            return FileUtil.readStringList(resourceFilename , comment);
         } catch (Exception e) {
             System.out.println("readStringList:" + e.toString());
         }
@@ -87,7 +85,21 @@ public class ResourceUtil {
             // Path resPath = Paths.get(new
             // URI(ClassLoader.getSystemResource("")));
             // Utils.writerFile(resPath.toAbsolutePath().toString(),body);
-            Utils.writerFile(Constant.PROJECT_BIN_DIR + resourceFilename, body, isAppend);
+            Utils.writerFile(resourceFilename, body, isAppend);
+        } catch (Exception e) {
+            System.out.println("writerFile:" + e.toString());
+        }
+    }
+    
+    /**
+     * 当isAppend是true时，把body添加到filename文件末尾 ，当isAppend时false时，覆盖或新建filename文件
+     */
+    public static void writerFile(String resourceFilename, List<String> lines, boolean isAppend) {
+        try {
+            // Path resPath = Paths.get(new
+            // URI(ClassLoader.getSystemResource("")));
+            // Utils.writerFile(resPath.toAbsolutePath().toString(),body);
+            Utils.writerFile(resourceFilename, lines, isAppend);
         } catch (Exception e) {
             System.out.println("writerFile:" + e.toString());
         }
@@ -105,7 +117,7 @@ public class ResourceUtil {
             // Path resPath = Paths.get(new URI(Constant.PROJECT_BIN_DIR +
             // resourceFilename));
             // return Utils.deleteFile(resPath.toAbsolutePath().toString());
-            return Utils.deleteFile(Constant.PROJECT_BIN_DIR + resourceFilename);
+            return Utils.deleteFile(resourceFilename);
         } catch (Exception e) {
             System.out.println("deleteFile:" + e.toString());
         }

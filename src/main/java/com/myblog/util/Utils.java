@@ -3,8 +3,17 @@ package com.myblog.util;
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Paths;
+import java.nio.file.StandardOpenOption;
+import static java.nio.file.StandardOpenOption.CREATE;
+import static java.nio.file.StandardOpenOption.WRITE;
+import java.util.List;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
+import java.util.stream.Collectors;
+
+import org.apache.commons.lang3.StringUtils;
 
 public class Utils {
     // 1，验证传入路径是否为正确的路径名(Windows系统，其他系统未使用)
@@ -124,6 +133,35 @@ public class Utils {
         }
     }
 
+    /**
+     * 当isAppend是true时，把body添加到filename文件末尾 ，当isAppend时false时，覆盖或新建filename文件
+     */
+    public static void writerFile(String filename, List<String> lines, boolean isAppend) {
+        try {
+            // File file = new File(filename);
+            // OutputStream fos = new FileOutputStream(file);
+            // BufferedOutputStream buff = new BufferedOutputStream(fos);
+            // buff.write(body.getBytes());
+            // buff.flush();
+            // buff.close();
+            // // fos.write(body.getBytes());
+            // // fos.flush();
+            // fos.close();
+
+            // "C:/add2.txt"
+            Files.write(Paths.get(filename), lines, isAppend?StandardOpenOption.APPEND:StandardOpenOption.CREATE);
+//            FileWriter fw = new FileWriter(filename, isAppend);
+//            //String body = StringUtils.join(lines, "\r\n");
+//            String body = lines.stream().collect(Collectors.joining("\r\n")).toString();
+//            fw.write(body);
+//            fw.write("\r\n");
+//            fw.flush();
+//            fw.close();
+        } catch (IOException e) {
+            System.out.println("IOException when write file: " + filename);
+        }
+    }
+    
     // 2，实现删除文件的方法
     /**
      * 删除单个文件

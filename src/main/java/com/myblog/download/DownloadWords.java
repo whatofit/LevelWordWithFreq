@@ -1,6 +1,9 @@
 package com.myblog.download;
 
+import java.io.BufferedReader;
 import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Collections;
@@ -11,6 +14,8 @@ import java.util.Map;
 import java.util.Vector;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
+import java.util.stream.Collectors;
+import java.util.stream.Stream;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
@@ -61,8 +66,8 @@ public class DownloadWords {
         for (List<String> curStageFile : stageLevelList) {
             String curStage = curStageFile.get(0);
             String fileName = curStageFile.get(1);
-            System.out.println("parse word file: " + Constant.FOLDER_STAGE_FILES + fileName);
-            List<String> words = ResourceUtil.readFileLines(Constant.FOLDER_STAGE_FILES + fileName);
+            System.out.println("parse word file: " + Constant.PATH_RESOURCES + fileName);
+            List<String> words = ResourceUtil.readFileLines(Constant.PATH_RESOURCES + fileName);
             for (String line : words) {// 遍历set去出里面的的Key
                 // 用"-2"替代"★",用"-3"替代"▲",把左右小括号()删除掉，把斜线/之后的字符串删除(到行尾)
                 line = line.trim().replaceAll("★", "-2").replaceAll("▲", "-3").replaceAll("/.*$", "");
@@ -175,7 +180,6 @@ public class DownloadWords {
         return vecWords;
     }
 
-    
     /**
      * 查看统计的词汇表在《American National Corpus,ANC.txt》词汇列表中的分布
      * 
@@ -257,70 +261,83 @@ public class DownloadWords {
         String regExPos = "(CET4|CET6|考研|IELTS|TOEFL|GRE)";
         Document doc = Jsoup.parse(htmlTxt);
         Elements esBaseLevel = doc.getElementsByClass("base-level");
-        for(Element e : esBaseLevel){
-            //System.out.println("level级别："+e.text());
+        for (Element e : esBaseLevel) {
+            // System.out.println("level级别："+e.text());
             Pattern pPos = Pattern.compile(regExPos);
             Matcher matcherPos = pPos.matcher(e.text());
             if (matcherPos.find()) {
                 Elements sElement = e.getElementsByTag("span");
-                return  sElement.html().replaceAll("&nbsp;", "").replaceAll("\\s", "");
+                return sElement.html().replaceAll("&nbsp;", "").replaceAll("\\s", "");
             }
         }
         return "";
     }
-    
+
     public static void main(String[] args) {
-        //http://dict.cn/review
-        //https://cn.bing.com/dict/search?q=dirty
-        //http://www.iciba.com/dirty
-        //http://dict.youdao.com/w/dirty
-        
-        //String url = "http://dict.cn";
-        
-        //String para = "";
-        //String sr = HttpUtil.sendPost(url, para, false);
-        //System.out.println(sr);
-        
-/*
-        mStageLevelList = ResourceUtil.readStringList(Constant.FILE_STAGE_WORDS_FILES,"#");
-        System.out.println("DownloadDict,main,stageFileList: " + mStageLevelList);
-        Map<String, Map<String, String>> mapResult = getWordList(mStageLevelList);// 先获取level比较低的单词集合，后获取levle较高的集合
-        System.out.println("all unique words count: " + mapResult.size());
-        Vector<Word> vecWords = map2vector(mapResult);
-        // 遍历Vector中的元素
-        for (int i = 0; i < vecWords.size(); i++) {
-            Word word = vecWords.get(i);
-            String spelling = word.getFrequency() +"\t"+ word.getSpelling();
-            //System.out.println(i + ","+ spelling);
-            //String sr = HttpUtil.sendPost(url+"/"+spelling, null, false);
-            //ResourceUtil.writerFile(Constant.FOLDER_VOCABULARY_DICT+File.separator+spelling+".html", sr,false);
-            ResourceUtil.writerFile("all_word.txt", spelling,true);
-        }
-*/
-        
-        //读取单词列表，下载并过滤考级单词保存 
+        // http://dict.cn/review
+        // https://cn.bing.com/dict/search?q=dirty
+        // http://www.iciba.com/dirty
+        // http://dict.youdao.com/w/dirty
+
+        // String url = "http://dict.cn";
+
+        // String para = "";
+        // String sr = HttpUtil.sendPost(url, para, false);
+        // System.out.println(sr);
+
+        /*
+         * mStageLevelList =
+         * ResourceUtil.readStringList(Constant.FILE_STAGE_WORDS_FILES,"#");
+         * System.out.println("DownloadDict,main,stageFileList: " +
+         * mStageLevelList); Map<String, Map<String, String>> mapResult =
+         * getWordList(mStageLevelList);// 先获取level比较低的单词集合，后获取levle较高的集合
+         * System.out.println("all unique words count: " + mapResult.size());
+         * Vector<Word> vecWords = map2vector(mapResult); // 遍历Vector中的元素 for
+         * (int i = 0; i < vecWords.size(); i++) { Word word = vecWords.get(i);
+         * String spelling = word.getFrequency() +"\t"+ word.getSpelling();
+         * //System.out.println(i + ","+ spelling); //String sr =
+         * HttpUtil.sendPost(url+"/"+spelling, null, false);
+         * //ResourceUtil.writerFile(Constant.FOLDER_VOCABULARY_DICT+File.
+         * separator+spelling+".html", sr,false);
+         * ResourceUtil.writerFile("all_word.txt", spelling,true); }
+         */
+
+        // //读取单词列表，下载并过滤考级单词保存
         String url = "http://www.iciba.com";
-        List<String> lines = ResourceUtil.readFileLines("vocabulary_exam.txt");
+        List<String> lines = ResourceUtil.readFileLines("examCiba4104.txt");
         for (int i = 0; i < lines.size(); i++) {
             String line = lines.get(i).trim();
             if (!line.startsWith("#") && !"".equals(line)) {
                 String[] segments = line.split("\\s+");// 以空白(空格/tab键/回车/换行)分割
                 String spelling = "";
-                //String freq = "99999";// 默认较大的频率
+                // String freq = "99999";// 默认较大的频率
                 if (segments.length <= 1) {
                     spelling = segments[0];
                 } else {
                     spelling = segments[1];
-                    //freq = segments[0];
+                    // freq = segments[0];
                 }
-                String sr = HttpUtil.sendPost(url+"/"+spelling, null, false);
+                String sr = HttpUtil.sendPost(url + "/" + spelling, null, false);// spelling.toLowerCase()
                 String level = parseBaseLevel(sr);
-                if (!"".equals(level)){
-                    ResourceUtil.writerFile(Constant.FOLDER_VOCABULARY_CIBA2+File.separator+spelling+".html", sr,false);
-                    ResourceUtil.writerFile("all_word.txt", spelling + "\t" + level,true);    
+                if (!"".equals(level)) {
+                    ResourceUtil.writerFile(Constant.FOLDER_CIBA + File.separator + spelling + ".html", sr,
+                            false);
+                    ResourceUtil.writerFile("all_word_tmp.txt", spelling + "\t" + level, true);
                 }
             }
         }
         System.out.println("done!");
+
+        // String spelling = "rabbit";
+        // String sr = HttpUtil.sendPost(url+"/"+spelling, null,
+        // false);//spelling.toLowerCase()
+        // String level = parseBaseLevel(sr);
+        // if (!"".equals(level)){
+        // ResourceUtil.writerFile(Constant.FOLDER_VOCABULARY_CIBA2+File.separator+spelling+".html",
+        // sr,false);
+        // ResourceUtil.writerFile("all_word_temp.txt", spelling + "\t" +
+        // level,true);
+        // }
+
     }
 }

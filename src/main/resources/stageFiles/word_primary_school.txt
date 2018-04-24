@@ -1,4 +1,4 @@
-1	America
+﻿1	America
 2	April
 3	Asia
 4	August
