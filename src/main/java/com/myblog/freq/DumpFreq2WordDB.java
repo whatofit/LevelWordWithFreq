@@ -197,7 +197,7 @@ public class DumpFreq2WordDB {
      */
     public static void main(String[] args) {
         System.out.println("AddStageByWordsFile,main,args.length: " + args.length);
-        mStageLevelList = ResourceUtil.readStringList(Constant.FILE_STAGE_WORDS_FILES);
+        mStageLevelList = ResourceUtil.readStringList(Constant.FILE_STAGE_FILES);
         // System.out.println("AddStageByWordsFile,main,stageFileList: " +
         // mStageLevelList);
         Map<String, Map<String, String>> mapResult = getWordList(mStageLevelList);// 先获取level比较低的单词集合，后获取levle较高的集合

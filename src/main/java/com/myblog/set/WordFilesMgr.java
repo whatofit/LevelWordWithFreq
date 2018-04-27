@@ -1,5 +1,6 @@
 package com.myblog.set;
 
+import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Iterator;
@@ -27,6 +28,40 @@ public class WordFilesMgr {
     public static void main(String[] args) {
     }
     
+    /**
+     * 获取单词列表,//删除重复单词，剔重/去重操作使用distinct
+     * 文件格式：每行只有单词，没有单词序号或行序号，也没有词频,可能有其他非字母符号，如下格式：
+   refrigerator/fridge
+★ skeptical/sceptical
+   specialize/-ise
+★ specialty/speciality
+★ stabilize/-ise
+▲  subsidize/-ise
+★ sulfur/sulphur
+   summarize/-ise
+     * @return Set<Word>
+     */
+    public static List<String> loadWordsFromFile(String... files){
+        //List<String> resultWords = Collections.emptyList(); 
+        List<String> resultWords = new ArrayList<String>();
+        for(String file : files){
+            System.out.println("parse word file: "+file);
+            List<String> wordFileLines = ResourceUtil.readFileLines(Constant.PATH_RESOURCES + file);
+            List<String> curWords = wordFileLines.parallelStream()
+                    .filter(line -> !line.trim().startsWith("#") && !"".equals(line.trim()))
+                    //.filter(line -> !line.contains("-"))
+                    .map(line -> line.replaceAll("★", "").replaceAll("▲", "").replaceAll("[()\\d]", "").replaceAll("/.*$", "").trim())
+                    //.distinct()
+                    //.sorted()
+                    .collect(Collectors.toList());
+            System.out.println("curWords count: "+curWords.size());
+            resultWords.addAll(curWords);
+            //resultWords = curWords;            
+        }
+        //System.out.println("unique words count: "+resultWords.size());
+        return resultWords;
+    }
+    
     //转化,使转化,使改变,使转变
     //字符串key-value(frequency)集合转换成word集合
     public static Map<Word, AtomicInteger> convert(Map<String, AtomicInteger> words) {
@@ -49,13 +84,13 @@ public class WordFilesMgr {
     /**
      * 一行一个单词，单词和其他信息之间用空白字符隔开
      * 
-     * @param index
+     * @param spellingIndex
      *            单词用空白字符隔开后的索引，从0开始
      * @param files
      *            单词文件类路径，以/开头
      * @return 不重复的单词集合
      */
-    public static Set<Word> loadWord(int index, String level, String... files) {
+    public static Set<Word> loadWord(int spellingIndex, String level, String... files) {
         Set<Word> setResult = new HashSet<>();
         for (String file : files) {
             System.out.println("parse word file: " + file);
@@ -88,11 +123,10 @@ public class WordFilesMgr {
             Set<Word> wordSet = words.parallelStream()
                     .filter(line -> !line.trim().startsWith("#") && !"".equals(line.trim()))
                     .map(RegEx::catchNumberWord)
-                    //.distinct()
+                    .distinct() //剔重
                     .collect(Collectors.toSet());
             
             setResult.addAll(wordSet);
-            System.out.println("wordSet count: " + wordSet.size());
         }
         System.out.println("unique words count: " + setResult.size());
         return setResult;
@@ -118,7 +152,7 @@ several
             List<String> words = ResourceUtil.readFileLines(Constant.PATH_RESOURCES + file);
             Set<Word> wordSet = words.parallelStream()
                     .filter(line -> !line.trim().startsWith("#") && !"".equals(line.trim()))
-                    .map(line -> new Word(line.trim().toLowerCase()))
+                    .map(line -> new Word(line.trim()))//.toLowerCase()
 //                    .map(line -> new Word(line.trim(),"64"))
                     //.filter(word -> StringUtils.isAlphanumeric(word.getWord()))
                     .distinct()
@@ -130,6 +164,7 @@ several
         return set;
     }
     
+ 
     /**
      * 获取类似ANC频率单词列表
      * 
@@ -154,7 +189,7 @@ several
         for(String file : files){
             
             System.out.println("parse word file: "+file);
-            List<String> words = ResourceUtil.readFileLines(Constant.PATH_RESOURCES + file);
+            List<String> words = ResourceUtil.readFileLines(Constant.PROJECT_BIN_DIR + file);
             Set<Word> wordSet = words.parallelStream()
                     .filter(line -> !line.trim().startsWith("#") && !"".equals(line.trim()))
                     .filter(line -> line.trim().split("\\s+").length >= 2)
@@ -411,6 +446,221 @@ several
 //          return result;
         }
     
+//  /**
+//  * 获取单词列表,
+//  * 
+//  * 文件格式：每行只有单词，没有单词序号或行序号，也没有词频
+//  * 
+//  * 文件格式:每行2列，第1列：词频/序号/行号；第2列：单词；
+//  * 
+//  * 中间用空格/空白隔开
+//  * 
+//  * 规则：如果每行文本仅有1列，则为单词列，若超过1列(即大于等于2列)，则第二列为单词列(第一列为序号、行号或词频)
+//  * 
+//  * 把以#号开始的行当做注释，忽略本行单词。
+//  * 
+//  * @return Map<String, Map<String, String>>
+//  */
+// public static Map<String, Map<String, String>> getWordList(List<List<String>> stageLevelList) {
+//     // Set<Word> setResult = new HashSet<>();
+//     // Map<String, String> map = new HashMap<String, String>();
+//     // word,courseLevel,0/1/2/3
+//     Map<String, Map<String, String>> mapResult = Collections
+//             .synchronizedMap(new HashMap<String, Map<String, String>>());
+//     for (List<String> curStageFile : stageLevelList) {
+//         String curStage = curStageFile.get(0);
+//         String fileName = curStageFile.get(1);
+//         System.out.println("parse word file: " + Constant.PATH_RESOURCES + fileName);
+//         List<String> words = ResourceUtil.readFileLines(Constant.PATH_RESOURCES + fileName);
+//         for (String line : words) {// 遍历set去出里面的的Key
+//             // 用"-2"替代"★",用"-3"替代"▲",把左右小括号()删除掉，把斜线/之后的字符串删除(到行尾)
+//             line = line.trim().replaceAll("★", "-2").replaceAll("▲", "-3").replaceAll("/.*$", "");
+//             if (!line.startsWith("#") && !"".equals(line)) {
+//                 String[] segments = line.split("\\s+");// 以空白(空格/tab键/回车/换行)分割
+//                 String word = "";
+//                 String courseValue = "1";
+//                 if (segments.length <= 1) {
+//                     word = segments[0];
+//                 } else {
+//                     word = segments[1];
+//                     if (segments[0].equals("-2")) {
+//                         courseValue = "2";
+//                     } else if (segments[0].equals("-3")) {
+//                         courseValue = "3";
+//                     } else {
+//                         courseValue = "1";
+//                     }
+//                 }
+//                 word = word.replaceAll("[()\\d]", "");// 去掉序号
+//                 Map<String, String> mapWord = mapResult.get(word);
+//                 if (mapWord == null) {
+//                     mapWord = new HashMap<String, String>();
+//                     mapWord.put(curStage, courseValue);
+//                     mapResult.put(word, mapWord); // 新增
+//                 } else {
+//                     mapWord.put(curStage, courseValue); // 修改
+//                 }
+//             }
+//         }
+//
+//         System.out.println("wordSet count: " + words.size());
+//     }
+//     System.out.println("unique words count: " + mapResult.size());
+//     return mapResult;
+// }
+//
+// /**
+//  * 根据《American National Corpus,ANC.txt》词汇列表保存到数据库
+//  * 
+//  * ,ANC.txt文件格式:每行2列，第1列：词频；第2列：单词；
+//  * 
+//  * 中间用空格/空白隔开、
+//  * 
+//  * @return Vector<Word>
+//  * 
+//  */
+// public static Vector<Word> map2vector(Map<String, Map<String, String>> mapResult) {
+//     Vector<Word> vecWords = new Vector<Word>();
+//     try {
+//         System.out.println("read word file: " + Constant.FILE_FREQ_OF_WORDS);
+//         List<String> words = ResourceUtil.readFileLines(Constant.FILE_FREQ_OF_WORDS);
+//         for (int i = 0; i < words.size(); i++) {
+//             // 用"-2"替代"★",用"-3"替代"▲",把左右小括号()删除掉，把斜线/之后的字符串删除(到行尾)
+//             String line = words.get(i).trim();
+//             if (!line.startsWith("#") && !"".equals(line)) {
+//                 String[] segments = line.split("\\s+");// 以空白(空格/tab键/回车/换行)分割
+//                 String word = "";
+//                 String freq = "99999";// 默认较大的频率
+//                 if (segments.length <= 1) {
+//                     word = segments[0];
+//                 } else {
+//                     word = segments[1];
+//                     freq = segments[0];
+//                 }
+//                 // System.out.println("freq,word:" + freq + "\t" + word);
+//                 StringBuilder sb = new StringBuilder();
+//                 // sb.append(freq + "\t" + word + "\t");
+//                 Map<String, String> mapWord = mapResult.get(word);
+//                 if (mapWord != null) {
+//                     for (int j = 0; j < mStageLevelList.size(); j++) {
+//                         String stageName = mStageLevelList.get(j).get(0);
+//                         String courseValue = mapWord.get(stageName);
+//                         courseValue = courseValue == null ? "" : courseValue;
+//                         sb.append(new String(courseValue) + "\t");
+//                     }
+//                     mapResult.remove(word);
+//                 }
+//                 Word dbWord = new Word();
+//                 dbWord.setSpelling(word);
+//                 // Integer nFreq = Integer.parseInt(freq);
+//                 dbWord.setFrequency(freq);
+//                 dbWord.setLevel(sb.toString());
+//                 vecWords.add(dbWord);
+//             }
+//         }
+//         System.out.println("leave words count: " + mapResult.size());
+//         for (Iterator it = mapResult.entrySet().iterator(); it.hasNext();) {
+//             Map.Entry entry2 = (Map.Entry) it.next();
+//             String word = (String) entry2.getKey();
+//             Map<String, String> mapWord = (Map<String, String>) entry2.getValue();
+//             StringBuilder sb = new StringBuilder();
+//             // sb.append("99999" + "\t" + word + "\t");
+//             for (int j = 0; j < mStageLevelList.size(); j++) {
+//                 String stageName = mStageLevelList.get(j).get(0);
+//                 String courseValue = mapWord.get(stageName);
+//                 courseValue = courseValue == null ? "" : courseValue;
+//                 sb.append(courseValue + "\t");
+//             }
+//             Word dbWord = new Word();
+//             dbWord.setSpelling(word);
+//             dbWord.setFrequency("99999");
+//             dbWord.setLevel(sb.toString());
+//             vecWords.add(dbWord);
+//         }
+//         // LOGGER.info("保存成功");
+//     } catch (Exception e) {
+//         LOGGER.error("保存词典失败", e);
+//     }
+//     return vecWords;
+// }
+//
+// /**
+//  * 查看统计的词汇表在《American National Corpus,ANC.txt》词汇列表中的分布
+//  * 
+//  * ,ANC.txt文件格式:每行2列，第1列：词频；第2列：单词；
+//  * 
+//  * 中间用空格/空白隔开、
+//  * 
+//  * 
+//  * 
+//  * @return Vector<Word>
+//  * 
+//  */
+// public static Vector<Word> removeVectorByMap(Map<String, Map<String, String>> mapResult) {
+//     Vector<Word> vecWords = new Vector<Word>();
+//     try {
+//         System.out.println("read word file: " + Constant.FILE_FREQ_OF_WORDS);
+//         List<String> words = ResourceUtil.readFileLines(Constant.FILE_FREQ_OF_WORDS);
+//         for (int i = 0; i < words.size(); i++) {
+//             // 用"-2"替代"★",用"-3"替代"▲",把左右小括号()删除掉，把斜线/之后的字符串删除(到行尾)
+//             String line = words.get(i).trim();
+//             if (!line.startsWith("#") && !"".equals(line)) {
+//                 String[] segments = line.split("\\s+");// 以空白(空格/tab键/回车/换行)分割
+//                 String word = "";
+//                 String freq = "99999";// 默认较大的频率
+//                 if (segments.length <= 1) {
+//                     word = segments[0];
+//                 } else {
+//                     word = segments[1];
+//                     freq = segments[0];
+//                 }
+//                 // System.out.println("freq,word:" + freq + "\t" + word);
+//                 StringBuilder sb = new StringBuilder();
+//                 // sb.append(freq + "\t" + word + "\t");
+//                 Map<String, String> mapWord = mapResult.get(word);
+//                 if (mapWord != null) {
+//                     for (int j = 0; j < mStageLevelList.size(); j++) {
+//                         String stageName = mStageLevelList.get(j).get(0);
+//                         String courseValue = mapWord.get(stageName);
+//                         courseValue = courseValue == null ? "" : courseValue;
+//                         sb.append(new String(courseValue) + "\t");
+//                     }
+//                     mapResult.remove(word);
+//                 }
+//                 Word dbWord = new Word();
+//                 dbWord.setSpelling(word);
+//                 // Integer nFreq = Integer.parseInt(freq);
+//                 dbWord.setFrequency(freq);
+//                 dbWord.setLevel(sb.toString());
+//                 vecWords.add(dbWord);
+//             }
+//         }
+//         System.out.println("leave words count: " + mapResult.size());
+//         for (Iterator it = mapResult.entrySet().iterator(); it.hasNext();) {
+//             Map.Entry entry2 = (Map.Entry) it.next();
+//             String word = (String) entry2.getKey();
+//             Map<String, String> mapWord = (Map<String, String>) entry2.getValue();
+//             StringBuilder sb = new StringBuilder();
+//             // sb.append("99999" + "\t" + word + "\t");
+//             for (int j = 0; j < mStageLevelList.size(); j++) {
+//                 String stageName = mStageLevelList.get(j).get(0);
+//                 String courseValue = mapWord.get(stageName);
+//                 courseValue = courseValue == null ? "" : courseValue;
+//                 sb.append(courseValue + "\t");
+//             }
+//             Word dbWord = new Word();
+//             dbWord.setSpelling(word);
+//             dbWord.setFrequency("99999");
+//             dbWord.setLevel(sb.toString());
+//             vecWords.add(dbWord);
+//         }
+//         // LOGGER.info("保存成功");
+//     } catch (Exception e) {
+//         LOGGER.error("保存词典失败", e);
+//     }
+//     return vecWords;
+// }
+    
     //
     public static void toSaveCourseLevelWord() {
         String [][]fileLevel = {
@@ -448,14 +698,16 @@ several
         // AtomicInteger ai = new AtomicInteger();
         List<String> lines = words.stream()
                 // .sorted()
-                .sorted(Word.m_byFreqAndLevel)
+                //.sorted(Word.m_byFreqAndLevel)
                 // .sorted((a, b) -> a.getFrequency() - b.getFrequency())
-                .map(word -> (word.getFrequency() + "\t" + word.getSpelling() + "\t" + word.getLevel()))
+                //.map(word -> (word.getFrequency() + "\t" + word.getSpelling() + "\t" + word.getLevel()))
+                .map(word -> (word.toNoFreqLevel()))
                 // .map(word ->
                 // (ai.incrementAndGet()+"\t"+word.getWord()+"\t"+word.getLevel()))
                 // .map(word -> word.getWord())
                 //.distinct() // 删除重复
                 .collect(Collectors.toList());
+
         ResourceUtil.writerFile(path, lines, false);
         //LOGGER.info("保存成功");
     }

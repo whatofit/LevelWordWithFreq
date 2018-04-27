@@ -10,6 +10,8 @@ import java.net.URI;
 import java.net.URL;
 import java.nio.ByteBuffer;
 import java.nio.channels.FileChannel;
+import java.nio.charset.Charset;
+import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
@@ -93,10 +95,10 @@ public class FileUtil {
                 in.close();
                 return new String(buffer, encoding);
             } else {
-                System.out.println("找不到指定的文件！");
+                System.out.println("找不到指定的文件！"+filename);
             }
         } catch (Exception e) {
-            System.out.println("读取文件内容操作出错");
+            System.out.println("读取文件内容操作出错"+filename);
             e.printStackTrace();
         }
         return "";
@@ -131,9 +133,18 @@ public class FileUtil {
         try {
             Path sPath = Paths.get(uri);
             // System.out.println("sPath:" + sPath);
-            return Files.readAllLines(sPath);
+            
+//            InputStream in = ...;
+//            CharsetDecoder decoder = StandardCharset.UTF_8.newDecoder();
+//            decoder.onMalformedInput(CodingErrorAction.IGNORE);
+//            Reader reader = new InputStreamReader(in, decoder);
+            
+            //return Files.readAllLines(sPath);
+            Charset charset = Charset.defaultCharset(); //Try the default one first.
+            return Files.readAllLines(sPath, charset);
+            //return Files.readAllLines(sPath, StandardCharsets.UTF_8);
         } catch (Exception e) {
-            System.out.println("读取文件内容操作出错:" + uri.toString());
+            System.out.println("读取文件内容操作出错:" + uri.toString() +"\r\nException Message="+e);
             return Collections.emptyList();
         }
     }

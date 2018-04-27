@@ -23,7 +23,7 @@ public abstract class XmlWordIntoSqlite {
     public static final String FILE_FREQ_OF_WORDS = "freqOfWords.txt";
     // protected final String mWordListFile = "./input/vocabulary.txt";
     // protected final String mXmlFileFolder = "./vocabulary_ciba";
-    protected static String mErrFileList = "ErrFile.txt";
+    protected static String mErrFileList = "/ErrFile.txt";
     protected XmlWordVisitor wordParser = new XmlWordVisitor();
     protected Vector<Word> vecWords = new Vector<Word>();
 

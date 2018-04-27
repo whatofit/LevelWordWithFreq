@@ -207,7 +207,7 @@ public class Word implements Comparable<Word> {
     }
 
     public String getFrequency() {
-        return frequency;
+        return frequency==null?"":frequency;
     }
 
     public void setFrequency(String frequency) {
@@ -255,7 +255,7 @@ public class Word implements Comparable<Word> {
     }
 
     public String getLevel() {
-        return level;
+        return level==null?"":level;
     }
 
     public void setLevel(String level) {
@@ -514,6 +514,18 @@ public class Word implements Comparable<Word> {
     public String toString() {
         return "id=" + id + ", frequency=" + (frequency == null?"":frequency) + ", spelling=" + spelling + ", level=" + (level == null?"":level) + ", partsOfSpeech=" + (partsOfSpeech == null?"":partsOfSpeech);
     }
+    
+    public String toNoFreqLevel() {
+//        StringBuffer sb = new StringBuffer();
+//        if (id != 0) {
+//            sb.append(id + "\t");
+//        }
+//        if (frequency != null) {
+//            sb.append(frequency + "\t");
+//        }
+        return (id == 0?"":id) + "\t"  + (frequency == null?"":frequency) + "\t" + spelling + "\t" + (level == null?"":level) ;
+    }
+
 
     // public String toString(int i) {
     // return "id: " + id + "\n"
@@ -559,8 +571,18 @@ public class Word implements Comparable<Word> {
                 return -1;
             } else {
                 //return lw.getFrequency().compareTo(rw.getFrequency());
-                int freqLw = Integer.parseInt(lw.getFrequency());
-                int freqRw = Integer.parseInt(rw.getFrequency());
+                int freqLw = 0;
+                int freqRw = 0;
+                try {
+                    freqLw = Integer.parseInt(lw.getFrequency());
+                }catch(Exception e)  {
+                    return 0;
+                }
+                try {
+                    freqRw = Integer.parseInt(rw.getFrequency());
+                }catch(Exception e)  {
+                    return 1;
+                }
                 return freqLw - freqRw;
             }
         }

@@ -7,9 +7,7 @@ import java.util.stream.Collectors;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import com.myblog.Constant;
 import com.myblog.model.Word;
-import com.myblog.util.CfgUtil;
 
 public class SetManager {
 
@@ -19,27 +17,16 @@ public class SetManager {
     }
 
     public static void main(String[] args) {
-        long startTime =System.currentTimeMillis();
-        // 1.读取两组单词集合路径
-        String minuend_files = CfgUtil.getPropCfg(Constant.FILE_CONFIG_FILE, "minuend_files");
-        String subtrahend_files = CfgUtil.getPropCfg(Constant.FILE_CONFIG_FILE, "subtrahend_files");
-        // 2.分别计算两组集合的并集
-        Set<Word> set1 = WordFilesMgr.loadWord("", minuend_files.split(","));
-        Set<Word> set2 = WordFilesMgr.loadWord("", subtrahend_files.split(","));
-        // 3.C=A-B
-        Set<Word> setResult = WordSetminus(set1, set2);
-        // 4.保存结果集合C到文件
-        String result_set_minus = CfgUtil.getPropCfg(Constant.FILE_CONFIG_FILE, "resultSetFile");
-        WordFilesMgr.saveWordSet(setResult, Constant.PATH_RESOURCES + result_set_minus);
-        
-        long endTime =System.currentTimeMillis();
-        System.out.println("执行耗时 : "+(endTime-startTime)/1000f+" 秒 ");
+
     }
 
+    //求差集
     public static Set<Word> WordSetminus(Set<Word> minuend, Set<Word> subtrahend) {
         LOGGER.info("被减数个数：" + minuend.size());
         LOGGER.info("减数个数：" + subtrahend.size());
-        Set<Word> result = minuend.stream().filter(word -> !subtrahend.contains(word)).distinct()
+        Set<Word> result = minuend.stream()
+                .filter(word -> !subtrahend.contains(word))
+                .distinct()
                 .collect(Collectors.toSet());
 
         // Set<Word> result = minuend
@@ -114,7 +101,7 @@ public class SetManager {
         LOGGER.info("差集词典：" + result.size());
         return result;
     }
-
+    
     /**
      * 求并集
      * 

@@ -128,7 +128,7 @@ public class ResourceUtil {
      * @param args
      */
     public static void main(String[] args) {
-        String mErrFileList = "ErrFile.txt";
+        String mErrFileList = "/ErrFile.txt";
         String xmlWordFile = "00023-this.xml";
         writerFile(mErrFileList, xmlWordFile, true);
     }

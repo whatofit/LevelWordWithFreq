@@ -82,7 +82,7 @@ public class RegEx {
         return levelWord;
       }
     
-    
+    //hydrology
 	public static Word toLevelWord(String line) {
 		Word levelWord = new Word();
 		// /匹配双字节字符(包括汉字在内)：[^x00-xff]
@@ -120,7 +120,7 @@ public class RegEx {
             } else if(isNumber(cet)){
                 levelWord.setFrequency(cet);
 			} else {
-				level = "四级";
+				//level = "四级";
 			}
 			levelWord.setSpelling(word.replaceAll("[()]", "")); // 删除()小括号
 //			levelWord.setSpelling(word.replaceAll("[()]", "").toLowerCase()); // 删除()小括号
@@ -235,16 +235,18 @@ public class RegEx {
 	
 	// 摄取本行第一个整数,第一个单词，第二个整数
     public static Word catchNumberWord(String line) {
-        Word word = toLevelWord(line);
-        if (word.getSpelling() == null) {
-            String []arr = line.trim().split("\\s");
-            if (arr.length == 1) {
-                word = new Word(arr[0]);    
-            } else if (arr.length >= 2) {
-                word = new Word(arr[0],arr[1]);
+        String []arr = line.trim().split("\\s");
+        if (arr.length == 1) {
+            return new Word(arr[0]);
+        } else {
+            Word word = toLevelWord(line);
+            if (word.getSpelling() == null) {
+                if (arr.length >= 2) {
+                    word = new Word(arr[0],arr[1]);
+                }
             }
+            return word;
         }
-        return word;
     }
 	
 	public static void main(String[] args) {
@@ -268,4 +270,27 @@ public class RegEx {
 	    System.out.println("containsNumber:" + catchNumberWord(line));
 	}
 
+	
+	
+	
+	
+//	week - n. a period of time equal to seven days
+//	weigh - v. to measure how heavy someone or something is
+//	welcome - v. to express happiness or pleasure when someone arrives or something develops
+//	well - ad. in a way that is good or pleasing; in good health; n. a hole in the ground where water, gas or oil can be found
+//	west - n. the direction in which the sun goes down
+//	wet - ad. covered with water or other liquid; not dry
+    public static String parseWordOfVOA(String line) {
+        // 匹配一个单词开始，空白(空格) 连字符 所有字符
+        String regEx = "(^\\w+)\\s*-?\\s*(.*)";
+        Pattern p = Pattern.compile(regEx);
+        Matcher matcher = p.matcher(line);
+        if (matcher.find()) {
+            String word = matcher.group(1);
+            String mean = matcher.group(2);
+            return word + "\t"+ mean ;
+        }
+        return "" + "\t"+ line;
+        //return new String[] { "", line };
+    }
 }

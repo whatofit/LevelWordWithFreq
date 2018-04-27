@@ -277,4 +277,72 @@ public class Utils {
         System.out.println("--ret---" + ret);
     }
 
+    //转换成Unicode如"\u810f\u7684"转换成："脏的"
+    //{"1":{"percent":37,"sense":"\u810f\u7684"},"2":{"percent":27,"sense":"\u80ae\u810f\u7684"},"3":{"percent":15,"sense":"\u5f04\u810f"},"4":{"percent":8,"sense":"\u5351\u9119\u7684"},"5":{"percent":7,"sense":"\u4e0b\u6d41\u7684"},"6":{"percent":3,"sense":"\u73b7\u6c61"},"7":{"percent":2,"sense":"\u4e0d\u6b63\u5f53\u7684"},"8":{"percent":1,"sense":"\u8150\u8d25\u7684"}}
+    //{"1":{"percent":37,"sense":"脏的"},"2":{"percent":27,"sense":"肮脏的"},"3":{"percent":15,"sense":"弄脏"},"4":{"percent":8,"sense":"卑鄙的"},"5":{"percent":7,"sense":"下流的"},"6":{"percent":3,"sense":"玷污"},"7":{"percent":2,"sense":"不正当的"},"8":{"percent":1,"sense":"腐败的"}}
+    public static String convertUnicode(String ori){
+        char aChar;
+        int len = ori.length();
+        StringBuffer outBuffer = new StringBuffer(len);
+        for (int x = 0; x < len;) {
+            aChar = ori.charAt(x++);
+            if (aChar == '\\') {
+                aChar = ori.charAt(x++);
+                if (aChar == 'u') {
+                    // Read the xxxx
+                    int value = 0;
+                    for (int i = 0; i < 4; i++) {
+                        aChar = ori.charAt(x++);
+                        switch (aChar) {
+                        case '0':
+                        case '1':
+                        case '2':
+                        case '3':
+                        case '4':
+                        case '5':
+                        case '6':
+                        case '7':
+                        case '8':
+                        case '9':
+                            value = (value << 4) + aChar - '0';
+                            break;
+                        case 'a':
+                        case 'b':
+                        case 'c':
+                        case 'd':
+                        case 'e':
+                        case 'f':
+                            value = (value << 4) + 10 + aChar - 'a';
+                            break;
+                        case 'A':
+                        case 'B':
+                        case 'C':
+                        case 'D':
+                        case 'E':
+                        case 'F':
+                            value = (value << 4) + 10 + aChar - 'A';
+                            break;
+                        default:
+                            throw new IllegalArgumentException(
+                                    "Malformed   \\uxxxx   encoding.");
+                        }
+                    }
+                    outBuffer.append((char) value);
+                } else {
+                    if (aChar == 't')
+                        aChar = '\t';
+                    else if (aChar == 'r')
+                        aChar = '\r';
+                    else if (aChar == 'n')
+                        aChar = '\n';
+                    else if (aChar == 'f')
+                        aChar = '\f';
+                    outBuffer.append(aChar);
+                }
+            } else
+                outBuffer.append(aChar);
+ 
+        }
+        return outBuffer.toString();
+    }
 }

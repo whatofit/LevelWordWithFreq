@@ -13,7 +13,7 @@ TEM-8 10000~12000 英语专业八级水平考试
 SAT 10000+(12000左右) 学术能力评估测试,俗称美国高考
 ACT 6000-8000也有人认为在10000+
 GMAT 12000+ 国外MBA入学英语考试
-IELTS/iBT(Internet Based Test) 8000~15000+ 雅思/新托福英语考试 TOEFL iBT(Internet Based Test)
+IELTS/iBT(TOEFL)(Internet Based Test) 8000~15000+ 雅思/新托福英语考试 TOEFL iBT(Internet Based Test)
 GRE 20000+ 美国研究生入学考试
 
 雅思大概10000词汇 托福是1万 GRE是2万

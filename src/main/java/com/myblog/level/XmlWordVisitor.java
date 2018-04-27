@@ -24,7 +24,7 @@ import com.myblog.util.Utils;
 public class XmlWordVisitor extends VisitorSupport {
     protected final String mFileFolderXml = "vocabulary_ciba";
     protected final String mFileFolderJson = "vocabulary_QQ";
-    protected static String mErrFileList = "ErrFile.txt";
+    protected static String mErrFileList = "/ErrFile.txt";
     private String mXmlWordFile = "";
     // private Document doc;
     private XmlWord mWord;
