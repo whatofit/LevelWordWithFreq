@@ -21,6 +21,7 @@ public class Word implements Comparable<Word> {
     public static final String FIELD_NAME_FREQUENCY = "frequency";
     public static final String FIELD_NAME_FREQ_WRITTEN = "freqWritten";
     public static final String FIELD_NAME_FREQ_SPOKEN = "freqSpoken";
+    public static final String FIELD_NAME_COUNT_IN_ARTICLE = "countInArticle";//freqArticle
     public static final String FIELD_NAME_SPELLING = "spelling";
     public static final String FIELD_NAME_DJ = "phoneticDJ";
     public static final String FIELD_NAME_KK = "phoneticKK";
@@ -69,6 +70,9 @@ public class Word implements Comparable<Word> {
 
     @DatabaseField(columnName = FIELD_NAME_FREQ_SPOKEN)
     private String freqSpoken;
+    
+    @DatabaseField(columnName = FIELD_NAME_COUNT_IN_ARTICLE)
+    private int countInArticle;//freqArticle
 
     @DatabaseField(columnName = FIELD_NAME_SPELLING, canBeNull = false)
     private String spelling;
@@ -230,7 +234,15 @@ public class Word implements Comparable<Word> {
         this.freqSpoken = freqSpoken;
     }
 
-    public String getSpelling() {
+	public int getCountInArticle() {
+		return countInArticle;
+	}
+
+	public void setCountInArticle(int countInArticle) {
+		this.countInArticle = countInArticle;
+	}
+
+	public String getSpelling() {
         return spelling;
     }
 

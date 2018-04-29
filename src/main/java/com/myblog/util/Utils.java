@@ -1,19 +1,17 @@
 package com.myblog.util;
 
 import java.io.File;
+import java.io.FileOutputStream;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.io.OutputStreamWriter;
+import java.io.Writer;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.nio.file.StandardOpenOption;
-import static java.nio.file.StandardOpenOption.CREATE;
-import static java.nio.file.StandardOpenOption.WRITE;
 import java.util.List;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
-import java.util.stream.Collectors;
-
-import org.apache.commons.lang3.StringUtils;
 
 public class Utils {
     // 1，验证传入路径是否为正确的路径名(Windows系统，其他系统未使用)
@@ -107,6 +105,24 @@ public class Utils {
         return body;
     }
 
+    /**
+     * 将文本内容写入待保存的路径中。
+     * 
+     * @param filename
+     * @param body
+     * @param encode
+     */
+    public static boolean saveFile(String filename, String body, String encode) {
+        try {
+            Writer out = new OutputStreamWriter(new FileOutputStream(filename, false), encode);
+            out.write(body);
+            out.close();
+        } catch (Exception e) {
+            return false;
+        }
+        return true;
+    }
+    
     /**
      * 当isAppend是true时，把body添加到filename文件末尾 ，当isAppend时false时，覆盖或新建filename文件
      */
