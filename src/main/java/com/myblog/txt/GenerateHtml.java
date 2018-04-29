@@ -32,15 +32,15 @@ public class GenerateHtml {
 		StringBuilder stringHtml = new StringBuilder();
 		// 输入HTML文件内容
 		stringHtml.append("<html><head>");
-		stringHtml.append("<meta http-equiv=\"Content-Type\" content=\"text/html; charset=GBK\">");
-//		stringHtml.append("<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"/>");
+//		stringHtml.append("<meta http-equiv=\"Content-Type\" content=\"text/html; charset=GBK\">");
+		stringHtml.append("<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"/>");
 //		stringHtml.append("<style type=\"text/css\">");
 		stringHtml.append("</style>");
 		stringHtml.append(String.format("<title>%s</title>", htmlTitle));
 		stringHtml.append("</head>");
 		stringHtml.append("<body>");
 //		stringHtml.append("<body bgcolor=\"#FFF8DC\">");
-		stringHtml.append("<div align=\"center\">");
+		stringHtml.append("<div align=\"left\">");
 //		stringHtml.append("<div>hello</div>");
 		stringHtml.append(htmlBody);
 		stringHtml.append("</div>");

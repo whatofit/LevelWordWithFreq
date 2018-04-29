@@ -26,7 +26,7 @@ public class ResourceUtil {
             // Path resPath = Paths.get(Constant.PROJECT_BIN_DIR +
             // resourceFilename);
             // return FileUtil.readFile(resPath.toAbsolutePath().toString());
-            return FileUtil.readFile(resourceFilename);
+            return FileUtil.readFile4(resourceFilename);
         } catch (Exception e) {
             System.out.println("readFile:" + e.toString());
         }

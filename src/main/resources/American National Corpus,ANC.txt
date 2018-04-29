@@ -72,7 +72,7 @@ freq	word
 71	re
 72	would
 73	been
-74	Where
+74	where
 75	then
 76	him
 77	got
@@ -97,8 +97,8 @@ freq	word
 96	them
 97	down
 98	never
-99	Well
-100	Yes
+99	well
+100	yes
 101	d
 102	should
 103	will
@@ -797,7 +797,7 @@ freq	word
 796	sex
 797	blue
 798	lovely
-799	Whoa
+799	whoa
 800	walking
 801	feels
 802	calm
@@ -1233,7 +1233,7 @@ freq	word
 1232	belong
 1233	hall
 1234	According
-1235	West
+1235	west
 1236	chicken
 1237	guard
 1238	hiding
@@ -2280,7 +2280,7 @@ freq	word
 2279	figures
 2280	ghost
 2281	memories
-2282	Whoo
+2282	whoo
 2283	pot
 2284	soup
 2285	Jeez

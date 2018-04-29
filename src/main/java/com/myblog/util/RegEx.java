@@ -14,10 +14,30 @@ public class RegEx {
     * 要匹配的字符串
     * @return 如果txt 符合 regex的正则表达式格式,返回true, 否则返回 false;
     */
-    private static boolean isMatch(String regex, String txt) {
+	public static boolean isMatch(String regex, String txt) {
         Pattern pattern = Pattern.compile(regex);
         Matcher matcher = pattern.matcher(txt);
         return matcher.matches();
+    }
+	
+    /**
+     * 在字符串中找单词
+    * @param regex
+    * 要找的单词
+    * @param txt
+    * 待找的字符串、
+    * @return 如果txt 有符合 regex单词,返回true, 否则返回 false;
+    */
+	public static boolean isMatchWord(String line, String word) {
+		String[] wordField = line.split("\t");
+		String newLine = wordField[0] + "/" + wordField[1];
+		String []newField = newLine.split("/");
+		for (int j = 0; j < newField.length; j++) {
+			if (word.equalsIgnoreCase(newField[j])) {
+				return true;
+			}
+		}
+        return false;
     }
     
 //    5294    vitamin n.维生素
