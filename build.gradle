@@ -68,6 +68,8 @@ dependencies {
     // https://mvnrepository.com/artifact/org.apache.tika/tika-app
 	compile group: 'org.apache.tika', name: 'tika-app', version: '1.17'
 
+	// https://mvnrepository.com/artifact/org.apache.pdfbox/pdfbox
+	compile group: 'org.apache.pdfbox', name: 'pdfbox', version: '2.0.9'
 }
 
 sourceSets {

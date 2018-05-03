@@ -268,7 +268,29 @@ public class RegEx {
             return word;
         }
     }
-	
+    
+    // 14 you p
+    // 29 n''t x
+    // 29 n't x 
+    // 48 will v
+    // 6863 welcome n  
+    //3652 and/or c 
+    //8288 sauté v  
+    //4103 o''clock r  
+    //12253 y''all p  
+    public static String catchWordLine(String line) {
+        String regex = "^(\\d+)\\s+([a-zA-Z\\-\'/é]+)(?:\\s*\\[PL\\])?\\s+([a-zA-Z])$";
+        Pattern pattern = Pattern.compile(regex);
+        Matcher matcher = pattern.matcher(line.trim().replaceAll("''", "'"));
+        if (matcher.find()) {
+            String freq = matcher.group(1);
+            String word = matcher.group(2);
+            String pos = matcher.group(3);
+            return freq +"\t"+word+"\t" + pos;
+        }
+        return "";
+    }
+    
 	public static void main(String[] args) {
 	    //String line = "★ behavio(u)ral";
 //	    String line = "▲ acclaim";
@@ -277,8 +299,13 @@ public class RegEx {
 //		String line = "  airplane/aeroplane(r)";
 //      String line = "believe";
 //	    String line = "654 finish";
-	    String line = "5297   vocal   a.声音的;有声的;歌唱的 n.元音;声乐作品";
-	    
+	    //String line = "5297   vocal   a.声音的;有声的;歌唱的 n.元音;声乐作品";
+//	    String line = "6863 welcome n  ";
+//	    String line = "2846 | 0.96 ";
+//	    String line = "9826 | 0.93 ";
+	    //String line = "9975 semifinal [PL] n  ";
+	    //String line = "9975 semifinal n ";
+	    String line = "9997 supernova      ";
       
 		//catchWord(line);
 		
@@ -287,7 +314,9 @@ public class RegEx {
 		//System.out.println("replaceAll=" + line.replaceAll("[()\\d]", ""));
 		
 		//System.out.println("containsNumber=" + containsNumber(line));
-	    System.out.println("containsNumber:" + catchNumberWord(line));
+//	    System.out.println("containsNumber:" + catchNumberWord(line));
+	    
+	    System.out.println("containsNumber:" + catchWordLine(line));
 	}
 
 	

@@ -1,3 +1,4 @@
+#忽略统计的单词(已掌握的单词)
 the
 to
 a
@@ -89,7 +90,7 @@ over
 them
 down
 never
-Well
+well
 yes
 should
 will
