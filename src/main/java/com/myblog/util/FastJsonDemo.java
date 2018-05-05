@@ -53,12 +53,12 @@ public class FastJsonDemo {
         User user = new User(1, "张三");
         String json = FastJsonUtil.obj2json(user);
         System.out.println("test_obj2json:json1=" + json);
-        List<User> list = new ArrayList<>();
+        List<User> list = new ArrayList<User>();
         list.add(new User(1, "张三"));
         list.add(new User(2, "李四"));
         String json2 = FastJsonUtil.obj2json(list);
         System.out.println("test_obj2json:json2=" + json2);
-        Map<String, User> map = new HashMap<>();
+        Map<String, User> map = new HashMap<String, User>();
         map.put("user1", new User(1, "张三"));
         map.put("user2", new User(2, "李四"));
         String json3 = FastJsonUtil.obj2json(map);

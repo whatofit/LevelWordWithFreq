@@ -1,11 +1,12 @@
 package com.myblog.statistics;
 
+import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import org.apache.commons.collections4.map.HashedMap;
+//import org.apache.commons.collections4.map.HashedMap;
 
 import com.myblog.Constant;
 import com.myblog.txt.GenerateHtml;
@@ -56,7 +57,7 @@ public class ParseArticleWordsLevel {
 		String vocabularyFile = Constant.PATH_RESOURCES + "/vocabulary_stage_levels_words.txt";
 		List<String> vocabularyDict = ResourceUtil.readFileLines(vocabularyFile);
 
-		Map<String, String> bgColor = new HashedMap<String, String>();
+		Map<String, String> bgColor = new HashMap<String, String>();
 		// White #FFFFFF
 		// Black #000000
 		bgColor.put("0", "#FFFFFF");// Black
@@ -67,7 +68,7 @@ public class ParseArticleWordsLevel {
 		bgColor.put("5", "#00FFFF");// Cyan
 		bgColor.put("6", "#8B0000");// DarkRed
 		bgColor.put("7", "#FF0000");// Red
-		Map<String, String> fgColor = new HashedMap<String, String>();
+		Map<String, String> fgColor = new HashMap<String, String>();
 		fgColor.put("0", "#000000");
 		fgColor.put("1", "#FFFFFF");
 		fgColor.put("2", "#FFFFFF");
