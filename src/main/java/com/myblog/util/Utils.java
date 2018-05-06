@@ -9,11 +9,47 @@ import java.io.Writer;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.nio.file.StandardOpenOption;
+import java.util.ArrayList;
 import java.util.List;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public class Utils {
+
+    /**
+     * @param args
+     */
+    public static void main(String[] args) {
+
+        // Utils hfc = new Utils();
+        // String path = "D:\\Abc\\123\\Ab1";
+        // // boolean result = hfc.CreateFolder(path);
+        // // System.out.println(result);
+        // path = "D:\\Abc\\124";
+        // boolean result = hfc.DeleteFolder(path);
+        // System.out.println(result);
+
+        // String name = Utils.getFileName("./vocabulary_ciba/00058-some.xml");
+        // System.out.println(name);
+        //
+        // String[] name2 =
+        // Utils.splitFileName("./vocabulary_ciba/00058-some.xml");
+        // System.out.println(name2[0] +"-----" + name2[1]);
+
+//        String mXmlWordFile = "./src/06169-corn.xml";
+//        String body = FileUtil.readFile(mXmlWordFile);
+//        System.out.println("--body---" + body);
+//        // String body = "表示<尤美>的";
+//        String ret = Utils.replaceAngleBrackets(body);
+//        System.out.println("--ret---" + ret);
+        
+        //String forderPath = "d:/MyDrivers";
+    	String forderPath = "E:\\tmp";
+        List<String> resultNameList = new ArrayList<String>();
+        resultNameList = traverseFile(new File(forderPath), resultNameList,null);
+        System.out.println("--resultFileName:" + resultNameList);
+    }
+    
     // 1，验证传入路径是否为正确的路径名(Windows系统，其他系统未使用)
     // 验证字符串是否为正确路径名的正则表达式
     // private static String matches = "[A-Za-z]:\\\\[^:?\"><*]*";
@@ -265,34 +301,6 @@ public class Utils {
         }
     }
 
-    /**
-     * @param args
-     */
-    public static void main(String[] args) {
-
-        // Utils hfc = new Utils();
-        // String path = "D:\\Abc\\123\\Ab1";
-        // // boolean result = hfc.CreateFolder(path);
-        // // System.out.println(result);
-        // path = "D:\\Abc\\124";
-        // boolean result = hfc.DeleteFolder(path);
-        // System.out.println(result);
-
-        // String name = Utils.getFileName("./vocabulary_ciba/00058-some.xml");
-        // System.out.println(name);
-        //
-        // String[] name2 =
-        // Utils.splitFileName("./vocabulary_ciba/00058-some.xml");
-        // System.out.println(name2[0] +"-----" + name2[1]);
-
-        String mXmlWordFile = "./src/06169-corn.xml";
-        String body = FileUtil.readFile(mXmlWordFile);
-        System.out.println("--body---" + body);
-        // String body = "表示<尤美>的";
-        String ret = Utils.replaceAngleBrackets(body);
-        System.out.println("--ret---" + ret);
-    }
-
     //转换成Unicode如"\u810f\u7684"转换成："脏的"
     //{"1":{"percent":37,"sense":"\u810f\u7684"},"2":{"percent":27,"sense":"\u80ae\u810f\u7684"},"3":{"percent":15,"sense":"\u5f04\u810f"},"4":{"percent":8,"sense":"\u5351\u9119\u7684"},"5":{"percent":7,"sense":"\u4e0b\u6d41\u7684"},"6":{"percent":3,"sense":"\u73b7\u6c61"},"7":{"percent":2,"sense":"\u4e0d\u6b63\u5f53\u7684"},"8":{"percent":1,"sense":"\u8150\u8d25\u7684"}}
     //{"1":{"percent":37,"sense":"脏的"},"2":{"percent":27,"sense":"肮脏的"},"3":{"percent":15,"sense":"弄脏"},"4":{"percent":8,"sense":"卑鄙的"},"5":{"percent":7,"sense":"下流的"},"6":{"percent":3,"sense":"玷污"},"7":{"percent":2,"sense":"不正当的"},"8":{"percent":1,"sense":"腐败的"}}
@@ -361,4 +369,56 @@ public class Utils {
         }
         return outBuffer.toString();
     }
+    
+    //递归遍历文件夹下的所有文件，包括子文件的文件
+//    public static List<File> getFileList(String strPath) {
+//        File dir = new File(strPath);
+//        File[] files = dir.listFiles(); // 该文件目录下文件全部放入数组
+//        if (files != null) {
+//            for (int i = 0; i < files.length; i++) {
+//                String fileName = files[i].getName();
+//                if (files[i].isDirectory()) { // 判断是文件还是文件夹
+//                    getFileList(files[i].getAbsolutePath()); // 获取文件绝对路径
+//                //} else if (fileName.endsWith("\\.pdf")) { // 判断文件名是否以.pdf结尾
+//                } else {
+//                    String strFileName = files[i].getAbsolutePath();
+//                    System.out.println("---" + strFileName);
+//                    filelist.add(files[i]);
+//                }
+//            }
+//
+//        }
+//        return filelist;
+//    }
+    
+	public static List<String> traverseFile(File file, List<String> resultFileName,String suffix) {
+		if (file.exists()) {// 判断是否存在
+			if (file.isFile()) {// 判断是否存在
+				if (suffix == null || suffix.trim().length() == 0) {
+					resultFileName.add(file.getPath());
+				}else if (file.getName().endsWith(suffix)){
+					resultFileName.add(file.getPath());
+				}
+			} else {
+				File[] files = file.listFiles();
+				if (files == null) {
+					return resultFileName;// 判断目录下是不是空的
+				}
+				for (File f : files) {
+					if (f.isDirectory()) {// 判断是否文件夹
+						//resultFileName.add(f.getPath());
+						traverseFile(f, resultFileName,suffix);// 调用自身,查找子目录
+					} else {
+						if (suffix == null || suffix.trim().length() == 0) {
+							resultFileName.add(f.getPath());
+						}else if (f.getName().endsWith(suffix)){
+							resultFileName.add(f.getPath());
+						}
+					}
+				}
+			}
+		}
+		
+		return resultFileName;
+	}
 }

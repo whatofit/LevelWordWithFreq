@@ -131,7 +131,7 @@ public class WordStatistics {
 		String fileName = "/WordStatistics.txt";// 文件路径
 		String resFileName = Constant.PATH_RESOURCES + fileName;
 		String fileBody = ResourceUtil.readFile(resFileName);
-		String[] wordArr = fileBody.split("[^a-zA-Z]"); // 过滤出只含有字母的
+		String[] wordArr = fileBody.split("[^a-z-A-Z]"); // 过滤出只含有字母的
 		List<String> wordList = new ArrayList<String>(); // 存储过滤后单词的列表
 		for (String word : wordArr) {
 			if (word.length() != 0) { // 去除长度为0的行
@@ -148,18 +148,18 @@ public class WordStatistics {
 		Map<String, Integer> wordsCount = new TreeMap<String, Integer>(); // 存储单词计数信息，key值为单词，value为单词数
 
 		// 单词的词频统计
-		for (String li : wordList) {
-			if (wordsCount.get(li) != null) {
-				wordsCount.put(li, wordsCount.get(li) + 1);
+		for (String word : wordList) {
+			if (wordsCount.get(word) != null) {
+				wordsCount.put(word, wordsCount.get(word) + 1);
 			} else {
-				wordsCount.put(li, 1);
+				wordsCount.put(word, 1);
 			}
 		}
 		return wordsCount;
 	}
 
 	// 按value的大小进行排序
-	public static void SortMap(Map<String, Integer> oldmap) {
+	public static List<String> SortMap(Map<String, Integer> oldmap) {
 
 		ArrayList<Map.Entry<String, Integer>> list = new ArrayList<Map.Entry<String, Integer>>(oldmap.entrySet());
 
@@ -170,9 +170,13 @@ public class WordStatistics {
 			}
 		});
 
+		List<String > wordFreqList = new ArrayList<String>();
+		
 		for (int i = 0; i < list.size(); i++) {
-			System.out.println(list.get(i).getKey() + ": " + list.get(i).getValue());
+			wordFreqList.add(list.get(i).getKey() + "\t" + list.get(i).getValue());
+			//System.out.println(list.get(i).getKey() + ": " + list.get(i).getValue());
 		}
+		return wordFreqList;
 	}
 
 	// 找出全文的单词，转小写，并排序,使用 distinct 来找出不重复的单词。

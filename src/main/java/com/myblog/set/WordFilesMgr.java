@@ -62,6 +62,20 @@ public class WordFilesMgr {
         return resultWords;
     }
     
+    public static List<String> loadWordsFromFile2(String... files){
+        //List<String> resultWords = Collections.emptyList(); 
+        List<String> resultWords = new ArrayList<String>();
+        for(String file : files){
+            System.out.println("parse word file: "+file);
+            List<String> wordFileLines = ResourceUtil.readFileLines(Constant.PATH_RESOURCES + file);
+            System.out.println("curWords count: "+wordFileLines.size());
+            resultWords.addAll(wordFileLines);
+            //resultWords = curWords;            
+        }
+        //System.out.println("unique words count: "+resultWords.size());
+        return resultWords;
+    }
+    
     //转化,使转化,使改变,使转变
     //字符串key-value(frequency)集合转换成word集合
     public static Map<Word, AtomicInteger> convert(Map<String, AtomicInteger> words) {

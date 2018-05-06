@@ -319,10 +319,6 @@ public class RegEx {
 	    System.out.println("containsNumber:" + catchWordLine(line));
 	}
 
-	
-	
-	
-	
 //	week - n. a period of time equal to seven days
 //	weigh - v. to measure how heavy someone or something is
 //	welcome - v. to express happiness or pleasure when someone arrives or something develops
@@ -342,4 +338,18 @@ public class RegEx {
         return "" + "\t"+ line;
         //return new String[] { "", line };
     }
+    
+    
+//按照行合并单词，若某行以-连字符结尾，则把连字符去掉，把下一行拼接到其后；
+//弱这行不是以-连字符结尾，则在行尾添加空格，再把下一行拼接到其后。
+    //换句话说，若行尾是Hyphen，则直接删除行尾Hyphen，或行尾不是连字符，则拼接一个空格到行尾。
+    public static String removeEndHyphen(String line) {
+    	//String regex = "\\.*-$";
+    	if (line.endsWith("-")) {
+    		return line.substring(0,line.length()-1);
+    		//return line.replaceAll(regex, replacement)
+    	} else {
+    		return line + " ";
+    	}
+	}
 }

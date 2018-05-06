@@ -14,7 +14,7 @@ import com.myblog.util.ResourceUtil;
 
 public class Subtract {
 
-    private static final Logger LOGGER = LoggerFactory.getLogger(Subtract.class);
+//    private static final Logger LOGGER = LoggerFactory.getLogger(Subtract.class);
 
     public Subtract() {
     }
@@ -55,22 +55,22 @@ public class Subtract {
      * @return
      */
     public static List<String> setDifference(List<String> first, List<String> second) {
-        LOGGER.info("求差集词典1：" + first.size());
-        LOGGER.info("求差集词典2：" + second.size());
+    	System.out.println("求差集词典1：" + first.size());
+    	System.out.println("求差集词典2：" + second.size());
 
         List<String> result = new ArrayList<String>();
         result.clear();
         result.addAll(first);
         result.removeAll(second);
         // Collections.sort(result, new WordComparator());
-        System.out.println("差集：" + result);
+        //System.out.println("差集：" + result);
 
-        LOGGER.info("差集词典：" + result.size());
+        System.out.println("差集词典：" + result.size());
         return result;
     }
 
     // 自定义比较器：按书的价格排序
-    static class WordComparator implements Comparator {
+    static class WordComparator implements Comparator<Object> {
         public int compare(Object object1, Object object2) {// 实现接口中的方法
             String str1 = (String) object1;
             String str2 = (String) object2;
