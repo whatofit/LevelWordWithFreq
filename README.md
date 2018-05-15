@@ -54,6 +54,12 @@ GRE 20000+ 美国研究生入学考试
 # NewOrUpdateLevelDict
 New Or Update Level Dict
 
+朗文释义词汇表/The Longman Defining Vocabulary
+http://www.pu-kumamoto.ac.jp/~rlavin/resources/wordlists/LongmanDefiningVocab.html
+
+朗文词典3000核心词汇集 Longman Communication 3000
+https://www.lextutor.ca/freq/lists_download/longman_3000_list.pdf
+
 http://www.anc.org/data/anc-second-release/frequency-data/
 
 一.第一版功能：
