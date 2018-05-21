@@ -253,6 +253,22 @@ public class RegEx {
 		return matcher.find();
 	}
 	
+	// 取符串中的第一个数字
+	// 3	and	c
+	// 7/9	to	t/i
+	// 12/27/903	that	c/d/r
+	// 20/4665	this	d/r
+	public static int catchFirstNumber(String line) {
+		String regex = "^(\\d+).*";
+        Pattern pattern = Pattern.compile(regex);
+        Matcher matcher = pattern.matcher(line.trim());
+        if (matcher.find()) {
+            String freq = matcher.group(1);
+            return Integer.parseInt(freq );
+        }
+        return 0;
+	}
+	
 	// 摄取本行第一个整数,第一个单词，第二个整数
     public static Word catchNumberWord(String line) {
         String []arr = line.trim().split("\\s");

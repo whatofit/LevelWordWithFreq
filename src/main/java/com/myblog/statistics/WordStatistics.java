@@ -130,19 +130,41 @@ public class WordStatistics {
 	public static void getAllWord2() {
 		String fileName = "/WordStatistics.txt";// 文件路径
 		String resFileName = Constant.PATH_RESOURCES + fileName;
-		String fileBody = ResourceUtil.readFile(resFileName);
-		String[] wordArr = fileBody.split("[^a-z-A-Z]"); // 过滤出只含有字母的
-		List<String> wordList = new ArrayList<String>(); // 存储过滤后单词的列表
-		for (String word : wordArr) {
-			if (word.length() != 0) { // 去除长度为0的行
-				wordList.add(word);
-			}
-		}
+		List<String> wordList = getFileWord(resFileName);
 		Map<String, Integer> wordsCount = StatisticsFreq(wordList);
 		SortMap(wordsCount);
 		System.out.println(wordsCount.size());
 	}
 
+	// 统计词频
+	public static List<String> getFileWord(String resFileName) {
+		String fileBody = ResourceUtil.readFile(resFileName);
+		String[] wordArr = fileBody.split("[^a-z-A-Z]"); // 过滤出只含有字母的
+		List<String> wordList = new ArrayList<String>(); // 存储过滤后单词的列表
+		for (String word : wordArr) {
+			String pureWord = word.replaceFirst("^-*", "").replaceFirst("-*$", "").trim().toLowerCase();
+			if (pureWord.length() != 0) { // 去除长度为0的行
+				//去掉前导-，去掉后缀-，全部转化成小写
+				if (pureWord.contains("--")) {
+					String regex = "^([a-zA-Z]*)(?:-{2,})([a-zA-Z]*)$";
+					Pattern pattern = Pattern.compile(regex);
+					Matcher matcher = pattern.matcher(pureWord);
+					if (matcher.find()) {
+						String word1 = matcher.group(1);
+						String word2 = matcher.group(2);
+						wordList.add(word1);
+						wordList.add(word2);
+					} else {
+						//wordList.add(pureWord);
+					}
+				} else {
+					wordList.add(pureWord);
+				}
+			}
+		}
+		return wordList;
+	}
+	
 	// 统计词频
 	public static Map<String, Integer> StatisticsFreq(List<String> wordList) {
 		Map<String, Integer> wordsCount = new TreeMap<String, Integer>(); // 存储单词计数信息，key值为单词，value为单词数
