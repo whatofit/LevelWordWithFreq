@@ -368,4 +368,51 @@ public class RegEx {
     		return line + " ";
     	}
 	}
+    
+    //String str="[\u4e00-\u9fa5]";    //该表达式可以识别出任何汉字。
+    //String punctuation =  "[\\pP+~$`^=|<>～｀＄＾＋＝｜＜＞￥×]"; //标点（所有中英文标点）的正则表达式
+    
+    //匹配中文标点符号：
+    //String str="[\u3002\uff1b\uff0c\uff1a\u201c\u201d\uff08\uff09\u3001\uff1f\u300a\u300b]"
+    //该表达式可以识别出： 。 ；  ， ： “ ”（ ） 、 ？ 《 》 这些标点符号。
+     
+//    //java中匹配字符串中的中文字符(含中文标点的)
+//    public static String catchChinese(String src) {
+//        String exp="^[\u4E00-\u9FA5|\\！|\\,|\\。|\\（|\\）|\\《|\\》|\\“|\\”|\\？|\\：|\\；|\\【|\\】]$";  
+//        Pattern pattern=Pattern.compile(exp);  
+//        for (int i = 0; i < src.length(); i++) {// 遍历字符串每一个字符  
+//            char c = str.charAt(i);  
+//            Matcher matcher=pattern.matcher(c + "");  
+//            if(matcher.matches()) {  
+//                amount++;  
+//            }  
+//        }  
+//        return amount;  
+//        
+//        String regex = "^(\\d+)\\s+([a-zA-Z\\-\'/é]+)(?:\\s*\\[PL\\])?\\s+([a-zA-Z])$";
+//        Pattern pattern = Pattern.compile(regex);
+//        Matcher matcher = pattern.matcher(line.trim().replaceAll("''", "'"));
+//        if (matcher.find()) {
+//            String freq = matcher.group(1);
+//            String word = matcher.group(2);
+//            String pos = matcher.group(3);
+//            return freq +"\t"+word+"\t" + pos;
+//        }
+//        return "";
+//    }  
+
+//    //java中匹配并获取前导字符串中的英文字符(含英文标点)，及数字，直到碰到汉字为准
+//    public static String catchEnglish(String src) {
+//        String regex = "^(\\d+)\\s+([a-zA-Z\\-\'/é]+)(?:\\s*\\[PL\\])?\\s+([a-zA-Z])$";
+//        Pattern pattern = Pattern.compile(regex);
+//        Matcher matcher = pattern.matcher(line.trim().replaceAll("''", "'"));
+//        if (matcher.find()) {
+//            String freq = matcher.group(1);
+//            String word = matcher.group(2);
+//            String pos = matcher.group(3);
+//            return freq +"\t"+word+"\t" + pos;
+//        }
+//        return "";
+//    }  
+    
 }
