@@ -27,7 +27,6 @@ public class ParseCOCA2Txt {
      * @param args
      */
     public static void main(String[] args) {
-        ParseCOCA2Txt pdfReader = new ParseCOCA2Txt();
         try {
             // 1.读取pdf文件路径
             // "/美国当代英语语料库COCA词频20000.pdf"

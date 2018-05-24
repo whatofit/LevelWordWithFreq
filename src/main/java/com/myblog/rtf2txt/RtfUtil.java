@@ -6,11 +6,13 @@ import java.io.ByteArrayOutputStream;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
 import java.io.FileReader;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.io.OutputStream;
+import java.io.OutputStreamWriter;
 import java.io.Reader;
 import java.io.StringWriter;
 import java.io.Writer;
@@ -194,6 +196,79 @@ public class RtfUtil {
         return "";
     }
 
+    //PDF to doc
+    public static String readPdf2Doc(String filename) {
+        // pdf文件名
+        File pdfFile = new File(filename);
+        // 输入文本文件名称
+        String outTextFilename = null;
+        // 编码方式
+        String encoding = "UTF-8";
+        // 开始提取页数
+        int startPage = 1;
+        // 结束提取页数
+        int endPage = Integer.MAX_VALUE;
+        // 是否排序
+        boolean isSort = false;
+        // 文件输入流，生成文本文件
+//        Writer output = null;
+        // 内存中存储的PDF Document
+        PDDocument document = null;
+        try {
+            // 方式一：
+            /**
+             * InputStream input = new FileInputStream( pdfFile ); //加载 pdf 文档
+             * PDFParser parser = new PDFParser(new RandomAccessBuffer(input));
+             * parser.parse(); document = parser.getPDDocument();
+             **/
+            // 方式二：
+            document = PDDocument.load(pdfFile);
+            // PDFTextStripper来提取文本,// 读文本内容
+            PDFTextStripper stripper = new PDFTextStripper();
+            // 设置是否排序
+            stripper.setSortByPosition(isSort);
+            // 设置起始页
+            stripper.setStartPage(startPage);
+            // 设置结束页
+            endPage = document.getNumberOfPages();// 获取页码
+            stripper.setEndPage(endPage);
+            // 调用PDFTextStripper的writeText提取并输出文本
+            //String content = stripper.getText(document);
+            // System.out.println(content);
+
+            //写文件
+            if (pdfFile.length() > 4) {
+                outTextFilename = pdfFile.getCanonicalPath().replace(".pdf$", ".doc"); //匹配到行尾
+            }
+            // 文件输入流，写入文件倒textFile
+            FileOutputStream fos=new FileOutputStream(outTextFilename);
+            Writer writer=new OutputStreamWriter(fos,encoding);
+            stripper.writeText(document, writer);
+            //return content;
+        } catch (Exception e) {
+            System.out.println(e);
+        } finally {
+//            try {
+//                if (output != null) {
+//                    // 关闭输出流
+//                    output.close();
+//                }
+//            } catch (IOException e) {
+//                e.printStackTrace();
+//            }
+            // 关闭PDF Document
+            try {
+                if (document != null) {
+                    document.close();
+                }
+            } catch (IOException e) {
+                // TODO Auto-generated catch block
+                e.printStackTrace();
+            }
+        }
+        return "";
+    }
+    
 	/**
 	 * 直接读取text文本
 	 * 
