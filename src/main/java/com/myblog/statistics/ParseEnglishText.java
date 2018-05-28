@@ -1,6 +1,5 @@
 package com.myblog.statistics;
 
-import java.io.File;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
@@ -52,8 +51,7 @@ public class ParseEnglishText {
 		//1.读目录中的txt文件
 		//2.去掉每行尾带的连字符后直接拼接，另把每行不带连字符的行，加空格拼接成文本
 		//3.分词成list并加入总词list
-		List<String> txtFileList = new ArrayList<String>();
-		txtFileList = Utils.traverseFile(new File(englistFile), txtFileList, ".txt");
+		List<String> txtFileList = Utils.traverseFile(englistFile, ".txt");
 		
 		List<String> wordLines  = new ArrayList<String>();
 		for (String txtFilename:txtFileList) {

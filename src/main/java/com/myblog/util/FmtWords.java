@@ -4,8 +4,6 @@ import java.util.List;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import com.myblog.Constant;
-
 public class FmtWords {
 
     public FmtWords() {

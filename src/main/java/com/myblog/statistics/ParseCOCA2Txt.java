@@ -3,13 +3,9 @@ package com.myblog.statistics;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
-import java.util.Set;
 import java.util.stream.Collectors;
 
 import com.myblog.Constant;
-import com.myblog.model.Word;
-import com.myblog.set.WordFilesMgr;
-import com.myblog.util.CfgUtil;
 import com.myblog.util.RegEx;
 import com.myblog.util.ResourceUtil;
 

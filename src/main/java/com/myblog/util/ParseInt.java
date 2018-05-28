@@ -1,7 +1,5 @@
 package com.myblog.util;
 
-import java.util.Map;
-
 import com.myblog.model.Word;
 
 public class ParseInt {

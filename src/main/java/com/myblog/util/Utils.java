@@ -44,10 +44,15 @@ public class Utils {
 //        System.out.println("--ret---" + ret);
         
         //String forderPath = "d:/MyDrivers";
-    	String forderPath = "E:\\tmp";
-        List<String> resultNameList = new ArrayList<String>();
-        resultNameList = traverseFile(new File(forderPath), resultNameList,null);
+    	String forderPath = "E:\\tmp\\";
+        //List<String> resultNameList = new ArrayList<String>();
+    	List<String> resultNameList = traverseFile(forderPath,".docx");
         System.out.println("--resultFileName:" + resultNameList);
+//    	File f = new File(forderPath);  
+//    	String[] files = f.list();  
+//        for(String a:files){  
+//            System.out.println(a);  
+//        }  
     }
     
     // 1，验证传入路径是否为正确的路径名(Windows系统，其他系统未使用)
@@ -391,34 +396,35 @@ public class Utils {
 //        return filelist;
 //    }
     
-	public static List<String> traverseFile(File file, List<String> resultFileName,String suffix) {
+	public static ArrayList<String> traverseFile(String filePath, String suffix) {
+		ArrayList<String> resultNameList = new ArrayList<String>();
+		File file = new File(filePath);
 		if (file.exists()) {// 判断是否存在
 			if (file.isFile()) {// 判断是否存在
 				if (suffix == null || suffix.trim().length() == 0) {
-					resultFileName.add(file.getPath());
+					resultNameList.add(file.getPath());
 				}else if (file.getName().endsWith(suffix)){
-					resultFileName.add(file.getPath());
+					resultNameList.add(file.getPath());
 				}
 			} else {
 				File[] files = file.listFiles();
-				if (files == null) {
-					return resultFileName;// 判断目录下是不是空的
+				if (files == null || files.length == 0) {
+					return resultNameList;// 判断目录下是不是空的
 				}
 				for (File f : files) {
 					if (f.isDirectory()) {// 判断是否文件夹
 						//resultFileName.add(f.getPath());
-						traverseFile(f, resultFileName,suffix);// 调用自身,查找子目录
+						resultNameList.addAll(traverseFile(f.getPath(),suffix));// 调用自身,查找子目录
 					} else {
 						if (suffix == null || suffix.trim().length() == 0) {
-							resultFileName.add(f.getPath());
+							resultNameList.add(f.getPath());
 						}else if (f.getName().endsWith(suffix)){
-							resultFileName.add(f.getPath());
+							resultNameList.add(f.getPath());
 						}
 					}
 				}
 			}
 		}
-		
-		return resultFileName;
+		return resultNameList;
 	}
 }

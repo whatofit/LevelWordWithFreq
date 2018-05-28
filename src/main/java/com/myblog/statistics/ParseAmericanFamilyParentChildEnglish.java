@@ -1,19 +1,13 @@
 package com.myblog.statistics;
 
-import java.io.File;
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.List;
-import java.util.Map;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
-import java.util.stream.Collectors;
 
 import com.myblog.Constant;
 import com.myblog.util.CfgUtil;
-import com.myblog.util.RegEx;
 import com.myblog.util.ResourceUtil;
-import com.myblog.util.Utils;
 
 public class ParseAmericanFamilyParentChildEnglish {
 
