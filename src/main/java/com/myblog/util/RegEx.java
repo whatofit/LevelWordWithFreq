@@ -403,6 +403,7 @@ public class RegEx {
 
 //    //java中匹配并获取前导字符串中的英文字符(含英文标点)，及数字，直到碰到汉字为准
 //    public static String catchEnglish(String src) {
+//        //([^\u4e00-\u9fa5])
 //        String regex = "^(\\d+)\\s+([a-zA-Z\\-\'/é]+)(?:\\s*\\[PL\\])?\\s+([a-zA-Z])$";
 //        Pattern pattern = Pattern.compile(regex);
 //        Matcher matcher = pattern.matcher(line.trim().replaceAll("''", "'"));
