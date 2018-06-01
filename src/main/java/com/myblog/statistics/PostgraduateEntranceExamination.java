@@ -24,8 +24,8 @@ public class PostgraduateEntranceExamination {
 		System.out.println(wordFreqList.size());
 
 		// 2.写入对应的text文件
-		String cfg_englist_txt_result = CfgUtil.getPropCfg(Constant.FILE_CONFIG_FILE, "cfg_englist_txt_result");
-		String outTextFilename = Constant.PATH_RESOURCES + cfg_englist_txt_result;
+		String cfg_english_txt_result_path = CfgUtil.getPropCfg(Constant.FILE_CONFIG_FILE, "cfg_english_txt_result");
+		String outTextFilename = Constant.PATH_RESOURCES + cfg_english_txt_result_path;
 		ResourceUtil.writerFile(outTextFilename, wordFreqList, false);
 		System.out.println("done!outTextFilename=" + outTextFilename);
 

@@ -18,9 +18,9 @@ public class ParseEnglishText {
 	public static void main(String[] args) {
 		long startTime = System.currentTimeMillis();
         // 1.读取单词集合路径
-        String cfg_englist_path = CfgUtil.getPropCfg(Constant.FILE_CONFIG_FILE, "cfg_englist_txt");
+        String cfg_english_path = CfgUtil.getPropCfg(Constant.FILE_CONFIG_FILE, "cfg_english_txt");
 		//String forderPath = "E:/FanMingyou/The Economist";
-		String englistFile = Constant.PATH_RESOURCES +cfg_englist_path;
+		String englistFile = Constant.PATH_RESOURCES +cfg_english_path;
         // 2.加载集合
         List<String> wordLines = doParseEnglishFile(englistFile);
 //        // #剔重/删除重复单词,保留唯一单词并排序
@@ -37,8 +37,8 @@ public class ParseEnglishText {
         System.out.println(wordFreqList.size());
 		
         // 2.写入对应的text文件
-        String cfg_englist_txt_result = CfgUtil.getPropCfg(Constant.FILE_CONFIG_FILE, "cfg_englist_txt_result");
-        String outTextFilename = Constant.PATH_RESOURCES +cfg_englist_txt_result;
+        String cfg_english_txt_result_path = CfgUtil.getPropCfg(Constant.FILE_CONFIG_FILE, "cfg_english_txt_result");
+        String outTextFilename = Constant.PATH_RESOURCES +cfg_english_txt_result_path;
         ResourceUtil.writerFile(outTextFilename, wordFreqList, false);
         System.out.println("done!outTextFilename="+outTextFilename);
         

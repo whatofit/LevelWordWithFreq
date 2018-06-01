@@ -18,9 +18,9 @@ public class MergeDuplicateCOCA {
 	public static void main(String[] args) {
 		long startTime = System.currentTimeMillis();
 		// 1.读取单词集合路径
-		String cfg_englist_path = CfgUtil.getPropCfg(Constant.FILE_CONFIG_FILE, "cfg_englist_txt");
+		String cfg_english_path = CfgUtil.getPropCfg(Constant.FILE_CONFIG_FILE, "cfg_english_txt");
 		// String forderPath = "E:/FanMingyou/The Economist";
-		String cocaFile = Constant.PATH_RESOURCES + cfg_englist_path;
+		String cocaFile = Constant.PATH_RESOURCES + cfg_english_path;
 		// 1.读取加载coca文件
 		List<String> cocaFileLines = ResourceUtil.readFileLines(cocaFile);
 		// 2.处理coca原文件集合为word list
@@ -47,8 +47,8 @@ public class MergeDuplicateCOCA {
 		Map<String, String> mapWords = wordList2SetWithMerge(cocaFileLines);
 		wordLines = SortMap(mapWords);
 		// 3.保存word list
-		String cfg_englist_txt_result = CfgUtil.getPropCfg(Constant.FILE_CONFIG_FILE, "cfg_englist_txt_result");
-		String cocaWordFile = Constant.PATH_RESOURCES + cfg_englist_txt_result;
+		String cfg_english_txt_result_path = CfgUtil.getPropCfg(Constant.FILE_CONFIG_FILE, "cfg_english_txt_result");
+		String cocaWordFile = Constant.PATH_RESOURCES + cfg_english_txt_result_path;
 		ResourceUtil.writerFile(cocaWordFile, wordLines, false);
 		long endTime = System.currentTimeMillis();
 		System.out.println("执行耗时 : " + (endTime - startTime) / 1000f + " 秒 ");
