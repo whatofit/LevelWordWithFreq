@@ -51,7 +51,7 @@
    accomplish
    accord
    accordance
-   according
+   according to
    accordingly
    account
 ★ accountability
@@ -284,7 +284,7 @@
 ★ analytical
    analyze/-yse
 ▲ anarchist
-   Ancestor
+   ancestor
 ▲ ancestry
    anchor
    ancient
@@ -497,7 +497,7 @@
 ▲ auditorium
 ▲ auditory
 ▲ augment
-   august
+   August
    aunt
 ▲ austere
    authentic
@@ -1059,7 +1059,7 @@
 ▲ cedar
    ceiling
    celebrate
-★ celcbrity
+★ celebrity
    cell
    cellar
 ★ cellular
@@ -1104,7 +1104,7 @@
    chapter
    character
    characteristic
-   characterize/ise
+   characterize/-ise
 ▲ charcoal
    charge
 ★ charitable
@@ -1544,7 +1544,7 @@
    convenient
 ▲ convent
    convention
-   eonventional
+   conventional
 ★ converge
    conversation
 ▲ converse
@@ -2006,6 +2006,7 @@
    dilemma
 ★ diligent
 ★ dilate
+★ dilute
    dim
 ▲ dime
    dimension
@@ -2204,14 +2205,14 @@
    drive
    driver
 ★ driveway
-   driving-licence/driver's license
+   driving-licence/-se
 ▲ drizzle
    drop
    dropout
 ★ drought
    drown
    drug
-   drtun
+   drum
    drunk
    dry
    dryer
@@ -2330,7 +2331,7 @@
    else
    elsewhere
 ▲ elusive
-   email/e-mail
+   email/E-mail
 ★ emancipate
 ▲ embargo
 ★ embark
@@ -2560,7 +2561,7 @@
    expert
 ★ expertise
 ★ expire
-   exptain
+   explain
    explanation
 ★ explanatory
    explicit
@@ -2786,10 +2787,13 @@
    flower
 ▲ flu
    fluctuate
+   fluent
    fluid
 ▲ fluorescent
+★flush
 ▲ flute
 ★ flutter
+▲ flux
    fly
 ★ foam
    focus
@@ -2820,7 +2824,7 @@
    forecast
 ▲ forefront
 ▲ foreground
-   fgrehead
+   forehead
    foreign
    foreigner
 ★ foremost
@@ -2924,7 +2928,7 @@
    function
    functional
    fund
-   fmrdamental
+   fundamental
 ★ funding
    funeral
 ▲ fungus
@@ -3043,7 +3047,7 @@
    goods
    goose
 ★ gorge
-★ gorgcous
+★ gorgeous
 ▲ gorilla
 ▲ gospel
 ★ gossip
@@ -3137,7 +3141,7 @@
 ★ gunfire
 ▲ gush
 ▲ gust
-▲ gat
+▲ gut
 ▲ gutter
    guy
    gym(nasium)
@@ -3216,7 +3220,7 @@
    headmaster
    headmistress
    headquarters
-   bead-teacher
+   head-teacher
    heal
    health
    healthcare
@@ -3373,6 +3377,7 @@
    huge
 ★ hum
    human
+   human being
 ★ humane
 ★ humanism
 ★ humanist
@@ -3643,7 +3648,7 @@
    intense
    intensify
    intensity
-   imensive
+   intensive
 ★ intent
    intention
    interact
@@ -3771,7 +3776,7 @@
    joy
    judg(e)ment
    judge
-★ judiclal
+★ judicial
 ★ judiciary
 ▲ jug
 ▲ juggle
@@ -3782,7 +3787,7 @@
    jump
 ★ junction
    June
-   Jungle
+   jungle
    junior
 ★ junk
 ▲ jurisdiction
@@ -4288,7 +4293,7 @@
    milk
 ★ milky
    mill
-   milimeter/-tre
+   millimeter/-tre
    million
    millionaire
    mind
@@ -4655,7 +4660,7 @@
    often
    oil
    oily
-   OK/okay
+   okay/O.K./OK
    old
 ★ olive
 ★ omelette
@@ -4972,7 +4977,7 @@
 ▲ persecute
 ★ persecution 
 ▲ persevere
-   Persist
+   persist
 ▲ persistent
    person
    personal
@@ -5556,7 +5561,7 @@
    reckon
 ★ reclaim
    recognition
-   recognize/ise
+   recognize/-ise
    recommend
    recommendation
    reconcile
@@ -5625,7 +5630,7 @@
    reinforce
 ▲ reinstate
 ▲ reiterate
-   reiect
+   reject
 ★ rejoice
    relate
    related
@@ -5987,7 +5992,7 @@
 ▲ scoop
    scope
    score
-★ Scorn
+★ scorn
 ▲ scour
 ▲ scourge
    scout
@@ -6407,10 +6412,9 @@
 ▲ spear
    special
    specialist
-★ speciality
+★ speciality/specialty
 ★ specialization
    specialize/-ise
-★ specialty/speciality
    species
    specific
    specifically
@@ -6435,7 +6439,7 @@
    spill
    spin
 ▲ spinach
-★ spinai
+★ spinal
    spine
 ★ spiral
    spirit
@@ -6448,6 +6452,7 @@
    spoil
    spokesman
    spokesperson
+   spokeswoman
    sponge
    sponsor
    spontaneous
@@ -6471,7 +6476,7 @@
 ★ squad
 ▲ squadron
    square
-▲ souash
+▲ squash
 ▲ squat
 ▲ squeak
    squeeze
@@ -6851,7 +6856,7 @@
    telephone/phone
    telescope
 ▲ televise
-   television/TV
+   television/TV/T.V.
    tell
    temper
 ★ temperament
@@ -7007,11 +7012,11 @@
    tolerance
 ★ tolerant
    tolerate
-   ton
+   toll
    tomato
 ▲ tomb
    tomorrow
-   toll
+   ton
    tone
    tongue
    tonight
@@ -7235,7 +7240,7 @@
    unite
    unity
    universal
-   umverse
+   universe
    university
 ★ unlawful
 ▲ unleash
@@ -7353,7 +7358,7 @@
    via
 ▲ viable
    vibrate
-   vine
+   vice
 ★ vicinity
 ★ vicious
    victim
@@ -7368,6 +7373,7 @@
 ▲ vile
    village
 ▲ villain
+   vine
    vinegar
    violate
    violence
@@ -7405,7 +7411,7 @@
    volleyball
    volt
    voltage
-   volanle
+   volume
    voluntary
    volunteer
 ▲ vomit
@@ -7529,7 +7535,7 @@
    whisper
    whistle
    white
-   white-colla
+   white-collar
    who
    whoever
    whole
