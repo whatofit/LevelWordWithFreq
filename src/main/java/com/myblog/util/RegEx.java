@@ -40,6 +40,28 @@ public class RegEx {
         return false;
     }
     
+	// 拆分一行文本为一个单词,及自定义的其他，
+	//本行内容放到sentences, 单词放到spelling字段，【除单词之外的其他(可拼接)meanings字段,】
+	//比如集合1的每行如下：
+	//2	abandon	核	vt.离弃，丢弃；遗弃，抛弃；放弃
+	//5	able	基	a.有(能力、时间、知识等)做某事，有本事的
+	//5432	zone	核	n.地区,区域 v.分区,划分地带
+	//
+	//结合2的每行如下:
+	//able
+	//zoo
+	public static int spelling_Idx = 0;
+    public static Word split2Word(String line) {
+        String []field = line.trim().split("\\s");
+        String spelling = "";
+        if (spelling_Idx < field.length) {
+        	spelling = field[spelling_Idx];
+        } 
+        Word word = new Word(spelling.replaceAll("[()]", "")); // 删除()小括号
+        word.setSentences(line);
+        return word;
+    }
+    
 //    5294    vitamin n.维生素
 //    5295    vivid   a.鲜艳的;生动的,栩栩如生的
 //    5296    vocabulary  n.词汇,词汇量;词汇表

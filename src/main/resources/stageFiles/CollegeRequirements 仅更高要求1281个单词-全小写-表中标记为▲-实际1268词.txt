@@ -468,6 +468,7 @@ floral
 flu
 fluorescent
 flute
+flux
 foe
 foliage
 footage
@@ -498,7 +499,6 @@ gallop
 gangster
 garrison
 gash
-gat
 genre
 ginger
 giveaway
@@ -524,6 +524,7 @@ guild
 gulp
 gush
 gust
+gut
 gutter
 habitat
 hack
@@ -1054,7 +1055,6 @@ solvent
 somber
 sonar
 soothe
-souash
 souvenir
 spaghetti
 spatial
@@ -1067,6 +1067,7 @@ spreadsheet
 sprout
 spurt
 squadron
+squash
 squat
 squeak
 squid

@@ -296,7 +296,7 @@ attribute
 auction
 audience
 audio
-august
+August
 aunt
 authentic
 author
@@ -377,7 +377,6 @@ battle
 bay
 be
 beach
-bead-teacher
 beam
 bean
 bear
@@ -949,6 +948,7 @@ controversy
 convenience
 convenient
 convention
+conventional
 conversation
 conversely
 convert
@@ -1335,8 +1335,8 @@ driving-licence
 drop
 dropout
 drown
-drtun
 drug
+drum
 drunk
 dry
 dryer
@@ -1482,7 +1482,6 @@ envelope
 envious
 environment
 envy
-eonventional
 epidemic
 episode
 equal
@@ -1574,6 +1573,7 @@ experience
 experiment
 experimental
 expert
+explain
 explanation
 explicit
 explode
@@ -1587,7 +1587,6 @@ exposure
 express
 expression
 expressway
-exptain
 extend
 extension
 extensive
@@ -1676,7 +1675,6 @@ festival
 fetch
 fever
 few
-fgrehead
 fiber
 fiction
 field
@@ -1733,9 +1731,9 @@ flourish
 flow
 flower
 fluctuate
+fluent
 fluid
 fly
-fmrdamental
 focus
 fog
 foggy
@@ -1755,6 +1753,7 @@ for
 forbid
 force
 forecast
+forehead
 foreign
 foreigner
 foresee
@@ -1824,6 +1823,7 @@ fun
 function
 functional
 fund
+fundamental
 funeral
 funny
 fur
@@ -2010,6 +2010,7 @@ headline
 headmaster
 headmistress
 headquarters
+head-teacher
 heal
 health
 healthcare
@@ -2047,9 +2048,9 @@ hey
 hi
 hide
 high
-high-speed
 highlight
 highly
+high-speed
 highway
 hill
 him
@@ -2107,6 +2108,7 @@ how
 however
 huge
 human
+human being
 humanity
 humankind
 humble
@@ -2123,8 +2125,8 @@ hut
 hydrogen
 i
 ice
-ice-cream
 iceberg
+ice-cream
 idea
 ideal
 identical
@@ -2147,7 +2149,6 @@ image
 imaginary
 imagination
 imagine
-imensive
 imitate
 immediate
 immediately
@@ -2264,6 +2265,7 @@ intend
 intense
 intensify
 intensity
+intensive
 intention
 interact
 interaction
@@ -2563,13 +2565,13 @@ make
 malaria
 male
 man
-man-made
 manage
 management
 manager
 manipulate
 mankind
 manly
+man-made
 manner
 manual
 manufacture
@@ -2665,6 +2667,7 @@ mile
 military
 milk
 mill
+millimeter
 million
 millionaire
 mind
@@ -2689,7 +2692,6 @@ mist
 mistake
 mister
 misunderstand
-miuimeter
 mix
 mixture
 moan
@@ -2865,7 +2867,6 @@ nurse
 nursery
 nut
 nylon
-o'clock
 oak
 obey
 object
@@ -2886,6 +2887,7 @@ occupy
 occur
 occurrence
 ocean
+o'clock
 october
 odd
 odds
@@ -3021,7 +3023,6 @@ park
 parking
 parliament
 part
-part-time
 partial
 participate
 participation
@@ -3030,6 +3031,7 @@ particular
 particularly
 partly
 partner
+part-time
 party
 pass
 passage
@@ -3061,10 +3063,10 @@ peasant
 peculiar
 peer
 pen
-pen-friend
 penalty
 pencil
 penetrate
+pen-friend
 penny
 pension
 people
@@ -3478,8 +3480,8 @@ regret
 regular
 regulate
 regulation
-reiect
 reinforce
+reject
 relate
 related
 relation
@@ -3595,9 +3597,9 @@ ridiculous
 rifle
 right
 right-handed
-right-wing
 rightist
 rights
+right-wing
 rigid
 ring
 ringroad
@@ -3726,8 +3728,8 @@ season
 seat
 seaweed
 second
-second-hand
 secondary
+second-hand
 secret
 secretary
 section
@@ -3812,12 +3814,12 @@ shop
 shopping
 shore
 short
-short-term
-short-wave
 shortage
 shortcoming
 shortly
 shorts
+short-term
+short-wave
 shot
 should
 shoulder
@@ -3913,10 +3915,10 @@ snow
 snowball
 snowman
 so
-so-called
 soak
 soap
 soar
+so-called
 soccer
 social
 socialism
@@ -3927,8 +3929,8 @@ sock
 soda
 sofa
 soft
-soft-drink
 softball
+soft-drink
 software
 soil
 solar
@@ -4213,7 +4215,6 @@ symptom
 synthetic
 system
 systematic
-t-shirt
 table
 tackle
 tag
@@ -4447,6 +4448,7 @@ trunk
 trust
 truth
 try
+t-shirt
 tube
 tuberculosis
 tuesday
@@ -4470,7 +4472,6 @@ tyre
 ugly
 ultimate
 umbrella
-umverse
 uncle
 uncover
 under
@@ -4498,6 +4499,7 @@ unit
 unite
 unity
 universal
+universe
 university
 unless
 unlike
@@ -4505,12 +4507,12 @@ unload
 until
 unusual
 up
-up-to-date
 upon
 upper
 upright
 upset
 upstairs
+up-to-date
 upward
 upwards
 urban
@@ -4561,6 +4563,7 @@ vessel
 veteran
 via
 vibrate
+vice
 victim
 victory
 video
@@ -4593,11 +4596,11 @@ vitamin
 vivid
 vocabulary
 voice
-volanle
 volcano
 volleyball
 volt
 voltage
+volume
 voluntary
 volunteer
 vote
@@ -4681,7 +4684,7 @@ whip
 whisper
 whistle
 white
-white-colla
+white-collar
 who
 whoever
 whole

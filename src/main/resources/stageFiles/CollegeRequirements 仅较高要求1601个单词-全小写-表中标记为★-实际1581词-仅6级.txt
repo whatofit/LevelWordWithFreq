@@ -215,7 +215,7 @@ catholic
 cauliflower
 caution
 cavity
-celcbrity
+celebrity
 cellular
 cemetery
 censorship
@@ -242,8 +242,8 @@ clarification
 clarity
 clasp
 classified
-clear-cut
 clearance
+clear-cut
 clearing
 climax
 cluster
@@ -415,6 +415,7 @@ diffuse
 digestive
 dilate
 diligent
+dilute
 diminish
 dioxide
 diploma
@@ -570,6 +571,7 @@ flare
 flatter
 flaw
 flip
+flush
 flutter
 foam
 foil
@@ -620,8 +622,8 @@ glitter
 globalize
 gloom
 glossary
-gorgcous
 gorge
+gorgeous
 gossip
 gracious
 granted
@@ -791,8 +793,8 @@ jeopardize
 jerk
 jigsaw
 jog
+judicial
 judiciary
-judiclal
 junction
 junk
 juvenile
@@ -1345,7 +1347,7 @@ spectrum
 speculation
 speculative
 spice
-spinai
+spinal
 spiral
 sprinkle
 squad
