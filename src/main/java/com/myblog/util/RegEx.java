@@ -57,7 +57,7 @@ public class RegEx {
         if (spelling_Idx < field.length) {
         	spelling = field[spelling_Idx];
         } 
-        Word word = new Word(spelling.replaceAll("[()]", "")); // 删除()小括号
+        Word word = new Word(removeBrackets(spelling)); //spelling.replaceAll("[()]", ""); 删除()小括号
         word.setSentences(line);
         return word;
     }
@@ -354,7 +354,10 @@ public class RegEx {
 		//System.out.println("containsNumber=" + containsNumber(line));
 //	    System.out.println("containsNumber:" + catchNumberWord(line));
 	    
-	    System.out.println("containsNumber:" + catchWordLine(line));
+//	    System.out.println("containsNumber:" + catchWordLine(line));
+	    String content = "i want to [thank] you (state) [thank] very(dfljsj)nishishui";
+	    String retLine = removeBrackets(content);
+	    System.out.println("removeBrackets:" + retLine);
 	}
 
 //	week - n. a period of time equal to seven days
@@ -438,4 +441,17 @@ public class RegEx {
 //        return "";
 //    }  
     
+    //Java正则表达式:去掉括号()内任意字符
+    //1.字符集合:	非）右括号的所有字符[^)]
+    //2.次数匹配:	0或多次[^)]+
+    //3.转义: 	()是正则的关键字，所以要反斜杠转义 /( 反斜杠也是关键字，也要转义 //(
+    	    //[^字符]是一个匹配模式，所以里面的 ) 不用转义
+    //正确的表达式结果:    正则表达式 ([^)]+) 转义后是\\([^)]\\)
+    public static String removeBrackets(String line) {
+		//String pattern = "\\[[^\\]]+\\]";//中括号内  
+		String pattern = "\\([^)]*\\)";//括号内  
+		//String pattern = "\\(.+";  
+		line = line.replaceAll(pattern, "");  
+		return line;
+	}
 }

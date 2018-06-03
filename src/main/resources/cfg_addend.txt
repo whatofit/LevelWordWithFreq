@@ -146,7 +146,7 @@ before	1
 beg	10
 begin	1
 beginning	4
-behaviour	6
+behavio(u)r	6
 behind	3
 believe	2
 bell	5
@@ -323,7 +323,7 @@ come	1
 comfort	10
 comfortable	7
 common	5
-commumication	9
+communication	9
 communicate	9
 company	5
 compare	6
@@ -497,7 +497,7 @@ electric	9
 elephant	7
 eleven	3
 else	3
-e-mail	9
+email	9
 employ	10
 empty	4
 encourage	7
@@ -566,8 +566,8 @@ farmer	5
 fast	2
 fat	7
 father	1
-favour	10
-favourite	6
+favo(u)r	10
+favo(u)rite	6
 fear	3
 February	5
 feed	6
@@ -714,8 +714,7 @@ guest	7
 guide	10
 guitar	9
 gun	7
-gym	10
-gymnasium	10
+gym(nasium)	10
 habit	6
 hair	3
 half	2
@@ -784,7 +783,7 @@ house	1
 housework	6
 how	1
 however	3
-huck	8
+luck	8
 huge	7
 human	6
 humorous	8
@@ -878,9 +877,8 @@ knife	4
 knock	7
 know	1
 knowledge	8
-lab	6
 labo(u)r	5
-laboratory	8
+lab(oratory)	8
 lack	10
 lady	3
 lake	5
@@ -1183,8 +1181,7 @@ person	3
 personal	7
 pet	8
 phone	7
-photo	4
-photograph	7
+photo(graph)	4,7
 physical	10
 physics	9
 piano	6
@@ -1506,7 +1503,7 @@ so	1
 soap	9
 social	9
 society	4
-socks	9
+sock	9
 sofa	9
 soft	7
 soldier	5

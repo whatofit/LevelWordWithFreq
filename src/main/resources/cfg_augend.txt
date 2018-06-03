@@ -805,7 +805,7 @@ chest	基		n.胸腔,胸膛;箱,柜
 chew	核		v.咀嚼;思量
 chicken	基		n.鸡肉；鸡，小鸡，小鸟
 chief	基		a.主要的,首要的 n.首领,领袖
-child	基		n.( [pl.] children)小孩，儿童，儿女
+child	基		n.([pl.] children)小孩，儿童，儿女
 childhood	基		n.幼年,童年
 chill	核		n.寒冷,寒气,寒战 v.使寒冷
 chimney	基		n.烟囱
@@ -2988,7 +2988,7 @@ match	基		n.火柴;比赛,竞赛;对手,配偶 v.匹配,相称
 mate			n.伙伴,同事,同伴,配偶 v. 结伴,配对,交配
 material	基		n.材料,原料,资料a.物质的,肉体的,实质性的
 mathematical	基		a.数学的；数学上的
-maths	基		n.(mathematics/math)数学
+math	基		n.(mathematics/maths)数学
 matter			n.物质,物体;毛病,麻烦;事情 v.有关系,要紧
 mature			a.成熟的,熟的;成年人的 v.(使)成熟
 maximum			n.最大值,极限 a.最大的,最高的
@@ -3550,7 +3550,7 @@ pencil			n.铅笔 vt.用铅笔写
 pendulum			n.摆,钟摆
 penetrate			v.穿过,渗入,看穿
 peninsula			n.半岛
-penny			n.便士,美分
+penny			n.([pl.] pence)便士,美分
 pension			n.养老金,年金
 people			n.人们，人；[the-]人民；一国人民，民族
 pepper			n.胡椒粉,胡椒;辣椒
@@ -3825,7 +3825,7 @@ profile			n.侧面(像);轮廓,外形;人物简介
 profit			n.利润,收益 v.(by,from)得利,获益;有利于
 profitable			a.有利可图的,有益的
 profound			a.深刻的,意义深远的;渊博的,造诣深的
-programme			n.(program)节目,计划,规划,程序 v.编程序
+program			n.(programme)节目,计划,规划,程序 v.编程序
 progress			v./n.进步，进展；前进
 progressive			a.进步的,先进的;前进的
 prohibit			v.禁止,不准;阻止
@@ -5528,3 +5528,79 @@ zip			v.(用拉链或像拉链那样)合上或打开
 zone	核		n.地区,区域 v.分区,划分地带
 zoo			n.动物园
 zoom			vi.(飞机)陡升 n.陡升；嗡嗡声
+eraser			
+fifth			
+grandparent			
+T-shirt			
+rainy			
+winner			
+granddaughter			
+twentieth			
+discussion			
+bamboo			
+probably			
+chant			
+dad			
+careless			
+sixteen			
+eighth			
+schoolbag			
+chopstick			
+granny			
+pancake			
+treatment			
+grandson			
+toothpaste			
+writer			
+crayon			
+actually			
+mainly			
+motorcycle			
+cooker			
+sleepy			
+recently			
+lemonade			
+bedroom			
+mom			
+mum			
+windy			
+x-ray			
+retell			
+immediately			
+website			
+handbag			
+seventy			
+seventh			
+giraffe			
+singer			
+snowy			
+raincoat			
+ninth			
+toothache			
+advertisement			
+watermelon			
+Mrs.			
+suddenly			
+leader			
+grandma			
+grandpa			
+madam			
+grandchild			
+greatly			
+sixth			
+sixty			
+traditional			
+toothbrush			
+tenth			
+oh			
+dumpling			
+fourth			
+examination			
+bye			
+Mr.			
+Ms.			
+seventeen			
+twelfth			
+sunny			
+development			
+daddy			

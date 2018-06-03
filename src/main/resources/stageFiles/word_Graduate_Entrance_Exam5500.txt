@@ -1,4 +1,4 @@
-1	a	art.一(个)；每一(个)；(同类事物中)任一个
+1	a/an	art.一(个)；每一(个)；(同类事物中)任一个
 2	abandon	vt.离弃，丢弃；遗弃，抛弃；放弃
 3	abdomen	n.腹，下腹(胸部到腿部的部分)
 4	abide	vi.(abode，abided)(by)遵守；坚持
@@ -2951,7 +2951,7 @@
 2951	mate	n.伙伴,同事,同伴,配偶 v. 结伴,配对,交配
 2952	material	n.材料,原料,资料a.物质的,肉体的,实质性的
 2953	mathematical	a.数学的；数学上的
-2954	maths	n.(mathematics/math)数学
+2954	math	n.(mathematics/maths)数学
 2955	matter	n.物质,物体;毛病,麻烦;事情 v.有关系,要紧
 2956	mature	a.成熟的,熟的;成年人的 v.(使)成熟
 2957	maximum	n.最大值,极限 a.最大的,最高的
@@ -3788,7 +3788,7 @@
 3788	profit	n.利润,收益 v.(by,from)得利,获益;有利于
 3789	profitable	a.有利可图的,有益的
 3790	profound	a.深刻的,意义深远的;渊博的,造诣深的
-3791	programme	n.(program)节目,计划,规划,程序 v.编程序
+3791	program	n.(programme)节目,计划,规划,程序 v.编程序
 3792	progress	v./n.进步，进展；前进
 3793	progressive	a.进步的,先进的;前进的
 3794	prohibit	v.禁止,不准;阻止

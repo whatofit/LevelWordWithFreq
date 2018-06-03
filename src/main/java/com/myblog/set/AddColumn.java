@@ -48,7 +48,8 @@ public class AddColumn {
 			String word = (String) entry.getKey();
 			String augendLine =  (String) entry.getValue();
 			String newLine = augendLine;
-			if (addendMap.containsKey(word)) {
+			//colo(u)r单词在考研单词词义的备注中
+			if (addendMap.containsKey(word)) {//|| augendMap.containsValue(word)
 				newLine += "\t" + addendMap.get(word);
 				addendMap.remove(word);
 			}
