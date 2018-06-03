@@ -36,3 +36,4 @@ Greek	7
 Egypt	7
 Pacific	9
 Atlantic	9
+washington	10
