@@ -355,9 +355,13 @@ public class RegEx {
 //	    System.out.println("containsNumber:" + catchNumberWord(line));
 	    
 //	    System.out.println("containsNumber:" + catchWordLine(line));
-	    String content = "i want to [thank] you (state) [thank] very(dfljsj)nishishui";
-	    String retLine = removeBrackets(content);
-	    System.out.println("removeBrackets:" + retLine);
+//	    String content = "i want to [thank] you (state) [thank] very(dfljsj)nishishui";
+//	    String retLine = removeBrackets(content);
+//	    System.out.println("removeBrackets:" + retLine);
+	    
+	  	String content = "src: local('Open Sans Light'), local('OpenSans-Light'), url(http://fonts.gstatic.com/s/opensans/v13/DXI1ORHCpsQm3Vp6mXoaTa-j2U0lmluP9RWlSytm3ho.woff2) format('woff2')";
+	  	String retLine = catchWordInBrackets(content);
+	  	System.out.println("removeBrackets:" + retLine);
 	}
 
 //	week - n. a period of time equal to seven days
@@ -442,7 +446,7 @@ public class RegEx {
 //    }  
     
     //Java正则表达式:去掉括号()内任意字符
-    //1.字符集合:	非）右括号的所有字符[^)]
+    //1.字符集合:	非)右括号的所有字符[^)]
     //2.次数匹配:	0或多次[^)]+
     //3.转义: 	()是正则的关键字，所以要反斜杠转义 /( 反斜杠也是关键字，也要转义 //(
     	    //[^字符]是一个匹配模式，所以里面的 ) 不用转义
@@ -452,6 +456,17 @@ public class RegEx {
 		String pattern = "\\([^)]*\\)";//括号内  
 		//String pattern = "\\(.+";  
 		line = line.replaceAll(pattern, "");  
+		return line;
+	}
+    
+    //java正则表达式匹配小括号内的内容
+    public static String catchWordInBrackets(String line) {
+    	// 从内容上截取路径数组
+    	 Pattern pattern = Pattern.compile("(?<=\\()[^\\)]+");  
+    	 Matcher matcher = pattern.matcher(line);
+    	 while(matcher.find()){
+    	    System.out.println(matcher.group());
+    	 }
 		return line;
 	}
 }
