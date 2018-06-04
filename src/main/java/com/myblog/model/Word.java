@@ -23,6 +23,8 @@ public class Word implements Comparable<Word> {
     public static final String FIELD_NAME_FREQ_SPOKEN = "freqSpoken";
     public static final String FIELD_NAME_COUNT_IN_ARTICLE = "countInArticle";//freqArticle
     public static final String FIELD_NAME_SPELLING = "spelling";
+    public static final String FIELD_NAME_LEMMA = "lemma";
+    public static final String FIELD_NAME_STEM = "stem";
     public static final String FIELD_NAME_DJ = "phoneticDJ";
     public static final String FIELD_NAME_KK = "phoneticKK";
     public static final String FIELD_NAME_LEVEL = "level";
@@ -76,7 +78,13 @@ public class Word implements Comparable<Word> {
 
     @DatabaseField(columnName = FIELD_NAME_SPELLING, canBeNull = false)
     private String spelling;
+    
+    @DatabaseField(columnName = FIELD_NAME_LEMMA)
+    private String lemma;
 
+    @DatabaseField(columnName = FIELD_NAME_STEM)
+    private String stem;
+    
     @DatabaseField(columnName = FIELD_NAME_DJ)
     private String phoneticDJ;
 
@@ -248,6 +256,22 @@ public class Word implements Comparable<Word> {
 
     public void setSpelling(String spelling) {
         this.spelling = spelling;
+    }
+
+    public String getLemma() {
+        return lemma;
+    }
+
+    public void setLemma(String lemma) {
+        this.lemma = lemma;
+    }
+
+    public String getStem() {
+        return stem;
+    }
+
+    public void setStem(String stem) {
+        this.stem = stem;
     }
 
     public String getPhoneticDJ() {
