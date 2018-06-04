@@ -56,7 +56,7 @@ role			5	role	n.角色,作用,任务,职责
 cliff		基			n.悬崖;峭壁
 infinite					a.无限的,无穷的 n.无限
 roll					v.滚动;使摇摆;卷,卷起 n.卷,卷形物;名单	roll	7
-I			1	I	pron.(主格)我	I	1
+I			1	I	pron.(主格)我
 suffice					v.充足，足够；vt.(食物等)使(某人)满足
 notable					n.值得注意的,显著的,著名的
 concede		核			vt.承认；容许；(比赛结束前)认输；退让
@@ -3648,7 +3648,7 @@ vision					n.视力,视觉;远见;洞察力;幻想,幻影;想象力
 accompany		核			v.陪伴，陪同；伴随，和...一起发生，伴奏
 immediate		基	10	immediate	a.立即的,即时的;直接的,最接近的
 beneficial		派			a.(to)有利的,有益的
-a/an		基	1	a/an	art.一(个)；每一(个)；(同类事物中)任一个	a/an	1
+a/an		基	1	a/an	art.一(个)；每一(个)；(同类事物中)任一个
 blame		核	10	blame	v.责备;怪,把…归咎于 n.责任,过错;责备
 excerpt					n./vt.摘录;引用
 reckon					v.计算,总计,估计,猜想,依赖
@@ -5636,6 +5636,8 @@ category		核			n.种类，部属，类目；范畴，类型
 rival					n.竞争者,对手 v.竞争,对抗 a.竞争的
 				ran	5
 				wasn’t	9
+				a	1
+				i	1
 				got	3
 				wrote	8
 				gone	6
@@ -5673,6 +5675,7 @@ rival					n.竞争者,对手 v.竞争,对抗 a.竞争的
 				sat	6
 				been	1
 				am	5
+				an	1
 				won’t	9
 				did	1
 				japanese	9

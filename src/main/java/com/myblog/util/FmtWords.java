@@ -95,17 +95,26 @@ public class FmtWords {
     // seventeenth
 	public static String fmtWord(String line) {
 		// 匹配数字+空白+
-		String regFirstWord = "^([a-zA-Z\\.-]+)";// "\\."英文句号
+		String regFirstWord = "^([a-zA-Z\\.\\-/’]+)";// "\\."英文句号
 		Pattern pWrod = Pattern.compile(regFirstWord);
 		Matcher matcherWord = pWrod.matcher(line);
+		String word = "";
 		if (matcherWord.find()) {
-			String word = matcherWord.group(1);
-			// System.out.println("fmtword,word=" + word);
-			String linePos = line.replaceFirst(word, "").trim(); // 删除数字
-			// System.out.println("fmtword,remove linePos=" + linePos);
-			return word + "\t" + linePos;
+			word = matcherWord.group(1);
 		}
-		return line;
+    	Pattern pBracketContent = Pattern.compile("(?<=\\()[^\\)]+");
+		Matcher matcherBracket = pBracketContent.matcher(line);
+		String bracketContent = "";
+		if (matcherBracket.find()) {
+			bracketContent = matcherBracket.group();
+		}
+		String pos = "";
+		if (bracketContent.length() > 0) {
+			pos = line.replaceFirst(word+"\\d*\\s*\\(" +bracketContent+ "\\)", "").trim(); // 删除
+		} else {
+			pos = line.replaceFirst(word, "").trim(); // 删除
+		}
+		return word + "\t" + bracketContent + "\t" + pos;
 	}
     
     public static void main(String[] args) {
@@ -144,6 +153,7 @@ public class FmtWords {
 //        String s[] = line.split("\\.");
 //        System.out.println("fmtword,fmt0=" + s[0]);
 //        System.out.println("fmtword,fmt1=" + s[1]);
+      System.out.println("fmtword,done=");
     }
 
 }

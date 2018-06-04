@@ -1,5 +1,6 @@
 5、条件查询QueryBuilder的使用
 上述代码其实已经用到了简单的条件查询了：
+
 1、简单的where等于
 articleDaoOpe.queryBuilder().where().eq("user_id", userId).query();直接返回Article的列表
 

@@ -1,4 +1,4 @@
-a(an) art
+a/an art
 abandon v
 ability n
 able a
@@ -55,7 +55,7 @@ actress n
 actual a
 acute a
 AD abbr
-ad=advertisement n
+ad/advertisement n
 adapt v
 adaptation n
 add v
@@ -392,7 +392,7 @@ beyond prep
 bicycle n
 bid v & n
 big a
-bike=bicycle n
+bike/bicycle n
 bill n
 bingo n
 biochemistry n
@@ -526,7 +526,7 @@ camera n
 camp n & v
 campaign n
 can1(could);
-can’t=cannot modal v
+can’t/cannot modal v
 can2 n
 canal n
 cancel v
@@ -572,7 +572,7 @@ cause n & v
 caution n
 cautious a
 cave n
-CD=compact disk n
+CD/compact disk n
 ceiling n
 celebrate v
 celebration n
@@ -850,7 +850,7 @@ customs n
 cut(cut,cut) v & n
 cycle v
 cyclist n
-dad=daddy n
+dad/daddy n
 daily a,ad & n
 dam n
 damage n & v
@@ -972,7 +972,7 @@ discussion n
 disease n
 disgusting a
 dish n
-disk=disc n
+disk/disc n
 dislike v
 dismiss v
 distance n
@@ -1006,7 +1006,7 @@ download n & v
 downstairs ad
 downtown ad,n & a
 dozen n
-Dr=doctor n
+Dr/doctor n
 draft n & v
 drag v
 draw(drew,drawn) v
@@ -1033,7 +1033,7 @@ dust n
 dustbin n
 dusty a
 duty n
-DVD=digital versatile disk n
+DVD/digital versatile disk n
 dynamic a
 dynasty n
 each a & pron
@@ -1130,7 +1130,7 @@ evidence n
 evident a
 evolution n
 exact a
-exam=examination n
+exam/examination n
 examine v
 example n
 excellent a
@@ -1177,7 +1177,7 @@ fair1 a
 fair2 n
 faith n
 fall1(fell,fallen) v
-fall2(Am)=autumn n
+fall2(Am)/autumn n
 false a
 familiar a
 family n
@@ -1310,7 +1310,7 @@ freezing a
 frequent a
 fresh a
 friction n
-fridge=refrigerator n
+fridge/refrigerator n
 friend n
 friendly a
 friendship n
@@ -1390,8 +1390,8 @@ grammar n
 grand a
 grandchild n
 granddaughter n
-grandma=grandmother n
-grandpa=grandfather n
+grandma/grandmother n
+grandpa/grandfather n
 grandparents n
 grandson n
 granny n
@@ -1424,7 +1424,7 @@ guide n
 guilty a
 guitar n
 gun n
-gym=gymnasium n
+gym/gymnasium n
 gymnastics n
 habit n
 hair n
@@ -1676,7 +1676,7 @@ knife(pl knives) n
 knock n & v
 know(knew,known) v
 knowledge n
-lab=laboratory n
+lab/laboratory n
 labour(Am labor) n
 lack n & v
 lady n
@@ -1807,7 +1807,7 @@ master v & n
 mat n
 match v & n
 material n
-mathematics=math/maths n
+mathematics/math/maths n
 matter n & v
 mature a
 maximum a & n
@@ -1883,9 +1883,9 @@ model n
 modem n
 modern a
 modest a
-mom=mum n
+mom/mum n
 moment n
-mommy=mummy n
+mommy/mummy n
 money n
 monitor n
 monkey n
@@ -1970,7 +1970,7 @@ nice a
 niece n
 night n
 no ad & a
-No.=number n
+No./number n
 noble a
 nobody n & pron
 nod v
@@ -2141,8 +2141,8 @@ pattern n
 pause n & v
 pavement n
 pay(paid,paid) v & n
-P.C.=personal computer n
-P.E.=physical education n
+P.C./personal computer n
+P.E./physical education n
 pea n
 peace n
 peaceful a
@@ -2178,8 +2178,8 @@ pest n
 pet n
 petrol n
 phenomenon (pl phenomena) n
-phone = telephone n & v
-photo = photograph n
+phone/telephone n & v
+photo/photograph n
 photograph n
 photographer n
 phrase n
@@ -2248,7 +2248,7 @@ pollution n
 pond n
 pool n
 poor a
-pop = popular a
+pop/popular a
 popcorn n
 popular a
 population n
@@ -3165,7 +3165,7 @@ turkey n
 turn v & n
 turning n
 tutor n
-TV=television n
+TV/television n
 twice ad
 twin n
 twist v & n
@@ -3238,7 +3238,7 @@ variety n
 various a
 vase n
 vast a
-VCD=versatile compact disk n
+VCD/versatile compact disk n
 vegetable n
 vehicle n
 version n
