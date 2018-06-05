@@ -1,5 +1,5 @@
 /**
- * 
+ *
  */
 package com.myblog.model;
 
@@ -12,7 +12,7 @@ import com.j256.ormlite.table.DatabaseTable;
 
 /**
  * @author Administrator
- * 
+ *
  *         单词表/词汇表
  */
 @DatabaseTable(tableName = "levelWords")
@@ -21,8 +21,10 @@ public class Word implements Comparable<Word> {
     public static final String FIELD_NAME_FREQUENCY = "frequency";
     public static final String FIELD_NAME_FREQ_WRITTEN = "freqWritten";
     public static final String FIELD_NAME_FREQ_SPOKEN = "freqSpoken";
-    public static final String FIELD_NAME_COUNT_IN_ARTICLE = "countInArticle";//freqArticle
+    public static final String FIELD_NAME_COUNT_IN_ARTICLE = "countInArticle";// freqArticle
     public static final String FIELD_NAME_SPELLING = "spelling";
+    public static final String FIELD_NAME_LEMMA = "lemma";
+    public static final String FIELD_NAME_STEM = "stem";
     public static final String FIELD_NAME_DJ = "phoneticDJ";
     public static final String FIELD_NAME_KK = "phoneticKK";
     public static final String FIELD_NAME_LEVEL = "level";
@@ -70,12 +72,18 @@ public class Word implements Comparable<Word> {
 
     @DatabaseField(columnName = FIELD_NAME_FREQ_SPOKEN)
     private String freqSpoken;
-    
+
     @DatabaseField(columnName = FIELD_NAME_COUNT_IN_ARTICLE)
-    private int countInArticle;//freqArticle
+    private int countInArticle;// freqArticle
 
     @DatabaseField(columnName = FIELD_NAME_SPELLING, canBeNull = false)
     private String spelling;
+
+    @DatabaseField(columnName = FIELD_NAME_LEMMA)
+    private String lemma;
+
+    @DatabaseField(columnName = FIELD_NAME_STEM)
+    private String stem;
 
     @DatabaseField(columnName = FIELD_NAME_DJ)
     private String phoneticDJ;
@@ -211,7 +219,7 @@ public class Word implements Comparable<Word> {
     }
 
     public String getFrequency() {
-        return frequency==null?"":frequency;
+        return frequency == null ? "" : frequency;
     }
 
     public void setFrequency(String frequency) {
@@ -234,20 +242,36 @@ public class Word implements Comparable<Word> {
         this.freqSpoken = freqSpoken;
     }
 
-	public int getCountInArticle() {
-		return countInArticle;
-	}
+    public int getCountInArticle() {
+        return countInArticle;
+    }
 
-	public void setCountInArticle(int countInArticle) {
-		this.countInArticle = countInArticle;
-	}
+    public void setCountInArticle(int countInArticle) {
+        this.countInArticle = countInArticle;
+    }
 
-	public String getSpelling() {
+    public String getSpelling() {
         return spelling;
     }
 
     public void setSpelling(String spelling) {
         this.spelling = spelling;
+    }
+
+    public String getLemma() {
+        return lemma;
+    }
+
+    public void setLemma(String lemma) {
+        this.lemma = lemma;
+    }
+
+    public String getStem() {
+        return stem;
+    }
+
+    public void setStem(String stem) {
+        this.stem = stem;
     }
 
     public String getPhoneticDJ() {
@@ -267,7 +291,7 @@ public class Word implements Comparable<Word> {
     }
 
     public String getLevel() {
-        return level==null?"":level;
+        return level == null ? "" : level;
     }
 
     public void setLevel(String level) {
@@ -524,20 +548,22 @@ public class Word implements Comparable<Word> {
 
     @Override
     public String toString() {
-        return "id=" + id + ", frequency=" + (frequency == null?"":frequency) + ", spelling=" + spelling + ", level=" + (level == null?"":level) + ", partsOfSpeech=" + (partsOfSpeech == null?"":partsOfSpeech);
-    }
-    
-    public String toNoFreqLevel() {
-//        StringBuffer sb = new StringBuffer();
-//        if (id != 0) {
-//            sb.append(id + "\t");
-//        }
-//        if (frequency != null) {
-//            sb.append(frequency + "\t");
-//        }
-        return (id == 0?"":id) + "\t"  + (frequency == null?"":frequency) + "\t" + spelling + "\t" + (level == null?"":level) ;
+        return "id=" + id + ", frequency=" + (frequency == null ? "" : frequency) + ", spelling=" + spelling
+                + ", level=" + (level == null ? "" : level) + ", partsOfSpeech="
+                + (partsOfSpeech == null ? "" : partsOfSpeech);
     }
 
+    public String toNoFreqLevel() {
+        // StringBuffer sb = new StringBuffer();
+        // if (id != 0) {
+        // sb.append(id + "\t");
+        // }
+        // if (frequency != null) {
+        // sb.append(frequency + "\t");
+        // }
+        return (id == 0 ? "" : id) + "\t" + (frequency == null ? "" : frequency) + "\t" + spelling + "\t"
+                + (level == null ? "" : level);
+    }
 
     // public String toString(int i) {
     // return "id: " + id + "\n"
@@ -582,17 +608,17 @@ public class Word implements Comparable<Word> {
             if (StringUtils.isBlank(rw.getFrequency())) {
                 return -1;
             } else {
-                //return lw.getFrequency().compareTo(rw.getFrequency());
+                // return lw.getFrequency().compareTo(rw.getFrequency());
                 int freqLw = 0;
                 int freqRw = 0;
                 try {
                     freqLw = Integer.parseInt(lw.getFrequency());
-                }catch(Exception e)  {
+                } catch (Exception e) {
                     return 0;
                 }
                 try {
                     freqRw = Integer.parseInt(rw.getFrequency());
-                }catch(Exception e)  {
+                } catch (Exception e) {
                     return 1;
                 }
                 return freqLw - freqRw;

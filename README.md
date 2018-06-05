@@ -2,6 +2,12 @@
 Level Word With Freq
 DumpANC2FreqWordDB
 
+著名的英文语料库：
+美国当代英语语料库：COCA, http://corpus.byu.edu/coca/（免费，但检索次数有限制）
+英国国家语料库：BNC，http://corpus.byu.edu/bnc/（同上）
+SketchEngine : language corpus management and query system（试用期30天）
+
+
 //////////////////////////////////////////////////////////////////
 // Computer QWERTY Keyboard Key Frequency:
 // Space e t Shift a o i n s r h Del l d c u Enter
