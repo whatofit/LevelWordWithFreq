@@ -1,4 +1,4 @@
-package com.myblog.statistics;
+package com.myblog.rtf2txt.fmt;
 
 import java.util.ArrayList;
 import java.util.Collections;

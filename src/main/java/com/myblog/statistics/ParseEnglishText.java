@@ -13,6 +13,7 @@ import com.myblog.util.RegEx;
 import com.myblog.util.ResourceUtil;
 import com.myblog.util.Utils;
 
+//统计制定目录下的所有英语txt文本文件的总词频
 public class ParseEnglishText {
 
 	public static void main(String[] args) {
