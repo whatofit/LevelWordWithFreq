@@ -269,6 +269,7 @@ public class RtfUtil {
 			if (pdfFile.length() > 4) {
 				outTextFilename = pdfFile.getCanonicalPath().replace(".pdf$", ".doc"); // 匹配到行尾
 			}
+			System.out.println("outTextFilename=" + outTextFilename);
 			// 文件输入流，写入文件倒textFile
 			FileOutputStream fos = new FileOutputStream(outTextFilename);
 			outputWriter = new OutputStreamWriter(fos, encoding);
