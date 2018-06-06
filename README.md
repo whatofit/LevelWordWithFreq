@@ -1,6 +1,6 @@
 # LevelWordWithFreq
 Level Word With Freq
-DumpANC2FreqWordDB
+
 
 著名的英文语料库：
 美国当代英语语料库：COCA, http://corpus.byu.edu/coca/（免费，但检索次数有限制）
@@ -127,6 +127,172 @@ https://www.lextutor.ca/freq/lists_download/longman_3000_list.pdf
 http://www.anc.org/data/anc-second-release/frequency-data/
 
 
+
+===============================================
+
+英式英语跟美式英语，常见的区别主要见于
+英-------美
+-re -er (centre,center)
+-gue -g (dialogue,dialog)
+-our -or
+-ise,-ize 只用-ize
+-el结尾动词的现在分词、过去分词一般双写l 不双写
+还有许多不成规则的字
+如 defence defense
+analyse analyze
+cheque check
+programme program
+
+
+英语常用拼写与美语常用拼写不同时，
+本单词列表列出的单词，美语在前/英语在后，如:
+gray/grey
+theatre/theater
+realize/-ise
+
+有的美式可以简写:programme简写为program,还有：
+colo(u)r
+dialog(ue)
+favo(u)rite
+goodby(e)
+hono(u)r
+labo(u)r
+math(s)
+neighbo(u)r
+program(me)
+toward(s)
+
+简写：
+gym(nasium)
+photo(graph)
+(tele)phone
+
+还有多种写法，基本没有差别，可以认为相同：
+among/amongst
+
+多种词形或可简写的单词统计如下：
+advertisement/ad
+airplane/aeroplane
+alumin(i)um
+among/amongst
+analyze/-yse
+apartment/apt.
+apologize/-ise
+appal(l)
+arch(a)eology
+armo(u)r
+authorize/-ise
+ax(e)
+behavio(u)r
+behavio(u)ral
+bike/bicycle
+catalog(ue)
+center/-tre
+centimeter/-tre
+characterize/-ise
+check/cheque
+cigaret(te)
+civilization/-isation
+civilize/-ise
+colo(u)r
+council(l)or
+cozy/cosy
+criticize/-ise
+defense/-ence
+dialog(ue)
+disk/disc
+dispatch/despatch
+distil(l)
+draft/draught
+driving-licence/-se
+email/E-mail
+emphasize/-ise
+encyclop(a)edia
+endeavo(u)r
+enrol(l)
+exam(ination)
+favo(u)r
+favo(u)rable
+favo(u)rite
+fiber/-bre
+flavo(u)r
+fulfil(l)
+generalize/-ise
+glamo(u)r
+goodby(e)
+gram(me)
+gray/grey
+gym(nasium)
+harbo(u)r
+hono(u)r
+hono(u)rable
+humo(u)r
+industrialize/-ise
+inquire/enquire
+inquiry/enquiry
+instal(l)
+instal(l)ment
+jail/gaol
+jeopardize/-ise
+jewel(l)ery
+judg(e)ment
+kilo/kilogram(me)
+kilometer/-tre
+labo(u)r
+laboratory/lab
+license/-ence
+liter/-tre
+maneuver/manoeuvre
+marvel(l)ous
+memorize/-ise
+meter/-tre
+millimeter/-tre
+minimize/-ise
+mo(u)ld
+mobilize/-ise
+modernize/-ise
+m(o)ustache
+neighbo(u)r
+neighbo(u)rhood
+odo(u)r
+okay/O.K./OK
+okay/O.K./OK
+organization/-isation
+organize/-ise
+paralyze/-yse
+patronize/-ise
+penalize/-ise
+photo(graph)
+plow/plough
+practise/-ice
+program(me)
+realization/-isation
+realize/-ise
+recognize/-ise
+refrigerator/fridge
+rumo(u)r
+savo(u)r
+skeptical/sceptical
+skil(l)ful
+speciality/specialty
+specialize/-ise
+stabilize/-ise
+subsidize/-ise
+sulfur/sulphur
+summarize/-ise
+sympathize/-ise
+telephone/phone
+television/TV/T.V.
+television/TV/T.V.
+theater/-tre
+tumo(u)r
+utilize/-ise
+vapo(u)r
+visualize/-ise
+while/whilst
+wool(l)en
+
+===============================================
 
 一.第一版功能：
 1.把单词按照分频排列，再把单词分级(60/100个词汇一个级别,1*60;2*30;3*20;4*15;5*12:6*10)

@@ -189,6 +189,10 @@ public class RegEx {
 	//结合2的每行如下:
 	//able
 	//zoo
+    //bike/bicycle    小
+	//telephone/phone    小
+	//theatre/theater  小
+	//child/children   小
 	public static int spelling_Idx = 0;
     public static Word split2Word(String line) {
         String []field = line.trim().split("\\s");
@@ -499,9 +503,14 @@ public class RegEx {
 //	    System.out.println("removeBrackets:" + retLine);
 	    
 	  	//String content = "src: local('Open Sans Light'), local('OpenSans-Light'), url(http://fonts.gstatic.com/s/opensans/v13/DXI1ORHCpsQm3Vp6mXoaTa-j2U0lmluP9RWlSytm3ho.woff2) format('woff2')";
-	    String content = "shrink(shrank,shrunk 或 shrunk,shrunken) v";
-	  	String retLine = catchWordInBrackets(content);
-	  	System.out.println("removeBrackets:" + retLine);
+	    
+	    //String content = "shrink(shrank,shrunk 或 shrunk,shrunken) v";
+	  	//String retLine = catchWordInBrackets(content);
+	  	//System.out.println("removeBrackets:" + retLine);
+	  	
+	    line = "bike/bicycle";
+	  	line = line.replaceAll("/(.+)", "");//截取第一个/符号前的字符串，即把第一个/符号后的字符串截除掉--若无/符号，保留整个字符串
+	  	System.out.println("removeBrackets,:line=" + line);
 	}
 
 //	week - n. a period of time equal to seven days
@@ -595,7 +604,9 @@ public class RegEx {
 		//String pattern = "\\[[^\\]]+\\]";//中括号内  
 		String pattern = "\\([^)]*\\)";//括号内  
 		//String pattern = "\\(.+";  
-		line = line.replaceAll(pattern, "");  
+		line = line.replaceAll(pattern, "");
+		
+		line = line.replaceAll("/(.+)", "");//截取第一个/符号前的字符串，即把第一个/符号后的字符串截除掉--若无/符号，保留整个字符串
 		return line;
 	}
     
