@@ -51,6 +51,7 @@ public class WordFilesMgr {
                     .filter(line -> !line.trim().startsWith("#") && !"".equals(line.trim()))
                     //.filter(line -> !line.contains("-"))
                     .map(line -> line.replaceAll("★", "").replaceAll("▲", "").replaceAll("[()\\d]", "").replaceAll("/.*$", "").trim())
+                    //.map(RegEx::split2Word2)
                     //.distinct()
                     //.sorted()
                     .collect(Collectors.toList());

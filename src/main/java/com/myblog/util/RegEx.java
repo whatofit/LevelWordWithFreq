@@ -205,6 +205,15 @@ public class RegEx {
         return word;
     }
     
+//    public static String split2Word2(String line) {
+//        String []field = line.trim().split("\\s");
+//        String spelling = "";
+//        if (spelling_Idx < field.length) {
+//            spelling = field[spelling_Idx];
+//        } 
+//        return removeBrackets(spelling);
+//    }
+    
 //    5294    vitamin n.维生素
 //    5295    vivid   a.鲜艳的;生动的,栩栩如生的
 //    5296    vocabulary  n.词汇,词汇量;词汇表

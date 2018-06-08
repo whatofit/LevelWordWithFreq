@@ -11,6 +11,7 @@ import java.nio.file.Paths;
 import java.nio.file.StandardOpenOption;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Map;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -427,4 +428,25 @@ public class Utils {
 		}
 		return resultNameList;
 	}
+
+    // 按value的大小进行排序
+    public static List<String> SortMap(Map<String, String> oldmap) {
+
+        ArrayList<Map.Entry<String, String>> list = new ArrayList<Map.Entry<String, String>>(oldmap.entrySet());
+
+//        Collections.sort(list, new Comparator<Map.Entry<String, String>>() {
+//            @Override
+//            public int compare(Entry<String, String> o1, Entry<String, String> o2) {
+//                return o2.getValue() - o1.getValue(); // 降序
+//            }
+//        });
+
+        List<String > wordFreqList = new ArrayList<String>();
+        
+        for (int i = 0; i < list.size(); i++) {
+            wordFreqList.add(list.get(i).getKey() + "\t" + list.get(i).getValue());
+            //System.out.println(list.get(i).getKey() + ": " + list.get(i).getValue());
+        }
+        return wordFreqList;
+    }
 }

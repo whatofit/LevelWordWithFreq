@@ -8,11 +8,9 @@ package com.myblog.set;
 //5432	zone	核	n.地区,区域 v.分区,划分地带
 
 import java.util.ArrayList;
-import java.util.HashSet;
 import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
-import java.util.Set;
 import java.util.stream.Collectors;
 
 import com.myblog.Constant;
@@ -81,5 +79,4 @@ public class AddColumn {
 		System.out.println("unique words count: " + wordMap.size());
 		return wordMap;
 	}
-
 }

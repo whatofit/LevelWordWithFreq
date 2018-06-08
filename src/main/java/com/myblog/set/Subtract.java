@@ -5,9 +5,6 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
-
 import com.myblog.Constant;
 import com.myblog.util.CfgUtil;
 import com.myblog.util.ResourceUtil;
