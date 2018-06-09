@@ -613,9 +613,11 @@ public class RegEx {
 		//String pattern = "\\[[^\\]]+\\]";//中括号内  
 		String pattern = "\\([^)]*\\)";//括号内  
 		//String pattern = "\\(.+";  
-		line = line.replaceAll(pattern, "");
+		line = line.replaceAll(pattern, "");//删除括号内的内容
 		
-		line = line.replaceAll("/(.+)", "");//截取第一个/符号前的字符串，即把第一个/符号后的字符串截除掉--若无/符号，保留整个字符串
+		//child/(pl.children)
+		//child/
+		line = line.replaceAll("/(.*)", "");//截取第一个/符号前的字符串，即把第一个/符号后的字符串截除掉--若无/符号，保留整个字符串
 		return line;
 	}
     

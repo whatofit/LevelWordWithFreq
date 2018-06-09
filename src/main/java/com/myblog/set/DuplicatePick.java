@@ -28,7 +28,7 @@ public class DuplicatePick {
         List<String> wordLines = WordFilesMgr.loadWordsFromFile(cfg_duplicate_pick.split(","));
 
      // #剔重/删除重复单词,保留唯一单词并排序
-//      for (int i = list1.size() - 1; i>=0; i--) {
+//      for (int i = list1.size() ; i>=0; i--) {
 //      for(int j = i-1; j >= 0;j--) {
 //          if (list1.get(j) == list1.get(i)) {
 //              list3.add(list1.get(i));
@@ -39,8 +39,8 @@ public class DuplicatePick {
         
         //循环获取重复的单词
         List<String> duplicateLines = new ArrayList<String>();
-        for (int i = 0; i < wordLines.size() - 1; i++) {
-            for (int j = i + 1; j < wordLines.size() - 1; j++) {
+        for (int i = 0; i < wordLines.size(); i++) {
+            for (int j = i + 1; j < wordLines.size(); j++) {
                 if (wordLines.get(j).equals(wordLines.get(i))) {
                     duplicateLines.add(wordLines.get(i));
                     break;

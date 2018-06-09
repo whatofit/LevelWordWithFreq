@@ -129,6 +129,178 @@ http://www.anc.org/data/anc-second-release/frequency-data/
 
 
 ===============================================
+英美单词差异 
+英美英语同出一源，但两国历史长短之不同也对两国语言的发展造成了很大的影响。英国 有着非常悠久的历史，在长期发展过程中所形成的稳定的传统及社会的方方面面使得其语言具有相当的稳定性和传统性，而美国则不一样它的历史仅有几百年在其短短的历史发展过程中许多的社会规则及观点正处在不断的变化，形成和完善之中，语言也一样。
+
+表达同一种思想，即使使用同一种语言，不同的人也会选择不同的表达方式，除了语言习惯及思维的方式不同之外,性格的差异恐怕是最重要的原因。英国人性格之保守为大家所共知，故其使用语言时语法及用词上的训二究形成了英国英语的一大特点，而美国人思想比较开放，性格比较随意，在语言的使用上也显得多变和随便。
+
+拼写差异
+
+美国英语的拼写从19世纪以来经历了一些改革 ,拼写改革总的方向是使英语的拼写比较接近于读音并趋向简化
+
+1.美国英语的拼写使有些词符合拼写规则
+
+有些英国会以- re为后缀的词，美国会习惯使用- er
+例：
+中心：center centre
+电影院，剧院：theater theatre
+米：meter metre
+
+英国以- our为后缀的词，美国会使用- or
+例：
+喜欢：favor favour
+劳动：labor labour
+荣誉：honor honour
+
+英国人常用- ise为后缀的词语，美国人会使用美- ize
+例：
+实现，认识到：realize realise
+现代化：modernize modernise
+
+英国以- gue为后缀的词，美国会使用- g
+例：
+对话：dialog dialogue
+目录：catalog catalogue
+
+英国以- ce结尾的词汇，美国也会以- se为结尾
+例:
+防卫：defense defence
+冒犯，犯罪：offense offence
+
+英国以- xion为后缀的，美国常用- ction
+例：
+连接，联系：connection connexion
+反射，反映：reflection reflexion
+
+2.美国英语省略重写辅音字母
+例：
+美：traveler 英：traveller
+美：whiz 英：whizz
+美：councilor 英：councillor
+美：wagon 英：waggon
+
+3.省略不发音的字母
+例：
+美：ax 英：axe
+美：plow 英：plough
+
+4.其他
+例：
+美：check 英：cheque
+美：tire 英：tyre
+美：pedler 英：pedlar
+美：pajamas 英：pyjamas
+美：story 英：storey
+美：smolder 英：smoulder
+美：skeptic 英：sceptic
+美：medieval 英：mediaeval
+美：aluminum 英：aluminium
+美：draft 英：draught
+
+用词差异
+
+1.同一个词 ,在美英英语中表示不同的概念。
+例：
+cracker 在美式英语中表示“饼干”，而在英式英语中则表示“爆竹”
+billion 在美式英语中表示“十亿”，而在英式英语中则表示“万亿”
+public school 在美式英语中表示“公立学校”，而在英式英语中则表示“私立学校”
+first floor 在美式英语表示“一层楼”，而在英式英语中则表示“二层楼”
+pants 在美式英语中表示“裤子”，而在英式英语中则表示“短裤”
+
+2.不同的词 ,在美英英语中表示同一概念
+例:
+研究生：graduate(美） post-graduate（英）
+教员：faculty（美） staff（英）
+糖果：candy（美） sweets（英）
+约会：date（美） engagement（英）
+出租车：cab（美） taxi（英）
+电影院：theater（美） cinema（英）
+影片：movie（美） film（英）
+飞机：airplane（美） aeroplane（英）
+学期：semester（美） term（英）
+假期：vacation（美） holiday（英）
+行李：baggage(美） luggage（英）
+铁路：railroad（美） railway（英）
+汽油：gasoline（美） petrol（英）
+
+3.美英动词用词不同举例
+例：
+吃晚饭，美国人通常会说“to have dinner”，而英国人则会说“ to eat dinner”
+美国人说“to guess”时，英国人也会选择用“ to suppose”来表达
+想象，美式英语会选择“to imagine”，而英式英语中，则会使用“ to expect”
+上学，美式英语“to enter school”，英式英语“ to start school”
+选择，美式英语“to select”，英式英语“ to choose”
+借调，美式英语“to loan”英式英语“ to lent”
+
+4.只在一国中通用的词语
+
+由于两国的情况不同 ,有的词语在一国通用。
+例:
+有些地理特征和动植物词只在美国才有
+如如:
+everglades 沼泽地
+canyon 峡谷
+sequoia 红杉
+caribou 驯鹿
+
+英国的君主和贵族称号在美国是没有的
+如:
+prince 王子
+duck 公爵
+marquis 候爵
+count 伯爵
+viscount 子爵
+baron 男爵
+knight 爵士
+
+5.其他
+词汇的这种区别 ,可以说遍及生活的各个领域
+例:
+公寓: apartment(美 ), flat(英 )
+电梯: elevator(美 ) , lift(英 )
+手电筒: flashlight(美 ) , torch(英 )
+垃圾箱: trashcan(美 ), dustbin(英 )
+
+语法差异
+
+1.英式英语中有些不规则动词的过去式 ,过去分词 ,在美式英语规则化。
+例：
+burn burned（美） burnt（英）
+dwell dwelled（美） dwelt（英）
+learn learned（美） learnt（英）
+spell spelled（美） spelt（英）
+spill spilled（美） spilt（英）
+kneel kneeled（美） knelt（英）
+leap leaped（美） leapt（英）
+
+2.英语中的动词“ get ”的过去分词“ got ”美语习惯上以“ gotten ”作为它的过去分词
+3.“ Do you have…”美语中表示此时此刻拥有 ,英式英语表示经常性地习惯地拥有
+4.英式英语中 at home,美语用 home直接表示
+
+助动词差异
+
+1.“ shall ”一词在美英除法律文件或正式的文体中很少
+例：
+美：I will tell you later. 英：I shall tell you later.
+美：Will I drink this now? 英:Shall I drink this now?
+美：I won't be able to come.英： I shan't be able to come.
+
+2.“ would”一词在美式英语中表示特征或习惯性行动 ,而英式英语用一般过去时或 used to句型表示。
+例：
+美: When I was young, I would go there every day.
+英: When I was young, I went /used to go there every day.
+
+3.在英式英语中 ,“ would” 和“ will”经常表示猜测 ,而美式英语用“ should ”或“ must ”表示。
+美: That should be/must be the mailman at the door.
+英: That will be the postman at the door .
+美: That should be/will be the building you want .
+英: That would be the building you want.
+
+言辞是行动的影子。
+
+语言作为社会的一面镜子，以其多方面的变化从不同的角度反映了社会的本来面貌，英美语言的差异，其实从侧面也反映出了英美社会文化的差异，一个保守，一个开放，一个稳定，一个多变，你更喜欢哪一种呢？
+
+================================
 
 英式英语跟美式英语，常见的区别主要见于
 英-------美
