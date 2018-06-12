@@ -911,7 +911,7 @@ clear-cut
 ★clergy
 clerk clerical
 clever
-★cliché
+★cliche
 click
 client
 cliff
@@ -2258,7 +2258,7 @@ hail2
 hair hairy
 half
 halfway
-hal
+hall
 halt
 ham
 hamburger/burger
@@ -4210,7 +4210,7 @@ seize seizure
 seldom
 select selection selective
 self selfish selfless
-sel
+sell
 semester
 seminar
 senate senator
