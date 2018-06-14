@@ -3450,9 +3450,6 @@ seventeen
 eighteen		
 nineteen		
 twenty		
-twenty-one		
-twenty-two		
-twenty-three		
 thirty		
 forty		
 fifty		
@@ -3484,9 +3481,6 @@ seventeenth
 eighteenth		
 nineteenth		
 twentieth		
-twenty-first		
-twenty-second		
-twenty-third		
 thirtieth		
 fortieth		
 fiftieth		
@@ -3498,22 +3492,22 @@ hundredth
 thousandth		
 millionth		
 billionth		
-January	Jan.	
-February	Feb.	
-March	Mar.	
-April	Apr.	
-May	May	
-June	Jun.	
-July	Jul.	
-August	Aug.	
-September	Sept.	
-October	Oct.	
-November	Nov.	
-December	Dec.	
-Monday	Mon.	
-Tuesday	Tues.	
-Wednesday	Wed.	
-Thursday	Thurs.	
-Friday	Fri.	
-Saturday	Sat.	
-Sunday	Sun.	
+January/Jan.	
+February/Feb.	
+March/Mar.	
+April/Apr.	
+May/May	
+June/Jun.	
+July/Jul.	
+August/Aug.	
+September/Sept.	
+October/Oct.	
+November/Nov.	
+December/Dec.	
+Monday/Mon.	
+Tuesday/Tues.	
+Wednesday/Wed.	
+Thursday/Thurs.	
+Friday/Fri.	
+Saturday/Sat.	
+Sunday/Sun.	
