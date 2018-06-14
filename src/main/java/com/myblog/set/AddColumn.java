@@ -8,6 +8,8 @@ package com.myblog.set;
 //5432	zone	核	n.地区,区域 v.分区,划分地带
 
 import java.util.ArrayList;
+import java.util.Collections;
+import java.util.HashMap;
 import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
@@ -18,6 +20,7 @@ import com.myblog.model.Word;
 import com.myblog.util.CfgUtil;
 import com.myblog.util.RegEx;
 import com.myblog.util.ResourceUtil;
+import com.myblog.util.Utils;
 
 //结合2的每行如下:
 //able
@@ -41,25 +44,48 @@ public class AddColumn {
 		Map<String, String> addendMap = loadWordList(cfg_addend);
 
 		List<String> wordLines = new ArrayList<String> ();
-		for (Iterator it = augendMap.entrySet().iterator(); it.hasNext();) {
-			Map.Entry entry = (Map.Entry) it.next();
-			String word = (String) entry.getKey();
-			String augendLine =  (String) entry.getValue();
-			String newLine = augendLine;
-			//colo(u)r单词在考研单词词义的备注中
-			if (addendMap.containsKey(word)) {//|| augendMap.containsValue(word)
-				newLine += "\t" + addendMap.get(word);
-				addendMap.remove(word);
+//		Map<String, String> wordMap = new HashMap<String, String>();
+		boolean isContinue = true;
+		while(isContinue) {
+			isContinue = false;
+			for (Iterator it = augendMap.entrySet().iterator(); it.hasNext();) {
+				Map.Entry entry = (Map.Entry) it.next();
+				String augendKeyWord = (String) entry.getKey();
+				String augendMapValue =  (String) entry.getValue();
+//				String newLine = augendMapValue;
+				//colo(u)r单词在考研单词词义的备注中
+				if (addendMap.containsKey(augendKeyWord)) {
+//					newLine += "\t" + addendMap.get(word);
+					augendMap.put(augendKeyWord, augendMapValue + "\t" + addendMap.get(augendKeyWord));
+					addendMap.remove(augendKeyWord);
+					isContinue = true;
+				} else {
+					//String mapValue = augendMap.get(word);//value中不包含带英文单词的其他项
+					String []field = augendMapValue.trim().split("\\s");
+			        String []words =  field[1].replaceAll("\"", "").split(",");
+			        for (int i = 0; words !=null && i < words.length; i++) {
+			        	String derivedWord = RegEx.removeBrackets(words[i]);
+			        	if (addendMap.containsKey(derivedWord)) {
+			        		//newLine += "\t" + addendMap.get(derivedWord);
+			        		augendMap.put(augendKeyWord, augendMapValue + "\t" + addendMap.get(derivedWord));
+							addendMap.remove(derivedWord);
+							isContinue = true;
+						}
+					}
+				}
 			}
-			wordLines.add(newLine);
-		}
+		};
+		
 		for (Iterator it = addendMap.entrySet().iterator(); it.hasNext();) {
 			Map.Entry entry = (Map.Entry) it.next();
 			String word = (String) entry.getKey();
 			String addendLine =  (String) entry.getValue();
-			String newLine = "\t\t\t\t"+addendLine;
-			wordLines.add(newLine);
+			String newLine = "\t\t\t\t\t"+addendLine;
+//			wordLines.add(newLine);
+			augendMap.put(word,newLine);
 		}
+		//wordLines.add(newLine);
+		wordLines = Utils.SortMap(augendMap);
 		// 3.保存word list
 		String cocaWordFile = Constant.PATH_RESOURCES + cfg_sum_result;
 		ResourceUtil.writerFile(cocaWordFile, wordLines, false);
@@ -79,4 +105,6 @@ public class AddColumn {
 		System.out.println("unique words count: " + wordMap.size());
 		return wordMap;
 	}
+	
+	
 }

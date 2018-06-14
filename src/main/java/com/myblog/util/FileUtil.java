@@ -16,8 +16,25 @@ import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
+import java.util.Iterator;
 import java.util.List;
+import java.util.Map;
+/*
+java提供了多种文件写入的方式，效率上各有异同，
+基本上可以分为如下三大类：字节流输出、字符流输出、内存文件映射输出。
+前两种又可以分为带buffer及不带buffer。
 
+7. 实验结论
+1、基本上，五种写入方式的时延从小到大排序为：FileChannel<BufferedOutputStream<FileOutputStream<BufferedWriter<FileWriter;从表1、图1；可以看出；且该规律在小文件写入的情景下，更为明显，图2可以看出；
+2、在同样文件大小写入的场景中，通常意义上带buffer的字节流输入/字符流输入比不带buffer的对应流效率要高；
+3、各个写入方式的jvm cpu和内存使用情况大致相当，从图2和图3可以看出；
+4、文件达到一定大小后( fileSize >=1.5G )，FileChannel的时延变得很大且不稳定，从图1最右边可以看出；同时，物理内存的使用量基本和写入文件大小相当，从图4可以看出；原因在于FileChannel使用MappedByteBuffer写入，这个buffer是direct buffer，直接操作物理内存写入，故而造成物理内存消耗严重。
+5、小文件写入的场景下（1M左右），FileChannel有些大材小用了，效率上反而没有字节流效率高。
+综上，我们可以得到几条有价值的使用经验：
+1、小文件（几M的文件）写入时，使用常规的io输入就行，最优选择是BufferedOutputStream，没有必要使用nio的FileChannel；
+2、大文件（fileSize > 1G，这是个经验值，需要根据具体环境具体分析）写入时，使用FileChannel需要小心物理内存的瓶颈带来的写入效率低下，可以考虑使用分段写入的方式（TODO：后续实验给出）；
+3、其他场景下，如果效率优先的考虑，则优先选择FileChannel写入文件。
+*/
 public class FileUtil {
 
     public static String readFile2(String filename) {
@@ -165,16 +182,31 @@ public class FileUtil {
 
     // 文件以行为单位，每行用空白字符分割，load成一个二维的字符串list
     public static List<List<String>> readStringList(String filename) {
+        return readStringList(filename,"\\s+","#");
+    }
+    public static List<List<String>> readStringList(String filename, String delimiter) {
+        return readStringList(filename, delimiter,"#");
+    }
+    // 文件以行为单位，每行用delimiter(空白)字符定界(分隔)符，load成一个二维的字符串list
+    public static List<List<String>> readStringList(String filename, String delimiter,String comment) {
+    	if (delimiter == null) {
+    		delimiter = "\\s+"; //正则表达式：空白符号
+    	} 
+    	if (comment == null) {
+    		//comment = "#";
+    	} 
         List<List<String>> stageLevelList = new ArrayList<List<String>>();
         try {
             FileInputStream fis = new FileInputStream(filename);
             BufferedReader dr = new BufferedReader(new InputStreamReader(fis));
             String line = dr.readLine();
             while (line != null) {
-                String[] split = line.split("\\s+");
-                List<String> lineStage = new ArrayList<String>(Arrays.asList(split));
-                stageLevelList.add(lineStage);
-                line = dr.readLine();
+            	if (!"".equals(line.trim()) && (comment == null || !line.trim().startsWith(comment))) { // "#"
+	                String[] split = line.split(delimiter);
+	                List<String> lineStage = new ArrayList<String>(Arrays.asList(split));
+	                stageLevelList.add(lineStage);
+	                line = dr.readLine();
+            	}
             }
             fis.close();
         } catch (Exception e) {
@@ -183,28 +215,22 @@ public class FileUtil {
         return stageLevelList;
     }
 
-    // 文件以行为单位，每行用空白字符分割，load成一个二维的字符串list
-    public static List<List<String>> readStringList(String filename, String comment) {
-        List<List<String>> stageLevelList = new ArrayList<List<String>>();
+    // 文件以行为单位，write一个二维的字符串list
+    public static boolean WriteStringList(String filename, List<List<String>> linesList, boolean isAppend) {
+        List<String> lineList = new ArrayList<String>();
         try {
-            FileInputStream fis = new FileInputStream(filename);
-            BufferedReader dr = new BufferedReader(new InputStreamReader(fis));
-            String line = dr.readLine();
-            while (line != null) {
-                if (!line.trim().startsWith(comment) && !"".equals(line.trim())) { // "#"
-                    String[] split = line.split("\\s+");
-                    List<String> lineStage = new ArrayList<String>(Arrays.asList(split));
-                    stageLevelList.add(lineStage);
-                }
-                line = dr.readLine();
-            }
-            fis.close();
+        	for ( List<String> curLine:linesList) {
+        		String newLine =  String.join(",", curLine); 
+        		lineList.add(newLine);
+    		}
+        	//String charset = "GBK";//"UTF-8";"GB2312";"GBK";
+            //Utils.saveFile(filename, body, charset);
+            ResourceUtil.writerFile(filename, lineList, isAppend);
         } catch (Exception e) {
             e.printStackTrace();
         }
-        return stageLevelList;
+        return true;
     }
-
     /**
      * @param args
      */

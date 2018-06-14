@@ -614,6 +614,7 @@ public class RegEx {
 		String pattern = "\\([^)]*\\)";//括号内  
 		//String pattern = "\\(.+";  
 		line = line.replaceAll(pattern, "");//删除括号内的内容
+		line = line.replaceAll("[\\d*]", "");//删除数字
 		
 		//child/(pl.children)
 		//child/

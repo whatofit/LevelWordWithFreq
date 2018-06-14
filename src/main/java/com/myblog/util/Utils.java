@@ -1,5 +1,6 @@
 package com.myblog.util;
 
+import java.io.BufferedOutputStream;
 import java.io.File;
 import java.io.FileOutputStream;
 import java.io.FileWriter;
@@ -190,7 +191,7 @@ public class Utils {
             System.out.println("IOException when write file: " + filename);
         }
     }
-
+    
     /**
      * 当isAppend是true时，把body添加到filename文件末尾 ，当isAppend时false时，覆盖或新建filename文件
      */
@@ -220,6 +221,10 @@ public class Utils {
         }
     }
     
+    public static void writerFile2(String filename, List<List<String>> lines, boolean isAppend) {
+    	String body = "";
+    	writerFile(filename, body, isAppend);
+    }
     // 2，实现删除文件的方法
     /**
      * 删除单个文件

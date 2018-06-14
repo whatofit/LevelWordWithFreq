@@ -41,23 +41,26 @@ public class MergeCet46 {
         for (String curFileLine : fileLines) {// 待循环(可能重复)列表
             String cet = ""; 
             if (curFileLine.contains("★")) {
-                curFileLine = curFileLine.replace("★", "").trim();
+                curFileLine = curFileLine.replace("★", "");
                 cet = "六";
             } else{
                 cet = "四";
             }
-            String[] fileLine = curFileLine.split("\\s");// \t
+            curFileLine = curFileLine.trim().replaceAll("\\s+"," ");//多个空格替换成一个空格
+            String[] fileLine = curFileLine.trim().split("\\s");// \t
             String strWord = fileLine[0];
             String subWords = "";//衍生词:加了或去了词根词缀的词
             for (int i = 1; i < fileLine.length; i++) {
                 if(subWords == "") {
                     subWords = fileLine[i];
                 }else {
-                    subWords += "\r\n" + fileLine[i];
+                    //subWords += "\r\n" + fileLine[i];
+                	subWords += "," + fileLine[i];
                 }
             }
             //wordLines.add(cet+"\t"+strWord+"\t\""+subWords+"\"");
-            wordLines.add(cet+","+strWord+",\""+subWords+"\"");
+            //wordLines.add(cet+","+strWord+",\""+subWords+"\"");
+            wordLines.add(strWord+"\t\""+subWords+"\""+"\t"+cet);
         }
         return wordLines;
     }

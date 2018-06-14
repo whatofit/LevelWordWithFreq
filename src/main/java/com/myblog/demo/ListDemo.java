@@ -1,16 +1,28 @@
 package com.myblog.demo;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Iterator;
 import java.util.List;
+import java.util.stream.Collectors;
 
 //java-----求两个list的交集、并集、和差集
 public class ListDemo {
 
     public ListDemo() {
     }
-
+    public static void joinDemo() {
+        List<String> list = Arrays.asList("A","B","C","D");
+        String result=  list.stream().collect(Collectors.joining(",","(",")"));
+        System.out.println(result);
+        
+        String body =  String.join("\t", list);
+        System.out.println(body);
+     }
+    
     public static void main(String[] args) {
+    	joinDemo();
+    	
         List<String> list1 = new ArrayList<String>();
         list1.add("1111");
         list1.add("3333");
@@ -20,6 +32,8 @@ public class ListDemo {
         list1.add("3333");  
         list1.add("5555");
         list1.add("777");
+        
+        
         
 //        List list2 = new ArrayList();
 //        list2.add("3333");
