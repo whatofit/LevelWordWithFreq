@@ -92,7 +92,7 @@ Africa		n
 African		a & n
 after		ad,prep & conj
 afternoon		n
-afterward	s	ad
+afterward(s)		ad
 again		ad
 against		prep
 age		n
@@ -141,10 +141,10 @@ alternative		a
 although		conj
 altitude		n
 altogether		ad
-aluminium	Am aluminum	n
+aluminum/aluminium		n
 always		ad
-am	be	am v(be)
-a.m./am		,A.M./AM abbr
+#am(be)		v
+a.m./am/A.M./AM		abbr
 amateur		a
 amaze		v
 amazing		a
@@ -219,11 +219,11 @@ arch		n
 architect		n
 architecture		n
 Arctic		a
-are	be	are v(be)
+#are(be)		v
 area		n
 argue		v
 argument		n
-arise	arose,arisen	v
+arise(arose,arisen)		v
 arithmetic		n
 arm		n & v
 armchair		n
@@ -300,7 +300,7 @@ baby		n
 bachelor		n
 back		ad,a & n
 background		n
-backward	s	ad
+backward(s)		ad
 bacon		n
 bacterium	pl bacteria	n
 bad	worse,worst	a
@@ -3450,6 +3450,9 @@ seventeen
 eighteen		
 nineteen		
 twenty		
+twenty-one
+twenty-two
+twenty-three
 thirty		
 forty		
 fifty		
@@ -3481,6 +3484,9 @@ seventeenth
 eighteenth		
 nineteenth		
 twentieth		
+twenty-first
+twenty-second
+twenty-third
 thirtieth		
 fortieth		
 fiftieth		
