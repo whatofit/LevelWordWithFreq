@@ -185,7 +185,7 @@ amount
 ample
 ★amplify amplification
 amuse amusing amusement
-★analogue analogous
+★analog(ue) analogous
 ★analogy
 analyze/-yse analysis analytic(al) analyst
 ancestor ancestry
@@ -218,10 +218,9 @@ antique
 ★antonym
 anxious anxiety
 any
-anybody/anyone
-anyhow
+anybody/=anyone
+anyway/=anyhow
 anything
-anyway
 anywhere
 apart
 apartment/apt．
@@ -660,7 +659,7 @@ bucket
 buckle
 bud
 buddy
-★ Buddhism Buddhist
+★Buddhism Buddhist
 budget budgetary
 ★buffalo
 ★buffer
@@ -781,7 +780,7 @@ catch
 category
 cater
 ★cathedral
-★ Catholic
+★Catholic
 cattle
 ★cauliflower
 cause
@@ -1622,7 +1621,7 @@ earth
 earthquake
 ease
 east eastern
-★ Easter
+★Easter
 easy easily
 easy-going
 eat
@@ -2181,7 +2180,7 @@ god
 gold golden
 golf
 good
-goodbye
+goodby(e)
 goodness
 goods
 goose
@@ -2248,7 +2247,7 @@ gum
 gun
 gut
 guy
-gym(nasium)
+gymnasium/gym
 habit habitual
 habitat
 hack1 hacker
@@ -2263,11 +2262,11 @@ halt
 ham
 hamburger/burger
 hammer
-★ hamper
+★hamper
 hand handful
 handbook
 handicap handicapped
-★ handicraft
+★handicraft
 handle
 handsome
 handwriting
@@ -2275,13 +2274,13 @@ handy
 hang
 happen
 happy happiness happily
-★ harass harassment
+★harass harassment
 harbo(u)r
 hard harden
 hardly
 hardship
 hardware
-★ hardy
+★hardy
 harm harmful harmless
 harmony harmonious
 harness
@@ -2294,9 +2293,9 @@ hate hatred hateful
 haul
 haunt
 have
-★ haven
-★ havoc
-★ hawk
+★haven
+★havoc
+★hawk
 hay
 hazard hazardous
 haze hazy
@@ -2314,11 +2313,11 @@ hear hearing
 heart hearty
 heartfelt
 heat heated heating
-★ heave
+★heave
 heaven
 heavy
 hectare
-★ hectic
+★hectic
 hedge
 heel
 height heighten
@@ -2326,50 +2325,50 @@ heir heiress
 helicopter
 hell
 hello
-★ helmet
+★helmet
 help helpful helpless helplessly
-★ hemisphere
+★hemisphere
 hen
 hence
-★ henceforth
+★henceforth
 her
-★ herald
-★ herb herbal
+★herald
+★herb herbal
 herd
 here
 hereby
 heritage
 hero/heroine heroic heroism
-★ heroin
+★heroin
 hers
 herself
 hesitate hesitation hesitant
 hi
-★ hibernate hibernation
+★hibernate hibernation
 hide hiding
-★ hierarchy hierarchical
+★hierarchy hierarchical
 high highly
 highlight
 high-tech
 highway
 hijack
-★ hike
+★hike
 hill hilly
 him
 himself
 hinder hindrance
-★ hinge
+★hinge
 hint
 hip
 hire
 his
 history historic historical historian
 hit
-★ hitherto
-★ hive
+★hitherto
+★hive
 hobby
-★ hockey
-★ hoist
+★hockey
+★hoist
 hold
 hole
 holiday
@@ -2378,67 +2377,67 @@ holy holiness
 home homeless homely
 homeland
 homework
-★ homogeneous
+★homogeneous
 homosexual/homo
 honest honesty
 honey
 honeymoon
 hono(u)r hono(u)rable hono(u)rary
 hook
-★ hop
+★hop
 hope hopeful hopeless
 horizon horizontal
 horn
 horror horrible horrify
 horse
 horsepower
-★ hose
+★hose
 hospital hospitalize
 hospitable hospitality
 host1 hostess
 host2
-★ hostage
+★hostage
 hostile hostility
 hot
 hotdog
 hotel
-★ hound
+★hound
 hour hourly
 house housing
 household
 housewife
 housework
-★ hover
+★hover
 how
 however
-★ howl
-★ huddle
+★howl
+★huddle
 hug
 huge
-★ hum
+★hum
 human humanity
-★ humane humanism humanist humanitarian
+★humane humanism humanist humanitarian
 humble humbly
-★ humid humidity
-★ humiliate humiliation
+★humid humidity
+★humiliate humiliation
 humo(u)r humo(u)rous
 hundred
 hunger hungry
 hunt hunting hunter
-★ hurdle
-★ hurl
-★ hurricane
+★hurdle
+★hurl
+★hurricane
 hurry hurriedly
 hurt hurtful
 husband
 hut
-★ hybrid
+★hybrid
 hydrogen
-★ hygiene hygienic
+★hygiene hygienic
 hyphen
-★ hypocrisy hypocritical hypocrite
-★ hypothesis hypothetical
-★ hysterical hysteria
+★hypocrisy hypocritical hypocrite
+★hypothesis hypothetical
+★hysterical hysteria
 I
 ice icy
 ★iceberg
@@ -2667,7 +2666,7 @@ jeep
 ★jerk
 jet
 jetlag
-jewel jewel(l)ery
+jewel jewel(l)ery/jewelry
 job
 ★jockey
 jog
@@ -2704,8 +2703,8 @@ key
 keyboard
 kick
 kid
-★ kidnap
-★ kidney
+★kidnap
+★kidney
 kill
 kilogram(me)/kilo
 kilometer/-tre
@@ -2721,9 +2720,9 @@ kite
 knee
 kneel
 knife
-★ knight
+★knight
 knit
-★ knob
+★knob
 knock
 knot knotty
 know knowledge knowledgeable
@@ -2911,11 +2910,11 @@ mad madden
 madam
 magazine
 magic magical
-★ magistrate
+★magistrate
 magnet magnetic
 magnificent magnificence
-★ magnify
-★ magnitude
+★magnify
+★magnitude
 maid
 maiden
 mail
@@ -2923,50 +2922,50 @@ main
 mainland
 mainstream
 maintain maintenance
-★ majesty majestic
+★majesty majestic
 major majority
 make
 makeup
 male
-★ malice malicious
-★ malignant
+★malice malicious
+★malignant
 mall
-★ malpractice
+★malpractice
 mammal
 man manly manhood
 manage management manager managerial
-★ mandate mandatory
-★ maneuver/manoeuvre
-★ manifest manifestation
+★mandate mandatory
+★maneuver/manoeuvre
+★manifest manifestation
 manipulate manipulation manipulative
 mankind
 manner
-★ mansion
+★mansion
 manual
 manufacture manufacturer
-★ manuscript
+★manuscript
 many
 map
-★ mar
+★mar
 marathon
-★ marble
+★marble
 March
 march
 margin marginal
 marine
-★ maritime
+★maritime
 mark
 market marketing
 marry marriage marital
 marsh
 marshal
-★ martyr martyrdom
+★martyr martyrdom
 marvel marvel(l)ous
 Marxism Marxist
-★ masculine masculinity
+★masculine masculinity
 mask
 mass massive
-★ massacre
+★massacre
 massage
 master mastery
 masterpiece
@@ -2974,7 +2973,7 @@ mat
 match
 mate
 material materialism materialist materialize/-ise
-★ maternal maternity
+★maternal maternity
 math(ematics)/maths mathematical
 matter
 mature maturity
@@ -2984,7 +2983,7 @@ may
 maybe
 mayor
 me
-★ meadow
+★meadow
 meal
 mean1 meaning meaningful
 mean2
@@ -2997,46 +2996,46 @@ meat meaty
 mechanic mechanical mechanics mechanism
 mechanize/-ise mechanization/-sation
 medal
-★ mediate mediation mediator
+★mediate mediation mediator
 medical
 Medicare
-★ medication
+★medication
 medicine medicinal
-★ medieval
+★medieval
 medium media
 meet
 meeting
-★ melody melodious
+★melody melodious
 melon
 melt
 member membership
 memorandum/memo
 memorial
 memory memorize/-ise
-★ menace
+★menace
 mend
 mental mentality
 mention
-★ mentor
+★mentor
 menu
-★ merchandise
+★merchandise
 merchant
-★ mercury
+★mercury
 mercy merciful
 mere merely
-★ merge merger
+★merge merger
 merit meritorious
 merry merriment
 mess messy
 message messenger
-★ metabolism metabolic
+★metabolism metabolic
 metal metallic
-★ metaphor metaphorical
+★metaphor metaphorical
 meter/-tre metric
 method methodical methodology
-★ meticulous
+★meticulous
 metro
-★ metropolitan
+★metropolitan
 microphone
 microscope microscopic
 microwave microwavable
@@ -3044,31 +3043,31 @@ midday
 middle
 middle-class
 midnight
-★ midst
-★ midwife
+★midst
+★midwife
 might mighty
 migrate migration migrant
 mild
 mile mileage
-★ milestone
-★ militant militancy
+★milestone
+★militant militancy
 military
-★ militia
+★militia
 milk milky
 mil
 millimeter/-tre
 million millionaire
 mind
-★ mindset
+★mindset
 mine1
 mine2 mineral mining
 mine3
-★ mingle
-★ miniature
+★mingle
+★miniature
 minimum minimal minimize/-ise
 minister ministry ministerial
 minor minority
-★ mint
+★mint
 minus
 minute1
 minute2
@@ -3082,17 +3081,17 @@ miss2
 missile
 missing
 mission
-★ missionary
+★missionary
 mist misty
 mistake mistaken
 mister
 mistress
 misunderstand misunderstanding
 mix mixture mixer
-★ moan
+★moan
 mobile
-★ mobilize/-ise
-★ mock
+★mobilize/-ise
+★mock
 mode
 model
 moderate moderation moderator
@@ -3101,17 +3100,17 @@ modest modesty
 modify modification modifier
 moist moisture
 mo(u)ld mo(u)ldy
-★ molecule molecular
+★molecule molecular
 mom(my)
 moment momentary momentarily
-★ momentum momentous
-★ monarchy monarch
+★momentum momentous
+★monarchy monarch
 Monday
 money monetary
 monitor
 monkey
-★ monopoly monopolize/-ise
-★ monotony monotonous
+★monopoly monopolize/-ise
+★monotony monotonous
 monster monstrous
 month monthly
 monument monumental
@@ -3119,13 +3118,13 @@ mood moody
 moon
 mop
 moral morality
-★ morale
+★morale
 more
 moreover
 morning
-★ mortal mortality
+★mortal mortality
 mortgage
-★ mosquito
+★mosquito
 most mostly
 motel
 mother motherly
@@ -3137,36 +3136,36 @@ motorway
 mount1 mounting
 mount2
 mountain mountainous
-★ mourn mourning
+★mourn mourning
 mouse
 mouth mouthful
 move movement
 movie
-★ mow
+★mow
 much
 mud muddy
 mug
 mule
-★ multilateral
+★multilateral
 multiple multiply multiplication
-★ multitude
+★multitude
 municipal municipality
 murder murderous
-★ murmur
+★murmur
 muscle muscular
 museum
 mushroom
 music musical musician
 must
-★ mute
-★ mutter
+★mute
+★mutter
 mutual
 my
 myself
 mystery mysterious
 myth mythical mythology
 nail
-★ naive naivety
+★naive naivety
 naked
 name
 namely
@@ -3180,7 +3179,7 @@ nationwide
 native
 nature natural naturally
 naughty
-★ navigate navigation
+★navigate navigation
 navy naval
 near nearly
 nearby
@@ -3193,8 +3192,8 @@ need needy
 needle
 negate negation negative
 neglect neglectful
-★ negligent negligence
-★ negligible
+★negligent negligence
+★negligible
 negotiate negotiation negotiable
 neighbo(u)r neighbo(u)rhood
 neither
@@ -3212,25 +3211,25 @@ newspaper
 next
 nice nicety
 nickel
-★ nickname
+★nickname
 niece
 night nightly
 nightmare
-★ nil
+★nil
 nine
 nineteen
 ninety
 ninth
-★ nitrogen
+★nitrogen
 no
 noble nobility
 nobody
 nod
 noise noisy
-★ nominal
-★ nominate nomination nominee
+★nominal
+★nominate nomination nominee
 none
-★ nonetheless
+★nonetheless
 nonsense
 noodle
 noon
@@ -3244,13 +3243,13 @@ nose nosy
 not
 note notation notable
 notebook
-★ noteworthy
+★noteworthy
 nothing
 notice noticeable
 notify notification
 notion notional
-★ notorious notoriety
-★ notwithstanding
+★notorious notoriety
+★notwithstanding
 noun
 nourish nourishment
 novel1 novelist
@@ -3262,13 +3261,13 @@ nowhere
 nuclear nucleus
 nude nudity
 nuisance
-★ numb
+★numb
 number
-★ numerical
+★numerical
 numerous
 nurse
 nursery
-★ nurture
+★nurture
 nut
 nutrition nutrient
 ★oak
@@ -3474,7 +3473,7 @@ party
 pass
 passage
 passenger
-★passerby
+★passerby(pl.passers-by)/passer
 passion passionate
 passive
 passport
@@ -3857,7 +3856,7 @@ rag ragged raggedly
 rage raging
 raid
 rail
-railway/railroad
+railroad/railway
 rain rainy
 rainbow
 raincoat
@@ -3924,7 +3923,7 @@ refer reference
 ★referee
 ★referendum
 refine refinery refinement
-reflect reflection reflective
+reflect reflection/-xion reflective
 reform reformation reformist
 refrain
 refresh
@@ -4993,7 +4992,7 @@ trip
 triple
 triumph triumphant
 ★trivial
-trolley
+trolley/trolly
 troop
 ★trophy
 ★tropic tropical
@@ -5195,7 +5194,7 @@ wage
 wag(g)on
 waist
 wait waiter/waitress
-★ waive waiver
+★waive waiver
 wake waken
 walk
 wall
@@ -5204,14 +5203,14 @@ wander
 want
 war
 ward
-★ wardrobe
+★wardrobe
 ware
 warehouse
 warfare
 warm warmth
 warn warning
-★ warrant
-★ warranty
+★warrant
+★warranty
 warrior
 wary
 wash washing
@@ -5220,7 +5219,7 @@ watch watchful
 water
 waterproof
 watertight
-★ watt
+★watt
 wave wavy
 wax
 way
@@ -5229,14 +5228,14 @@ weak weaken weakness
 wealth wealthy
 weapon
 wear
-★ weary weariness
+★weary weariness
 weather
 weave
 web
 webcast
 website
 wed wedding
-★ wedge
+★wedge
 Wednesday
 weed
 week weekly
@@ -5255,36 +5254,36 @@ well-off
 west western westerner
 wet
 whale
-★ wharf
+★wharf
 what whatever whatsoever
 wheat
 wheel
 when whenever
 where wherever
-★ whereabouts
+★whereabouts
 whereas
-★ whereby
+★whereby
 whether
 which whichever
 while/whilst
 whip
-★ whirl
-whisky/whiskey
+★whirl
+whiskey/whisky
 whisper
 whistle
 white
 who whoever
 whole wholly
-★ wholesale
-★ wholesome
+★wholesale
+★wholesome
 whom
 whose
 why
-★ wicked
+★wicked
 wide width widen
 widespread
 widow widower
-★ wield
+★wield
 wife
 wild
 wilderness
@@ -5297,18 +5296,18 @@ wind2
 window
 wine winery
 wing
-★ wink
+★wink
 winter
 wipe
 wire wireless
 wise wisdom
 wish
 wit witty
-★ witch
+★witch
 with
 withdraw withdrawal
-★ wither
-★ withhold
+★wither
+★withhold
 within
 without
 withstand
@@ -5337,9 +5336,9 @@ would
 wound
 wrap wrapping
 wreck wreckage
-★ wrench
-★ wrestle wrestling
-★ wretched
+★wrench
+★wrestle wrestling
+★wretched
 wrinkle
 wrist
 write writer writing
