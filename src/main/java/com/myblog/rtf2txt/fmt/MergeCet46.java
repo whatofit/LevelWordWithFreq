@@ -9,6 +9,7 @@ import com.myblog.util.CfgUtil;
 import com.myblog.util.ResourceUtil;
 import com.myblog.util.Utils;
 
+//把四六级词汇表整理3列:单词,衍生词s,四/六级
 public class MergeCet46 {
 
     public MergeCet46() {

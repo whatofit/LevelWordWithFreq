@@ -347,7 +347,7 @@ BC abbr
 be(am,is,are,was,were,being,been) v
 beach n
 bean n
-bean curd n
+bean-curd n
 bear1 n
 bear2 v
 beard n
@@ -478,7 +478,7 @@ bright a
 brilliant a
 bring(brought,brought) v
 broad a
-broadcast(broadcast, broadcast或-ed,-ed) v
+broadcast(broadcast,broadcast或-ed,-ed) v
 brochure n
 broken a
 broom n
@@ -496,7 +496,7 @@ bungalow n
 burden n
 bureaucratic a
 burglar n
-burn(burnt,burnt 或-ed,-ed) v&n
+burn(burnt,burnt或-ed,-ed) v&n
 burst v
 bury v
 bus n
@@ -526,7 +526,7 @@ camera n
 camp n&v
 campaign n
 can1(could);
-can’t/cannot modal v
+can’t/cannot modal-v
 can2 n
 canal n
 cancel v
@@ -572,7 +572,7 @@ cause n&v
 caution n
 cautious a
 cave n
-CD/(compact disk) n
+CD/(compact-disk) n
 ceiling n
 celebrate v
 celebration n
@@ -801,7 +801,7 @@ cosy(Am cozy) a
 cottage n
 cotton n&a
 cough n&v
-could modal v
+could modal-v
 count v
 counter n
 country n
@@ -858,7 +858,7 @@ damp a&n
 dance n&v
 danger n
 dangerous a
-dare v&modal v
+dare v&modal-v
 dark a&n
 darkness n
 dash v&n
@@ -1012,7 +1012,7 @@ drag v
 draw(drew,drawn) v
 drawback n
 drawer n
-dream(dreamt,dreamt 或-ed,-ed) n&v
+dream(dreamt,dreamt或-ed,-ed) n&v
 dress n&v
 drill n&v
 drink(drank,drunk) v
@@ -1033,7 +1033,7 @@ dust n
 dustbin n
 dusty a
 duty n
-DVD/digital versatile disk n
+DVD/digital-versatile-disk n
 dynamic a
 dynasty n
 each a&pron
@@ -1186,7 +1186,7 @@ fan n
 fancy n,v&a
 fantastic a
 fantasy n
-far(farther,farthest 或 further,furthest) a&ad
+far(farther,farthest或further,furthest) a&ad
 fare n
 farm n
 farmer n
@@ -1259,7 +1259,7 @@ flower n
 flu n
 fluency n
 fluent a
-fly1(flew,flown)  v
+fly1(flew,flown) v
 fly2 n
 focus v&n
 fog n
@@ -1442,7 +1442,7 @@ handle n&v
 handsome a
 handwriting n
 handy a
-hang(hung,hung 或-ed,-ed) v
+hang(hung,hung或-ed,-ed) v
 happen v
 happiness n
 happy a
@@ -1533,7 +1533,7 @@ howl v
 hug v
 huge a
 human a&n
-human being n
+human-being n
 humorous a
 humour(Am humor) n
 hunger n
@@ -1727,8 +1727,8 @@ library n
 license n
 lid n
 lie1 n&v
-lie2(lay,lain)  v
-life(pl lives)  n
+lie2(lay,lain) v
+life(pl.lives) n
 lift v&n
 light n,v&a
 lightning n
@@ -1811,7 +1811,7 @@ mathematics/math/maths n
 matter n&v
 mature a
 maximum a&n
-may modal v
+may modal-v
 maybe ad
 me pron
 meal n
@@ -1851,7 +1851,7 @@ microscope n
 microwave n
 middle n
 midnight n
-might modal v
+might modal-v
 mild a
 mile n
 milk n&v
@@ -1927,7 +1927,7 @@ mushroom n
 music n
 musical a&n
 musician n
-must modal v
+must modal-v
 mustard n
 mutton n
 my pron
@@ -1950,7 +1950,7 @@ neat a
 necessary a
 neck n
 necklace n
-need n&modal v
+need n&modal-v
 needle n
 negotiate v
 neighbour(Am neighbor) n
@@ -2059,7 +2059,7 @@ organisation(Am organization) n
 origin n
 other pron&a
 otherwise ad
-ought modal v
+ought modal-v
 our pron
 ours pron
 ourselves pron
@@ -2141,8 +2141,8 @@ pattern n
 pause n&v
 pavement n
 pay(paid,paid) v&n
-P.C./personal computer n
-P.E./physical education n
+P.C./personal-computer n
+P.E./physical-education n
 pea n
 peace n
 peaceful a
@@ -2512,7 +2512,7 @@ rewind v
 rhyme n&v
 rice n
 rich a
-rid(rid,rid 或 ridded,ridded) v
+rid(rid,rid或ridded,ridded) v
 riddle n
 ridiculous a
 ride(rode,ridden) v&n
@@ -2656,7 +2656,7 @@ shabby a
 shade n
 shadow n
 shake(shook,shaken) v
-shall modal v
+shall modal-v
 shallow a
 shame n
 shape n&v
@@ -2687,12 +2687,12 @@ shortcoming n
 shortly ad
 shorts n
 shot n
-should modal v
+should modal-v
 shoulder n
 shout n&v
 show(showed,shown/showed) v&n
 shower n
-shrink(shrank,shrunk 或 shrunk,shrunken) v
+shrink(shrank,shrunk或shrunk,shrunken) v
 shut(shut,shut) v
 shuttle n
 shy a
@@ -2894,7 +2894,7 @@ strength n
 strengthen v
 stress n&v
 strict a
-strike(struck,struck /stricken) v&n
+strike(struck,struck/stricken) v&n
 string n
 strong a
 struggle v
@@ -2971,7 +2971,7 @@ symptom n
 system n
 systematic a
 table n
-table tennis n
+table-tennis n
 tablet n
 tail n
 tailor n
@@ -3238,7 +3238,7 @@ variety n
 various a
 vase n
 vast a
-VCD/versatile compact disk n
+VCD/versatile-compact-disk n
 vegetable n
 vehicle n
 version n
@@ -3359,7 +3359,7 @@ wife n
 wild a
 wildlife n
 will1 n
-will2(would) modal v
+will2(would) modal-v
 willing a
 win(won,won) v
 wind1 n
@@ -3399,7 +3399,7 @@ worry n&v
 worth a
 worthwhile a
 worthy a
-would modal v
+would modal-v
 wound v&n
 wrestle v
 wrinkle n

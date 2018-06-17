@@ -1,0 +1,5559 @@
+cancel	cancel	"cancelation"	四	cancel	v	高
+prepare	prepare	"preparation,preparatory"	四	prepare	v	高	preparation	n	高
+half	half	""	四	half	a&n	高
+upload	upload	""	四
+fifty	fifty	""	四	fifty		高
+abrupt	abrupt	""	六	abrupt	a	高
+discourage	discourage	""	四	discourage	v	高
+idol	idol	""	六
+hall	hall	""	四	hall	n	高
+nowadays	nowadays	""	四	nowadays	ad	高
+oversee	oversee	""	四
+spontaneous	spontaneous	"spontaneity"	四
+salary	salary	""	四	salary	n	高
+pretend	pretend	"pretense/-ce"	四	pretend	v	高
+wreck	wreck	"wreckage"	四
+tea	tea	""	四	tea	n	高
+drunk	drunk	"drunken,drunkard"	四	drunk	a	高
+would	would	""	四	would	modal-v	高
+pick	pick	"picky"	四	pick	v	高
+rabbit	rabbit	""	四	rabbit	n	高
+customs	customs	""	四	customs	n	高
+reproach	reproach	""	六
+warrant	warrant	""	六
+ten	ten	""	四	ten		高
+sake	sake	""	四
+energy	energy	"energetic,energetically"	四	energy	n	高	energetic	a	高
+conceal	conceal	"concealment"	四
+solid	solid	"solidity,solidify"	四	solid	a&n	高
+billionth						billionth		高
+chopstick	chopstick	""	四
+meanwhile	meanwhile	""	四	meanwhile	ad	高
+sniff	sniff	""	六	sniff	v	高
+competent	competent	"competence"	四	competence	n	高
+coincide	coincide	"coincidence"	六	coincidence	n	高
+scratch	scratch	""	四	scratch	v&n	高
+require	require	"requirement"	四	require	v	高	requirement	n	高
+click	click	""	四	click	v	高
+size	size	"sizable"	四	size	n	高
+triple	triple	""	四
+left	left	"leftist"	四	left	a,ad&n	高
+temper	temper	""	四
+eleven	eleven	""	四	eleven		高
+rejoice	rejoice	"rejoicing"	六
+frantic	frantic	"frantically"	六
+sideways	sideways	""	四	sideways	ad	高
+statute	statute	"statutory"	六
+tickle	tickle	""	六
+object	object1	""	四	object	n	高
+newspaper	newspaper	""	四	newspaper	n	高
+hang	hang	""	四	hang(hung,hung或-ed,-ed)	v	高
+role	role	""	四	role	n	高
+cliff	cliff	""	四
+infinite	infinite	"infinity,infinitive"	四
+roll	roll	"roller"	四	roll	v&n	高
+I	I	""	四	I	pron	高
+suffice	suffice	""	六
+concede	concede	"concession"	六
+turn	turn	""	四	turn	v&n	高
+blond	blond(e)	""	四
+elect	elect	"election,elective"	四	elect	v	高
+example	example	"exemplary,exemplify"	四	example	n	高
+gold	gold	"golden"	四	gold	n&a	高	golden	a	高
+result	result	"resultant"	四	result	n	高
+golf	golf	""	四	golf	n	高
+same	same	""	四	same	n&a	高
+evaporate	evaporate	"evaporation"	六
+commission	commission	""	四
+quiet	quiet	""	四	quiet	a	高
+after	after	""	四	after	ad,prep&conj	高
+flip	flip	""	六
+staircase	staircase	""	四
+connect	connect	"connection/-xion"	四	connect	v	高	connection	n	高
+rational	rational	""	四
+hand	hand	"handful"	四	hand	n&v	高	handful	n	高
+policy	policy	""	四	policy	n	高
+resume	resume1	"resumption"	四
+rebuild						rebuild(rebuilt,rebuilt)	v	高
+a	a/an	""	四	a/an	art	高
+salt	salt	"salty"	四	salt	n	高	salty	a	高
+address	address	""	四	address	n	高
+spiral	spiral	""	六
+abbreviation	abbreviation	""	六
+neighbor	neighbo(u)r	"neighbo(u)rhood"	四	neighbor/neighbour	n	高	neighborhood/neighbourhood	n	高
+blood	blood	"bloody"	四	blood	n	高
+straight	straight	"straighten"	四	straight	a&ad	高
+vocation	vocation	"vocational"	四
+the	the	""	四	the	art	高
+halt	halt	""	四
+sale	sale	""	四	sale	n	高
+police	police	"policeman"	四	police	n	高	policeman/woman(pl.policemen/policewomen)	n	高
+throw	throw	""	四	throw(threw,thrown)	v	高
+sunset	sunset	""	四
+fifth	fifth	""	四	fifth		高
+thank	thank	"thankful"	四	thank	v&n	高	thankful	a	高
+obvious	obvious	"obviously"	四	obvious	a	高
+surgery	surgery	"surgical,surgeon"	四	surgeon	n	高
+violent	violent	"violence"	四	violent	a	高	violence	n	高
+resolve	resolve	"resolution,resolute"	四
+confront	confront	"confrontation"	四
+uprising	uprising	""	六
+good	good	""	四	good(better,best)	a	高
+obese	obese	"obesity"	四
+deploy	deploy	"deployment"	六
+empty	empty	"emptiness"	四	empty	a	高
+reproduce	reproduce	"reproduction,reproductive"	四
+huddle	huddle	""	六
+skeleton	skeleton	""	四
+tie	tie	""	四	tie	v&n	高
+illiterate	illiterate	"illiteracy"	六
+tin	tin	""	四	tin	n	高
+preposition	preposition	""	四
+besides	besides	""	四	besides	prep&ad	高
+serious	serious	""	四	serious	a	高
+cosmetic	cosmetic	""	六
+disperse	disperse	""	六
+implement	implement1	"implementation"	四
+tip	tip	""	四	tip	n&v	高
+export	export	"exportation"	四	export	n&v	高
+laugh	laugh	"laughter"	四	laugh	n&v	高	laughter	n	高
+well-being	well-being	""	四
+fantasy	fantasy	"fantastic"	四	fantasy	n	高	fantastic	a	高
+erode	erode	"erosion,erosive"	六
+check	check1	""	四	check	n&v	高
+beset	beset	""	六
+onto	onto	""	四	onto	prep	高
+sand	sand	""	四	sand	n	高
+frustrate	frustrate	"frustration,frustrating"	四
+aside	aside	""	四	aside	ad	高
+gorgeous	gorgeous	""	四
+grandparent	grandparent	"grandfather,grandmother"	四
+ascend	ascend	"ascendance"	六
+harm	harm	"harmful,harmless"	四	harm	n&v	高	harmful	a	高
+tasteless						tasteless	a	高
+inmate	inmate	""	六
+provided	provided	""	四
+rope	rope	""	四	rope	n	高
+disco	disco	""	四
+indispensable	indispensable	""	四
+lens	lens	""	四
+embody	embody	"embodiment"	六
+society	society	"social,socialize/-ise,sociable"	四	society	n	高	social	a	高
+nowhere	nowhere	""	四	nowhere	ad	高
+motive	motive	""	四
+envisage	envisage	""	六
+emancipate	emancipate	"emancipation"	六
+root	root	""	四	root	n	高
+motivate	motivate	"motivation"	四	motivation	n	高
+hard	hard	"harden"	四	hard	ad&a	高
+dissident	dissident	""	六
+spoil	spoil	""	四
+lend	lend	""	四	lend(lent,lent)	v	高
+pasture	pasture	""	六
+malpractice	malpractice	""	六
+November	November	""	四	November/Nov.		高
+roof	roof	""	四	roof	n	高
+conducive	conducive	""	六
+pilot	pilot	""	四	pilot	n	高
+ticket	ticket	""	四	ticket	n	高
+umbrella	umbrella	""	四	umbrella	n	高
+cheek	cheek	""	四	cheek	n	高
+multiple	multiple	"multiply,multiplication"	四	multiply	v	高
+concentrate	concentrate	"concentration"	四	concentrate	v	高
+expose	expose	"exposure"	四	expose	v	高
+magnet	magnet	"magnetic"	四
+versatile	versatile	""	六
+versus	versus	""	四
+room	room	""	四	room	n	高
+cheer	cheer	"cheerful"	四	cheer	n&v	高	cheerful	a	高
+better	better	""	四
+footprint	footprint	""	四
+up-to-date	up-to-date	""	四
+permit	permit	"permission,permissible,permissive"	四	permit	v&n	高	permission	n	高
+automate	automate	"automation,automatic,automatically"	四	automatic	a	高
+well	well1	""	四	well1	n	高
+personnel	personnel	""	四	personnel	n	高
+cancer	cancer	""	四	cancer	n	高
+twenty-two						twenty-two		高
+splash	splash	""	四
+outlook	outlook	""	四
+romance	romance	"romantic"	四
+fountain	fountain	""	四	fountain	n	高
+porcelain	porcelain	""	六
+gadget	gadget	"gadgetry"	四
+pile	pile	""	四	pile	n	高
+catalog	catalog(ue)	""	四
+atlas	atlas	""	六
+sunburnt						sunburnt	a	高
+pioneer	pioneer	""	四	pioneer	n	高
+part-time						part-time	a&ad	高
+pill	pill	""	四	pill	n	高
+myth	myth	"mythical,mythology"	四
+experiment	experiment	"experimental"	四	experiment	n	高
+flour	flour	""	四	flour	n	高
+fierce	fierce	""	四	fierce	a	高
+hate	hate	"hatred,hateful"	四	hate	v&n	高
+block	block	""	四	block	n&v	高
+cordial	cordial	"cordiality"	六
+flow	flow	""	四	flow	v	高
+order	order	"orderly"	四	order	n&v	高
+conceit	conceit	"conceited"	六
+timid	timid	""	六
+custody	custody	""	六
+propose	propose	"proposal,proposition"	四
+reform	reform	"reformation,reformist"	四	reform	v&n	高
+daylight	daylight	""	四
+crazy	crazy	"craze"	四	crazy	a	高
+ensue	ensue	""	六
+razor						razor	n	高
+coach	coach	""	四	coach	n	高
+southeast	southeast	"southeastern"	四	southeast	n	高
+pink	pink	""	四	pink	a&n	高
+woman	woman	""	四	woman(pl.women)	n	高
+pine	pine	""	四	pine	n	高
+fuck	fuck	""	四
+save	save	"saving"	四	save	v	高
+stagger	stagger	""	六
+toe	toe	""	四
+pint	pint	""	四	pint	n	高
+irony	irony	"ironic(al),ironically"	四
+matter	matter	""	四	matter	n&v	高
+bandage	bandage	""	四	bandage	n	高
+ton	ton	"tonnage"	四	ton	n	高
+scrap	scrap	""	六
+conjunction	conjunction	""	四
+top	top	""	四	top	n	高
+syndrome	syndrome	""	六
+too	too	""	四	too	ad	高
+surname	surname	""	四
+have	have	""	四	have(has,had,had)	v	高
+noise	noise	"noisy"	四	noise	n	高	noisy	a	高
+tow	tow	""	六
+meadow	meadow	""	六
+toy	toy	""	四	toy	n	高
+roast	roast	""	四	roast	v	高
+haul	haul	""	四
+avail	avail	""	六
+product	product	""	四	product	n	高
+quilt						quilt	n	高
+question	question	"questionnaire"	四	question	v&n	高	questionnaire	n	高
+hyphen	hyphen	""	四
+vinegar	vinegar	""	四	vinegar	n	高
+spirit	spirit	"spiritual"	四	spirit	n	高	spiritual	a	高
+premier	premier	""	四	premier	n	高
+intellectual	intellectual	""	四
+cheap	cheap	""	四	cheap	a	高
+produce	produce	"production,productive,productivity"	四	produce	v	高	production	n	高
+picture	picture	"picturesque"	四	picture	n	高
+cheat	cheat	""	四	cheat	n&v	高
+allergic	allergic	"allergy"	六	allergic	a	高
+according-to	according-to	""	四
+disable	disable	"disabled,disability"	四	disability	n	高
+undoubtedly	undoubtedly	""	四
+regard	regard	""	四	regard	v&n	高
+witch	witch	""	六
+rose	rose	"rosy"	四	rose	n	高
+anecdote	anecdote	"anecdotal"	六	anecdote	n	高
+thousand	thousand	""	四	thousand		高
+infect	infect	"infection,infectious"	四
+instal	instal(l)	"instal(l)ation"	四
+capital	capital	"capitalist,capitalism"	四	capital	n	高
+minor	minor	"minority"	四	minority	n	高
+traveler						traveler/traveller	n	高
+cop	cop	""	四
+hostile	hostile	"hostility"	四
+fuel	fuel	""	四	fuel	n	高
+cow	cow	""	四	cow	n	高
+upon	upon	""	四	upon	prep	高
+lab						lab/laboratory	n	高
+lad	lad	""	六
+pray	pray	"prayer1,prayer2"	四	pray	v	高	prayer	n	高
+bruise	bruise	""	六
+crawl	crawl	""	四
+gown	gown	""	四
+plead	plead	""	六
+lag	lag	""	四
+towel	towel	""	四	towel	n	高
+coral	coral	""	六
+function	function	"functional"	四	function	n&v	高
+spoon	spoon	"spoonful"	四	spoon	n	高	spoonful	n	高
+west	west	"western,westerner"	四	west	a,ad&n	高	western	a	高
+raise	raise	""	四	raise	v	高
+quite	quite	""	四	quite	ad	高
+lap	lap	""	四	lap	n	高
+pipe	pipe	""	四	pipe	n	高
+longitude	longitude	"longitudinal"	六
+traffic	traffic	"trafficking"	四	traffic	n	高
+tower	tower	""	四	tower	n	高
+well-known	well-known	""	四
+pigeon	pigeon	""	四
+mindset	mindset	""	六
+law	law	"lawful"	四	law	n	高
+lay	lay	""	四	lay(laid,laid)	v	高
+hatch	hatch	""	四	hatch	v	高
+patriot	patriot	"patriotic,patriotism"	六
+lest	lest	""	四
+crave	crave	""	六
+pardon	pardon	""	四	pardon	n	高
+plenty	plenty	"plentiful"	四	plenty	n	高
+less	less	""	四
+adventure	adventure	"adventurer,adventurous"	四	adventure	n	高
+condition	condition	"conditional,conditioner"	四	condition	n	高
+anew	anew	""	四
+peddle	peddle	""	六
+improve	improve	"improvement"	四	improve	v	高
+ceremony	ceremony	"ceremonial"	四	ceremony	n	高
+paperback	paperback	""	四
+bingo						bingo	n	高
+metabolism	metabolism	"metabolic"	六
+try	try	"trial,trying"	四	try	v	高
+hawk	hawk	""	六
+chicken	chicken	""	四	chicken	n	高
+lavatory	lavatory	""	四
+university	university	""	四	university	n	高
+exterior	exterior	""	四
+technique	technique	""	四	technique	n	高
+troop	troop	""	四	troop	n	高
+shorthand	shorthand	""	六
+levy	levy	""	六
+intimidate	intimidate	"intimidation"	六
+wound	wound	""	四	wound	v&n	高
+haze	haze	"hazy"	四
+muscle	muscle	"muscular"	四
+generous	generous	"generosity"	四	generous	a	高
+jelly	jelly	""	六
+floor	floor	""	四	floor	n	高
+ammunition	ammunition	""	六
+bachelor	bachelor	""	四	bachelor	n	高
+necklace	necklace	""	四	necklace	n	高
+cry	cry	""	四	cry	n&v	高
+probe	probe	""	六
+doctor	doctor	"doctorate,doctoral"	四	doctor	n	高
+inflate	inflate	"inflation"	四
+pineapple						pineapple	n	高
+stable	stable	"stability,stabilize/-ise"	四	stable	a	高
+harness	harness	""	四
+pillow	pillow	""	四	pillow	n	高
+spoken						spoken	a	高
+sketch	sketch	"sketchy"	四
+respond	respond	"response,responsive,respondent"	四	respond	v	高
+incident	incident	"incidental,incidentally"	四	incident	n	高
+sport	sport	""	四	sport	n	高
+tub	tub	""	六
+cluster	cluster	""	六
+prey	prey	""	六
+lieutenant	lieutenant	""	六
+tug	tug	""	六
+expedition	expedition	""	六
+concert	concert	"concerted"	四	concert	n	高
+pity	pity	""	四	pity	n	高
+absorb	absorb	"absorption"	四	absorb	v	高
+supply	supply	"supplier"	四	supply	v&n	高
+uncertain	uncertain	"uncertainty"	四	uncertain	a	高
+concern	concern	"concerned,concerning"	四	concern	v&n	高
+leg	leg	""	四	leg	n	高
+circulate	circulate	"circulation"	四	circulate	v	高
+rectify	rectify	"rectification"	六
+integrity	integrity	""	四
+mountain	mountain	"mountainous"	四	mountain	n	高	mountainous	a	高
+antonym	antonym	""	六
+refrain	refrain	""	四
+pact	pact	""	六
+liable	liable	"liability"	四
+merge	merge	"merger"	六
+let	let	""	四	let(let,let)	v	高
+state	state	"statement"	四	state	n	高	statement	n	高
+dock	dock	""	四
+press	press1	""	四	press1	v	高
+cargo	cargo	""	四
+dough	dough	""	六
+element	element	""	四
+pace	pace	""	四	pace	n	高
+night	night	"nightly"	四	night	n	高
+exclaim	exclaim	"exclamation,exclamatory"	四
+probable	probable	"probability,probably"	四	probably	ad	高
+fiftieth						fiftieth		高
+opposite	opposite	""	四	opposite	n&a	高
+ballet	ballet	""	四	ballet	n	高
+courtesy	courtesy	""	六
+pack	pack	""	四	pack	n&v	高
+airspace						airspace	n	高
+each	each	""	四	each	a&pron	高
+aftermath	aftermath	""	六
+cub	cub	""	六
+cue	cue	""	四
+infringe	infringe	"infringement"	六
+stereotype	stereotype	""	六
+cup	cup	""	四	cup	n	高
+thirty	thirty	""	四	thirty		高
+paddy	paddy	""	四
+polite	polite	"politeness"	四	polite	a	高
+cut	cut	""	四	cut(cut,cut)	v&n	高
+ardent	ardent	""	六
+warrior	warrior	""	四
+document	document	"documentary"	四	document	n	高
+jurisdiction	jurisdiction	""	六
+concurrent	concurrent	""	六
+baby-boom	baby-boom	"baby-boomer"	四
+dread	dread	"dreadful"	六
+harass	harass	"harassment"	六
+starve	starve	"starvation"	四	starve	v	高	starvation	n	高
+battery	battery	""	四	battery	n	高
+two	two	""	四	two		高
+moment	moment	"momentary,momentarily"	四	moment	n	高
+clay	clay	""	四	clay	n	高
+promote	promote	"promotion"	四	promote	v	高
+tear	tear1	""	四	tear(tore,torn)	v&n	高
+scenario	scenario	""	六
+attack	attack	""	四	attack	v&n	高
+divorce	divorce	""	四	divorce	v	高
+distribute	distribute	"distribution,distributive"	四	distribute	v	高
+attach	attach	"attachment"	四	attach	v	高
+cornerstone	cornerstone	""	四
+kitchen	kitchen	""	四	kitchen	n	高
+shout	shout	""	四	shout	n&v	高
+ankle	ankle	""	四	ankle	n	高
+flashlight						flashlight	n	高
+situation	situation	""	四	situation	n	高
+confederation	confederation	"confederate"	六
+quiz	quiz	""	四	quiz	n	高
+clause	clause	""	四
+think	think	"thinking"	四	think(thought,thought)	v	高	thinking	n	高
+dodge	dodge	""	六
+ingredient	ingredient	""	四
+thirst	thirst	"thirsty"	四	thirst	n	高
+participate	participate	"participation,participant"	四	participate	v	高
+consolidate	consolidate	"consolidation"	四
+lottery	lottery	""	六
+team	team	""	四	team	n	高
+shove	shove	""	六
+timetable						timetable	n	高
+claw	claw	""	四	claw	n	高
+torture	torture	""	四
+mistress	mistress	""	四
+lyric	lyric	"lyrical"	六
+speech	speech	"speechless"	四	speech	n	高
+watch	watch	"watchful"	四	watch	v&n	高
+clap	clap	""	四	clap	v	高
+clan	clan	""	六
+purple	purple	""	四	purple	n&a	高
+quit	quit	""	四	quit	v	高
+polish	polish	""	四	polish	v	高
+thing	thing	""	四	thing	n	高
+cabinet	cabinet	""	四
+fashion	fashion	"fashionable"	四
+southwest	southwest	"southwestern"	四	southwest	n	高
+dazzle	dazzle	""	六
+medical	medical	""	四	medical	a	高
+principle	principle	""	四	principle	n	高
+thigh	thigh	""	六
+lid	lid	""	四	lid	n	高
+lie	lie1	"liar"	四	lie1	n&v	高
+tedious	tedious	""	四
+source	source	""	四
+smell	smell	"smelly"	四	smell(smelt,smelt或-ed,-ed)	v&n	高
+domestic	domestic	""	四
+initiate	initiate	"initiation,initiative"	四
+detergent	detergent	""	六
+glare	glare	""	六	glare	v	高
+unable						unable	a	高
+lip	lip	""	四	lip	n	高
+compile	compile	"compilation"	六
+bias	bias	""	四
+shoot	shoot	""	四	shoot(shot,shot)	v&n	高
+budget	budget	"budgetary"	四	budget	n	高
+radiate	radiate	"radiation,radiator,radiant"	六	radiation	n	高
+actual	actual	"actually"	四	actual	a	高
+glass	glass	""	四	glass	n	高
+chest	chest	""	四	chest	n	高
+chess	chess	""	四	chess	n	高
+ultimate	ultimate	"ultimately"	四
+campus	campus	""	四
+prosecute	prosecute	"prosecution"	六
+doubt	doubt	"doubtful,doubtless"	四	doubt	n&v	高
+jacket	jacket	""	四	jacket	n	高
+merit	merit	"meritorious"	四
+develop	develop	"development,developmental,developer"	四	develop	v	高	development	n	高
+misunderstand	misunderstand	"misunderstanding"	四	misunderstand(misunderstood,misunderstood)	v	高
+crossroads						crossroads	n	高
+district	district	""	四	district	n	高
+overall	overall	""	四
+page	page	""	四	page	n	高
+assume	assume	"assumption"	四	assume	v	高	assumption	n	高
+full	full	""	四	full	a	高
+referendum	referendum	""	六
+pepper	pepper	""	四	pepper	n	高
+destiny	destiny	"destined"	六
+memory	memory	"memorize/-ise"	四	memory	n	高
+away	away	""	四	away	ad	高
+concept	concept	"conceptual"	四	concept	n	高
+house	house	"housing"	四	house	n	高
+indefinite	indefinite	""	六
+disaster	disaster	"disastrous"	四	disaster	n	高
+grocer	grocer	"grocery"	四	grocer	n	高	grocery	n	高
+stark	stark	""	六
+stare	stare	""	四	stare	v	高
+enhance	enhance	"enhancement"	四
+limelight	limelight	""	六
+convention	convention	"conventional"	四	conventional	a	高
+harvest	harvest	""	四	harvest	n&v	高
+pain	pain	"painful"	四	pain	n	高	painful	a	高
+calcium	calcium	""	六
+polytechnic	polytechnic	""	六
+suspicion	suspicion	"suspicious"	四
+center	center/-tre	"central,centralize/-ise"	四	center/centre	n	高	central	a	高
+shore	shore	""	四	shore	n	高
+start	start	"starter"	四	start	v	高
+purchase	purchase	""	四	purchase	v	高
+teen	teen	""	四
+supper	supper	""	四	supper	n	高
+pair	pair	""	四	pair	n	高
+manage	manage	"management,manager,managerial"	四	manage	v	高	manager	n	高
+equal	equal	"equally,equality"	四	equal	a&v	高	equality	n	高
+bypass	bypass	""	四
+marvel	marvel	"marvel(l)ous"	四
+silicon	silicon	""	四
+fund	fund	"funding"	四
+gravity	gravity	""	四	gravity	n	高
+short	short	"shortage,shorts"	四	short	a	高	shorts	n	高
+commonwealth	commonwealth	""	六
+FALSE						FALSE	a	高
+finance	finance	"financial"	四	finance	n	高
+incur	incur	""	六
+studio	studio	""	四	studio	n	高
+parking						parking	n	高
+downward	downward	"downwards"	四
+cabbage	cabbage	""	四	cabbage	n	高
+abreast	abreast	""	六
+regulate	regulate	"regulation,regulatory,regulator"	四	regulation	n	高
+palm	palm	""	四
+ninety	ninety	""	四	ninety		高
+gland	gland	""	六
+three	three	""	四	three		高
+ordeal	ordeal	""	六
+climb	climb	""	四	climb	v	高
+complacent	complacent	"complacency"	六
+premise	premise	""	六
+season	season	"seasonal"	四	season	n	高
+enter	enter	"entrance,entry"	四	enter	v	高	entry	n	高
+attain	attain	"attainment"	四	attain	v	高
+lonely	lonely	"loneliness"	四	lonely	a	高
+gallery	gallery	""	四	gallery	n	高
+tenant	tenant	""	六
+pale	pale	""	四	pale	a	高
+hardware	hardware	""	四
+cowboy	cowboy	""	四
+plaintiff	plaintiff	""	六
+deputy	deputy	""	四
+batter	batter	""	六
+destroy	destroy	"destruction,destructive"	四	destroy	v	高
+hostage	hostage	""	六
+judicial	judicial	""	六
+coast	coast	"coastal"	四	coast	n	高
+analog	analog(ue)	"analogous"	六
+shuttle	shuttle	""	四	shuttle	n	高
+provide	provide	"provision"	四	provide	v	高
+allocate	allocate	"allocation"	六	allocate	v	高
+primary	primary	"primarily"	四	primary	a	高
+pant	pant	""	六
+log	log	""	四
+enterprise	enterprise	"enterprising"	四	enterprise	n	高
+bright	bright	"brighten"	四	bright	a	高
+solar	solar	""	四	solar	a	高
+paperwork						paperwork	n	高
+consume	consume	"consumer,consumption"	四	consume	v	高
+dome	dome	""	六
+lot	lot	""	四	lot	n	高
+fuse	fuse	""	六
+wholesale	wholesale	""	六
+premium	premium	""	六
+low	low	"lower"	四	low	a&ad	高
+pretext	pretext	""	六
+prop	prop	""	六
+assure	assure	"assurance"	四
+consult	consult	"consultation,consultative,consultant"	四	consult	v	高	consultant	n	高
+solidarity	solidarity	""	六
+tumble	tumble	""	六
+fuss	fuss	""	四
+wealth	wealth	"wealthy"	四	wealth	n	高	wealthy	a	高
+means	means	""	四	means	n	高
+survive	survive	"survival,survivor"	四	survive	v	高	survival	n	高
+wallet	wallet	""	四	wallet	n	高
+doll	doll	""	四	doll	n	高
+initial	initial	"initially"	四	initial	a	高
+fury	fury	"furious"	六
+hound	hound	""	六
+dole	dole	""	六
+orphan	orphan	"orphanage"	四
+adversary	adversary	""	六
+eternal	eternal	"eternity"	四
+fingernail						fingernail	n	高
+fellow	fellow	"fellowship"	四	fellow	n	高
+fetch	fetch	""	四	fetch	v	高
+satire	satire	"satirical,satirist"	六
+cling	cling	""	四
+diabetes	diabetes	""	四
+clip	clip	""	四
+door	door	""	四	door	n	高
+quick	quick	""	四	quick	a&ad	高
+invaluable	invaluable	""	四
+compact	compact	""	四
+outlaw	outlaw	""	六
+dad	dad(dy)	""	四	dad/daddy	n	高
+doom	doom	""	四
+sixteenth						sixteenth		高
+tell	tell	"telling"	四	tell(told,told)	v	高
+irrigate	irrigate	"irrigation"	四	irrigation	n	高
+husband	husband	""	四	husband	n	高
+experience	experience	"experienced"	四	experience	n	高
+merry	merry	"merriment"	四	merry	a	高
+dam	dam	""	四	dam	n	高
+denote	denote	"denotation"	六
+bloom	bloom	""	四
+zone	zone	""	四	zone	n	高
+propagate	propagate	"propagation"	六
+affair	affair	""	四	affair	n	高
+majesty	majesty	"majestic"	六
+day	day	"daily"	四	day	n	高
+housework	housework	""	四	housework	n	高
+orthodox	orthodox	""	六
+living-room	living-room	""	四
+obtain	obtain	"obtainment"	四	obtain	v	高
+banana	banana	""	四	banana	n	高
+jewelry						jewelry/jewellery	n	高
+statesman	statesman	""	四	statesman/woman(pl.statesmen/women)	n	高
+repute	repute	"reputable"	六
+island	island	""	四	island	n	高
+amiable	amiable	""	六
+liter	liter/-tre	""	四	liter/litre	n	高
+format	format	""	四	format	n	高
+sacrifice	sacrifice	"sacrificial"	四	sacrifice	v	高
+teller	teller	""	四
+particular	particular	"particularly"	四	particular	a	高
+p.m.						p.m./pm,P.M./PM	abbr	高
+illegal	illegal	""	四	illegal	a	高
+water	water	""	四	water	n&v	高
+corps	corps	""	四
+pause	pause	""	四	pause	n&v	高
+August	August	""	四	August/Aug.		高
+congratulate	congratulate	"congratulation,congratulatory"	四	congratulate	v	高	congratulation	n	高
+formal	formal	"formality"	四
+rainbow	rainbow	""	四	rainbow	n	高
+correlate	correlate	"correlation,correlative"	六
+ample	ample	""	四	ample	a	高
+salesman	salesman	""	四	salesman/woman(pl.salesmen/women)	n	高
+cohesion	cohesion	"cohesive"	四
+entertain	entertain	"entertainment,entertaining"	四	entertainment	n	高
+ease	ease	""	四
+tent	tent	""	四	tent	n	高
+mathematics						mathematics/math/maths	n	高
+part	part	"partial,partially"	四	part	n,a&v	高
+logistics	logistics	"logistic(al)"	六
+elsewhere	elsewhere	""	四
+judiciary	judiciary	""	六
+penetrate	penetrate	"penetration"	四
+paddle						paddle	n	高
+bike						bike/bicycle	n	高
+principal	principal	""	四
+tend	tend	"tendency"	四	tend	v	高	tendency	n	高
+east	east	"eastern"	四	east	a,ad&n	高	eastern	a	高
+synonym	synonym	""	六
+sixteen	sixteen	""	四	sixteen		高
+specimen	specimen	""	四
+exotic	exotic	""	六
+boycott	boycott	""	六	boycott	v	高
+park	park1	""	四	park1	n	高
+unbelievable						unbelievable	a	高
+revenge	revenge	"revengeful"	六
+subscribe	subscribe	"subscription,subscriber"	六	subscribe	v	高
+therapy	therapy	"therapist,therapeutic(al)"	四
+zoom	zoom	""	六	zoom	v	高
+aristocrat	aristocrat	"aristocratic,aristocracy"	六
+velocity	velocity	""	六
+colleague	colleague	""	四	colleague	n	高
+diamond	diamond	""	四	diamond	n	高
+economics	economics	"economist"	四
+someone	someone	""	四	someone	pron	高
+third	third	""	四	third		高
+build	build	"building"	四	build(built,built)	v	高	building	n	高
+gratitude	gratitude	""	四
+earn	earn	"earnings"	四	earn	v	高
+interfere	interfere	"interference"	四
+further	further	""	四
+apartment	apartment/apt．	""	四	apartment	n	高
+tolerate	tolerate	"tolerance,tolerant,tolerable"	四	tolerate	v	高
+intangible	intangible	""	四
+stack	stack	""	四
+underline	underline	""	四	underline	v	高
+resent	resent	"resentment"	四
+chopsticks						chopsticks	n	高
+compassion	compassion	"compassionate"	六
+parliament	parliament	"parliamentary"	四
+ambiguous	ambiguous	"ambiguity"	六	ambiguous	a	高
+asylum	asylum	""	六
+path	path	""	四	path	n	高
+crack	crack	""	四
+bind	bind	""	四
+gravitation	gravitation	""	四
+dew	dew	""	四
+record	record	"recorder,recording"	四	record	n&v	高	recorder	n	高
+cube	cube	"cubic"	四	cube	n	高	cubic	a	高
+railway						railway	n	高
+crisp	crisp	""	六
+pass	pass	""	四	pass	v	高
+mile	mile	"mileage"	四	mile	n	高
+past	past	""	四	past	ad,n&prep	高
+nineteen	nineteen	""	四	nineteen		高
+mild	mild	""	四	mild	a	高
+impact	impact	""	四
+shock	shock	""	四	shock	v	高
+profile	profile	""	六
+milk	milk	"milky"	四	milk	n&v	高
+bill	bill	""	四	bill	n	高
+pancake						pancake	n	高
+easy	easy	"easily"	四	easy	a	高
+whose	whose	""	四	whose	pron	高
+honeymoon	honeymoon	""	四
+clog	clog	""	六
+senior	senior	"seniority"	四	senior	a&n	高
+bucket	bucket	""	四
+dose	dose	"dosage"	四
+lesbian	lesbian	""	六
+domain	domain	""	六
+census	census	""	六
+adult	adult	"adulthood"	四	adult	n	高
+relative	relative	"relativity"	四	relative	n	高
+attitude	attitude	""	四	attitude	n	高
+average	average	""	四	average	a&n	高
+compare	compare	"comparison,comparative,comparable"	四	compare	v	高
+Bible	Bible	"Biblical/biblical"	四
+transparent	transparent	"transparency"	四	transparent	a	高
+mint	mint	""	六
+October	October	""	四	October/Oct.		高
+journal	journal	""	四
+grasp	grasp	""	四	grasp	v	高
+pave	pave	"pavement"	四	pavement	n	高
+dove	dove	""	四
+grass	grass	"grassy"	四	grass	n	高
+unlike						unlike	prep	高
+brag	brag	""	四
+hotel	hotel	""	四	hotel	n	高
+term	term	""	四	term	n	高
+volcano	volcano	"volcanic"	四	volcano	n	高
+override	override	""	六
+deadline	deadline	""	四	deadline	n	高
+so-called	so-called	""	四
+rigid	rigid	"rigidity"	六	rigid	a	高
+mine	mine1	""	四	mine1	n&v	高
+mind	mind	""	四	mind	n&v	高
+grateful	grateful	""	四	grateful	a	高
+business	business	""	四	business	n	高
+waitress						waitress	n	高
+advent	advent	""	六
+medieval	medieval	""	六
+staff	staff	""	四	staff	n	高
+involve	involve	"involvement,involved"	四
+tanker	tanker	""	六
+right	right	""	四	right	n,a&ad	高
+partly	partly	""	四	partly	ad	高
+possible	possible	"possibility,possibly"	四	possible	a	高	possibility	n	高
+breathless						breathless	a	高
+stage	stage	""	四	stage	n	高
+maximum	maximum	"maximize/-ise,maximal"	四	maximum	a&n	高
+showcase	showcase	""	六
+borrow	borrow	""	四	borrow	v	高
+inch	inch	""	四	inch	n	高
+desert	desert1	""	四	desert	v&n	高
+under	under	""	四	under	ad&prep	高
+spotlight	spotlight	""	六
+penguin	penguin	""	六
+masterpiece	masterpiece	""	四
+quarter	quarter	"quarterly"	四	quarter	n	高
+die	die	"dying"	四	die	v	高
+fragrant	fragrant	"fragrance"	六	fragrant	a	高
+radium						radium	n	高
+dig	dig	""	四	dig(dug,dug)	v	高
+dialect	dialect	""	四
+rigor	rigo(u)r	"rigorous"	六
+stocking	stocking	""	四	stocking	n	高
+dim	dim	""	四
+emergency	emergency	""	四	emergency	n	高
+dip	dip	""	四	dip	v	高
+paralyze	paralyze/-yse	"paralysis"	六
+besiege	besiege	""	六
+sixtieth						sixtieth		高
+down	down	""	四	down	prep&ad	高
+faculty	faculty	""	四
+incumbent	incumbent	""	六
+layoff	layoff	""	四
+wretched	wretched	""	六
+cliche	cliche	""	六
+habit	habit	"habitual"	四	habit	n	高
+passport	passport	""	四	passport	n	高
+considerate	considerate	""	四	considerate	a	高
+glamor	glamo(u)r	"glamo(u)rous"	六
+livestock	livestock	""	六
+bird	bird	""	四	bird	n	高
+clue	clue	""	四
+legal	legal	"legalize/-ise"	四	legal	a	高
+midst	midst	""	六
+bracket	bracket	""	四
+club	club	""	四	club	n	高
+highway	highway	""	四	highway	n	高
+signal	signal	""	四	signal	n	高
+businessman	businessman	""	四	businessman/woman(pl.businessmen/women)	n	高
+impair	impair	""	六
+stray	stray	""	六
+parcel	parcel	""	四	parcel	n	高
+static	static	""	六
+journey	journey	""	四	journey	n	高
+test	test	""	四	test	v&n	高
+exhaust	exhaust	"exhaustion,exhaustive"	四
+grape	grape	""	四	grape	n	高
+strap	strap	""	四
+straw	straw	""	四	straw	n	高
+brown	brown	""	四	brown	n&a	高
+graph	graph	"graphic,graphically"	四	graph	n	高
+regarding	regarding	""	四
+feast	feast	""	六	feast	n	高
+sodium	sodium	""	六
+armor	armo(u)r	""	六
+month	month	"monthly"	四	month	n	高
+petrol	petrol	""	四	petrol	n	高
+final	final	"finally,finalize/-ise"	四	final	a	高
+tackle	tackle	""	四
+paradise	paradise	""	六
+nude	nude	"nudity"	四
+distract	distract	"distraction"	四
+influenza	influenza/flu	""	四
+occasion	occasion	"occasional,occasionally"	四
+loan	loan	""	四
+squeeze	squeeze	""	四	squeeze	v	高
+virtual	virtual	"virtually"	四
+rather	rather	""	四	rather	ad	高
+worthy	worthy	"worthiness"	四	worthy	a	高
+back	back	""	四	back	ad,a&n	高
+title	title	""	四	title	n	高
+mist	mist	"misty"	四	mist	n	高
+miss	miss1	""	四	miss1	n	高
+duration	duration	""	四
+pound	pound1	""	四	pound	n	高
+load	load	""	四	load	n	高
+bite	bite	""	四	bite(bit,bitten)	v	高
+ferry	ferry	""	四	ferry	n	高
+podcast	podcast	""	四
+doze	doze	""	六
+ignore	ignore	""	四	ignore	v	高
+loaf	loaf	""	四	loaf	n	高
+hemisphere	hemisphere	""	六
+company	company	""	四	company	n	高
+nuclear	nuclear	"nucleus"	四	nuclear	a	高
+human	human	"humanity"	四	human	a&n	高
+applaud	applaud	"applause"	四	applaud	v&n	高
+lunar	lunar	""	四
+prince	prince/princess	""	四
+arrogant	arrogant	"arrogance"	六
+relax	relax	"relaxation"	四	relax	v	高
+custom	custom	"customary"	四	custom	n	高
+relay	relay	""	四	relay	n&v	高
+priest	priest	""	四
+grand	grand	""	四	grand	a	高
+permeate	permeate	"permeation"	六
+schedule	schedule	""	四	schedule	n&v	高
+rewind						rewind	v	高
+faction	faction	""	六
+interpret	interpret	"interpretation,interpreter"	四	interpreter	n	高
+inherit	inherit	"inheritance"	四
+universe	universe	"universal"	四	universe	n	高	universal	a	高
+beach	beach	""	四	beach	n	高
+biochemistry	biochemistry	"biochemical,biochemist"	四	biochemistry	n	高
+bureaucrat	bureaucrat	"bureaucratic,bureaucracy"	六	bureaucratic	a	高
+baby	baby	""	四	baby	n	高
+blanket	blanket	""	四	blanket	n	高
+grant	grant	"granted"	四
+adverb	adverb	""	四
+lunch	lunch	"luncheon"	四	lunch	n	高
+relic	relic	""	六
+discount	discount	""	四	discount	n	高
+construct	construct	"construction"	四	construct	v	高	construction	n	高
+convert	convert	"conversion,convertible"	四
+thirteenth						thirteenth		高
+attempt	attempt	""	四	attempt	v&n	高
+thick	thick	""	四	thick	a	高
+relish	relish	""	六
+December	December	""	四	December/Dec.		高
+stale	stale	""	四
+balance	balance	""	四	balance	n	高
+stalk	stalk	""	六
+cigar	cigar	""	四	cigar	n	高
+fingerprint	fingerprint	""	四
+lock	lock	"locker"	四	lock	n&v	高
+whereas	whereas	""	四
+text	text	""	四	text	n	高
+pitch	pitch	""	四
+feat	feat	""	六
+fear	fear	"fearful"	四	fear	n	高
+cookie	cookie	""	四	cookie	n	高
+statue	statue	""	四	statue	n	高
+electrical						electrical	a	高
+stall	stall	""	六
+sense	sense	"sensible,sensor"	四	sense	n	高
+being	being	""	四	being	n	高
+brew	brew	"brewery"	六	brewery	n	高
+menace	menace	""	六
+field	field	""	四	field	n	高
+birthplace						birthplace	n	高
+curse	curse	""	四
+invalid	invalid1	""	六
+wilderness	wilderness	""	四
+interval	interval	""	四	interval	n	高
+legitimate	legitimate	"legitimacy"	六
+baseball	baseball	""	四	baseball	n	高
+cosmopolitan	cosmopolitan	""	六
+whereby	whereby	""	六
+dog	dog	""	四	dog	n	高
+evaluate	evaluate	"evaluation"	四	evaluate	v	高
+status	status	""	四	status	n	高
+renown	renown	"renowned"	六
+upset	upset	""	四	upset	a	高
+curve	curve	""	四
+enrol	enrol(l)	"enrol(l)ment"	四
+thief	thief	""	四	thief(pl.thieves)	n	高
+dot	dot	""	四	dot	n	高
+skin	skin	"skinny"	四	skin	n	高
+skim	skim	""	六
+tailor	tailor	""	四	tailor	n	高
+stamp	stamp1	""	四	stamp	n	高
+skip	skip	""	四	skip	v	高
+cleanse	cleanse	""	六
+mention	mention	""	四	mention	n&v	高
+mad	mad	"madden"	四	mad	a	高
+cult	cult	""	六
+stream	stream	""	四	stream	n	高
+laundry	laundry	""	四	laundry	n	高
+herald	herald	""	六
+recur	recur	"recurrence"	六
+nurse	nurse	""	四	nurse	n	高
+coalition	coalition	""	六
+accumulate	accumulate	"accumulation,accumulative"	四	accumulate	v	高
+crime	crime	"criminal"	四	crime	n	高	criminal	n	高
+dwarf	dwarf	""	六
+man	man	"manly,manhood"	四	man(pl.men)	n	高
+stand	stand	""	四	stand(stood,stood)	v&n	高
+leisure	leisure	"leisurely"	四
+map	map	""	四	map	n	高
+surround	surround	"surroundings"	四	surround	v	高
+mar	mar	""	六
+twenty	twenty	"twentieth"	四	twenty		高	twentieth		高
+mat	mat	""	四	mat	n	高
+cigarette						cigarette	n	高
+may	may	""	四	may	modal-v	高
+forward	forward	""	四	forward	ad	高
+pilgrim	pilgrim	"pilgrimage"	六
+assimilate	assimilate	"assimilation"	六
+bless	bless	"blessing"	四	bless	v	高
+addict	addict	"addiction,addictive"	四
+toothpaste						toothpaste	n	高
+Pacific						Pacific	a	高
+discreet	discreet	""	六
+bean-curd						bean-curd	n	高
+opera	opera	""	四	opera	n	高
+condolence	condolence	""	六
+mail	mail	""	四	mail	n&v	高
+bait	bait	""	四
+subject	subject1	""	四	subject	n	高
+use	use	"user,useful,useless"	四	use	n&v	高	useless	a	高
+bonus	bonus	""	四	bonus	n	高
+feel	feel	"feeling"	四	feel(felt,felt)	v	高	feeling	n	高
+casino	casino	""	六
+main	main	""	四	main	a	高
+bail	bail	""	四
+aisle	aisle	""	四
+convene	convene	""	六
+revenue	revenue	""	四
+strip	strip	""	四
+monopoly	monopoly	"monopolize/-ise"	六
+logo	logo	""	四
+grain	grain	""	四	grain	n	高
+credit	credit	"creditable"	四	credit	n	高
+maid	maid	""	四	maid	n	高
+oxygen	oxygen	""	四	oxygen	n	高
+intensive	intensive	""	四
+terrible	terrible	"terribly"	四	terrible	a	高
+combine	combine	"combination"	四	combine	v	高
+alter	alter	"alteration"	四
+waste	waste	"wasteful"	四	waste	n&v	高
+textbook	textbook	""	四	textbook	n	高
+ideal	ideal	"idealistic,idealism"	四
+tribune	tribune	""	六
+twenty-three						twenty-three		高
+comedy	comedy	""	四	comedy	n	高
+bearing	bearing	""	四
+broom	broom	""	四	broom	n	高
+dry	dry	"dryer"	四	dry	v&a	高
+streak	streak	""	六
+pressure						pressure	n	高
+brood	brood	""	六
+numb	numb	""	六	numb	a	高
+feed	feed	""	四	feed(fed,fed)	v	高
+compass	compass	""	四	compass	n	高
+background	background	""	四	background	n	高
+dispose	dispose	"disposal"	四
+nonetheless	nonetheless	""	六
+bumper	bumper	""	四
+handsome	handsome	""	四	handsome	a	高
+constitution	constitution	"constitutional"	四	constitution	n	高
+stair	stair	""	四	stair	n	高
+paradigm	paradigm	""	六
+cocaine	cocaine	""	六
+blend	blend	""	四
+conceive	conceive	"conception"	六
+stain	stain	"stainless"	四	stain	n	高	stainless	a	高
+nonsense	nonsense	""	四
+breath	breath	""	四	breath	n	高
+ball	ball	""	四	ball	n	高
+napkin	napkin	""	四
+airborne	airborne	""	六
+reckless	reckless	""	六
+repeat	repeat	"repetition,repetitive,repeatedly"	四	repeat	v	高
+paradox	paradox	"paradoxical"	四
+bald	bald	""	六
+X-ray						X-ray	n	高
+physical	physical	""	四	physical	a	高
+make	make	""	四	make1	n	高
+fulfil	fulfil(l)	"fulfil(l)ment"	四
+wicked	wicked	""	六
+thread	thread	""	四	thread	n	高
+twenty-third						twenty-third		高
+structure	structure	"structural"	四
+dub	dub	""	六
+masculine	masculine	"masculinity"	六
+fright	fright	"frighten"	四	frighten	v	高
+stake	stake	""	四
+outdoor	outdoor	"outdoors"	四	outdoors	ad	高
+orange	orange	""	四	orange	n&a	高
+witness	witness	""	四	witness	v&n	高
+fortify	fortify	"fortification"	六
+due	due	"duly"	四	due	a	高
+conform	conform	"conformity"	四
+bake	bake	"bakery"	四	bakery	n	高
+authentic	authentic	"authenticity"	四	authentic	a	高
+lodge	lodge	"lodging"	四
+threat	threat	"threaten"	四
+biscuit	biscuit	""	四	biscuit	n	高
+pumpkin	pumpkin	""	六
+breast	breast	""	四	breast	n	高
+mercy	mercy	"merciful"	四	mercy	n	高	merciful	a	高
+curl	curl	""	四
+inform	inform	"information,informative,informant"	四	inform	v	高	information	n	高
+depend	depend	"dependent,dependence,dependable"	四	depend	v	高
+hotdog	hotdog	""	四	hotdog	n	高
+empirical	empirical	""	六
+weekday	weekday	""	四	weekday	n	高
+commit	commit	"commitment"	四	commit	v	高	commitment	n	高
+about	about	""	四	about	ad&prep	高
+cure	cure	"curable"	四	cure	n&v	高
+sorrow	sorrow	"sorrowful"	四	sorrow	n	高
+curb	curb	""	四
+danger	danger	"dangerous"	四	danger	n	高	dangerous	a	高
+crash	crash	""	四	crash	v&n	高
+patch	patch	""	四
+character	character	"characteristic,characterize/-ise"	四	character	n	高	characteristic	a&n	高
+bank	bank1	"banking,banker"	四	bank	n	高
+reassure	reassure	"reassurance"	六
+brow	brow	""	四
+bang	bang	""	四
+above	above	""	四	above	prep,a&ad	高
+cholesterol	cholesterol	""	四
+stick	stick1	""	四	stick(stuck,stuck)	v&n	高
+orbit	orbit	"orbital"	四	orbit	n	高
+band	band	""	四	band	n	高
+moderate	moderate	"moderation,moderator"	四
+height	height	"heighten"	四	height	n	高
+comprise	comprise	""	四
+mall	mall	""	四
+myself	myself	""	四	myself	pron	高
+invent	invent	"invention,inventor"	四	invent	v	高	invention	n	高
+outer	outer	""	四	outer	a	高
+fluent	fluent	"fluency"	四	fluent	a	高	fluency	n	高
+shortcoming	shortcoming	""	四	shortcoming	n	高
+execute	execute	"execution,executive"	四
+flood	flood	""	四	flood	n&v	高
+benefit	benefit	"beneficial,beneficiary"	四	benefit	n&v	高	beneficial	a	高
+labor	labo(u)r	"laborious"	四	labor/labour	n	高
+quality	quality	"qualitative"	四	quality	n	高
+booth	booth	""	四	booth	n	高
+illicit	illicit	""	六
+pillar	pillar	""	四
+unique	unique	""	四	unique	a	高
+animal	animal	""	四	animal	n	高
+boost	boost	""	四
+sincere	sincere	"sincerity"	四
+sober	sober/-re	""	六
+male	male	""	四	male	a&n	高
+maternal	maternal	"maternity"	六
+expel	expel	""	四
+shelter	shelter	""	四	shelter	n	高
+examine	examine	"exam(ination),examiner,examinee"	四	examine	v	高	exam/examination	n	高
+outset	outset	""	四
+latitude	latitude	""	六
+vigor	vigor	"vigorous"	四
+old-fashioned	old-fashioned	""	四
+scan	scan	"scanner"	四	scan	v	高
+March	March	""	四	March/Mar.		高
+eliminate	eliminate	"elimination"	四
+industry	industry	"industrial,industrialize/-ise,industrious"	四	industry	n	高
+believe	believe	""	四	believe	v	高
+cute	cute	""	四
+long	long1	"length,lengthy"	四	long	a&ad	高	length	n	高
+remember	remember	"remembrance"	四	remember	v	高
+augment	augment	"augmentation"	六
+into	into	""	四	into	prep	高
+mil	mil	""	四
+partition	partition	""	六
+glance	glance	""	四	glance	v	高
+butterfly	butterfly	""	四	butterfly	n	高
+benign	benign	""	六
+mix	mix	"mixture,mixer"	四	mix	v	高	mixture	n	高
+stiff	stiff	"stiffen"	四
+crayon						crayon	n	高
+middle	middle	""	四	middle	n	高
+prosper	prosper	"prosperity,prosperous"	六
+bother	bother	""	四	bother	v	高
+atrocity	atrocity	"atrocious"	六
+star	star	"starry"	四	star	n	高
+though	though	""	四	though	conj	高
+childhood						childhood	n	高
+wolf	wolf	""	四	wolf(pl.wolves)	n	高
+crate	crate	""	六
+appeal	appeal	"appealing"	四	appeal	v&n	高
+many	many	""	四	many(more,most)	pron&a	高
+swamp	swamp	""	六
+entrepreneur	entrepreneur	"entrepreneurial"	四
+everyday	everyday	""	四	everyday	a	高
+stay	stay	""	四	stay	n&v	高
+dedicate	dedicate	"dedication"	六
+diary	diary	""	四	diary	n	高
+dye	dye	""	四
+appear	appear	"appearance"	四	appear	v	高	appearance	n	高
+stab	stab	""	六
+impart	impart	""	六
+inspire	inspire	"inspiration,inspirational"	四	inspire	v	高
+negate	negate	"negation,negative"	四
+progress	progress	"progressive,progression"	四	progress	n&v	高
+geometry	geometry	"geometric,geometrically"	四	geometry	n	高
+glide	glide	"glider"	六
+open	open	"opener,opening,openly"	四	open	a&v	高	opening	n	高
+devote	devote	"devotion"	四	devote	v	高	devotion	n	高
+wool	wool	"wool(l)en"	四	wool	n	高	woolen/woollen	a	高
+treat	treat	"treatment"	四	treat	v	高	treatment	n	高
+berry	berry	""	四
+agent	agent	"agency"	四	agent	n	高	agency	n	高
+militia	militia	""	六
+salvation	salvation	""	六
+bishop	bishop	""	六	bishop	n	高
+invest	invest	"investment,investor"	四
+approximate	approximate	"approximately,approximation"	四	approximately	ad	高
+rapid	rapid	"rapidity"	四	rapid	a	高
+project	project1	""	四	project	n	高
+seven	seven	""	四	seven		高
+arena	arena	""	六
+nominate	nominate	"nomination,nominee"	六
+tread	tread	""	六
+loom	loom	""	六
+diameter	diameter	""	四
+dynasty	dynasty	""	四	dynasty	n	高
+barn	barn	""	六
+loop	loop	""	六
+bark	bark	""	四	bark	v&n	高
+loot	loot	""	六
+wood	wood	"wooden"	四	wood	n	高
+tobacco	tobacco	""	四	tobacco	n	高
+bare	bare	"barely"	四	bare	a	高
+sidewalk						sidewalk/sideroad	n	高
+crane	crane	""	四
+formidable	formidable	""	六
+surprise	surprise	""	四	surprise	v&n	高
+suitcase	suitcase	""	四	suitcase	n	高
+invert	invert	"inversion"	六
+beard	beard	""	四	beard	n	高
+countdown	countdown	""	四
+AIDS	AIDS	""	四	AIDS	n	高
+look	look	""	四	look	n&v	高
+dense	dense	"density"	四
+disrupt	disrupt	"disruptive,disruption"	四
+fortnight	fortnight	""	六	fortnight	n	高
+scar	scar	""	四	scar	n	高
+abort	abort	"abortion"	六	abortion	n	高
+sergeant	sergeant	""	六
+converse	converse1	"conversation"	四	conversation	n	高
+gospel	gospel	""	六
+eccentric	eccentric	""	六
+farewell	farewell	""	四
+allow	allow	""	四	allow	v	高
+appliance	appliance	""	四
+defer	defer	""	六
+alloy	alloy	""	六
+knock	knock	""	四	knock	n&v	高
+mass	mass	"massive"	四	mass	n	高
+lord	lord	""	四
+proper	proper	""	四	proper	a	高
+renaissance	renaissance	""	六
+beast	beast	""	四	beast	n	高
+vegetable	vegetable	"vegetarian"	四	vegetable	n	高
+bitter	bitter	""	四	bitter	a	高
+speed	speed	"speedy,speeding"	四	speed	n&v	高
+gesture	gesture	""	四	gesture	n	高
+auction	auction	"auctioneer"	六
+allot	allot	"allotment"	六
+apple	apple	""	四	apple	n	高
+propel	propel	"propeller"	六
+admit	admit	"admission,admittance,admittedly"	四	admit	v	高	admission	n	高
+common	common	""	四	common	a	高
+interest	interest	"interesting,interested"	四	interest	n	高	interesting	a	高
+themselves	themselves	""	四	themselves	pron	高
+bath	bath	""	四	bath	n	高
+twin	twin	""	四	twin	n	高
+organic	organic	""	四
+mask	mask	""	四	mask	n&v	高
+patrol	patrol	""	六
+patron	patron	"patronize/-ise,patronage"	六
+apply	apply	"application,applicant,applicable"	四	apply	v	高	applicant	n	高
+jargon	jargon	""	六
+overlook	overlook	""	四	overlook	v	高
+incredible	incredible	"incredibly"	四
+cigaret	cigaret(te)	""	四
+bedroom						bedroom	n	高
+layout	layout	""	四
+seagull						seagull	n	高
+bass	bass	""	六
+money	money	"monetary"	四	money	n	高
+disagree	disagree	"disagreement"	四	disagree	v	高	disagreement	n	高
+attic	attic	""	四
+formula	formula	""	四
+step	step	""	四	step	n&v	高
+revolt	revolt	""	六
+disgust	disgust	"disgusting"	四	disgusting	a	高
+forever	forever	""	四	forever	ad	高
+mark	mark	""	四	mark	n&v	高
+tribute	tribute	""	六
+endanger	endanger	""	四
+stem	stem1	""	四
+base	base	""	四	base	n	高
+subordinate	subordinate	"subordination"	六
+sunshine	sunshine	""	四	sunshine	n	高
+trend	trend	""	四	trend	n	高
+mechanic	mechanic	"mechanical,mechanics,mechanism"	四
+mom	mom(my)	""	四	mom/mum	n	高
+whole	whole	"wholly"	四	whole	a	高
+revolution	revolution	"revolutionary"	四	revolution	n	高
+mop	mop	""	四	mop	n&v	高
+incentive	incentive	""	四
+humor	humo(u)r	"humo(u)rous"	四	humor/humour	n	高	humorous	a	高
+relate	relate	"relation,relationship"	四	relate	v	高	relationship	n	高
+mow	mow	""	六
+workforce	workforce	""	四
+preliminary	preliminary	""	四
+obstacle	obstacle	""	四
+still	still1	""	四	still	a&ad	高
+van	van	""	四
+biology	biology	"biological,biologist"	四	biology	n	高
+worn						worn	a	高
+worm	worm	""	四	worm	n	高
+dizzy	dizzy	""	四	dizzy	a	高
+work	work	"worker"	四	work	n&v	高	worker	n	高
+lose	lose	"loss"	四	lose(lost,lost)	v	高	loss	n	高
+constitute	constitute	""	四
+cattle	cattle	""	四	cattle	n	高
+indict	indict	"indictment"	六
+toward	toward(s)	""	四	toward(s)	prep	高
+convince	convince	"convincing"	四	convince	v	高
+mate	mate	""	四
+among	among(st)	""	四	among	prep	高
+gorge	gorge	""	六
+missionary	missionary	""	六
+math	math(ematics)/maths	"mathematical"	四
+terminate	terminate	"termination"	六
+word	word	"wording"	四	word	n	高
+theory	theory	"theoretical"	四	theory	n	高	theoretical	a	高
+love	love	"lovely,lover"	四	love	n&v	高	lovely	a	高
+flock	flock	""	四
+internal	internal	""	四
+gender	gender	""	四
+tongue	tongue	""	四	tongue	n	高
+literary	literary	"literature,literate,literacy"	四	literary	a	高	literature	n	高
+architect	architect	""	四	architect	n	高
+forehead	forehead	""	四	forehead	n	高
+enjoy	enjoy	"enjoyable,enjoyment"	四	enjoy	v	高	enjoyable	a	高
+foundation	foundation	""	四
+secret	secret	"secrecy,secretive"	四	secret	a&n	高
+fireworks	fireworks	""	四	fireworks	n	高
+ourselves	ourselves	""	四	ourselves	pron	高
+punch	punch	""	四
+slave	slave	"slavery"	四	slave	n	高	slavery	n	高
+across	across	""	四	across	prep	高
+mortgage	mortgage	""	四
+identity	identity	"identical"	四	identity	n	高
+ear	ear	""	四	ear	n	高
+federal	federal	""	四	federal	a	高
+eat	eat	""	四	eat(ate,eaten)	v	高
+verify	verify	"verification"	四
+excursion	excursion	""	四
+inaugurate	inaugurate	"inauguration"	六
+academy	academy	"academic,academician"	四	academy	n	高	academic	a&n	高
+middle-class	middle-class	""	四
+loud	loud	"loudly"	四	loud	a	高
+reward	reward	"rewarding"	四	reward	n	高
+hockey	hockey	""	六
+include	include	"inclusion,inclusive,including"	四	include	v	高
+graze	graze	""	六
+swallow	swallow1	""	四	swallow	v	高
+alongside	alongside	""	四	alongside	ad	高
+sting	sting	""	四
+juice	juice	"juicy"	四	juice	n	高
+haste	haste	"hasty,hasten"	四
+degenerate	degenerate	"degeneration"	六
+nurture	nurture	""	六
+buckle	buckle	""	四
+opinion	opinion	""	四	opinion	n	高
+altogether	altogether	""	四	altogether	ad	高
+soldier	soldier	""	四	soldier	n	高
+sleeve	sleeve	""	四	sleeve	n	高
+censor	censor	"censorship"	六
+devour	devour	""	六
+stir	stir	""	四
+insult	insult	""	四
+escort	escort	""	六
+voice	voice	""	四	voice	n	高
+appal	appal(l)	"appalling"	六
+craft	craft	""	四
+butcher	butcher	""	四	butcher	n&v	高
+threshold	threshold	""	六
+float	float	""	四	float	v	高
+axis	axis	""	四
+negligent	negligent	"negligence"	六
+basketball	basketball	""	四	basketball	n	高
+desolate	desolate	""	六
+portfolio	portfolio	""	六
+olive	olive	""	六
+coarse	coarse	""	四
+evade	evade	"evasive,evasion"	六
+fascist	fascist	"fascism"	六
+alley	alley	""	四	alley	n	高
+exaggerate	exaggerate	"exaggeration"	四
+streamline	streamline	""	六
+discover	discover	"discovery"	四	discover	v	高	discovery	n	高
+spell	spell	"spelling"	四	spell	v	高	spelling	n	高
+midday	midday	""	四
+imply	imply	"implication"	四
+offset	offset	""	六
+cleaner						cleaner	n	高
+excite	excite	"exciting,excitement"	四	excite	v	高
+capture	capture	""	四
+coward	coward	"cowardly,cowardice"	四
+cavity	cavity	""	六
+sequence	sequence	"sequential"	四
+recruit	recruit	"recruitment"	四
+thrust	thrust	""	四
+mud	mud	"muddy"	四	mud	n	高	muddy	a	高
+mug	mug	""	四
+commence	commence	"commencement"	四
+configuration	configuration	""	六
+turnout	turnout	""	六
+goodby	goodby(e)	""	四
+winter	winter	""	四	winter	n	高
+chunk	chunk	""	六
+insure	insure/ensure	"insurance"	四	insure	v	高	insurance	n	高
+elder	elder	"elderly"	四	elder	n	高
+platform	platform	""	四	platform	n	高
+commonplace	commonplace	""	四
+spend	spend	"spending"	四	spend(spent,spent)	v	高
+parameter	parameter	""	六
+extinct	extinct	"extinction"	六
+February	February	""	四	February/Feb.		高
+degrade	degrade	"degradation"	六
+martyr	martyr	"martyrdom"	六
+opaque	opaque	""	六
+grave	grave	""	四
+advantage	advantage	"advantageous"	四	advantage	n	高
+cell-phone	cell-phone	""	四
+humid	humid	"humidity"	六
+instead	instead	""	四	instead	ad	高
+controversy	controversy	"controversial"	四	controversial	a	高
+jack	jack	""	六
+command	command	"commander"	四	command	n&v	高
+compulsory	compulsory	""	四	compulsory	a	高
+dessert	dessert	""	四	dessert	n	高
+anticipate	anticipate	"anticipation"	四
+detach	detach	"detached,detachment"	六
+temple	temple	""	四	temple	n	高
+fabricate	fabricate	"fabrication"	六
+slash	slash	""	六
+landscape	landscape	""	四
+seduce	seduce	"seduction,seductive"	六
+exception	exception	"exceptional"	四
+temporary	temporary	"temporarily"	四	temporary	a	高
+habitat	habitat	""	四
+smartphone	smartphone	""	四
+egg	egg	""	四	egg	n	高
+year	year	"yearly"	四	year	n	高
+awful	awful	""	四	awful	a	高
+ego	ego	"egoism,egoist"	六
+laptop	laptop	""	四
+handy	handy	""	四	handy	a	高
+urge	urge	""	四	urge	v	高
+branch	branch	""	四	branch	n	高
+via	via	""	四	via	prep	高
+anguish	anguish	""	六
+high-tech	high-tech	""	四
+music	music	"musical,musician"	四	music	n	高	musician	n	高
+famine	famine	""	四
+empire	empire	""	四
+visual	visual	"visualize/-ise"	四	visual	a	高
+neat	neat	""	四	neat	a	高
+absent	absent	"absence"	四	absent	a	高	absence	n	高
+July	July	""	四	July/Jul.		高
+near	near	"nearly"	四	near	a,ad&prep	高	nearly	ad	高
+because	because	""	四	because	conj	高
+educate	educate	"education,educational,educator"	四	educate	v	高	educator	n	高
+fairy	fairy	""	四
+sanctuary	sanctuary	""	六
+AD						AD	abbr	高
+instruct	instruct	"instruction,instructor,instructive"	四	instruct	v	高	instruction	n	高
+upgrade	upgrade	""	四
+mayor	mayor	""	四
+merchant	merchant	""	四	merchant	a&n	高
+retell	retell	"retelling"	四	retell	v	高
+economy	economy	"economic,economical"	四
+packet	packet	""	四	packet	n	高
+community	community	""	四
+version	version	""	四	version	n	高
+cocoa						cocoa	n	高
+bronze	bronze	""	六
+stop	stop	"stoppage"	四	stop	n&v	高
+Moslem						Moslem	n	高
+flirt	flirt	"flirtation"	六
+guess	guess	""	四	guess	v	高
+heartfelt	heartfelt	""	四
+science	science	"scientific,scientist"	四	science	n	高	scientist	n	高
+detain	detain	"detention"	六
+guest	guest	""	四	guest	n	高
+aboard	aboard	""	四	aboard	prep	高
+detail	detail	"detailed"	四
+appropriate	appropriate1	""	四	appropriate	a	高
+connotation	connotation	""	六
+June	June	""	四	June/Jun.		高
+beware	beware	""	六
+BC						BC	abbr	高
+forest	forest	"forestry"	四	forest	n	高
+least	least	""	四	least	n	高
+utility	utility	""	四
+eloquent	eloquent	"eloquence"	六
+symphony	symphony	""	六	symphony	n	高
+sleep	sleep	"sleepy,sleepiness"	四	sleep1	n	高	sleepy	a	高
+observatory	observatory	""	六
+refuse	refuse	"refusal"	四	refuse	v	高
+submarine	submarine	""	六
+particle	particle	""	四
+stump	stump	""	六
+naughty	naughty	""	四
+Celsius	Celsius/-cius	""	四
+sweep	sweep	""	四	sweep(swept,swept)	v	高
+descend	descend	"descent,descendant"	四
+CD						CD/(compact-disk)	n	高
+website	website	""	四	website	n	高
+fourteenth						fourteenth		高
+learn	learn	"learned,learning,learner"	四	learn(learnt,learnt或-ed,-ed)	v	高
+onset	onset	""	六
+neck	neck	""	四	neck	n	高
+slam	slam	""	六
+weird	weird	""	四
+refute	refute	"refutation"	六
+severe	severe	"severity"	四	severe	a	高
+emerge	emerge	"emergence"	四
+lease	lease	""	四
+exploit	exploit	"exploitation"	四
+sweet	sweet	""	四	sweet	n&a	高
+slap	slap	""	四
+brandy	brandy	""	四
+anniversary	anniversary	""	四	anniversary	n	高
+thirtieth						thirtieth		高
+eager	eager	""	四	eager	a	高
+republic	republic	"republican"	四	republic	n	高
+voucher	voucher	""	六
+errand	errand	""	六
+official	official	""	四	official	n&a	高
+fling	fling	""	六
+stun	stun	"stunning"	六
+spring	spring	""	四	spring	n	高
+narrate	narrate	"narration,narrative,narrator"	四
+leave	leave	""	四	leave(left,left)	v	高
+cottage	cottage	""	四	cottage	n	高
+shred	shred	""	六
+female	female	""	四	female	a&n	高
+microphone	microphone	""	四
+melon	melon	""	四	melon	n	高
+artillery	artillery	""	六
+faint	faint	""	四
+surrender	surrender	""	四
+minister	minister	"ministry,ministerial"	四	minister	n	高	ministry	n	高
+résumé	résumé2	""	四
+cruel	cruel	"cruelty"	四	cruel	a	高
+need	need	"needy"	四	need	n&modal-v	高
+exquisite	exquisite	""	六
+shade	shade	"shady"	四	shade	n	高
+collide	collide	"collision"	六	collision	n	高
+often	often/oftentimes	""	四	often	ad	高
+jail	jail/gaol	""	四
+gather	gather	"gathering"	四	gather	v	高
+cardinal	cardinal	""	六
+insist	insist	"insistence,insistent"	四	insist	v	高
+typewriter	typewriter	""	四	typewriter	n	高
+Dr						Dr/doctor	n	高
+volume	volume	"voluminous"	四
+guideline	guideline	""	四
+loose	loose	"loosen"	四	loose	a	高
+indignant	indignant	"indignation"	六
+decimal	decimal	""	六
+hardly	hardly	""	四	hardly	ad	高
+bored						bored	a	高
+cynical	cynical	"cynicism"	六
+ventilate	ventilate	"ventilation"	六
+private	private	"privacy,privatize/-ise,privatization/-sation"	四	private	a	高
+chimney	chimney	""	四
+technical	technical	"technician"	四	technical	a	高
+baggage	baggage	""	四	baggage	n	高
+companion	companion	"companionship"	四	companion	n	高
+culminate	culminate	"culmination"	六
+breakdown	breakdown	""	四
+ride	ride	"rider"	四	ride(rode,ridden)	v&n	高
+stretch	stretch	""	四
+strand	strand	""	六
+accomplish	accomplish	"accomplishment"	四	accomplish	v	高
+constituent	constituent	"constituency"	六
+engine	engine	""	四	engine	n	高
+irritate	irritate	"irritation,irritating,irritable"	六
+havoc	havoc	""	六
+responsible	responsible	"responsibility"	四	responsibility	n	高
+medal	medal	""	四	medal	n	高
+linen	linen	""	六
+end	end	"ending,endless"	四	end	n&v	高	endless	a	高
+satellite	satellite	""	四	satellite	n	高
+bullet	bullet	""	四
+liner	liner	""	六
+illuminate	illuminate	"illumination"	六
+forty	forty	""	四	forty		高
+vow	vow	""	六
+mistake	mistake	"mistaken"	四	mistake(mistook,mistaken)	v&n	高	mistaken	a	高
+toil	toil	""	六
+rich	rich	""	四	rich	a	高
+rice	rice	""	四	rice	n	高
+praise	praise	""	四	praise	n&v	高
+forum	forum	""	四
+special	special	"specialize/-ise,specialization/-sation,specialist"	四	special	a	高	specialist	n	高
+scissors	scissors	""	四	scissors	n	高
+contempt	contempt	"contemptible"	四
+horizon	horizon	"horizontal"	四
+environment	environment	"environmental,environmentalist"	四	environment	n	高
+Asia						Asia	n	高
+airplane	airplane/aeroplane	""	四	airplane	n	高
+sweat	sweat	"sweater"	四	sweat	n	高	sweater	n	高
+betray	betray	"betrayal"	四	betray	v	高
+pronounce	pronounce	"pronunciation"	四	pronounce	v	高	pronunciation	n	高
+aloft	aloft	""	六
+family	family	""	四	family	n	高
+deliberate	deliberate	"deliberation"	四
+swear	swear	""	四	swear(swore,sworn)	v	高
+physiological	physiological	""	六
+shaft	shaft	""	六
+gift	gift	"gifted"	四	gift	n	高	gifted	a	高
+atmosphere	atmosphere	"atmospheric"	四	atmosphere	n	高
+decorate	decorate	"decoration,decorative"	四	decorate	v	高	decoration	n	高
+copyright	copyright	""	四
+career	career	""	四
+occupation	occupation	"occupational"	四	occupation	n	高
+release	release	""	四
+charter	charter	""	四
+slim	slim	""	四	slim	a	高
+liberate	liberate	"liberation"	四	liberation	n	高
+toll	toll	""	四
+moral	moral	"morality"	四	moral	a&n	高
+aspire	aspire	"aspiration"	六
+banknote	banknote	""	四
+explode	explode	"explosion,explosive"	四	explode	v	高
+greengrocer						greengrocer	n	高
+outbreak	outbreak	""	四
+narrow	narrow	"narrowly"	四	narrow	a	高
+brave	brave	"bravery"	四	brave	a	高	bravery	n	高
+judge	judge	"judg(e)ment"	四	judge	n&v	高	judgment/judgement	n	高
+nap	nap	""	四
+manipulate	manipulate	"manipulation,manipulative"	四
+similar	similar	"similarity"	四	similar	a	高
+contradict	contradict	"contradiction,contradictory"	四	contradict	v	高	contradictory	a	高
+shape	shape	""	四	shape	n&v	高
+practitioner	practitioner	""	六
+seventy	seventy	""	四	seventy		高
+specify	specify	"specification"	四
+anyhow						anyhow	ad	高
+forth	forth	""	四
+submerge	submerge	""	六
+converge	converge	"convergence"	六
+compose	compose	"composition,composer"	四	composition	n	高
+seventh						seventh		高
+giraffe						giraffe	n	高
+tone	tone	""	四
+optimism	optimism	"optimistic,optimist"	四	optimistic	a	高
+against	against	""	四	against	prep	高
+parole	parole	""	六
+cell	cell	""	四	cell	n	高
+holiday	holiday	""	四	holiday	n	高
+swell	swell	""	四	swell(swelled,swollen)	v	高
+crude	crude	""	六
+remind	remind	"reminder"	四	remind	v	高
+valid	valid	"validate,validity"	四	valid	a	高
+withstand	withstand	""	四
+inertia	inertia	""	六
+encourage	encourage	"encouragement,encouraging"	四	encourage	v	高	encouragement	n	高
+vacuum	vacuum	""	四
+era	era	""	四
+potato	potato	""	四	potato	n	高
+administer	administer/administrate	"administration,administrative"	四	administration	n	高
+transplant	transplant	"transplantation"	四
+share	share	""	四	share	v	高
+deficit	deficit	""	四
+elegant	elegant	"elegance"	四	elegant	a	高
+shark	shark	""	六	shark	n	高
+err	err	"error,erroneous"	四	error	n	高
+linger	linger	""	六
+television	television/TV	""	四	television	n	高
+tomb						tomb	n	高
+chairman	chairman/chairperson	""	四	chairman/woman(pl.chairmen/women)	n	高
+cumulative	cumulative	""	六
+sharp	sharp	"sharpen"	四	sharp	a	高	sharpen	v	高
+slip	slip	"slippery,slipper"	四	slip	n	高
+species	species	""	四
+temperament	temperament	""	六
+anchor	anchor	"anchorage"	四	anchor	v&n	高
+logic	logic	"logical"	四
+shake	shake	"shaky"	四	shake(shook,shaken)	v	高
+eyesight	eyesight	""	四	eyesight	n	高
+cent	cent	""	四	cent	n	高
+honor	hono(u)r	"hono(u)rable,hono(u)rary"	四	honor/honour	n&v	高
+spice	spice	"spicy"	六
+screen	screen	""	四	screen	n	高
+autonomous	autonomous	"autonomy"	六	autonomous	a	高
+naked	naked	""	四
+aerial	aerial	""	四
+trial	trial	""	四	trial	n	高
+undertake	undertake	"undertaking"	四	undertake(undertook,undertaken)	v	高
+indigenous	indigenous	""	六
+bureau	bureau	""	四
+moist	moist	"moisture"	四
+net	net	""	四	net	n	高
+cable	cable	""	四
+nasty	nasty	""	四
+intense	intense	"intensity,intensify"	四
+new	new	""	四	new	a	高
+below	below	""	四	below	prep	高
+estate	estate	""	四
+shall	shall	""	四	shall	modal-v	高
+runway	runway	""	四
+articulate	articulate	"articulation"	六
+brass	brass	""	四
+tool	tool	""	四	tool	n	高
+foretell	foretell	""	六
+yell	yell	""	四	yell	v	高
+Sunday	Sunday	""	四	Sunday/Sun.		高
+tribe	tribe	"tribal"	六
+secular	secular	""	六
+activate	activate	""	六
+boundary	boundary	""	四	boundary	n	高
+endow	endow	"endowment"	六
+shame	shame	"shameful,shameless"	四	shame	n	高
+mandate	mandate	"mandatory"	六
+skateboard						skateboard	n	高
+respective	respective	"respectively"	四
+slot	slot	""	六
+trick	trick	"tricky"	四	trick	n	高
+around	around	""	四	around	ad&prep	高
+pollute	pollute	"pollution,pollutant"	四	pollute	v	高	pollution	n	高
+eve	eve	""	四
+pronoun	pronoun	""	四
+define	define	"definition"	四
+ping-pong						ping-pong	n	高
+dictate	dictate	"dictation,dictator"	四	dictation	n	高
+render	render	"rendering"	四
+raincoat	raincoat	""	四	raincoat	n	高
+haven	haven	""	六
+frontier	frontier	""	四	frontier	n	高
+manifest	manifest	"manifestation"	六
+endeavor	endeavo(u)r	""	六
+relieve	relieve	"relief"	四	relief	n	高
+buffalo	buffalo	""	六
+seaweed						seaweed	n	高
+drawer	drawer	""	四	drawer	n	高
+air-conditioning	air-conditioning	"air-conditioner"	四
+adjacent	adjacent	""	六
+transport	transport	"transportation"	四	transport	n&v	高
+specific	specific	"specifically"	四	specific	a	高
+pencil	pencil	""	四	pencil	n	高
+super	super	""	四	super	a	高
+DVD						DVD/digital-versatile-disk	n	高
+freezing						freezing	a	高
+engage	engage	"engagement"	四
+chord	chord	""	六
+whisper	whisper	""	四	whisper	v	高
+chore	chore	""	四
+appetite	appetite	""	四	appetite	n	高
+strategy	strategy	"strategic"	四
+needle	needle	""	四	needle	n	高
+revolve	revolve	""	四
+territory	territory	"territorial"	四
+clumsy	clumsy	""	四	clumsy	a	高
+summon	summon	""	六
+flare	flare	""	六
+ring	ring	""	四	ring(rang,rung)	v&n	高
+farther	farther	""	四
+maintain	maintain	"maintenance"	四
+shift	shift	""	四
+couch	couch	""	四
+echo	echo	""	四
+rehabilitate	rehabilitate	"rehabilitation"	六
+expertise	expertise	""	四
+bargain	bargain	""	四	bargain	n&v	高
+cheese	cheese	""	四	cheese	n	高
+nil	nil	""	六
+despatch	despatch	""	四
+shoulder	shoulder	""	四	shoulder	n	高
+dance	dance	""	四	dance	n&v	高
+cheers						cheers	int	高
+pearl	pearl	""	四
+sneaker						sneaker	n	高
+imminent	imminent	""	六
+remain	remain	"remainder"	四	remain	v	高
+amaze	amaze	"amazing,amazement"	四	amaze	v	高	amazing	a	高
+toss	toss	""	四
+eye	eye	""	四	eye	n	高
+envelope	envelope	""	四	envelope	n	高
+himself	himself	""	四	himself	pron	高
+dictionary	dictionary	""	四	dictionary	n	高
+mystery	mystery	"mysterious"	四
+slow	slow	""	四	slow	ad	高
+toothache						toothache	n	高
+deposit	deposit	""	四	deposit	v&n	高
+flash	flash	""	四	flash	n	高
+continent	continent	"continental"	四	continent	n	高
+maybe	maybe	""	四	maybe	ad	高
+simultaneous	simultaneous	""	六
+another	another	""	四	another	a&pron	高
+guarantee	guarantee	""	四	guarantee	v	高
+enemy	enemy	""	四	enemy	n	高
+recommend	recommend	"recommendation"	四	recommend	v	高
+literal	literal	"literally"	四
+default	default	""	六
+gray	gray/grey	""	四	gray/grey	a	高
+envoy	envoy	""	六
+helicopter	helicopter	""	四	helicopter	n	高
+tropic	tropic	"tropical"	六
+vendor	vendor	""	四
+beverage	beverage	""	四
+ripe	ripe	"ripen"	四	ripe	a	高	ripen	v	高
+insane	insane	"insanity"	四
+attribute	attribute	"attributable,attributive"	四
+watermelon						watermelon	n	高
+trophy	trophy	""	六
+cemetery	cemetery	""	六
+triumph	triumph	"triumphant"	四
+horror	horror	"horrible,horrify"	四	horrible	a	高
+poison	poison	"poisonous"	四	poison	n	高	poisonous	a	高
+silly						silly	a	高
+gram	gram(me)	""	四	gram	n	高
+black	black	""	四	black	a&n	高
+riot	riot	"riotous"	四
+optimum	optimum	"optimal"	六
+arouse	arouse	"arousal"	四
+nest	nest	""	四	nest	n	高
+tour	tour	"tourism,tourist"	四	tour	n	高	tourist	n	高
+persuade	persuade	"persuasion,persuasive"	四	persuade	v	高
+consensus	consensus	""	四	consensus	n	高
+such	such	""	四	such	ad,pron&a	高
+classic	classic	"classical"	四	classic	a	高
+absolute	absolute	""	四	absolute	a	高
+gossip	gossip	""	四
+describe	describe	"description,descriptive"	四	describe	v	高	description	n	高
+sarcasm	sarcasm	"sarcastic"	六
+grab	grab	""	四
+suck	suck	""	四	suck	v	高
+TV						TV/television	n	高
+slum	slum	""	六
+foam	foam	""	六
+jazz	jazz	""	四	jazz	n	高
+dwell	dwell	"dweller,dwelling"	六
+incorporate	incorporate	"incorporation"	六
+boast	boast	"boastful"	四
+research	research	"researcher"	四	research	n	高
+white	white	""	四	white	a&n	高
+furniture	furniture	""	四	furniture	n	高
+counterpart	counterpart	""	四
+flank	flank	""	六
+sinister	sinister	""	六
+segment	segment	"segmental"	四
+stripe	stripe	""	四
+huge	huge	""	四	huge	a	高
+pendulum	pendulum	""	六
+sovereign	sovereign	"sovereignty"	六
+clothe	clothe	"clothing"	四	clothing	n	高
+imagine	imagine	"imagination,imaginative,imaginary"	四	imagine	v	高
+cater	cater	""	四	cater	v	高
+town	town	"township"	四	town	n	高
+superb	superb	""	四	superb	a	高
+might	might	"mighty"	四	might	modal-v	高
+duplicate	duplicate	"duplication"	六
+girl	girl	""	四	girl	n	高
+decrease	decrease	""	四	decrease	v	高
+glossary	glossary	""	六
+flutter	flutter	""	六
+eradicate	eradicate	"eradication"	六
+museum	museum	""	四	museum	n	高
+trumpet	trumpet	""	六
+aloud	aloud	""	四	aloud	ad	高
+trifle	trifle	""	四
+migrate	migrate	"migration,migrant"	四
+next	next	""	四	next	a&ad	高
+crocodile	crocodile	""	四
+Easter	Easter	""	六	Easter	n	高
+nod	nod	""	四	nod	v	高
+blind	blind	""	四	blind	a	高
+import	import	"importation"	四	import	v&n	高
+submit	submit	"submission,submissive"	四	submit	v	高
+string	string	""	四	string	n	高
+September	September	""	四	September/Sept.		高
+occupy	occupy	"occupancy,occupant"	四	occupy	v	高
+color	colo(u)r	"colo(u)rful"	四	color/colour	n&v	高
+affluent	affluent	"affluence"	四
+intrude	intrude	"intrusion,intruder"	四
+snatch	snatch	""	六
+lipstick	lipstick	""	六
+blink	blink	""	六
+summit	summit	""	四
+magnify	magnify	""	六
+perfume	perfume	""	六	perfume	n	高
+redundant	redundant	"redundancy"	六
+nor	nor	""	四	nor	conj	高
+button	button	""	四	button	n&v	高
+durable	durable	"durability"	四
+not	not	""	四	not	ad	高
+impose	impose	"imposition,imposing"	四
+mammal	mammal	""	四
+now	now	""	四	now	ad	高
+Tuesday	Tuesday	""	四	Tuesday/Tues.		高
+trademark	trademark	""	四
+backyard	backyard	""	四
+memorial	memorial	""	四	memorial	n&a	高
+factor	factor	""	四
+wag						wag	v	高
+news	news	""	四	news	n	高
+pinch	pinch	""	四
+rack	rack	""	四
+green	green	""	四	green	a&n	高
+race	race1	"racial,racism,racist"	四	race	v&n	高	racial	a	高
+conquer	conquer	"conqueror,conquest"	四
+complexion	complexion	""	六
+greet	greet	"greeting"	四	greet	v	高	greeting	n	高
+war	war	""	四	war	n	高
+barometer	barometer	""	六
+sculpture	sculpture	""	六	sculpture	n	高
+way	way	""	四	way	n	高
+wax	wax	""	四	wax	n	高
+clear-cut	clear-cut	""	四
+can’t						can’t/cannot	modal-v	高
+sensation	sensation	"sensational"	六
+what	what	"whatever,whatsoever"	四	what	pron&a	高	whatever	conj&pron	高
+urban	urban	"urbanize/-ise,urbanization/-sation"	四	urban	a	高
+furthermore	furthermore	""	四
+refer	refer	"reference"	四	refer	v	高	reference	n	高
+colon	colon	"semi-colon"	四
+risk	risk	"risky"	四	risk	n&v	高
+window	window	""	四	window	n	高
+flame	flame	""	四	flame	n	高
+rise	rise	""	四	rise(rose,risen)	v	高
+play	play	"player"	四	play	v&n	高
+discard	discard	""	四
+subsidy	subsidy	"subsidize/-ise"	六
+obscene	obscene	"obscenity"	六
+decide	decide	"decision,decisive"	四	decide	v	高	decision	n	高
+classmate	classmate	""	四	classmate	n	高
+when	when	"whenever"	四	when	conj&ad	高	whenever	conj	高
+nearby	nearby	""	四	nearby	a	高
+modest	modest	"modesty"	四	modest	a	高
+fan	fan	""	四	fan	n	高
+crush	crush	""	四
+grandma						grandma/grandmother	n	高
+far	far	""	四	far(farther,farthest或further,furthest)	a&ad	高
+fat	fat	""	四	fat	n&a	高
+electron	electron	"electronic,electronically,electronics"	四	electronic	a	高
+greed	greed	"greedy"	六	greedy	a	高
+embed	embed	""	六
+catch	catch	""	四	catch(caught,caught)	v	高
+fax	fax	""	四	fax	n&v	高
+plan	plan	"planning,planner"	四	plan	n&v	高
+give	give	""	四	give(gave,given)	v	高
+counsel	counsel	"counsel(l)or"	四
+second-hand	second-hand	""	四
+liver	liver	""	四
+double	double	""	四	double	a&n	高
+suicide	suicide	"suicidal"	六
+lofty	lofty	""	六
+explicit	explicit	""	四	explicit	a	高
+metro	metro	""	四
+VCD						VCD/versatile-compact-disk	n	高
+utilize	utilize/-ise	"utilization/-sation"	四
+prevail	prevail	"prevalence,prevalent"	四
+suit	suit1	"suitable"	四	suit	v&n	高	suitable	a	高
+browse	browse	"browser"	四
+chocolate	chocolate	""	四	chocolate	n	高
+implicit	implicit	""	四
+study	study	""	四	study	v&n	高
+portion	portion	""	四
+direct	direct	"direction,director"	四	direct	a&v	高	director	n	高
+futile	futile	"futility"	六
+fever	fever	"feverish"	四	fever	n	高
+grandpa						grandpa/grandfather	n	高
+gain	gain	""	四	gain	v	高
+supermarket	supermarket	""	四	supermarket	n	高
+hardship	hardship	""	四	hardship	n	高
+confuse	confuse	"confusion"	四	confuse	v	高
+modern	modern	"modernize/-ise,modernization/-sation"	四	modern	a	高
+web	web	""	四	web	n	高
+wed	wed	"wedding"	四	wedding	n	高
+wharf	wharf	""	六
+physician	physician	""	四	physician	n	高
+amass	amass	""	六
+dial	dial	""	四	dial	v	高
+souvenir	souvenir	""	四	souvenir	n	高
+grin	grin	""	四
+grip	grip	""	四
+tornado	tornado	""	六
+explore	explore	"exploration"	四	explore	v	高
+wet	wet	""	四	wet	a	高
+noteworthy	noteworthy	""	六
+strawberry						strawberry	n	高
+electricity	electricity	"electric(al),electrician"	四	electricity	n	高	electric	a	高
+cosmos	cosmos	"cosmic"	四
+tentative	tentative	""	六	tentative	a	高
+climate	climate	"climatic"	四	climate	n	高
+great	great	""	四	great	a&ad	高
+crust	crust	""	六
+wrong	wrong	""	四	wrong	a	高
+porridge	porridge	""	六	porridge	n	高
+criticize	criticize/-ise	"criticism,critic,critical"	四
+shirt	shirt	""	四	shirt	n	高
+grid	grid	""	六
+rage	rage	"raging"	四
+pleased						pleased	a	高
+indebted	indebted	""	六
+preside	preside	""	六
+certain	certain	"certainly,certainty"	四	certain	a	高
+board	board	""	四	board	n&v	高
+grim	grim	""	六
+stuff	stuff	"stuffy,stuffing"	四
+statistics						statistics	n	高
+offspring	offspring	""	六
+monkey	monkey	""	四	monkey	n	高
+widow	widow	"widower"	四	widow	n	高
+arrest	arrest	""	四	arrest	v	高
+assortment	assortment	""	六
+fee	fee	""	四	fee	n	高
+section	section	""	四	section	n	高
+eleventh						eleventh		高
+used	used	""	四	used	a	高
+nut	nut	""	四	nut	n	高
+malignant	malignant	""	六
+whip	whip	""	四
+rumor	rumo(u)r	""	四
+protocol	protocol	""	六
+mustard						mustard	n	高
+overflow	overflow	""	六
+whale	whale	""	四	whale	n	高
+provoke	provoke	"provocation,provocative"	四
+few	few	""	四	few	pron&a	高
+enrich	enrich	""	四
+foil	foil	""	六
+rhetoric	rhetoric	"rhetorical"	六
+crackdown	crackdown	""	六
+strain	strain1	""	四
+otherwise	otherwise	""	四	otherwise	ad	高
+rain	rain	"rainy"	四	rain	n&v	高	rainy	a	高
+hunt	hunt	"hunting,hunter"	四	hunt	v	高	hunter	n	高
+cellar	cellar	""	四
+intrigue	intrigue	""	六
+tangle	tangle	""	六
+visible	visible	"visibility"	四
+orient	orient1	"orientation"	四
+knowhow	knowhow	""	四
+handicap	handicap	"handicapped"	四
+rail	rail	""	四	rail	n	高
+tranquil	tranquil	"tranquility"	六
+plea	plea	""	六
+ice-cream	ice-cream	""	四	ice-cream	n	高
+inner	inner	""	四
+strait	strait	""	六	strait	n	高
+voyage	voyage	""	四	voyage	n	高
+market	market	"marketing"	四	market	n	高
+keen	keen	""	四
+nutrition	nutrition	"nutrient"	四	nutrition	n	高
+cereal	cereal	""	四
+indifferent	indifferent	"indifference"	四
+overhaul	overhaul	""	六
+outside	outside	"outsider"	四	outside	n,ad&prep	高
+passer-by						passer-by	n	高
+effect	effect	"effective"	四	effect	n	高
+keep	keep	""	四	keep(kept,kept)	v	高
+cruise	cruise	"cruiser"	四
+elementary	elementary	""	四
+eagle	eagle	""	四	eagle	n	高
+yoghurt	yoghurt	""	四	yoghurt	n	高
+topic	topic	"topical"	四	topic	n	高
+solemn	solemn	"solemnity"	四
+skate	skate	"skating"	四	skate	v	高
+sugar	sugar	""	四	sugar	n	高
+perceive	perceive	"perception,perceptive"	四
+embarrass	embarrass	"embarrassment"	四	embarrass	v	高
+who	who	"whoever"	四	who	pron	高
+raid	raid	""	四
+weigh	weigh	"weight"	四	weigh	v	高	weight	n	高
+politics	politics	"political,politician"	四	politics	n	高	politician	n	高
+acute	acute	""	四	acute	a	高
+kindergarten	kindergarten	""	四	kindergarten	n	高
+game	game	""	四	game	n	高
+stigma	stigma	""	六
+handbook	handbook	""	四
+almighty	almighty	""	六
+crucial	crucial	""	四
+unveil	unveil	""	六
+contribute	contribute	"contribution,contributor"	四	contribute	v	高	contribution	n	高
+faith	faith	"faithful"	四	faith	n	高
+why	why	""	四	why	ad&int	高
+remark	remark	"remarkable"	四	remark	n	高
+microscope	microscope	"microscopic"	四	microscope	n	高
+strive	strive	""	四
+candidate	candidate	"candidacy"	四	candidate	n	高
+alone	alone	""	四	alone	a	高
+intelligible	intelligible	""	六
+along	along	""	四	along	ad&prep	高
+parallel	parallel	""	四	parallel	a&n	高
+cashier	cashier	""	四
+peanut	peanut	""	四
+diet	diet	"dietary"	四	diet	n	高
+blunder	blunder	""	六
+win	win	"winner"	四	win(won,won)	v	高	winner	n	高
+lawyer	lawyer	""	四	lawyer	n	高
+soccer	soccer	""	四	soccer	n	高
+breach	breach	""	六
+butter	butter	""	四	butter	n	高
+wit	wit	"witty"	四
+bewilder	bewilder	"bewilderment"	六
+regiment	regiment	"regimental"	六
+terminal	terminal	""	四	terminal	a&n	高
+diminish	diminish	""	六
+shine	shine	"shiny"	四	shine(shone,shone)	v	高
+surpass	surpass	""	六
+stagnate	stagnate	"stagnation,stagnant"	六
+various	various	"variety"	四	various	a	高	variety	n	高
+attention	attention	"attentive"	四	attention	n	高
+headache	headache	""	四	headache	n	高
+visit	visit	"visitor"	四	visit	n&v	高	visitor	n	高
+unfold	unfold	""	六
+oneself	oneself	""	四	oneself	pron	高
+extent	extent	""	四
+parent	parent	"parental,parenting"	四	parent	n	高
+twenty-one						twenty-one		高
+gaol	gaol	""	四
+arbitrate	arbitrate	"arbitration"	六
+bring	bring	""	四	bring(brought,brought)	v	高
+sauce	sauce	""	四
+beddings						beddings	n	高
+brink	brink	""	六
+equity	equity	"equitable"	六
+hamburger	hamburger/burger	""	四	hamburger	n	高
+fond	fond	""	四	fond	a	高
+fit	fit	""	四	fit	a&v	高
+robot	robot	"robotic"	四	robot	n	高
+fix	fix	"fixed,fixture,fixation"	四	fix	v	高
+warfare	warfare	""	四
+honest	honest	"honesty"	四	honest	a	高
+giant	giant	"gigantic"	四
+rank	rank	""	四	rank	n	高
+pension	pension	"pensioner"	四	pension	n	高
+perch	perch	""	六
+outlet	outlet	""	四
+grandchild	grandchild	"grandchildren,grandson,granddaughter"	四	grandchild	n	高	granddaughter	n	高
+neglect	neglect	"neglectful"	四
+surf	surf	"surfing"	四
+grow	grow	"growth"	四	grow(grew,grown)	v	高	growth	n	高
+gang	gang	"gangster"	四
+sure	sure	""	四	sure	a&ad	高
+vein	vein	""	六
+carve	carve	"carving"	六	carve	v	高
+ad						ad/advertisement	n	高
+shrink	shrink	""	四	shrink(shrank,shrunk或shrunk,shrunken)	v	高
+veil	veil	""	四
+league	league	""	四	league	n	高
+hierarchy	hierarchy	"hierarchical"	六
+ancestor	ancestor	"ancestry"	四	ancestor	n	高
+textile	textile	""	四
+peach	peach	""	四	peach	n	高
+am	am	""	四	am	v(be)	高
+former	former	""	四	former	a	高
+panic	panic	""	四	panic	a&v	高
+extend	extend	"extension,extensive,extended"	四	extension	n	高
+fold	fold	""	四	fold	v	高
+as	as	""	四	as	ad,conj&prep	高
+stewardess						stewardess	n	高
+at	at	""	四	at	prep	高
+hurl	hurl	""	六
+turning						turning	n	高
+peace	peace	"peaceful"	四	peace	n	高	peaceful	a	高
+ax	ax(e)	""	四
+folk	folk	""	四	folk	n&a	高
+intermediate	intermediate	"intermediary"	四
+payroll	payroll	""	四
+brother	brother	""	四	brother	n	高
+hurt	hurt	"hurtful"	四	hurt(hurt,hurt)	v	高
+frank	frank	""	四
+prove	prove	""	四	prove	v	高
+be	be	""	四	be(am,is,are,was,were,being,been)	v	高
+bystander	bystander	""	四
+admire	admire	"admiration,admirable"	四	admire	v	高	admirable	a	高
+tomato	tomato	""	四	tomato	n	高
+virus	virus	""	四	virus	n	高
+rape	rape	""	六
+search	search	""	四	search	n&v	高
+metaphor	metaphor	"metaphorical"	六
+furnished						furnished	a	高
+fool	fool	"foolish"	四	fool	n&v	高	foolish	a	高
+sudden	sudden	"suddenly"	四	sudden	a	高
+by	by	""	四	by	prep	高
+genre	genre	""	六
+whom	whom	""	四	whom	pron	高
+nickname	nickname	""	六
+franc						franc	n	高
+cardboard	cardboard	""	四
+panel	panel	""	四
+foot	foot	""	四	foot(pl.feet)	n	高
+tooth	tooth	""	四	tooth(pl.teeth)	n	高
+outstanding	outstanding	""	四	outstanding	a	高
+charge	charge	""	四	charge	v&n	高
+alternate	alternate	"alternation,alternately"	六
+familiar	familiar	"familiarity,familiarize/-ise"	四	familiar	a	高
+breathe	breathe	""	四	breathe	v	高
+food	food	""	四	food	n	高
+flu						flu	n	高
+actor	actor	"actress"	四	actor	n	高	actress	n	高
+fly	fly1	"flight"	四	fly1(flew,flown)	v	高	flight	n	高
+Thursday	Thursday	""	四	Thursday/Thurs.		高
+partner	partner	"partnership"	四	partner	n	高
+plunge	plunge	""	四
+skeptical	skeptical/sceptical	"skeptic/sceptic,skepticism/scepticism"	六	skeptical/sceptical	a	高
+kilometer	kilometer/-tre	""	四	kilometer/kilometre	n	高
+unfit						unfit	a	高
+Arctic						Arctic	a	高
+interview	interview	"interviewer,interviewee"	四	interview	n&v	高
+naive	naive	"naivety"	六
+vent	vent	""	六
+furnace	furnace	""	四
+haunt	haunt	""	四
+ditch	ditch	""	四
+scarf						scarf	n	高
+gasp	gasp	""	六
+scare	scare	"scary"	四	scare	v	高
+language	language	""	四	language	n	高
+do	do	""	四	do(did,done)	v	高
+thunder	thunder	"thunderous"	四	thunder	n&v	高
+observe	observe	"observation,observer,observant"	四	observe	v	高
+furnish	furnish	""	四
+Friday	Friday	""	四	Friday/Fri.		高
+garment	garment	""	四	garment	n	高
+rare	rare	"rarely,rarity"	四	rare	a	高
+exclude	exclude	"exclusion,exclusive"	四
+enlighten	enlighten	"enlightenment,enlightening"	四
+utmost	utmost	""	四
+deduct	deduct	"deduction,deductive,deductible"	六
+which	which	"whichever"	四	which	pron&a	高	whichever	pron	高
+image	image	"imaging"	四
+ribbon	ribbon	""	四
+portray	portray	"portrayal,portrait"	六
+scrub	scrub	""	六
+mainland	mainland	""	四	mainland	n	高
+fourteen	fourteen	""	四	fourteen		高
+downstairs	downstairs	""	四	downstairs	ad	高
+homogeneous	homogeneous	""	六
+profound	profound	""	四
+affirm	affirm	"affirmation,affirmative"	六
+marble	marble	""	六	marble	n	高
+never	never	""	四	never	ad	高
+knife	knife	""	四	knife(pl.knives)	n	高
+piece	piece	""	四	piece	n	高
+burst	burst	""	四	burst	v	高
+carry	carry	""	四	carry	v	高
+foe	foe	""	六
+elephant	elephant	""	四	elephant	n	高
+refrigerator	refrigerator/fridge	"refrigeration"	四	refrigerator	n	高
+necessity	necessity	"necessitate"	四
+fog	fog	"foggy"	四	fog	n	高	foggy	a	高
+frame	frame	""	四
+salon	salon	""	六
+venue	venue	""	六
+vocal	vocal	""	六
+origin	origin	"original,originality,originate"	四	origin	n	高
+for	for	""	四	for	prep&conj	高
+clash	clash	""	四
+overturn	overturn	""	六
+content	content1	""	四	content1	n	高
+fox	fox	""	四	fox	n	高
+precaution	precaution	"precautionary"	四
+burden	burden	""	四	burden	n	高
+plow	plow/plough	""	四
+clasp	clasp	""	六
+hover	hover	""	六
+random	random	""	六	random	a	高
+dine	dine	"diner"	四
+desktop	desktop	""	四
+perhaps	perhaps	""	四	perhaps	ad	高
+rate	rate	"rating"	四	rate	n&v	高
+sanction	sanction	""	六
+plot	plot	""	四	plot	v&n	高
+alert	alert	""	四
+deduce	deduce	"deducible"	六
+skill	skill	"skil(l)ful,skilled"	四	skill	n	高	skilful	a	高
+oak	oak	""	六
+trouble	trouble	"troublesome"	四	trouble	v&n	高	troublesome	a	高
+proverb	proverb	"proverbial"	四
+divide	divide	"division,divisive"	四	divide	v	高	division	n	高
+contrary	contrary	""	四	contrary	n&a	高
+class	class	""	四	class	n	高
+contend	contend	"contention,contentious"	四
+oar	oar	""	六
+rehearse	rehearse	"rehearsal"	六
+gamble	gamble	""	四
+pesticide	pesticide	""	六
+go	go	""	四	go(went,gone)	v	高
+deport	deport	"deportation"	六
+counter	counter	""	四	counter	n	高
+conserve	conserve	"conservation"	六	conservation	n	高
+layman	layman	""	六
+rhythm	rhythm	"rhythmic"	四
+tease	tease	""	六	tease	v	高
+rash	rash	""	六
+pottery	pottery	""	六
+dime	dime	""	四
+fork	fork	""	四	fork	n	高
+form	form	"formation"	四	form	n&v	高
+publish	publish	"publication"	四	publish	v	高
+cylinder	cylinder	""	六
+fort	fort	""	六
+gate	gate	""	四	gate	n	高
+renew	renew	"renewal,renewable"	四
+he	he	""	四	he	pron	高
+withdraw	withdraw	"withdrawal"	四	withdraw	v	高
+assign	assign	"assignment"	四
+straightforward	straightforward	""	四	straightforward	a&adv	高
+feather	feather	""	四	feather	n	高
+hi	hi	""	四	hi	int	高
+very	very	""	四	very	ad	高
+decade	decade	""	四	decade	n	高
+practice	practice/-ise	"practicable"	四	practice	n&v	高
+congress	congress	"congressional"	四
+divine	divine	""	六
+welfare	welfare	""	四	welfare	n	高
+flourish	flourish	""	四
+foul	foul	""	六
+intricate	intricate	"intricacy"	六
+astronaut	astronaut	""	四	astronaut	n	高
+agony	agony	""	六
+four	four	""	四	four		高
+else	else	""	四	else	ad	高
+contemplate	contemplate	"contemplation,contemplative"	六
+vessel	vessel	""	四
+context	context	"contextual"	四
+drag	drag	""	四	drag	v	高
+if	if	""	四	if	conj	高
+clamp	clamp	""	六
+bathroom	bathroom	""	四	bathroom	n	高
+likely						likely	a	高
+issue	issue	""	四
+well-off	well-off	""	四
+in	in	""	四	in	prep&ad	高
+human-being						human-being	n	高
+subsistence	subsistence	""	六
+metal	metal	"metallic"	四	metal	n&a	高
+verb	verb	"verbal"	四
+index	index	""	四
+is						is	v(be)	高
+it	it	""	四	it	pron	高
+fry	fry	""	四	fry	v	高
+somebody	somebody	""	四	somebody	pron	高
+odd	odd	"oddity"	四
+announce	announce	"announcement"	四	announce	v	高
+mechanize	mechanize/-ise	"mechanization/-sation"	四
+decree	decree	""	六
+lively	lively	""	四	lively	a	高
+supplement	supplement	"supplementary"	四
+contrast	contrast	""	四
+become	become	""	四	become(became,become)	v	高
+May	May	""	四	May/May		高
+mediate	mediate	"mediation,mediator"	六
+amplify	amplify	"amplification"	六
+whirl	whirl	""	六
+delegate	delegate	"delegation"	四
+recede	recede	""	六
+library	library	"librarian"	四	library	n	高	librarian	n	高
+sphere	sphere	"spherical"	四
+digest	digest	"digestion,digestive"	四	digest	v	高
+slump	slump	""	六
+peril	peril	"perilous"	四
+camera	camera	""	四	camera	n	高
+veto	veto	""	四
+belief	belief	""	四	belief	n	高
+delight	delight	"delightful"	四	delight	n	高
+proficient	proficient	"proficiency"	四
+vest	vest	""	六	vest	n	高
+draw	draw	"drawing"	四	draw(drew,drawn)	v	高
+lantern						lantern	n	高
+impromptu	impromptu	""	六
+off	off	""	四	off	prep&ad	高
+clearing	clearing	""	六
+knee	knee	""	四	knee	n	高
+disposition	disposition	""	六
+slender	slender	""	四
+oral	oral	""	四	oral	a	高
+complete	complete	"completion"	四	complete	a&v	高
+compensate	compensate	"compensation,compensatory"	四	compensate	v	高
+conscious	conscious	"consciousness"	四
+fun	fun	"funny"	四	fun	n&a	高	funny	a	高
+transaction	transaction	""	四
+fur	fur	""	四	fur	n	高
+pants	pants	""	四
+bribe	bribe	"bribery"	四
+smog	smog	"smoggy"	四	smog	n	高
+certify	certify	"certification"	六
+solitary	solitary	"solitude"	六
+while	while/whilst	""	四	while	conj&n	高
+second	second1	""	四	second	a&n	高
+that	that	""	四	that	pron,conj&ad	高
+edge	edge	""	四	edge	n	高
+skirt	skirt	""	四	skirt	n	高
+orchestra	orchestra	""	四
+marshal	marshal	""	四
+sufficient	sufficient	""	四
+than	than	""	四	than	conj	高
+limit	limit	"limitation,limited"	四	limit	v	高
+me	me	""	四	me	pron	高
+relentless	relentless	""	六
+claim	claim	""	四
+widespread	widespread	""	四	widespread	a	高
+antique	antique	""	四	antique	n	高
+chronic	chronic	"chronically"	六
+fasten	fasten	""	四	fasten	v	高
+toxic	toxic	""	六
+contest	contest	"contestant"	四
+turmoil	turmoil	""	六
+meter	meter/-tre	"metric"	四	meter/metre	n	高
+hurdle	hurdle	""	六
+clench	clench	""	六
+author	author	""	四	author	n	高
+dirt	dirt	"dirty"	四	dirty	a	高
+greenhouse	greenhouse	""	四
+TRUE						TRUE	a	高
+my	my	""	四	my	pron	高
+plus	plus	""	四	plus	v&prep	高
+wrench	wrench	""	六
+license	license/-ce	""	四	license	n	高
+coat	coat	""	四	coat	n	高
+disk	disk/disc	""	四	disk/disc	n	高
+expand	expand	"expansion,expansive"	四	expand	v	高
+headquarters	headquarters	""	四
+dish	dish	""	四	dish	n	高
+fiscal	fiscal	""	六
+dream	dream	"dreamy"	四	dream(dreamt,dreamt或-ed,-ed)	n&v	高
+gaze	gaze	""	四
+essay	essay	"essayist"	四	essay	n	高
+magistrate	magistrate	""	六
+noble	noble	"nobility"	四	noble	a	高
+survey	survey	""	四
+retrieve	retrieve	"retrieval"	六
+coal	coal	""	四	coal	n	高
+malice	malice	"malicious"	六
+plug	plug	""	四	plug	n	高
+thermometer	thermometer	""	四
+postpone	postpone	"postponement"	四	postpone	v	高
+heat	heat	"heated,heating"	四	heat	n	高
+bride	bride	""	四	bride	n	高
+no	no	""	四	no	ad&a	高
+legacy	legacy	""	六
+code	code	""	四
+displace	displace	"displacement"	六
+hammer	hammer	""	四	hammer	n	高
+student	student	""	四	student	n	高
+ideology	ideology	"ideological"	六
+seal	seal	""	四	seal	n	高
+underdeveloped	underdeveloped	""	四
+investigate	investigate	"investigation,investigator"	四
+storage						storage	n	高
+illusion	illusion	"illusory"	四
+head	head	""	四	head	n&v	高
+dialog	dialog(ue)	""	四	dialog/dialogue	n	高
+considerable	considerable	""	四
+oil	oil	"oily"	四	oil	n&v	高
+of	of	""	四	of	prep	高
+heal	heal	""	四
+reserve	reserve	"reservation,reserved"	四	reserve	n&v	高	reservation	n	高
+playground	playground	""	四	playground	n	高
+oh						oh	int	高
+somehow	somehow	""	四	somehow	ad	高
+dive	dive	""	四	dive	v	高
+brick	brick	""	四	brick	n	高
+heap	heap	""	四
+sympathy	sympathy	"sympathetic,sympathize/-ise"	四	sympathy	n	高
+fight	fight	""	四	fight(fought,fought)	n&v	高
+hear	hear	"hearing"	四	hear(heard,heard)	v	高	hearing	n	高
+rescue	rescue	""	四	rescue	v	高
+roundabout						roundabout	a&n	高
+on	on	""	四	on	prep&ad	高
+brief	brief	"briefing"	四	brief	a	高
+keyboard	keyboard	""	四	keyboard	n	高
+pretty	pretty	""	四	pretty	a	高
+recover	recover	"recovery"	四	recover	v	高
+or	or	""	四	or	conj	高
+determine	determine	"determination,determined"	四	determine	v	高
+multilateral	multilateral	""	六
+devastate	devastate	"devastating,devastation"	六
+embark	embark	""	六
+ox	ox	""	四	ox(pl.oxen)	n	高
+cousin	cousin	""	四	cousin	n	高
+confer	confer	""	六
+intelligent	intelligent	"intelligence"	四	intelligence	n	高
+friction	friction	""	六	friction	n	高
+walnut						walnut	n	高
+equip	equip	"equipment"	四	equip	v	高	equipment	n	高
+manuscript	manuscript	""	六
+maple						maple	n	高
+luxury	luxury	"luxurious"	四
+cock	cock	""	四
+knit	knit	""	四
+salad	salad	""	四	salad	n	高
+wholesome	wholesome	""	六
+nation	nation	"national,nationality,nationalist,nationalism"	四	nation	n	高	nationality	n	高
+rocket	rocket	""	四	rocket	n	高
+splendid	splendid	"splendo(u)r"	四	splendid	a	高
+discipline	discipline	"disciplined,disciplinary"	四
+freeze	freeze	""	四	freeze(froze,frozen)	v	高
+province	province	"provincial"	四	province	n	高
+clever	clever	""	四	clever	a	高
+estimate	estimate	"estimation"	四
+drip	drip	""	四
+diploma	diploma	""	四	diploma	n	高
+January	January	""	四	January/Jan.		高
+recent	recent	"recently"	四	recent	a	高
+brand	brand	""	四	brand	n	高
+they	they	""	四	they	pron	高
+choke	choke	""	四	choke	n&v	高
+inevitable	inevitable	""	四
+edit	edit	"editor,edition"	四	edition	n	高
+old	old	""	四	old	a	高
+recreation	recreation	"recreational"	四	recreation	n	高
+skyscraper	skyscraper	""	四	skyscraper	n	高
+them	them	""	四	them	pron	高
+allowance	allowance	""	四	allowance	n	高
+then	then	""	四	then	ad	高
+ancient	ancient	""	四	ancient	a	高
+seat	seat	""	四	seat	n	高
+squirrel						squirrel	n	高
+cognitive	cognitive	"cognition"	六
+wander	wander	""	四	wander	v	高
+attorney	attorney	""	四
+adopt	adopt	"adoption"	四	adopt	v	高
+expire	expire	"expiration"	六
+twelve	twelve	"twelfth"	四	twelve		高	twelfth		高
+oppose	oppose	"opposition,opponent"	四	oppose	v	高
+singular	singular	"singularity"	四
+bridge	bridge	""	四	bridge	n	高
+device	device	""	四
+minus	minus	""	四	minus	prep&a	高
+conservative	conservative	""	四	conservative	a	高
+belly						belly	n	高
+conference	conference	""	四	conference	n	高
+knob	knob	""	六
+seed	seed	"seedling"	四	seed	n	高
+seashell						seashell	n	高
+yoga	yoga	""	四
+cabin	cabin	""	四
+seek	seek	""	四	seek	v	高
+eighteenth						eighteenth		高
+seem	seem	"seeming,seemingly"	四	seem	v	高
+oppress	oppress	"oppression,oppressive"	六
+heel	heel	""	四	heel	n	高
+disturb	disturb	"disturbance"	四	disturb	v	高
+adore	adore	"adorable"	六	adore	v	高
+lecture	lecture	"lecturer"	四	lecture	n	高
+persist	persist	"persistent,persistence"	四
+so	so	""	四	so	ad&conj	高
+pump	pump	""	四	pump	v	高
+unemployed	unemployed	"unemployment"	四	unemployment	n	高
+caution	caution	"cautious"	四	caution	n	高	cautious	a	高
+email	email	""	四
+pierce	pierce	""	四
+teenager	teenager	""	四	teenager	n	高
+apart	apart	""	四	apart	ad&a	高
+calendar	calendar	""	四
+dumpling						dumpling	n	高
+necessary	necessary	"necessarily"	四	necessary	a	高
+one	one	""	四	one	pron	高
+garage	garage	""	四	garage	n	高
+speculate	speculate	"speculation,speculative"	四
+closet	closet	""	六
+badminton	badminton	""	四	badminton	n	高
+dismantle	dismantle	""	六
+flower	flower	""	四	flower	n	高
+monster	monster	"monstrous"	四
+single	single	""	四	single	a	高
+pull	pull	""	四	pull	v&n	高
+cement	cement	""	四
+subway	subway	""	四
+teamwork						teamwork	n	高
+elastic	elastic	"elasticity"	六
+acquaint	acquaint	"acquaintance"	四	acquaintance	n	高
+assist	assist	"assistance,assistant"	四	assist	v	高	assistant	n	高
+to	to	""	四	to	prep	高
+undergraduate	undergraduate	""	四
+makeup	makeup	""	四
+antibiotic	antibiotic	""	六
+country	country	""	四	country	n	高
+joint	joint	""	四
+carton	carton	""	六
+separate	separate	"separation,separatist"	四	separate	v&a	高	separation	n	高
+aide	aide	""	六
+stammer	stammer	""	六
+urine	urine	"urinate"	六
+innumerable	innumerable	""	六
+elicit	elicit	""	六
+smoker						smoker	n	高
+trivial	trivial	""	六
+postcard	postcard	""	四	postcard	n	高
+lick	lick	""	四
+eightieth						eightieth		高
+longevity	longevity	""	六
+military	military	""	四
+wardrobe	wardrobe	""	六
+up	up	""	四	up	ad,a,n&prep	高
+reluctant	reluctant	"reluctance"	四
+conscientious	conscientious	""	四
+fifteenth						fifteenth		高
+us	us	""	四	us	pron	高
+coil	coil	""	四
+ensure	ensure	""	四
+usual	usual	"usually"	四	usual	a	高
+organism	organism	""	四
+epidemic	epidemic	""	六
+this	this	""	四	this	a&pron	高
+retarded	retarded	""	六
+suppose	suppose	"supposition,supposedly"	四	suppose	v	高
+upright	upright	""	四
+thin	thin	""	四	thin	a	高
+flavor	flavo(u)r	""	四
+brake	brake	""	四	brake	n&v	高
+opt	opt	"option,optional"	四	optional	a	高
+chancellor	chancellor	""	六
+extract	extract	"extraction"	六
+obscure	obscure	"obscurity"	六
+outspoken						outspoken	a	高
+forge	forge	"forgery"	四
+solve	solve	"solution,solvent,soluble"	四
+quake	quake	""	四	quake	n&v	高
+know	know	"knowledge,knowledgeable"	四	know(knew,known)	v	高	knowledge	n	高
+bolster	bolster	""	六
+knot	knot	"knotty"	四
+conspire	conspire	"conspiracy"	六
+Internet	Internet/internet	""	四	Internet	n	高
+region	region	"regional"	四
+support	support	"supportive,supporter"	四	support	v&n	高
+deceive	deceive	"deceit,deception,deceptive"	四
+coin	coin	"coinage"	四	coin	n	高
+drop	drop	""	四	drop	n&v	高
+preview	preview	""	四	preview	v	高
+euro	euro	""	四
+ingenious	ingenious	"ingenuity"	六
+saucer						saucer	n	高
+breakthrough	breakthrough	""	四	breakthrough	n	高
+snack	snack	""	四
+destination	destination	""	四	destination	n	高
+apron	apron	""	六	apron	n	高
+vertical	vertical	""	四	vertical	a	高
+reciprocal	reciprocal	""	六
+cold	cold	""	四	cold	a&n	高
+pure	pure	"purity,purify"	四	pure	a	高
+curfew	curfew	""	六
+damp	damp	"dampen"	四	damp	a&n	高
+life	life	""	四	life(pl.lives)	n	高
+we	we	""	四	we	pron	高
+honey	honey	""	四	honey	n	高
+heir	heir	"heiress"	四
+gap	gap	""	四
+screw	screw	""	四
+gas	gas	""	四	gas	n	高
+settler						settler	n	高
+overweight						overweight	a	高
+gay	gay	""	四	gay	a	高
+slight	slight	"slightly"	四	slight	a	高
+ore	ore	""	四
+airmail						airmail	n	高
+wide	wide	"width,widen"	四	wide	a	高
+previous	previous	""	四	previous	a	高
+regime	regime	""	六
+teach	teach	"teacher,teaching"	四	teach(taught,taught)	v	高	teacher	n	高
+coke						coke	n	高
+argue	argue	"argument,argumentation,argumentative,arguable"	四	argue	v	高	argument	n	高
+damn	damn	""	四
+superior	superior	"superiority"	四	superior	a&n	高
+premature	premature	""	六
+succeed	succeed	"successor,succession,successive"	四	succeed	v	高
+choir	choir	""	六	choir	n	高
+bankrupt	bankrupt	"bankruptcy"	四
+accessory	accessory	""	六
+jetlag	jetlag	""	四
+retort	retort	""	六
+antenna	antenna	""	六
+ecosystem	ecosystem	""	六
+software	software	""	四	software	n	高
+seminar	seminar	""	四	seminar	n	高
+Mr.						Mr.(mister)	n	高
+dragon	dragon	""	四
+none	none	""	四	none	pron	高
+type	type	"typist"	四	type	v	高	typist	n	高
+hell	hell	""	四
+beyond	beyond	""	四	beyond	prep	高
+pupil	pupil	""	四	pupil	n	高
+ninetieth						ninetieth		高
+problem	problem	"problematic"	四	problem	n	高
+hazard	hazard	"hazardous"	四
+militant	militant	"militancy"	六
+proof	proof	""	四
+asleep	asleep	""	四	asleep	a	高
+dilute	dilute	"dilution"	六
+phase	phase	""	四
+surrounding						surrounding	a	高
+convoy	convoy	""	六
+method	method	"methodical,methodology"	四	method	n	高
+wife	wife	""	四	wife	n	高
+contract	contract1	"contractor"	四
+conclude	conclude	"conclusion,conclusive"	四	conclude	v	高	conclusion	n	高
+Ms.						Ms.	n	高
+misfortune	misfortune	""	四
+come	come	""	四	come(came,come)	v	高
+leather	leather	""	四	leather	n	高
+susceptible	susceptible	""	六
+push	push	"pushy"	四	push	n&v	高
+comb	comb	""	四	comb	n&v	高
+exist	exist	"existence,existent,existing"	四	exist	v	高	existence	n	高
+insight	insight	"insightful"	四
+fabric	fabric	""	四
+exact	exact	""	四	exact	a	高
+lift	lift	""	四	lift	v&n	高
+indoor	indoor	"indoors"	四
+nationwide	nationwide	""	四	nationwide	ad	高
+force	force	"forceful"	四	force	v	高
+centigrade	centigrade	""	四	centigrade	a	高
+south	south	"southern"	四	south	a,ad&n	高	southern	a	高
+north	north	"northern"	四	north	a,ad&n	高	northern	a	高
+our	our	""	四	our	pron	高
+tyre	tyre/tire	""	四
+cope	cope	""	四
+out	out	""	四	out	ad	高
+capacity	capacity	""	四
+confess	confess	"confession"	四
+dart	dart	""	六
+ghost	ghost	""	四
+transcript	transcript	""	四
+noon	noon	""	四	noon	n	高
+saturate	saturate	"saturation"	六
+counterfeit	counterfeit	""	六
+get	get	""	四	get(got,got)	v	高
+dark	dark	"darkness,darken"	四	dark	a&n	高	darkness	n	高
+course	course	""	四	course	n	高
+waterproof	waterproof	""	四
+copy	copy	""	四	copy	n&v	高
+power	power	"powerful"	四	power	n	高	powerful	a	高
+precise	precise	"precision,precisely"	四	precise	a	高
+barber	barber	""	四	barber	n	高
+dare	dare	"daring"	四	dare	v&modal-v	高
+precious	precious	""	四	precious	a	高
+thousandth						thousandth		高
+cook	cook	"cooker"	四	cook	n&v	高	cooker	n	高
+cool	cool	""	四	cool	a	高
+sell	sell	""	四	sell(sold,sold)	v	高
+suspect	suspect	""	四	suspect	v&n	高
+brain	brain	""	四	brain	n	高
+abide	abide	""	六
+contrive	contrive	""	六
+help	help	"helpful,helpless,helplessly"	四	help	n&v	高	helpful	a	高
+depth	depth	""	四	depth	n	高
+seaside						seaside	n	高
+mingle	mingle	""	六
+superstition	superstition	"superstitious"	六
+self	self	"selfish,selfless"	四	self	n	高	selfish	a	高
+edible	edible	""	六
+prone	prone	""	六
+chorus	chorus	""	四	chorus	n	高
+exposition	exposition	""	六
+owe	owe	"owing-to"	四	owe	v	高
+asset	asset	""	四
+fortieth						fortieth		高
+minimum	minimum	"minimal,minimize/-ise"	四	minimum	a	高
+date	date1	"dating"	四	date	n&v	高
+magic	magic	"magical"	四	magic	a	高
+dress	dress	""	四	dress	n&v	高
+snail	snail	""	六
+panda	panda	""	四	panda	n	高
+reveal	reveal	"revelation"	四
+data	data	"datum"	四	data	n	高
+depot	depot	""	六
+owl	owl	""	六
+corn	corn	""	四	corn	n	高
+onion	onion	""	四	onion	n	高
+sound	sound1	""	四	sound	v&n	高
+own	own	"owner,ownership"	四	own	a&v	高	ownership	n	高
+harbor	harbo(u)r	""	四	harbor/harbour	n	高
+drum	drum	""	四	drum	n	高
+hospitable	hospitable	"hospitality"	四
+vibrate	vibrate	"vibration"	六
+cork	cork	""	六
+blog	blog	""	四
+translate	translate	"translation,translator"	四	translate	v	高	translator	n	高
+drug	drug	""	四	drug	n	高
+norm	norm	""	四
+impetus	impetus	""	六
+realistic	realistic	"realism"	四
+barrier	barrier	""	四	barrier	n	高
+partisan	partisan	""	六
+create	create	"creation,creative,creator"	四	create	v	高
+massage	massage	""	四
+blow	blow	""	四	blow(blew,blown)	v	高
+table-tennis						table-tennis	n	高
+curious	curious	"curiosity"	四	curious	a	高
+like	like1	""	四	like	v&prep	高
+resource	resource	"resourceful"	四
+nuisance	nuisance	""	四
+brace	brace	""	六
+earthquake	earthquake	""	四	earthquake	n	高
+brisk	brisk	""	六
+delude	delude	"delusion"	六
+prestige	prestige	"prestigious"	六
+nightmare	nightmare	""	四
+cord	cord	""	四
+startle	startle	""	四
+bloc	bloc	""	六
+core	core	""	四
+midwife	midwife	""	六
+council	council	"council(l)or"	四
+fraud	fraud	"fraudulent"	六
+boxing	boxing	""	四	boxing	n	高
+embassy	embassy	""	四	embassy	n	高
+ground	ground	""	四	ground	n	高
+rectangle						rectangle	n&a	高
+dash	dash	""	四	dash	v&n	高
+sprawl	sprawl	""	六
+send	send	""	四	send(sent,sent)	v	高
+concrete	concrete	""	四	concrete	a	高
+here	here	""	四	here	ad	高
+note	note	"notation,notable"	四	note	n&v	高
+everybody	everybody	""	四	everybody	pron	高
+cauliflower	cauliflower	""	六
+shrimp	shrimp	""	四
+purpose	purpose	"purposeful"	四	purpose	n	高
+regret	regret	"regrettable,regretful"	四	regret	n&v	高
+line	line	"linear"	四	line	n&v	高
+penalty	penalty	"penalize/-ise"	四
+exile	exile	""	四
+link	link	"linkage"	四	link	v&n	高
+snake	snake	""	四	snake	n	高
+vegetation	vegetation	""	六
+scale	scale	""	四
+hero	hero/heroine	"heroic,heroism"	四	hero	n	高
+hers	hers	""	四	hers	pron	高
+quart	quart	""	六
+limp	limp	""	六
+organize	organize/-ise	"organization/-sation,organizational/-sational"	四	organize/organise	v	高	organization/organisation	n	高
+buck	buck	""	四
+iceberg	iceberg	""	六
+station	station	"stationary"	四	station	n	高
+feeble	feeble	""	六
+herb	herb	"herbal"	六	herb	n	高
+herd	herd	""	四
+limb	limb	""	四
+prose	prose	""	四
+nose	nose	"nosy"	四	nose	n	高
+factory	factory	""	四	factory	n	高
+cost	cost	"costly"	四	cost	n&v	高
+refreshment	refreshment	""	四
+will	will	"willing,willingness"	四	will1	n	高	willing	a	高
+confidence	confidence	"confident,confidential"	四	confidential	a	高
+lime	lime	""	六
+smoke	smoke	"smoky"	四	smoke	n&v	高
+cuisine	cuisine	""	六	cuisine	n	高
+arbitrary	arbitrary	"arbitrarily"	四	arbitrary	a	高
+follow	follow	"following"	四	follow	v	高
+African						African	a&n	高
+o’clock						o’clock	n	高
+loophole	loophole	""	四
+interrogate	interrogate	"interrogation"	六
+oath	oath	""	六
+treaty	treaty	""	四
+lily	lily	""	四
+dignity	dignity	"dignify"	四	dignity	n	高
+ounce	ounce	""	四
+challenge	challenge	"challenging"	四	challenge	n	高	challenging	a	高
+emit	emit	"emission"	四
+intend	intend	"intention,intent,intentional"	四	intend	v	高	intention	n	高
+wild	wild	""	四	wild	a	高
+snap	snap	""	六
+govern	govern	"government,governor"	四	govern	v	高	government	n	高
+numerous	numerous	""	四
+analyse						analyse	v	高
+resemble	resemble	"resemblance"	四	resemble	v	高
+your	your	""	四	your	pron	高
+remote	remote	""	四	remote	a	高
+cafeteria	cafeteria	""	四	cafeteria	n	高
+without	without	""	四	without	prep	高
+youth	youth	"youthful"	四	youth	n	高
+kettle	kettle	""	四	kettle	n	高
+these	these	""	四	these	a&pron	高
+virgin	virgin	"virginity"	六
+fluctuate	fluctuate	"fluctuation"	四
+compartment	compartment	""	六
+kidnap	kidnap	""	六
+calculate	calculate	"calculation,calculator,calculating"	四	calculate	v	高
+prison	prison	"prisoner"	四	prison	n	高	prisoner	n	高
+authorize	authorize/-ise	"authorization/-sation"	四
+sister	sister	""	四	sister	n	高
+trauma	trauma	"traumatic"	六
+audience	audience	""	四	audience	n	高
+thus	thus	""	四	thus	ad	高
+barracks	barracks	""	六
+possess	possess	"possession,possessive"	四	possess	v	高	possession	n	高
+coup	coup(d'état)	""	六
+noun	noun	""	四
+neutral	neutral	"neutrality,neutralize/-ise"	四
+devise	devise	""	四
+lion	lion	"lioness"	四	lion	n	高
+journalism	journalism	"journalist"	四	journalist	n	高
+apparent	apparent	"apparently"	四	apparent	a	高
+evacuate	evacuate	"evacuation"	六
+clutch	clutch	""	六
+wink	wink	""	六
+grope	grope	""	六
+dawn	dawn	""	四	dawn	n	高
+wing	wing	""	四	wing	n	高
+wine	wine	"winery"	四	wine	n	高
+much	much	""	四	much	a&ad	高
+wind	wind1	"windy"	四	wind1	n	高	windy	a	高
+humble	humble	"humbly"	四
+commodity	commodity	""	四
+chapter	chapter	""	四	chapter	n	高
+poise	poise	"poised"	六
+independent	independent	"independence"	四	independent	a	高	independence	n	高
+carriage	carriage	""	四	carriage	n	高
+anybody	anybody/=anyone	""	四	anybody	pron	高
+ahead	ahead	""	四	ahead	ad	高
+achieve	achieve	"achievement"	四	achieve	v	高	achievement	n	高
+yellow	yellow	""	四	yellow	a&n	高
+blur	blur	""	四
+plausible	plausible	""	六
+equator	equator	""	六
+headline	headline	""	四	headline	n	高
+editorial	editorial	""	四
+committee	committee	""	四	committee	n	高
+namely	namely	""	四
+union	union	""	四	union	n	高
+wipe	wipe	""	四	wipe	v	高
+freshman	freshman	""	四
+subtle	subtle	"subtlety"	六
+component	component	""	四	component	n	高
+photograph						photograph	n	高
+suite	suite	""	六	suite	n	高
+overwhelm	overwhelm	"overwhelming,overwhelmingly"	四
+blue	blue	""	四	blue	n&a	高
+unprecedented	unprecedented	""	六
+arch	arch	""	六	arch	n	高
+disguise	disguise	""	四
+facet	facet	""	六
+imperial	imperial	"imperialism,imperialist"	四
+god	god	""	四	god	n	高
+wrap	wrap	"wrapping"	四
+yours	yours	""	四	yours	pron	高
+novel	novel1	"novelist"	四	novel	n	高	novelist	n	高
+discuss	discuss	"discussion"	四	discuss	v	高	discussion	n	高
+liberal	liberal	""	四
+standard	standard	"standardize/-ise,standardization/-sation"	四	standard	n&a	高
+harmony	harmony	"harmonious"	四	harmony	n	高
+correct	correct	"correction,corrective"	四	correct	v&a	高	correction	n	高
+cozy	cozy/-sy	""	六	cozy/cosy	a	高
+chill	chill	"chilly"	四
+reunite	reunite	"reunification,reunion"	四
+dominate	dominate	"domination,dominance,dominant"	四
+imitate	imitate	"imitation,imitative"	四
+deadly	deadly	""	四
+wish	wish	""	四	wish	n&v	高
+compute	compute	"computer,computerize/-ise,computation"	四	computer	n	高
+institution	institution	"institutional"	四	institution	n	高
+pad	pad	""	四
+wise	wise	"wisdom"	四	wise	a	高	wisdom	n	高
+ambition	ambition	"ambitious"	四	ambition	n	高
+exceed	exceed	"exceedingly"	四
+enlarge	enlarge	""	四	enlarge	v	高
+pan	pan	""	四	pan	n	高
+avert	avert	"aversion"	六
+Christ	Christ	"Christmas,Christian,Christianity"	四	Christian	n	高
+area	area	""	四	area	n	高
+murder	murder	"murderous"	四	murder	v	高
+monarchy	monarchy	"monarch"	六
+pat	pat	""	四
+horsepower	horsepower	""	四
+vicious	vicious	""	六
+lace	lace	""	四
+paw	paw	""	四
+proximate	proximate	"proximity"	六
+pay	pay	"payment"	四	pay(paid,paid)	v&n	高
+enormous	enormous	""	四
+list	list	""	四	list	n&v	高
+European						European	a&n	高
+strange	strange	"stranger"	四	strange	a	高	stranger	n	高
+lack	lack	""	四	lack	n&v	高
+toast	toast	""	四	toast	v&n	高
+external	external	""	四
+wire	wire	"wireless"	四	wire	n	高
+circumstance	circumstance	""	四	circumstance	n	高
+success	success	"successful"	四	success	n	高	successful	a	高
+treasury	treasury	"treasurer"	六
+revise	revise	"revision"	四	revision	n	高
+brunch	brunch	""	四	brunch	n	高
+authority	authority	"authoritative"	四	authority	n	高
+creature	creature	""	四	creature	n	高
+child	child	"childish"	四	child(pl.children)	n	高
+outgoing	outgoing	""	四	outgoing	a	高
+young	young	""	四	young	a	高
+avenge	avenge	""	六
+instrument	instrument	"instrumental"	四	instrument	n	高
+medium	medium	"media"	四	medium	n	高	media	n	高
+gasoline	gasoline/petrol	""	四
+lenient	lenient	"leniency"	六
+remove	remove	"removal"	四	remove	v	高
+fatal	fatal	"fatality"	四
+pear	pear	""	四	pear	n	高
+psychology	psychology	"psychological,psychologist"	四	psychology	n	高
+wrestle	wrestle	"wrestling"	六	wrestle	v	高
+treasure	treasure	""	四	treasure	n	高
+ridge	ridge	""	六
+airline	airline	""	四	airline	n	高
+live	live1	"living"	四	live	v&a	高
+victory	victory	"victorious"	四	victory	n	高
+mobile	mobile	""	四	mobile	a	高
+perform	perform	"performance,performer"	四	perform	v	高	performer	n	高
+lucrative	lucrative	""	六
+peak	peak	""	四
+halfway	halfway	""	四
+with	with	""	四	with	prep	高
+acupuncture	acupuncture	""	六
+china	china	""	四
+there	there	""	四	there	int,n&ad	高
+coffee	coffee	""	四	coffee	n	高
+lady	lady	""	四	lady	n	高
+magazine	magazine	""	四	magazine	n	高
+inject	inject	"injection"	六
+hectic	hectic	""	六
+pocket	pocket	""	四	pocket	n	高
+freeway	freeway	""	四	freeway	n	高
+channel	channel	""	四	channel	n	高
+focus	focus	""	四	focus	v&n	高
+invisible	invisible	""	四
+hamper	hamper	""	六
+entire	entire	"entirety"	四	entire	a	高
+wrist	wrist	""	四	wrist	n	高
+pea	pea	""	四	pea	n	高
+motel	motel	""	四
+approach	approach	""	四	approach	n&v	高
+ultra	ultra	""	六
+mule	mule	""	四
+peg	peg	""	六
+shopkeeper						shopkeeper	n	高
+concise	concise	""	六
+camel	camel	""	四	camel	n	高
+thesis	thesis	""	四
+pen	pen	""	四	pen	n	高
+bump	bump	""	四
+e-mail						e-mail	n&v	高
+revive	revive	"revival"	六
+kilogram	kilogram(me)/kilo	""	四	kilogram	n	高
+per	per	""	四	per	prep	高
+write	write	"writer,writing"	四	write(wrote,written)	v	高
+pet	pet	""	四	pet	n	高
+wage	wage	""	四	wage	n	高
+fiber	fiber/-bre	""	四	fiber/fibre	n	高
+period	period	"periodic,periodical"	四	period	n	高
+proceed	proceed	"proceedings"	四
+corporation	corporation	"corporate"	四	corporation	n	高
+bulb	bulb	""	四
+understand	understand	"understanding"	四	understand(understood,understood)	v	高
+dismiss	dismiss	"dismissal"	四	dismiss	v	高
+peck	peck	""	六
+birth	birth	""	四	birth	n	高
+classroom	classroom	""	四	classroom	n	高
+picnic	picnic	""	四	picnic	n&v	高
+heaven	heaven	""	四	heaven	n	高
+ever	ever	""	四	ever	ad	高
+million	million	"millionaire"	四	million		高	millionaire	n	高
+even	even	"evenly"	四	even	ad	高
+analyze	analyze/-yse	"analysis,analytic(al),analyst"	四	analysis	n	高
+volleyball	volleyball	""	四	volleyball	n	高
+bulk	bulk	"bulky"	四
+despair	despair	"desperate"	四	desperate	a	高
+bull	bull	""	四
+gum	gum	""	四
+champion	champion	"championship"	四	champion	n	高
+ceramic	ceramic	""	六
+gun	gun	""	四	gun	n	高
+hundred	hundred	""	四	hundred		高
+wait	wait	"waiter/waitress"	四	wait	v	高	waiter	n	高
+blackmail	blackmail	""	六
+circuit	circuit	""	四	circuit	n	高
+queen	queen	""	四	queen	n	高
+gut	gut	""	四
+magnificent	magnificent	"magnificence"	四
+irregular	irregular	""	四
+guy	guy	""	四
+restrict	restrict	"restriction,restrictive"	四	restriction	n	高
+instant	instant	"instantaneous"	四	instant	a	高
+peep	peep	""	六
+legislate	legislate	"legislation,legislative,legislator"	四
+native	native	""	四	native	a	高
+imprison	imprison	"imprisonment"	六
+peer	peer	""	四
+snob	snob	"snobbish"	六
+persecute	persecute	"persecution"	六
+imperative	imperative	""	六
+hitherto	hitherto	""	六
+handkerchief						handkerchief	n	高
+accordingly	accordingly	""	四
+consequence	consequence	"consequent,consequently"	四	consequence	n	高
+robust	robust	""	六
+heading	heading	""	四
+peel	peel	""	六
+denounce	denounce	"denunciation"	六
+verge	verge	""	六
+pastry	pastry	""	六
+framework	framework	""	四	framework	n	高
+irrespective	irrespective	""	六
+entity	entity	""	六
+chronicle	chronicle	""	六
+tide	tide	"tidal"	四
+tonight	tonight	""	四	tonight	ad&n	高
+prohibit	prohibit	"prohibition,prohibitive"	四	prohibit	v	高
+franchise	franchise	""	六
+expressway	expressway	""	四
+bacteria	bacteria	""	四
+steward	steward(ess)	""	六	steward	n	高
+arrow	arrow	""	四	arrow	n	高
+almost	almost	""	四	almost	ad	高
+reign	reign	""	六
+tempo	tempo	""	六
+deadlock	deadlock	""	六
+manner	manner	""	四	manner	n	高
+foresee	foresee	"foreseeable"	四	foresee(foresaw,foreseen)	v	高
+pie	pie	""	四	pie	n	高
+associate	associate	"association"	四	associate	v	高	association	n	高
+pig	pig	""	四	pig	n	高
+kidney	kidney	""	六
+gleam	gleam	""	六
+wake	wake	"waken"	四	wake(woke,woken)	v	高
+pin	pin	""	四	pin	n&v	高
+charity	charity	"charitable"	四
+whether	whether	""	四	whether	conj	高
+stationery	stationery	""	六
+pit	pit	""	四
+mineral						mineral	n	高
+sneak	sneak	""	六
+stock	stock	""	四
+suspend	suspend	"suspension,suspense"	四	suspension	n	高
+terror	terror	"terrify,terrorism,terrorist"	四	terror	n	高	terrify	v	高
+beneath	beneath	""	四	beneath	prep	高
+heroin	heroin	""	六
+void	void	""	六
+everyone	everyone	""	四	everyone	pron	高
+swap	swap	""	六	swap	v	高
+surge	surge	""	四
+ritual	ritual	""	六
+dispense	dispense	""	六
+tertiary	tertiary	""	六
+sway	sway	""	四
+tick	tick	""	四	tick	v	高
+basin	basin	""	四	basin	n	高
+basis	basis	""	四	basis	n	高
+tutor	tutor	"tutorial"	四	tutor	n	高
+army	army	""	四	army	n	高
+quantify	quantify	"quantification"	四
+reconcile	reconcile	"reconciliation,reconciliatory"	六
+tempt	tempt	"temptation"	六
+ethic	ethic	"ethics"	四
+snow	snow	"snowy"	四	snow	n&v	高	snowy	a	高
+gym						gym/gymnasium	n	高
+evil	evil	""	四
+basic	basic	"basically"	四	basic	a	高
+lake	lake	""	四	lake	n	高
+twist	twist	""	四	twist	v&n	高
+forthcoming	forthcoming	""	四
+perplex	perplex	"perplexity"	六
+locate	locate	"location"	四
+unite	unite	"unity"	四	unite	v	高
+fruit	fruit	"fruitful"	四	fruit	n	高
+bush	bush	"bushy"	四	bush	n	高
+cause	cause	""	四	cause	n&v	高
+combat	combat	"combative"	四
+dioxide	dioxide	""	四	dioxide	n	高
+despise	despise	""	六
+indulge	indulge	"indulgence,indulgent"	六
+beetle	beetle	""	六
+pursue	pursue	"pursuit"	四
+vulgar	vulgar	""	六
+catastrophe	catastrophe	"catastrophic"	六	catastrophe	n	高
+convey	convey	"conveyance"	四	convey	v	高
+design	design	"designer"	四	design	v&n	高
+extra	extra	""	四	extra	a	高
+busy	busy	""	四	busy	a	高
+land	land	"landing"	四	land	n&v	高
+victim	victim	"victimize"	四	victim	n	高
+bust	bust	""	六
+skull	skull	""	六
+department	department	""	四	department(Dept.)	n	高
+hysterical	hysterical	"hysteria"	六
+contaminate	contaminate	"contamination"	四
+lane	lane	""	四
+allude	allude	"allusion"	六
+garlic	garlic	""	六	garlic	n	高
+burn	burn	""	四	burn(burnt,burnt或-ed,-ed)	v&n	高
+predator	predator	"predatory"	六
+countryside	countryside	""	四	countryside	n	高
+chief	chief	""	四	chief	a&n	高
+aircraft	aircraft	""	四	aircraft	n	高
+accord	accord	""	四
+forfeit	forfeit	""	六
+foremost	foremost	""	四
+lamp	lamp	""	四	lamp	n	高
+disintegrate	disintegrate	"disintegration"	四
+Antarctic						Antarctic	a	高
+despite	despite	""	四
+consecutive	consecutive	""	六
+merchandise	merchandise	""	六
+groan	groan	""	六
+encyclopedia	encyclop(a)edia	""	六
+conduct	conduct	"conductor"	四	conduct	v	高	conductor	n	高
+livelihood	livelihood	""	四
+obey	obey	"obedient,obedience"	四	obey	v	高
+bury	bury	"burial"	四	bury	v	高
+velvet	velvet	""	六
+lamb	lamb	""	四	lamb	n	高
+changeable						changeable	a	高
+tidy	tidy	""	四	tidy	a&v	高
+wall	wall	""	四	wall	n	高
+walk	walk	""	四	walk	n&v	高
+lame	lame	""	四	lame	a	高
+immigrate	immigrate	"immigration,immigrant"	四	immigration	n	高
+apparatus	apparatus	""	四
+marry	marry	"marriage,marital"	四	marry	v	高	marriage	n	高
+decay	decay	""	四
+fracture	fracture	""	六
+password	password	""	四
+oversight	oversight	""	四
+liberty	liberty	""	四	liberty	n	高
+recycle	recycle	"recyclable"	四	recycle	v	高
+meeting	meeting	""	四	meeting	n	高
+welcome	welcome	""	四	welcome	int,n,v&a	高
+apprentice	apprentice	""	六
+marsh	marsh	""	四
+drift	drift	""	四
+a.m.						a.m./am,A.M./AM	abbr	高
+mankind	mankind	""	四	mankind	n	高
+chaos	chaos	"chaotic"	四	chaos	n	高
+abundant	abundant	"abundance"	四	abundant	a	高
+want	want	""	四	want	v	高
+Africa						Africa	n	高
+schoolmate						schoolmate	n	高
+forecast	forecast	""	四	forecast	n&v	高
+mute	mute	""	六
+deteriorate	deteriorate	"deterioration"	四
+uncover	uncover	""	四
+warehouse	warehouse	""	四	warehouse	n	高
+recognize	recognize/-ise	"recognition"	四	recognize/recognize	v	高
+bamboo	bamboo	""	四	bamboo	n	高
+input	input	""	四
+induce	induce	"inducement"	四
+abnormal	abnormal	""	六	abnormal	a	高
+volt	volt	"voltage"	四
+shrewd	shrewd	""	六
+baffle	baffle	""	六
+must	must	""	四	must	modal-v	高
+molecule	molecule	"molecular"	六
+offend	offend	"offense/-ce,offensive,offender"	四
+memorandum	memorandum/memo	""	四
+reminiscent	reminiscent	"reminiscence"	六
+circle	circle	"circular"	四	circle	n&v	高
+resign	resign	"resignation"	四	resign	v	高
+butt	butt	""	六
+safeguard	safeguard	""	六
+bathe	bathe	""	四	bathe	v	高
+diligent	diligent	"diligence"	四
+sophisticated	sophisticated	"sophistication"	四
+sunrise	sunrise	""	四
+reside	reside	"residence,resident,residential"	四
+ware	ware	""	四
+ward	ward	""	四	ward	n	高
+aluminum	alumin(i)um	""	四	aluminum/aluminium	n	高
+hibernate	hibernate	"hibernation"	六
+scrutiny	scrutiny	"scrutinize/-ise"	六
+pol	pol	"pollster"	四
+prize	prize	""	四	prize	n	高
+chase	chase	""	四
+marine	marine	""	四
+accident	accident	"accidental"	四	accident	n	高
+anyway	anyway/=anyhow	""	四	anyway	ad	高
+pop	pop	""	四	pop/popular	a	高
+found	found	"founding,founder"	四	found	v	高
+routine	routine	""	四	routine	n	高
+excuse	excuse	""	四	excuse	n&v	高
+pot	pot	""	四	pot	n	高
+knight	knight	""	六
+dissertation	dissertation	""	六
+currency	currency	""	四	currency	n	高
+tariff	tariff	""	六
+canal	canal	""	四	canal	n	高
+escape	escape	""	四	escape	n&v	高
+enlist	enlist	""	六
+trillion	trillion	""	六
+convict	convict	"conviction"	六
+equate	equate	"equation"	六
+receive	receive	"receipt,recipient,receptive,receiver"	四	receive	v	高	receiver	n	高
+surplus	surplus	""	四	surplus	n	高
+binoculars	binoculars	""	六
+inhibit	inhibit	"inhibition"	六
+refresh	refresh	""	四	refresh	v	高
+intimate	intimate	"intimacy"	四
+theft	theft	""	四	theft	n	高
+No.						No./number	n	高
+disclose	disclose	"disclosure"	六
+entrust	entrust	""	六
+religion	religion	"religious"	四	religion	n	高	religious	a	高
+diagram	diagram	""	四	diagram	n	高
+yacht	yacht	""	六
+tragedy	tragedy	"tragic,tragically"	四
+charm	charm	"charming"	四
+oxide	oxide	""	六
+miniature	miniature	""	六
+chart	chart	""	四	chart	n	高
+evoke	evoke	""	六
+preface	preface	""	四
+till	till	""	四	till	conj&prep	高
+fridge						fridge/refrigerator	n	高
+attend	attend	"attendance,attendant"	四	attend	v	高
+antagonism	antagonism	"antagonist,antagonistic,antagonistically"	六
+goods	goods	""	四	goods	n	高
+tilt	tilt	""	六
+secure	secure	"security"	四	secure	a	高	security	n	高
+align	align	"alignment"	六
+P.C.						P.C./personal-computer	n	高
+disappointed						disappointed	a	高
+late	late	"later"	四	late	a&ad	高
+ham	ham	""	四	ham	n	高
+school	school	"schooling"	四	school	n	高
+continue	continue	"continuation,continual,continuous,continuity"	四	continue	v	高
+locomotive	locomotive	""	六
+tile	tile	""	六
+immense	immense	"immensely,immensity"	四
+hat	hat	""	四	hat	n	高
+avenue	avenue	""	四	avenue	n	高
+inherent	inherent	""	六
+realize	realize/-ise	"realization/-sation"	四	realize/realise	v	高
+brush	brush	""	四	brush	v&n	高
+hay	hay	""	四
+given	given	""	四
+accountable	accountable	"accountability"	四
+perish	perish	""	六
+definite	definite	"definitely"	四
+last	last	"lastly"	四	last	a&v	高
+marathon	marathon	""	四	marathon	n	高
+stipulate	stipulate	"stipulation"	六
+pastime	pastime	""	四
+wary	wary	""	四
+lass	lass	""	四
+adapt	adapt	"adaptation,adaptive"	四	adapt	v	高	adaptation	n	高
+wash	wash	"washing"	四	wash	v&n	高
+batch	batch	""	四
+uncomfortable						uncomfortable	a	高
+intrinsic	intrinsic	"intrinsically"	六
+warn	warn	"warning"	四	warn	v	高
+warm	warm	"warmth"	四	warm	a	高	warmth	n	高
+measure	measure	"measurement,measurable"	四	measure	v	高
+outskirts	outskirts	""	四
+luminous	luminous	""	六
+lash	lash	""	六
+chalk	chalk	""	四	chalk	n	高
+maritime	maritime	""	六
+rattle	rattle	""	六
+swim	swim	"swimming,swimmer"	四	swim(swam,swum)	v	高
+basement	basement	""	四	basement	n	高
+chant	chant	""	六	chant	v&n	高
+capsule	capsule	""	六	capsule	n	高
+P.E.						P.E./physical-education	n	高
+plural	plural	""	四
+commune	commune	"communist,communism"	四	communism	n	高
+impossible	impossible	"impossibility"	四	impossible	a	高
+effort	effort	""	四	effort	n	高
+video	video	""	四	video	n	高
+wave	wave	"wavy"	四	wave	n&v	高
+ozone	ozone	""	四
+anything	anything	""	四	anything	pron	高
+yesterday	yesterday	""	四	yesterday	n&ad	高
+agriculture	agriculture	"agricultural"	四	agriculture	n	高	agricultural	a	高
+weapon	weapon	""	四
+ecology	ecology	"ecological"	四	ecology	n	高
+cocktail	cocktail	""	六
+steady	steady	"steadily"	四	steady	a	高
+vote	vote	"voter"	四	vote	v	高
+early	early	""	四	early	a&ad	高
+enclose	enclose	"enclosure"	六
+disease	disease	""	四	disease	n	高
+Medicare	Medicare	""	四
+headmaster	headmaster	"headmistress"	四	headmaster	n	高	headmistress	n	高
+yes	yes	"yeah"	四	yes	ad	高
+notwithstanding	notwithstanding	""	六
+yet	yet	""	四	yet	ad	高
+volatile	volatile	"volatility"	六
+engineer	engineer	"engineering"	四	engineer	n	高
+endorse	endorse	"endorsement"	六
+genius	genius	""	四
+alike	alike	""	四	alike	ad	高
+clarity	clarity	"clarify,clarification"	四	clarify	v	高
+infrastructure	infrastructure	""	四
+typical	typical	""	四	typical	a	高
+embargo	embargo	""	六
+time	time	"timely,timing"	四	time	n&v	高
+pub	pub	""	四	pub	n	高
+watt	watt	""	六
+wither	wither	""	六
+buzz	buzz	""	六
+tray	tray	""	四
+shadow	shadow	""	四	shadow	n	高
+notorious	notorious	"notoriety"	六
+electoral	electoral	"electorate"	六
+happy	happy	"happiness,happily"	四	happy	a	高	happiness	n	高
+sickness						sickness	n	高
+hydrogen	hydrogen	""	四	hydrogen	n	高
+program	program(me)	""	四	program/programme	n	高
+infant	infant	""	四
+put	put	""	四	put(put,put)	v	高
+millimeter	millimeter/-tre	""	四	millimeter/millimetre	n	高
+hen	hen	""	四	hen	n	高
+artifact	artifact	""	六
+her	her	""	四	her	pron	高
+offence						offence	n	高
+carbon	carbon	""	四	carbon	n	高
+circus	circus	""	四	circus	n	高
+dinosaur	dinosaur	""	六	dinosaur	n	高
+trap	trap	""	四	trap	n&v	高
+tram	tram	""	四	tram	n	高
+deprive	deprive	"deprivation"	四
+struggle	struggle	""	四	struggle	v	高
+okay	okay	""	四
+pest	pest	""	六	pest	n	高
+pedal	pedal	""	六
+lesson	lesson	""	四	lesson	n	高
+heritage	heritage	""	四
+supreme	supreme	"supremacy"	四	supreme	a	高
+ambulance	ambulance	""	四	ambulance	n	高
+slope	slope	""	四
+philosophy	philosophy	"philosophical,philosopher"	四
+junior	junior	""	四	junior	a	高
+light	light1	"lighting"	四	light	n,v&a	高
+terrific	terrific	""	四
+passenger	passenger	""	四	passenger	n	高
+corporal	corporal	""	六
+tiny	tiny	""	四	tiny	a	高
+standpoint	standpoint	""	四
+deregulate	deregulate	"deregulation"	六
+worship	worship	""	四
+lawn	lawn	""	四
+pirate	pirate	"piracy"	四
+stubborn	stubborn	""	六	stubborn	a	高
+lazy	lazy	"laziness"	四	lazy	a	高
+formulate	formulate	"formulation"	四
+emigrate	emigrate	"emigration,emigrant"	六
+layer	layer	""	四
+smart	smart	""	四	smart	a	高
+triangle	triangle	"triangular"	四	triangle	n	高
+alien	alien	"alienate,alienation"	六
+linguistic	linguistic	"linguistics"	六
+sanitation	sanitation	"sanitary"	六
+elite	elite	""	四
+ornament	ornament	"ornamental"	四
+ivory	ivory	""	六
+helmet	helmet	""	六	helmet	n	高
+theme	theme	""	四	theme	n	高
+smash	smash	""	四
+tire	tire	"tired,tiring,tireless,tiresome"	四	tire	v	高	tiresome	a	高
+deficient	deficient	"deficiency"	四
+henceforth	henceforth	""	六
+barrel	barrel	""	四
+chain	chain	""	四	chain	n	高
+desire	desire	"desirable,desirability,desirous"	四	desire	v&n	高
+efficient	efficient	"efficiency"	四
+murmur	murmur	""	六
+chair	chair	""	四	chair	n	高
+unify	unify	"unification"	六
+consistent	consistent	"consistency"	四	consistent	a	高
+lately	lately	""	四
+reverse	reverse	"reversal,reversible"	四
+tennis	tennis	""	四	tennis	n	高
+barren	barren	""	六
+sword	sword	""	四	sword	n	高
+permanent	permanent	"permanence"	四	permanent	a	高
+chat	chat	""	四	chat	n&v	高
+foster	foster	""	六	foster	v	高
+garden	garden	"gardener,gardening"	四	garden	n	高
+travel	travel	""	四	travel	n&v	高
+choice	choice	""	四	choice	n	高
+facility	facility	"facilitate,facilitation"	四
+incidence	incidence	""	四
+small	small	""	四	small	a	高
+beam	beam	""	四
+beak	beak	""	六
+fiction	fiction	"fictional"	四	fiction	n	高
+before	before	""	四	before	prep,ad&conj	高
+cucumber	cucumber	""	四
+replace	replace	"replacement"	四	replace	v	高
+bead	bead	""	六
+stomach	stomach	""	四	stomach	n	高
+aviation	aviation	""	四
+emulate	emulate	"emulation"	六
+him	him	""	四	him	pron	高
+listen	listen	"listener"	四	listen	v	高
+hip	hip	""	四
+hit	hit	""	四	hit(hit,hit)	v&n	高
+trek	trek	""	六
+his	his	""	四	his	pron	高
+major	major	"majority"	四	major	a	高	majority	n	高
+emphasis	emphasis	"emphasize/-ise,emphatic"	四
+interrupt	interrupt	"interruption"	四	interrupt	v	高
+beat	beat	""	四	beat(beat,beaten)	v&n	高
+worldwide	worldwide	""	四	worldwide	a	高
+feasible	feasible	"feasibility"	四
+bear	bear	""	四	bear1	n	高
+consider	consider	"consideration,considering"	四	consider	v	高	consideration	n	高
+eighty	eighty	""	四	eighty		高
+flatter	flatter	"flattery"	六
+prescribe	prescribe	"prescription"	四	prescription	n	高
+proofread	proofread	""	六
+potential	potential	"potentiality"	四	potential	a	高
+bean	bean	""	四	bean	n	高
+group	group	""	四	group	n	高
+tack	tack	""	六
+lounge	lounge	""	六	lounge	n	高
+gross	gross	""	四
+workshop	workshop	""	四
+porch	porch	""	六
+rugby						rugby	n	高
+resist	resist	"resistance,resistant"	四	resist	v	高
+tact	tact	"tactful"	六
+tree	tree	""	四	tree	n	高
+archive	archive	""	六
+history	history	"historic,historical,historian"	四	history	n	高
+disarm	disarm	"disarmament"	六
+stimulate	stimulate	"stimulation,stimulus,stimulant"	四
+eclipse	eclipse	""	六
+square	square	""	四	square	n&a	高
+twice	twice	""	四	twice	ad	高
+soak	soak	""	四
+counteract	counteract	"counteraction"	六
+soar	soar	""	四
+commute	commute	"commuter"	四
+sustain	sustain	"sustainable,sustainability"	四
+soap	soap	""	四	soap	n	高
+request	request	""	四	request	n	高
+classify	classify	"classification,classified"	四	classify	v	高
+altitude	altitude	""	四	altitude	n	高
+colony	colony	"colonial,colonialism,colonize/-ise"	四
+wagon	wag(g)on	""	四
+their	their	""	四	their	pron	高
+shepherd	shepherd	""	六
+percent	percent	"percentage"	四	percent	n	高	percentage	n	高
+thirteen	thirteen	""	四	thirteen		高
+point	point	"pointless"	四	point	v&n	高
+debut	debut	""	六
+general	general	"generally,generalize/-ise"	四	general	a&n	高
+uphold	uphold	""	六
+hospital	hospital	"hospitalize"	四	hospital	n	高
+dimension	dimension	"dimensional"	四	dimension	n	高
+wildlife	wildlife	""	四	wildlife	n	高
+ceiling	ceiling	""	四	ceiling	n	高
+deserve	deserve	""	四	deserve	v	高
+process	process	"processor"	四	process	n&v	高
+restore	restore	"restoration"	四
+eighth	eighth	""	四	eighth		高
+clear	clear	"clearly"	四	clear	a	高
+chef	chef	""	四	chef	n	高
+alternative	alternative	""	四	alternative	a	高
+banner	banner	""	四
+teapot						teapot	n	高
+encounter	encounter	""	四
+soda	soda	""	四
+clean	clean	""	四	clean	v&a	高
+meal	meal	""	四	meal	n	高
+sock	sock	""	四	sock	n	高
+mean	mean1	"meaning,meaningful"	四	mean(meant,meant)	v	高	meaning	n	高
+approve	approve	"approval"	四	approve	v	高	approval	n	高
+neither	neither	""	四	neither	a	高
+meat	meat	"meaty"	四	meat	n	高
+glad	glad	""	四	glad	a	高
+chew	chew	""	四	chew	v	高
+pedestrian	pedestrian	""	四	pedestrian	n	高
+hurry	hurry	"hurriedly"	四	hurry	v	高
+account	account	"accounting,accountant,accountancy"	四	account	n	高	accountant	n	高
+uneasy	uneasy	""	四
+sometime	sometime	""	四
+radioactive	radioactive	"radioactivity"	六	radioactive	a	高
+innocent	innocent	"innocence"	四	innocent	a	高
+schoolbag						schoolbag	n	高
+beef	beef	""	四	beef	n	高
+alphabet	alphabet	"alphabetic(al)"	四	alphabet	n	高
+stride	stride	""	四
+advance	advance	"advancement,advanced"	四	advance	v&n	高
+trip	trip	""	四	trip	n	高
+trim	trim	""	六
+appreciate	appreciate	"appreciation,appreciative"	四	appreciate	v	高	appreciation	n	高
+granny						granny	n	高
+dental	dental	""	四
+bleach	bleach	""	六
+diverse	diverse	"diversify,diversity"	四	diverse	a	高
+strict	strict	""	四	strict	a	高
+you	you	""	四	you	pron	高
+rally	rally	""	四
+beer	beer	""	四	beer	n	高
+jump	jump	""	四	jump	n&v	高
+soft	soft	"soften"	四	soft	a	高
+prime	prime	""	四
+happen	happen	""	四	happen	v	高
+sofa	sofa	""	四	sofa	n	高
+intellect	intellect	""	六
+preoccupy	preoccupy	"preoccupied"	六
+festival	festival	""	四	festival	n&a	高
+loyal	loyal	"loyalty"	四
+mainstream	mainstream	""	四
+delighted						delighted	a	高
+opportunity	opportunity	""	四
+active	active	"activity,activist"	四	active	a	高	activity	n	高
+court	court1	""	四	court	n	高
+chapel	chapel	""	六
+distort	distort	"distortion"	六
+Olympic	Olympic	"Olympics,Olympiad"	四	Olympic(s)	a&n	高
+venture	venture	""	四
+population	population	"populous,populate"	四	population	n	高
+discern	discern	""	六
+enthusiasm	enthusiasm	"enthusiastic,enthusiastically,enthusiast"	四	enthusiastic	a	高
+route	route	""	四
+flexible	flexible	"flexibility"	四	flexible	a	高
+corpse	corpse	""	六
+organ	organ	""	四	organ	n	高
+mirror	mirror	""	四	mirror	n	高
+depict	depict	"depiction"	六
+shiver	shiver	""	四
+hop	hop	""	六
+unwilling						unwilling	a	高
+soil	soil	""	四	soil	n	高
+skyline	skyline	""	四
+bottle	bottle	""	四	bottle	n	高
+liquor	liquor	""	四
+hot	hot	""	四	hot	a	高
+interior	interior	""	四
+rouse	rouse	""	四
+how	how	""	四	how	ad	高
+Buddhism	Buddhism	"Buddhist"	六	Buddhism	n	高
+spark	spark	""	四
+lubricate	lubricate	"lubrication"	六
+integral	integral	""	六
+affix	affix	"affixation"	六
+comet	comet	""	六
+bully	bully	""	四
+spare	spare	"sparingly"	四	spare	a	高
+webcast	webcast	""	四
+Confucian	Confucian	"Confucianism"	四
+chip	chip	""	四
+takeoff	takeoff	""	四
+chin	chin	""	四
+bungalow						bungalow	n	高
+tail	tail	""	四	tail	n	高
+pistol	pistol	""	四
+watertight	watertight	""	四
+assemble	assemble	"assembly"	四
+march	march	""	四	march	n&v	高
+transition	transition	"transitional"	六
+blast	blast	""	四
+repel	repel	""	六
+mutter	mutter	""	六
+meet	meet	""	四	meet(met,met)	v&n	高
+answer	answer	""	四	answer	n&v	高
+series	series	""	四
+cultivate	cultivate	"cultivation"	四
+junk	junk	""	四
+thrive	thrive	""	四
+purse	purse	""	四	purse	n	高
+represent	represent	"representation,representative"	四	represent	v	高	representative	n	高
+compete	compete	"competition,competitive,competitor"	四	compete	v	高	competition	n	高
+celebrity	celebrity	""	六
+dispatch	dispatch/despatch	""	六
+Monday	Monday	""	四	Monday/Mon.		高
+inborn	inborn	""	六
+sometimes	sometimes	""	四	sometimes	ad	高
+promise	promise	"promising"	四	promise	n&v	高
+hold	hold	""	四	hold(held,held)	v	高
+tale	tale	""	四	tale	n	高
+trail	trail	"trailer"	四
+cyberspace	cyberspace	""	四
+outdated	outdated	""	四
+absurd	absurd	"absurdity"	六	absurd	a	高
+prior	prior	"priority"	四
+burglar	burglar	"burglary"	六	burglar	n	高
+rubber	rubber	""	四	rubber	n	高
+underwear	underwear	""	四	underwear	n	高
+trait	trait	""	六
+talk	talk	"talkative"	四	talk	n&v	高
+tall	tall	""	四	tall	a	高
+landmark	landmark	""	六
+reply	reply	""	四	reply	n&v	高
+hundredth						hundredth		高
+vanish	vanish	""	四
+train	train	"trainer,trainee,training"	四	train	n&v	高	training	n	高
+dolphin	dolphin	""	四
+sightseeing	sightseeing	""	四	sightseeing	n	高
+planet	planet	"planetary"	四	planet	n	高
+ashore	ashore	""	四
+count	count	""	四	count	v	高
+prerequisite	prerequisite	""	六
+creep	creep	""	四
+scholar	scholar	"scholarly,scholarship,scholastic"	四	scholar	n	高	scholarship	n	高
+motorway	motorway	""	四
+take	take	""	四	take(took,taken)	v	高
+vision	vision	"visionary"	四
+accompany	accompany	""	四	accompany	v	高
+reshuffle	reshuffle	""	六
+immediate	immediate	"immediately"	四	immediately	ad	高
+blame	blame	""	四	blame	n&v	高
+excerpt	excerpt	""	六
+reckon	reckon	""	四
+hinge	hinge	""	六
+some	some	""	四	some	a&pron	高
+auditorium	auditorium	""	四
+blank	blank	""	四	blank	n&a	高
+landlord	landlord/landlady	""	四
+session	session	""	四	session	n	高
+telecommunications	telecommunications	""	四
+tank	tank	""	四	tank	n	高
+reception	reception	"receptionist"	四	reception	n	高	receptionist	n	高
+just	just1	""	四	just	a&ad	高
+trickle	trickle	""	六
+outward	outward	"outwards"	四	outward(s)	ad	高
+notice	notice	"noticeable"	四	notice	n&v	高
+sole	sole	"solely"	四
+midnight	midnight	""	四	midnight	n	高
+hometown						hometown	n	高
+yummy						yummy	a	高
+jury	jury	"juror"	四
+holy	holy	"holiness"	四	holy	a	高
+darling	darling	""	四
+idiot	idiot	"idiotic"	六
+monitor	monitor	""	四	monitor	n	高
+solo	solo	""	六
+tuition	tuition	""	四
+tangible	tangible	""	四
+washroom						washroom	n	高
+home	home	"homeless,homely"	四	home	n&ad	高
+hole	hole	""	四	hole	n	高
+print	print	"printer,printing"	四	print	v	高
+tame	tame	""	四
+material	material	"materialism,materialist,materialize/-ise"	四	material	n	高
+although	although	""	四	although	conj	高
+iron	iron	""	四	iron	n&v	高
+peculiar	peculiar	"peculiarity"	四
+diplomat	diplomat	"diplomatic,diplomacy"	四
+idiom	idiom	"idiomatic"	四	idiom	n	高
+hug	hug	""	四	hug	v	高
+president	president	"presidency,presidential"	四	president	n	高
+explain	explain	"explanation,explanatory"	四	explain	v	高	explanation	n	高
+hum	hum	""	六
+sparkle	sparkle	""	四
+basket	basket	""	四	basket	n	高
+envy	envy	"envious"	四	envy	v&n	高
+staple	staple1	""	四
+hut	hut	""	四
+hope	hope	"hopeful,hopeless"	四	hope	n&v	高	hopeless	a	高
+collaborate	collaborate	"collaboration,collaborative"	四
+soon	soon	""	四	soon	ad	高
+superficial	superficial	""	四
+tablet	tablet	""	四	tablet	n	高
+melt	melt	""	四
+hook	hook	""	四	hook	n&v	高
+tape	tape	""	四	tape	n	高
+bend	bend	""	四	bend(bent,bent)	v	高
+stadium	stadium	""	四	stadium	n	高
+casualty	casualty	""	六
+gauge	gauge	""	六
+song	song	""	四	song	n	高
+belt	belt	""	四	belt	n	高
+ridicule	ridicule	"ridiculous"	四	ridiculous	a	高
+chop	chop	""	四
+cream	cream	"creamy"	四	cream	n	高
+protest	protest	""	四
+sensitive	sensitive	"sensitivity"	四	sensitive	a	高
+operative	operative	""	六
+bell	bell	""	四	bell	n	高
+vacant	vacant	"vacancy"	四	vacant	a	高
+heavy	heavy	""	四	heavy	a	高
+afford	afford	"affordable,affordability"	四	afford	v	高
+underground	underground	""	四	underground	a&n	高
+dustbin						dustbin	n	高
+appease	appease	"appeasement"	六
+bely	bely	""	四
+shield	shield	""	六
+deliver	deliver	"delivery"	四	deliver	v	高
+phenomenon	phenomenon	""	四	phenomenon(pl.phenomena)	n	高
+summer	summer	""	四	summer	n	高
+notify	notify	"notification"	四
+eight	eight	""	四	eight		高
+barbecue	barbecue/BBQ	""	四	barbecue	n	高
+file	file	""	四	file	n	高
+bibliography	bibliography	""	六
+member	member	"membership"	四	member	n	高
+heave	heave	""	六
+disapprove	disapprove	"disapproval"	四
+nourish	nourish	"nourishment"	四
+together	together	""	四	together	ad	高
+grease	grease	"greasy"	六
+within	within	""	四	within	prep	高
+could	could	""	四	could	modal-v	高
+strike	strike	"striking"	四	strike(struck,struck/stricken)	v&n	高
+bent						bent	a&n	高
+allege	allege	"allegation,alleged,allegedly"	四
+health	health	"healthy,healthful"	四	health	n	高	healthy	a	高
+torch	torch	""	四
+trigger	trigger	""	四
+positive	positive	""	四	positive	a	高
+menu	menu	""	四	menu	n	高
+segregate	segregate	"segregation"	六
+meticulous	meticulous	""	六
+prospect	prospect	"prospective"	四
+o'clock	o'clock	""	四
+radar	radar	""	四
+withhold	withhold	""	六
+machine	machine	"machinery"	四	machine	n	高
+able	able	"ability"	四	able	a	高	ability	n	高
+evening	evening	""	四	evening	n	高
+mend	mend	""	四	mend	v	高
+return	return	""	四	return	v	高
+rotate	rotate	"rotation"	六
+instance	instance	""	四
+conscience	conscience	""	四	conscience	n	高
+banquet	banquet	""	四
+thrill	thrill	"thriller"	六	thrill	n&v	高	thriller	n	高
+serve	serve	"service,serving"	四	serve	v	高	service	n	高
+cassette						cassette	n	高
+cough	cough	""	四	cough	n&v	高
+drown	drown	""	四
+smile	smile	""	四	smile	n&v	高
+radio	radio	""	四	radio	n	高
+blade	blade	""	四
+fine	fine1	""	四	fine1	a	高
+find	find	"finding"	四	find(found,found)	v	高
+host	host1	"hostess"	四	host	n&v	高	hostess	n	高
+backward	backward	"backwards"	四	backward(s)	ad	高
+accelerate	accelerate	"acceleration"	四	accelerate	v	高
+international	international	""	四	international	a	高
+jolly	jolly	""	六
+regardless	regardless	""	四	regardless	a	高
+upward	upward	"upwards"	四	upward(s)	ad	高
+citizen	citizen	"citizenship"	四	citizen	n	高
+barge	barge	""	六
+turtle	turtle	""	六
+illustrate	illustrate	"illustration,illustrative"	四
+occur	occur	"occurrence"	四	occur	v	高
+difficult	difficult	"difficulty"	四	difficult	a	高	difficulty	n	高
+hose	hose	""	六
+film	film	""	四	film	n&v	高
+sort	sort	""	四	sort	v&n	高
+breeze	breeze	""	四
+fill	fill	"filling"	四	fill	v	高
+dentist	dentist	""	四	dentist	n	高
+heart	heart	"hearty"	四	heart	n	高
+trash	trash	""	四
+forget	forget	"forgetful,forgettable"	四	forget(forgot,forgot/forgotten)	v	高	forgetful	a	高
+professor	professor	""	四	professor	n	高
+convenient	convenient	"convenience"	四	convenient	a	高	convenience	n	高
+horn	horn	""	四
+task	task	""	四	task	n	高
+infer	infer	"inference"	四
+transit	transit	""	四
+true	true	"truly"	四	truly	ad	高
+adolescent	adolescent	"adolescence"	六	adolescent	a&n	高	adolescence	n	高
+sore	sore	""	四
+valley	valley	""	四	valley	n	高
+position	position	""	四	position	n	高
+curtail	curtail	""	六
+present	present1	"presence"	四	present1	a&v	高
+glow	glow	""	四
+petty	petty	""	四
+curtain	curtain	""	四	curtain	n	高
+since	since	""	四	since	ad,conj&prep	高
+sentiment	sentiment	"sentimental"	六
+soup	soup	""	四	soup	n	高
+patent	patent	""	四	patent	n	高
+belong	belong	"belongings"	四	belong	v	高
+soul	soul	""	四	soul	n	高
+groove	groove	""	六
+certificate	certificate	""	四	certificate	n	高
+best	best	""	四
+schoolboy						schoolboy/girl	n	高
+mess	mess	"messy"	四	mess	n	高	messy	a	高
+sour	sour	""	四	sour	a	高
+delete	delete	"deletion"	四	delete	v&n	高
+transform	transform	"transformation"	四	transform	v	高
+plumber	plumber	""	六
+hour	hour	"hourly"	四	hour	n	高
+advise	advise	"advisor/-er,advisory,advisable"	四	advise	v	高
+magnitude	magnitude	""	六
+genuine	genuine	""	四
+agitate	agitate	"agitation"	六
+microwave	microwave	"microwavable"	四	microwave	n	高
+rooster						rooster	n	高
+immune	immune	"immunity,immunize/-ise"	四
+spokesman	spokesman/spokeswoman	"spokesperson"	四	spokesman/woman(pl.spokesmen/women)	n	高
+brochure	brochure	""	四	brochure	n	高
+stern	stern	""	六
+compound	compound1	""	四
+master	master	"mastery"	四	master	v&n	高
+underlie	underlie	"underlying"	六
+extraordinary	extraordinary	""	四	extraordinary	a	高
+seventieth						seventieth		高
+caravan	caravan	""	六
+complicate	complicate	"complicated,complication"	四
+puzzle	puzzle	"puzzlement"	四	puzzle	n	高
+hypocrisy	hypocrisy	"hypocritical,hypocrite"	六
+evident	evident	"evidence"	四	evident	a	高	evidence	n	高
+mere	mere	"merely"	四	merely	ad	高
+suburb	suburb	"suburban"	四
+online	online	""	四
+socket	socket	""	六	socket	n	高
+fence	fence	""	四	fence	n	高
+annoy	annoy	"annoyance"	四	annoy	v	高
+glue	glue	""	四	glue	n	高
+credible	credible	"credibility"	六
+scream	scream	""	四	scream	n	高
+envelop	envelop	""	六
+Marxism	Marxism	"Marxist"	四
+cover	cover	"coverage"	四	cover	n&v	高
+firm	firm1	""	四	firm1	n	高
+reflect	reflect	"reflection/-xion,reflective"	四	reflect	v	高
+procession	procession	""	四
+outfit	outfit	""	六
+ongoing	ongoing	""	四
+massacre	massacre	""	六
+ignorant	ignorant	"ignorance"	四
+fire	fire	""	四	fire	n&v	高
+negligible	negligible	""	六
+temporal	temporal	""	六
+setback	setback	""	四
+distinguish	distinguish	"distinguishable"	四	distinguish	v	高
+spray	spray	""	四	spray	n&v	高
+taxi	taxi	""	四	taxi	n	高
+haircut						haircut	n	高
+howl	howl	""	六	howl	v	高
+tiger	tiger	"tigress"	四	tiger	n	高
+something	something	""	四	something	pron	高
+vitamin	vitamin	""	四
+rude	rude	""	四	rude	a	高
+symptom	symptom	""	四	symptom	n	高
+thereby	thereby	""	四
+wield	wield	""	六
+funeral	funeral	""	四	funeral	n	高
+fireman	fireman	""	四
+except	except	""	四	except	prep	高
+impulse	impulse	"impulsive"	四
+shower	shower	""	四	shower	n	高
+nevertheless	nevertheless	""	四
+fact	fact	"factual"	四	fact	n	高
+prominent	prominent	"prominence"	四
+grandparents						grandparents	n	高
+jewel	jewel	"jewel(l)ery/jewelry"	四
+shipyard	shipyard	""	六
+fundamental	fundamental	""	四	fundamental	a	高
+fist	fist	""	四	fist	n	高
+entitle	entitle	""	四
+monotony	monotony	"monotonous"	六
+outline	outline	""	四	outline	n	高
+fade	fade	""	四	fade	v	高
+overdue	overdue	""	四
+nominal	nominal	""	六
+unless	unless	""	四	unless	conj	高
+excess	excess	"excessive"	四
+temperature	temperature	""	四	temperature	n	高
+thrift	thrift	"thrifty"	六
+retaliate	retaliate	"retaliation"	六
+perspective	perspective	""	四
+free	free	"freedom"	四	free	a	高	freedom	n	高
+galaxy	galaxy	""	六
+ought						ought	modal-v	高
+invade	invade	"invasion,invader,invasive"	四
+dogma	dogma	""	六
+accordance	accordance	""	四
+weary	weary	"weariness"	六
+trousers	trousers	""	四	trousers	n	高
+thorough	thorough	""	四	thorough	a	高
+people	people	""	四	people	n	高
+democracy	democracy	"democratic,democrat"	四
+peninsula	peninsula	""	六
+evolve	evolve	"evolution,evolutionary"	四	evolution	n	高
+face	face	"facial"	四	face	n&v	高	facial	a	高
+abandon	abandon	""	四	abandon	v	高
+fish	fish	"fishing,fisherman"	四	fish	n&v	高	fisherman	n	高
+afraid	afraid	""	四	afraid	a	高
+household	household	""	四
+invite	invite	"invitation,inviting"	四	invite	v	高	invitation	n	高
+adverse	adverse	"adversity"	六
+bulletin	bulletin	""	四
+ratio	ratio	""	四
+junction	junction	""	六
+crumble	crumble	""	六
+instinct	instinct	"instinctive"	四
+cannon	cannon	""	六
+afterward	afterward(s)	""	四	afterward(s)	ad	高
+reputation	reputation	""	四	reputation	n	高
+ice	ice	"icy"	四	ice	n	高
+shrug	shrug	""	四
+inside	inside	"insider"	四	inside	prep&ad	高
+shrub	shrub	"shrubbery"	六
+motorcycle						motorcycle	n	高
+presentation						presentation	n	高
+restrain	restrain	"restraint"	四
+awkward	awkward	""	四	awkward	a	高
+five	five	""	四	five		高
+ruin	ruin	"ruinous"	四	ruin	v&n	高
+beforehand	beforehand	""	四
+mutton						mutton	n	高
+impatient	impatient	"impatience"	四
+spill	spill	""	四
+celebrate	celebrate	"celebration"	四	celebrate	v	高	celebration	n	高
+salesgirl						salesgirl	n	高
+cradle	cradle	""	六
+please	please	"pleasure,pleasant,pleasing"	四	please	v	高	pleasant	a	高
+plumbing	plumbing	""	六
+hunger	hunger	"hungry"	四	hunger	n	高	hungry	a	高
+coconut	coconut	""	六
+offshore						offshore	a	高
+squad	squad	""	六
+laboratory	laboratory/lab	""	四
+inspect	inspect	"inspection,inspector"	四	inspect	v	高
+campaign	campaign	""	四	campaign	n	高
+vital	vital	"vitality"	四	vital	a	高
+salvage	salvage	""	六
+conflict	conflict	""	四	conflict	n	高
+rough	rough	"roughly"	四	rough	a	高
+lawsuit	lawsuit	""	六
+father	father	"fatherly"	四	father	n	高
+detect	detect	"detection,detective"	四	detective	n	高
+update	update	""	四	update	v&n	高
+rule	rule	"ruler,ruling"	四	rule	n&v	高	ruler	n	高
+amateur	amateur	""	四	amateur	a	高
+condemn	condemn	"condemnation"	四	condemn	v	高
+commerce	commerce	"commercial,commercialize/-ise"	四	commercial	a	高
+poem	poem	"poetry"	四	poem	n	高
+gulf	gulf	""	四
+poet	poet	"poetic"	四	poet	n	高
+wonder	wonder	"wonderful"	四	wonder	v&n	高	wonderful	a	高
+sneeze						sneeze	v	高
+every	every	""	四	every	a	高
+mansion	mansion	""	六
+shave	shave	"shaver"	四	shave(shaved,shaved/shaven)	v	高	shaver	n	高
+thermos						thermos	n	高
+summary	summary	"summarize/-ise"	四	summary	n	高
+nickel	nickel	""	四
+akin	akin	""	六
+accustom	accustom	"accustomed"	四	accustomed	a	高
+entail	entail	""	六
+inferior	inferior	"inferiority"	四
+propaganda	propaganda	""	六
+refuge	refuge	"refugee"	六
+again	again	""	四	again	ad	高
+taxpayer						taxpayer	n	高
+corrode	corrode	"corrosion"	六
+spine	spine	"spinal"	六
+commend	commend	"commendation"	六
+indeed	indeed	""	四	indeed	a	高
+guitar	guitar	"guitarist"	四	guitar	n	高
+mosquito	mosquito	""	六	mosquito	n	高
+parasite	parasite	""	六
+artificial	artificial	""	四	artificial	a	高
+comment	comment	"commentary,commentator"	四	comment	n	高
+transcend	transcend	""	六
+employ	employ	"employment,employer,employee"	四	employ	v	高
+sturdy	sturdy	""	六
+fable	fable	""	四
+fair	fair1	"fairly"	四	fair1	a	高
+during	during	""	四	during	prep	高
+balcony	balcony	""	四	balcony	n	高
+Asian						Asian	a&n	高
+consist	consist	""	四	consist	v	高
+compatible	compatible	"compatibility"	四
+grammar	grammar	"grammatical"	四	grammar	n	高
+enable	enable	""	四
+price	price	"priceless"	四	price	n	高
+jeep	jeep	""	四	jeep	n	高
+typhoon						typhoon	n	高
+eggplant	eggplant	""	四	eggplant	n	高
+deplore	deplore	""	六
+zip	zip	"zipper"	六	zip	v&n	高	zipper	n	高
+profession	profession	"professional"	四	profession	n	高
+compress	compress	"compression"	六
+arise	arise	""	四	arise(arose,arisen)	v	高
+cherish	cherish	""	四
+agree	agree	"agreement,agreeable"	四	agree	v	高	agreement	n	高
+eminent	eminent	"eminence"	六
+underneath	underneath	""	四
+fail	fail	"failure"	四	fail	v&n	高	failure	n	高
+itself	itself	""	四	itself	pron	高
+discrepancy	discrepancy	""	六
+nursery	nursery	""	四	nursery	n	高
+spectrum	spectrum	""	六
+anyone						anyone	pron	高
+emperor	emperor	"empress"	四	emperor	n	高
+dropout	dropout	""	四
+pride	pride	"proud"	四	pride	n	高	proud	a	高
+prolong	prolong	""	六
+valve	valve	""	六
+breakfast	breakfast	""	四	breakfast	n	高
+refund	refund	""	六
+distress	distress	"distressful"	四
+remnant	remnant	""	六
+broadcast	broadcast	""	四	broadcast(broadcast,broadcast或-ed,-ed)	v	高
+diesel	diesel	""	六
+steel	steel	""	四	steel	n	高
+steep	steep	""	四	steep	a	高
+thumb	thumb	""	四
+seize	seize	"seizure"	四	seize	v	高
+church	church	""	四	church	n	高
+privilege	privilege	"privileged"	四	privilege	n	高
+substitute	substitute	"substitution"	四	substitute	v	高
+foreign	foreign	"foreigner"	四	foreign	a	高	foreigner	n	高
+uniform	uniform	"uniformity"	四	uniform	n	高
+fall	fall1	""	四	fall1(fell,fallen)	v	高
+blaze	blaze	""	六
+moreover	moreover	""	四
+scatter	scatter	""	四
+violate	violate	"violation"	四	violate	v	高
+steer	steer	""	四
+event	event	"eventful,eventually,eventual,eventuality"	四	event	n	高	eventually	ad	高
+buddy	buddy	""	四
+undergo	undergo	""	四
+finger	finger	""	四	finger	n	高
+erase	erase	"eraser"	四	eraser	n	高
+coupon	coupon	""	四
+railroad	railroad/railway	""	四
+homework	homework	""	四	homework	n	高
+inhabit	inhabit	"inhabitant"	四
+multitude	multitude	""	六
+siege	siege	""	四
+abstract	abstract	""	四	abstract	a&n	高
+agenda	agenda	""	四	agenda	n	高
+nice	nice	"nicety"	四	nice	a	高
+excel	excel	""	四
+comma	comma	""	四
+liquid	liquid	""	四	liquid	n&a	高
+culture	culture	"cultural"	四	culture	n	高
+anonymous	anonymous	"anonymity"	六
+fake	fake	""	四
+hereby	hereby	""	四
+first	first	"firstly"	四	first		高
+span	span	""	四
+bizarre	bizarre	""	六
+prefer	prefer	"preferable,preference,preferential"	四	prefer	v	高	preference	n	高
+perfect	perfect	"perfection"	四	perfect	a	高
+ascribe	ascribe	""	六
+pole	pole	"polar"	四	pole	n	高
+tight	tight	"tighten"	四	tight	a	高
+allure	allure	"allurement"	六
+space	space	"spacious,spatial"	四	space	n	高
+frog	frog	""	四	frog	n	高
+spite	spite	""	四
+chamber	chamber	""	六
+arrange	arrange	"arrangement"	四	arrange	v	高	arrangement	n	高
+theater	theater/-tre	"theatrical"	四	theater/theatre	n	高
+nephew	nephew	""	四	nephew	n	高
+from	from	""	四	from	prep	高
+depart	depart	"departure"	四	departure	n	高
+exponent	exponent	""	六
+bench	bench	""	四	bench	n	高
+bottom	bottom	""	四	bottom	n	高
+ill	ill	"illness"	四	ill	a	高	illness	n	高
+fossil	fossil	""	四
+solicit	solicit	"solicitor"	六
+rhyme						rhyme	n&v	高
+spade	spade	""	四	spade	n	高
+poke	poke	""	六
+manufacture	manufacture	"manufacturer"	四
+bridegroom	bridegroom	""	四	bridegroom	n	高
+calorie	calorie	""	四
+fame	fame	"famous"	四	famous	a	高
+slogan	slogan	""	四
+invariably	invariably	""	四
+repair	repair	"reparable"	四	repair	n&v	高
+pond	pond	""	四	pond	n	高
+tract	tract	""	六
+death	death	""	四	death	n	高
+steak	steak	""	四	steak	n	高
+steal	steal	""	四	steal(stole,stolen)	v	高
+mercury	mercury	""	六
+advice	advice	""	四	advice	n	高
+frequent	frequent	"frequency"	四	frequent	a	高
+interact	interact	"interaction,interactive"	四
+powder	powder	""	四	powder	n	高
+network	network	"networking"	四	network	n	高
+aggregate	aggregate	""	六
+Oceania						Oceania	n	高
+jealous	jealous	"jealousy"	四
+rust	rust	"rusty"	六
+trace	trace	""	四
+public	public	"publicize/-ise,publicity,publicly"	四	public	a&n	高
+paper	paper	""	四	paper	n	高
+array	array	""	六
+discriminate	discriminate	"discrimination,discriminatory"	四	discrimination	n	高
+steam	steam	"steamy,steamer"	四	steam	n	高
+zoo	zoo	""	四	zoo	n	高
+barbershop						barbershop	n	高
+track	track	""	四	track	n	高
+value	value	"valuable"	四	value	n	高	valuable	a	高
+annex	annex	"annexation"	六
+fortune	fortune	"fortunate"	四	fortune	n	高	fortunate	a	高
+quantity	quantity	"quantitative"	四	quantity	n	高
+repay	repay	"repayment"	四
+x-ray	x-ray	""	四
+stifle	stifle	""	六
+ink	ink	""	四	ink	n	高
+inn	inn	""	四	inn	n	高
+rush	rush	""	四	rush	v	高
+trade	trade	""	四	trade	n&v	高
+westward						westward(s)	ad	高
+round	round	""	四	round	ad,prep&a	高
+serial	serial	""	六
+ambassador	ambassador	""	四	ambassador	n	高
+comic	comic	""	六
+weave	weave	""	四
+carrot	carrot	""	四	carrot	n	高
+vague	vague	""	四	vague	a	高
+fare	fare	""	四	fare	n	高
+bicycle	bicycle/bike	""	四	bicycle	n	高
+unrest						unrest	n	高
+kangaroo						kangaroo	n	高
+psychiatry	psychiatry	"psychiatric,psychiatrist"	六
+spouse	spouse	""	四
+setting	setting	""	四
+properly						properly	ad	高
+score	score	""	四	score	n&v	高
+isle	isle	""	六
+quote	quote	"quotation"	四
+graduate	graduate	"graduation"	四	graduate	v	高	graduation	n	高
+poor	poor	"poverty"	四	poor	a	高
+unanimous	unanimous	""	六
+quota	quota	""	四
+thermal	thermal	""	六
+scorn	scorn	"scornful"	六
+farm	farm	"farmer,farming"	四	farm	n	高	farmer	n	高
+sulfur	sulfur/sulphur	""	六
+rag	rag	"ragged,raggedly"	四	rag	n	高
+terrain	terrain	""	六
+grief	grief	"grieve,grievous"	四
+rap	rap	""	六
+navigate	navigate	"navigation"	六
+ashamed	ashamed	""	四	ashamed	a	高
+rat	rat	""	四	rat	n	高
+appendix	appendix	""	六	appendix	n	高
+excellent	excellent	"excellence"	四	excellent	a	高
+handwriting	handwriting	""	四	handwriting	n	高
+pool	pool	""	四	pool	n	高
+raw	raw	""	四	raw	a	高
+ray	ray	""	四	ray	n	高
+sprinkle	sprinkle	""	六
+airport	airport	""	四	airport	n	高
+courtyard	courtyard	""	四	courtyard	n	高
+topple	topple	""	六
+municipal	municipal	"municipality"	四
+institute	institute	""	四	institute	n	高
+endure	endure	"endurance"	四
+poster	poster	""	四	poster	n	高
+hobby	hobby	""	四	hobby	n	高
+shortly	shortly	""	四	shortly	ad	高
+criterion	criterion	""	四	criterion(pl.criteria)	n	高
+fate	fate	""	四
+throat	throat	""	四	throat	n	高
+essence	essence	"essential"	四
+best-seller	best-seller	"best-selling"	四
+manual	manual	""	四
+pork	pork	""	四	pork	n	高
+maneuver	maneuver/manoeuvre	""	六
+dollar	dollar	""	四	dollar	n	高
+dual	dual	""	四
+vocabulary	vocabulary	""	四	vocabulary	n	高
+retire	retire	"retirement,retired"	四	retire	v	高
+aspect	aspect	""	四	aspect	n	高
+aggressive	aggressive	"aggression"	四	aggressive	a	高
+close	close	""	四	close	a&ad	高
+federation	federation	""	四
+chemistry	chemistry	"chemical,chemist"	四	chemistry	n	高	chemist	n	高
+instalment	instal(l)ment	""	四
+saint	saint	""	四
+signify	signify	""	六
+photo	photo(graph)	"photographic,photographer,photography"	四	photo/photograph	n	高	photographer	n	高
+unleash	unleash	""	六
+oblige	oblige	"obligation,obliged,obligatory"	四
+twenty-second						twenty-second		高
+swing	swing	""	四	swing	v&n	高
+handbag						handbag	n	高
+fast	fast	""	四	fast	a&ad	高
+turbulent	turbulent	"turbulence"	六
+overt	overt	""	六
+workout	workout	""	四
+spin	spin	""	四	spin	v&n	高
+calling	calling	""	四
+shallow	shallow	""	四	shallow	a	高
+spit	spit	""	四	spit	v	高
+scout	scout	""	四
+register	register	"registration,registrar"	四	register	n&v	高
+restless	restless	""	六
+fleet	fleet	""	四
+nine	nine	""	四	nine		高
+couple	couple	""	四	couple	n	高
+ace	ace	""	四
+communicate	communicate	"communication,communicative"	四	communicate	v	高	communication	n	高
+saddle	saddle	""	六
+jerk	jerk	""	六
+rural	rural	""	四
+acclaim	acclaim	""	六
+red	red	""	四	red	n&a	高
+acid	acid	"acidity"	四	acid	a	高
+act	act	"action,acting"	四	act	n&v	高	action	n	高
+post	post1	"postage,postman"	四	post1	n	高	postman(pl.postmen)	n	高
+duck	duck	""	四	duck	n	高
+blush	blush	""	六
+dubious	dubious	""	六
+finish	finish	""	四	finish	v&n	高
+intuition	intuition	"intuitive"	六
+swift	swift	""	四	swift	a	高
+moustache						moustache	n	高
+add	add	"addition,additional"	四	add	v	高	addition	n	高
+ratify	ratify	"ratification"	六
+pose	pose	"posture"	四
+finite	finite	""	六
+amend	amend	"amendment"	六
+erupt	erupt	"eruption"	六	erupt	v	高
+its	its	""	四	its	pron	高
+remedy	remedy	"remedial"	四
+consent	consent	""	四
+benevolent	benevolent	"benevolence"	六
+seventeenth						seventeenth		高
+respect	respect	"respectable,respectful"	四	respect	v&n	高
+article	article	""	四	article	n	高
+shelf	shelf	""	四	shelf(pl.shelves)	n	高
+fusion	fusion	""	六
+retreat	retreat	""	四
+parachute	parachute	""	六
+ache	ache	""	四	ache	v&n	高
+mutual	mutual	""	四
+shell	shell	""	四
+port	port	"portable,porter"	四	port	n	高	porter	n	高
+pharmacy	pharmacy	"pharmaceutical"	六
+therefore	therefore	""	四	therefore	ad	高
+exchange	exchange	""	四	exchange	n&v	高
+hesitate	hesitate	"hesitation,hesitant"	四	hesitate	v	高
+rifle	rifle	""	四
+income	income	""	四	income	n	高
+trust	trust	"trustee"	四	trust	v	高
+blackboard	blackboard	""	四	blackboard	n	高
+choose	choose	"choosy"	四	choose(chose,chosen)	v	高
+paste	paste	""	四
+overtake	overtake	""	四
+directory	directory	""	六	directory	n	高
+jeans	jeans	""	四	jeans	n	高
+prevent	prevent	"prevention,preventive"	四	prevent	v	高
+overnight	overnight	""	四
+behave	behave	"behavio(u)r,behavio(u)ral"	四	behave	v	高	behavior/behaviour	n	高
+undo	undo	""	四
+laser	laser	""	四
+disturbing						disturbing	a	高
+sorry	sorry	""	四	sorry	a	高
+scope	scope	""	四
+pasta	pasta	""	六
+surveillance	surveillance	""	六
+morale	morale	""	六
+colonel	colonel	""	六
+embrace	embrace	""	四
+identify	identify	"identification"	四	identification	n	高
+nitrogen	nitrogen	""	六
+pour	pour	""	四	pour	v	高
+northeast	northeast	"northeastern"	四	northeast	n	高
+label	label	""	四
+message	message	"messenger"	四	message	n	高
+modify	modify	"modification,modifier"	四
+truth	truth	"truthful"	四	truth	n	高
+cram	cram	""	六
+clone	clone	""	四	clone	v	高
+pledge	pledge	""	四
+exempt	exempt	"exemption"	六
+reservoir	reservoir	""	六
+crab	crab	""	四
+age	age	"aged,ag(e)ing"	四	age	n	高
+college	college	""	四	college	n	高
+aesthetic	aesthetic	"aesthetics"	六
+biotechnology	biotechnology	""	四
+backup	backup	""	四
+movie	movie	""	四	movie	n	高
+popcorn						popcorn	n	高
+ago	ago	""	四	ago	ad	高
+hardy	hardy	""	六
+yearn	yearn	"yearning"	六
+caption	caption	""	六	caption	n	高
+arithmetic	arithmetic	""	四	arithmetic	n	高
+rib	rib	""	四
+rid	rid	""	四	rid(rid,rid或ridded,ridded)	v	高
+carbohydrate	carbohydrate	""	六
+eject	eject	"ejection"	六
+rig	rig	""	六
+number	number	""	四	number	n	高
+defect	defect1	"defective"	四
+punish	punish	"punishment"	四	punish	v	高	punishment	n	高
+reinforce	reinforce	"reinforcement"	四
+slack	slack	""	六
+rim	rim	""	六
+odds	odds	""	四
+casual	casual	""	四	casual	a	高
+decline	decline	""	四	decline	v	高
+property	property	""	四
+rip	rip	""	四
+debris	debris	""	六
+delicacy	delicacy	""	六
+viewpoint	viewpoint	""	四
+Catholic	Catholic	""	六	Catholic	a	高
+nothing	nothing	""	四	nothing	pron,n&a	高
+whistle	whistle	""	四	whistle	n	高
+handle	handle	""	四	handle	n&v	高
+tough	tough	""	四	tough	a	高
+script	script	"scripture"	四
+exit	exit	""	四	exit	n	高
+melody	melody	"melodious"	六
+system	system	"systematic,systematically"	四	system	n	高	systematic	a	高
+mailbox						mailbox	n	高
+spot	spot	""	四	spot	n&v	高
+silver	silver	"silvery"	四	silver	n	高
+aid	aid	""	四	aid	n&v	高
+other	other	""	四	other	pron&a	高
+aim	aim	""	四	aim	n&v	高
+city	city	""	四	city	n	高
+ail	ail	"ailment"	六
+uncle	uncle	""	四	uncle	n	高
+retain	retain	"retention"	四
+epoch	epoch	""	六
+drastic	drastic	"drastically"	四
+air	air	""	四	air	n	高
+courage	courage	"courageous"	四	courage	n	高
+local	local	"locality"	四	local	a	高
+retail	retail	"retailer"	四
+crew	crew	""	四	crew	n	高
+defeat	defeat	""	四	defeat	v	高
+spear	spear	""	六	spear	n	高
+innovate	innovate	"innovation,innovative"	四
+extravagant	extravagant	"extravagance"	六
+bubble	bubble	""	四
+accommodate	accommodate	"accommodation"	四	accommodation	n	高
+yield	yield	""	四
+vacation	vacation	""	四	vacation	n	高
+speak	speak	"speaker"	四	speak(spoke,spoken)	v	高	speaker	n	高
+terrace	terrace	""	六
+sacred	sacred	""	六	sacred	a	高
+outcome	outcome	""	四	outcome	n	高
+cathedral	cathedral	""	六
+tender	tender	""	四
+synthesis	synthesis	"synthetic,synthesize/-ise"	六
+vapor	vapo(u)r	""	四
+curriculum	curriculum	""	四	curriculum	n	高
+meantime	meantime	""	四
+prototype	prototype	""	六
+boat	boat	""	四	boat	n	高
+demographic	demographic	""	六
+future	future	""	四	future	n	高
+twenty-first						twenty-first		高
+cite	cite	"citation"	四
+atop	atop	""	四
+moan	moan	""	六
+atom	atom	"atomic"	四	atom	n	高
+royal	royal	"royalty"	四	royal	a	高
+shed	shed	""	四
+semicircle						semicircle	n	高
+glove	glove	""	四	glove	n	高
+lotion	lotion	""	六
+referee	referee	""	六	referee	n	高
+body	body	"bodily"	四	body	n	高
+correspond	correspond	"correspondence,correspondent,corresponding"	四	correspond	v	高
+spur	spur	""	四
+mode	mode	""	四
+elapse	elapse	""	六
+rear	rear	""	四
+cage	cage	""	四	cage	n	高
+symmetry	symmetry	"symmetric(al)"	六
+mister	mister	""	四
+reap	reap	""	四
+insect	insect	""	四	insect	n	高
+buffet	buffet	""	四	buffet	n	高
+presume	presume	"presumption,presumably"	六
+buffer	buffer	""	六
+ale	ale	""	六
+complement	complement	"complementary"	六
+qualify	qualify	"qualification"	四	qualification	n	高
+pregnant	pregnant	"pregnancy"	四	pregnant	a	高
+border	border	""	四	border	n	高
+always	always	""	四	always	ad	高
+all	all	""	四	all	ad,a&pron	高
+read	read	"reading,reader"	四	read(read,read)	v	高	reading	n	高
+already	already	""	四	already	ad	高
+syndicate	syndicate	""	六
+touch	touch	""	四	touch	v	高
+real	real	"really,reality"	四	real	a	高	reality	n	高
+clock	clock	""	四	clock	n	高
+adhere	adhere	"adherence"	六
+expense	expense	"expensive"	四	expense	n	高	expensive	a	高
+April	April	""	四	April/Apr.		高
+unit	unit	""	四	unit	n	高
+hybrid	hybrid	""	六
+panorama	panorama	"panoramic"	六
+cafe	cafe	""	四	cafe	n	高
+contemporary	contemporary	""	四	contemporary	a	高
+swipe	swipe	""	四
+mobilize	mobilize/-ise	""	六
+mock	mock	""	六
+minibus						minibus	n	高
+uranium	uranium	""	六
+collect	collect	"collection,collective"	四	collect	v	高	collection	n	高
+gear	gear	""	四
+badly	badly	""	四
+rob	rob	"robbery"	四	rob	v	高
+outing	outing	""	四	outing	n	高
+rod	rod	""	四
+dumb	dumb	""	四
+quiver	quiver	""	六
+disappoint	disappoint	"disappointment,disappointing"	四	disappoint	v	高
+ration	ration	""	六
+rot	rot	"rotten"	六	rot	v	高
+and	and	""	四	and	conj	高
+today	today	""	四	today	ad&n	高
+predict	predict	"prediction,predictable"	四	predict	v	高
+dump	dump	""	四
+row	row1	""	四	row	n&v	高
+fifteen	fifteen	""	四	fifteen		高
+guilt	guilt	"guilty"	四	guilty	a	高
+undermine	undermine	""	四
+abroad	abroad	""	四	abroad	ad	高
+poultry	poultry	""	六
+subjective	subjective	""	四	subjective	a	高
+blossom	blossom	""	四
+radical	radical	""	四
+deliberately						deliberately	ad	高
+blunt	blunt	""	六
+ant	ant	""	四	ant	n	高
+contingent	contingent	""	六
+distil	distil(l)	""	六
+any	any	""	四	any	pron&a	高
+minute	minute1	""	四	minute	n	高
+analogy	analogy	""	六
+ladder	ladder	""	四
+milestone	milestone	""	六
+hardworking						hardworking	a	高
+ninth	ninth	""	四	ninth		高
+acre	acre	""	四	acre	n	高
+punctuation						punctuation	n	高
+until	until	""	四	until	prep&conj	高
+semester	semester	""	四
+hypothesis	hypothesis	"hypothetical"	六
+dull	dull	""	四	dull	a	高
+zoology	zoology	"zoological"	四
+collapse	collapse	""	四
+comprehend	comprehend	"comprehension"	四	comprehension	n	高
+reason	reason	"reasonable"	四	reason	v&n	高	reasonable	a	高
+thought	thought	"thoughtful"	四	thought	n	高
+accurate	accurate	"accuracy"	四	accurate	a	高	accuracy	n	高
+legend	legend	"legendary"	四
+millionth						millionth		高
+taste	taste	"tasty"	四	taste	n&v	高	tasty	a	高
+ship	ship	"shipping,shipment"	四	ship	n&v	高
+anywhere	anywhere	""	四	anywhere	ad	高
+erect	erect	"erection"	六
+battalion	battalion	""	四
+cake	cake	""	四	cake	n	高
+jam	jam1	""	四	jam	n	高
+protein	protein	""	四
+ape	ape	""	六
+annual	annual	""	四	annual	a	高
+jar	jar1	""	四	jar	n	高
+gentle	gentle	""	四	gentle	a	高
+repertoire	repertoire	""	六
+resort	resort1	""	四
+testify	testify	""	六
+boil	boil	"boiler"	四	boil	v	高
+goodness	goodness	""	四
+lightning	lightning	""	四	lightning	n	高
+app	app	""	四
+jaw	jaw	""	四	jaw	n	高
+margin	margin	"marginal"	四
+broke	broke	""	四
+apt	apt	"aptly"	六
+nail	nail	""	四	nail	n	高
+shabby	shabby	""	六	shabby	a	高
+refine	refine	"refinery,refinement"	四
+demand	demand	"demanding"	四	demand	v	高
+mount	mount1	"mounting"	四
+reel	reel	""	六
+coexist	coexist	"coexistence"	六
+toilet	toilet	""	四	toilet	n	高
+pathetic	pathetic	""	六
+turkey	turkey	""	四	turkey	n	高
+letter	letter	""	四	letter	n	高
+grade	grade	""	四	grade	n	高
+overtime	overtime	""	四
+telescope	telescope	"telescopic"	四	telescope	n	高
+accuse	accuse	"accusation"	四	accuse	v	高
+can;						can1(could);		高
+northwest	northwest	"northwestern"	四	northwest	n	高
+devil	devil	""	四
+algebra	algebra	""	四	algebra	n	高
+predecessor	predecessor	""	六
+odor	odo(u)r	"odorous"	四
+acquire	acquire	"acquisition"	四	acquire	v	高	acquisition	n	高
+tactic	tactic	""	六
+worth	worth	"worthless"	四	worth	a	高
+trolley	trolley/trolly	""	四
+fertile	fertile	"fertility,fertilizer/-iser"	四
+notion	notion	"notional"	四
+arc	arc	""	六
+are						are	v(be)	高
+tractor	tractor	""	四	tractor	n	高
+grace	grace	"graceful,gracious"	四
+dividend	dividend	""	六
+captive	captive	""	六
+where	where	"wherever"	四	where	conj&ad	高	wherever	conj	高
+popular	popular	"popularity"	四	popular	a	高
+arm	arm	"armament"	四	arm	n&v	高
+stitch	stitch	""	六
+broken						broken	a	高
+vice	vice	""	六	vice	n	高
+art	art	"artist,artistic,artistically"	四	art	n	高	artist	n	高
+esteem	esteem	""	六
+bowel	bowel	""	四
+suppress	suppress	"suppression,suppressive"	六
+pudding	pudding	""	六
+broker	broker	""	四
+wrinkle	wrinkle	""	四	wrinkle	n	高
+call	call	""	四	call	n&v	高
+calm	calm	""	四	calm	a&v	高
+kick	kick	""	四	kick	v&n	高
+shit	shit	""	四
+tumor	tumo(u)r	""	四
+calf	calf	""	四
+ash	ash	""	四	ash	n	高
+supervise	supervise	"supervision,supervisor"	四
+ask	ask	""	四	ask	v	高
+canteen	canteen	""	四	canteen	n	高
+astray	astray	""	六
+fabulous	fabulous	""	六
+dilemma	dilemma	""	四	dilemma	n	高
+rub	rub	""	四
+through	through	""	四	through	prep&ad	高
+ass	ass	""	四
+castle	castle	""	四	castle	n	高
+Mrs.						Mrs.(mistress)	n	高
+rug	rug	""	四
+disregard	disregard	""	六
+dusk	dusk	""	四	dusk	n	高
+willpower	willpower	""	四
+officer	officer	""	四	officer	n	高
+run	run	"runner,running"	四	run(ran,run)	v	高
+enact	enact	"enactment"	六
+bomb	bomb	""	四	bomb	n&v	高
+debate	debate	""	四	debate	n&v	高
+extinguish	extinguish	""	四
+mouse	mouse	""	四	mouse(pl.mice)	n	高
+mother	mother	"motherly"	四	mother	n	高
+either	either	""	四	either	a,conj&ad	高
+view	view	""	四	view	n	高
+vulnerable	vulnerable	"vulnerability"	四
+ours	ours	""	四	ours	pron	高
+preach	preach	"preacher"	四
+jet	jet	""	四	jet	n	高
+yourself	yourself	"yourselves"	四	yourself(pl.yourselves)	pron	高
+donate	donate	"donation,donor"	四	donate	v	高
+deplete	deplete	"depletion"	六
+dust	dust	"dusty"	四	dust	n	高	dusty	a	高
+those	those	""	四	those	a&pron	高
+worry	worry	"worried"	四	worry	n&v	高	worried	a	高
+palace	palace	""	四	palace	n	高
+statistic	statistic	"statistical"	四
+taboo	taboo	""	六
+mold	mo(u)ld	"mo(u)ldy"	四
+telephone	telephone/phone	""	四	telephone	n&v	高
+significant	significant	"significance"	四	significance	n	高
+bold	bold	""	四
+delicious	delicious	""	四	delicious	a	高
+worse	worse	""	四
+rein	rein	""	六
+bleed	bleed	""	四	bleed	v	高
+catalogue						catalogue	n	高
+camp	camp	""	四	camp	n&v	高
+volunteer	volunteer	"voluntary"	四	volunteer	n&v	高	voluntary	a	高
+overlap	overlap	""	六
+everywhere	everywhere	""	四	everywhere	ad	高
+senate	senate	"senator"	四
+assassinate	assassinate	"assassination,assassin"	六
+name	name	""	四	name	n&v	高
+crow	crow	""	六
+worst	worst	""	四
+mourn	mourn	"mourning"	六	mourn	v	高
+bolt	bolt	""	四
+cane	cane	""	四
+thunderstorm						thunderstorm	n	高
+crop	crop	""	四	crop	n	高
+whiskey	whiskey/whisky	""	四
+crunch	crunch	""	六
+shop	shop	"shopping"	四	shop	v&n	高	shopping	n	高
+distance	distance	"distant"	四	distance	n	高	distant	a	高
+mood	mood	"moody"	四
+boom	boom	""	四	boom	n&v	高
+abolish	abolish	"abolition"	四	abolish	v	高
+truck	truck	""	四	truck	n	高
+book	book	""	四	book	n&v	高
+attract	attract	"attraction,attractive"	四	attract	v	高	attractive	a	高
+show	show	"showy"	四	show(showed,shown/showed)	v&n	高
+disappear	disappear	"disappearance"	四	disappear	v	高
+jockey	jockey	""	六
+shot	shot	""	四	shot	n	高
+recession	recession	""	四
+crouch	crouch	""	六
+pizza	pizza	""	四
+defend	defend	"defense/-ce,defensive,defendant"	四	defend	v	高	defense/defence	n	高
+ally	ally	"alliance"	四
+street	street	""	四	street	n	高
+arrive	arrive	"arrival"	四	arrive	v	高	arrival	n	高
+hence	hence	""	四
+boot	boot	""	四	boot	n	高
+shoe	shoe	""	四	shoe	n	高
+lavish	lavish	""	六
+introduce	introduce	"introduction,introductory"	四	introduce	v	高	introduction	n	高
+substance	substance	"substantial"	四
+nineteenth						nineteenth		高
+frown	frown	""	六
+situate	situate	""	四
+bone	bone	"bony"	四	bone	n	高
+hectare	hectare	""	四
+bond	bond	"bondage"	四	bond	n&v	高
+awe	awe	""	四
+discourse	discourse	""	六
+momentum	momentum	"momentous"	六
+target	target	""	四	target	n&v	高
+cracker	cracker	""	四
+obstruct	obstruct	"obstruction"	六
+mouth	mouth	"mouthful"	四	mouth	n	高
+grind	grind	""	四
+duty	duty	""	四	duty	n	高
+penny	penny	""	四	penny	n	高
+cape	cape	""	六
+delicate	delicate	""	四	delicate	a	高
+fancy	fancy	""	四	fancy	n,v&a	高
+yard	yard	""	四	yard	n	高
+rebel	rebel	"rebellion,rebellious"	四
+bounce	bounce	""	四	bounce	v	高
+usage	usage	""	四
+tissue	tissue	""	四	tissue	n	高
+rent	rent	"rental"	四	rent	n&v	高
+Thanksgiving	Thanksgiving	""	四
+carpenter	carpenter	""	四	carpenter	n	高
+cart	cart	""	四
+hijack	hijack	""	四
+cast	cast	""	四	cast(cast,cast)	v	高
+piano	piano	"pianist"	四	piano	n	高	pianist	n	高
+anxious	anxious	"anxiety"	四	anxious	a	高	anxiety	n	高
+dressing	dressing	""	六
+slice	slice	""	四	slice	n	高
+frost	frost	"frosty"	四	frost	n	高
+broad	broad	"broaden,breadth"	四	broad	a	高
+incline	incline	"inclined,inclination"	四
+elevate	elevate	"elevation,elevator"	四
+cash	cash	""	四	cash	n&v	高
+designate	designate	"designation"	六
+case	case	""	四	case	n	高
+generation	generation	""	四	generation	n	高
+humiliate	humiliate	"humiliation"	六
+item	item	""	四
+canvas	canvas	""	六
+assorted	assorted	""	六
+superintendent	superintendent	""	六
+gene	gene	"genetic,genetically"	四
+eighteen	eighteen	""	四	eighteen		高
+hollow	hollow	""	四
+epic	epic	""	六
+downtown	downtown	""	四	downtown	ad,n&a	高
+trunk	trunk	""	四	trunk	n	高
+moon	moon	""	四	moon	n	高
+rely	rely	"reliance,reliable"	四	rely	v	高	reliable	a	高
+phone						phone/telephone	n&v	高
+slide	slide	""	四	slide	n&v	高
+style	style	"stylish"	四	style	n	高
+waist	waist	""	四	waist	n	高
+flesh	flesh	""	四	flesh	n	高
+jungle	jungle	""	四	jungle	n	高
+grill	grill	""	六	grill	n	高
+card	card	""	四	card	n	高
+care	care	"careful,careless"	四	care	n&v	高	careless	a	高
+damage	damage	""	四	damage	n&v	高
+assault	assault	""	六
+boss	boss	""	四	boss	n	高
+feminine	feminine	"feminism,feminist"	六
+guard	guard	"guardian"	四	guard	n	高
+settle	settle	"settlement"	四	settle	v	高	settlement	n	高
+pattern	pattern	""	四	pattern	n	高
+exercise	exercise	""	四	exercise	n&v	高
+harsh	harsh	""	四
+unilateral	unilateral	""	六
+fireplace	fireplace	""	四
+vehicle	vehicle	""	四	vehicle	n	高
+madam	madam	""	四	madam/madame	n	高
+scrape	scrape	""	六
+bleak	bleak	""	六
+kilo						kilo	n	高
+cushion	cushion	""	四	cushion	n	高
+scold	scold	""	四	scold	v	高
+seldom	seldom	""	四	seldom	ad	高
+physics	physics	"physicist"	四	physics	n	高	physicist	n	高
+bilateral	bilateral	""	六
+plateau	plateau	""	六
+homosexual	homosexual/homo	""	四
+comrade	comrade	""	四
+aptitude	aptitude	""	四
+protect	protect	"protection,protective"	四	protect	v	高	protection	n	高
+cockpit	cockpit	""	六
+architecture	architecture	""	四	architecture	n	高
+stress	stress	"stressful"	四	stress	n&v	高
+more	more	""	四	more(much,many)	a,ad&n	高
+display	display	""	四
+born	born	""	四	born	a	高
+kill	kill	""	四	kill	v	高
+bore	bore1	"boring"	四	boring	a	高
+disorder	disorder	""	四
+aggravate	aggravate	"aggravation"	六
+waive	waive	"waiver"	六
+onward	onward	""	四
+dairy	dairy	""	四
+transistor	transistor	""	六
+giggle	giggle	""	六
+persevere	persevere	"perseverance"	四
+shut	shut	""	四	shut(shut,shut)	v	高
+bout	bout	""	六
+luck	luck	"lucky"	四	luck	n	高	lucky	a	高
+mature	mature	"maturity"	四	mature	a	高
+navy	navy	"naval"	四	navy	n	高
+simple	simple	"simplicity,simplify,simply"	四	simple	a	高	simplify	v	高
+alleviate	alleviate	"alleviation"	六
+influence	influence	"influential"	四	influence	n&v	高
+cloud	cloud	"cloudy"	四	cloud	n	高	cloudy	a	高
+talent	talent	"talented"	四	talent	n	高
+housewife	housewife	""	四	housewife	n	高
+negotiate	negotiate	"negotiation,negotiable"	四	negotiate	v	高
+violin	violin	"violinist"	四	violin	n	高	violinist	n	高
+package	package	""	四	package	n	高
+cave	cave	""	四	cave	n	高
+crisis	crisis	""	四
+king	king	""	四	king	n	高
+kind	kind	"kindness"	四	kind1	n	高	kindness	n	高
+postcode						postcode	n	高
+germ	germ	""	四
+shatter	shatter	""	六
+both	both	""	四	both	a&pron	高
+important	important	"importance"	四	important	a	高	importance	n	高
+most	most	"mostly"	四	most	a&ad	高
+glimpse	glimpse	""	四
+transfer	transfer	"transference"	四
+veteran	veteran	""	四
+phrase	phrase	"phrasal"	四	phrase	n	高
+esthetic	esthetic/aesthetic	"esthetics/aesthetics"	六
+daily	daily	""	四	daily	a,ad&n	高
+nerve	nerve	"nervous"	四	nervous	a	高
+affection	affection	"affectionate"	四	affection	n	高
+job	job	""	四	job	n	高
+daughter	daughter	""	四	daughter	n	高
+omit	omit	"omission"	四
+cloth	cloth	""	四	cloth	n	高
+centimeter	centimeter/-tre	""	四	centimeter/centimetre	n	高
+sponsor	sponsor	"sponsorship"	四	sponsor	n	高
+jog	jog	""	四	jog	v	高
+mommy						mommy/mummy	n	高
+ascertain	ascertain	""	六
+insert	insert	"insertion"	四	insert	v	高
+forbid	forbid	""	四	forbid(forbade,forbidden)	v	高
+captain	captain	""	四	captain	n	高
+bowl	bowl	""	四	bowl	n	高
+strangle	strangle	""	六
+highlight	highlight	""	四
+database	database	""	四	database	n	高
+adjective	adjective	""	四
+tortoise						tortoise	n	高
+joy	joy	"joyous,joyful"	四	joy	n	高
+billion	billion	"billionaire"	四	billion		高
+reject	reject	"rejection"	四	reject	v	高
+patient	patient1	"patience"	四	patient1	n	高	patience	n	高
+sad	sad	"sadness,sadden"	四	sad	a	高	sadness	n	高
+America						America	n	高
+sheer	sheer	""	四
+clown	clown	""	四
+miracle	miracle	"miraculous"	四
+compliment	compliment	"complimentary"	六
+sheet	sheet	""	四	sheet	n	高
+profit	profit	"profitable"	四	profit	n	高
+sheep	sheep	""	四	sheep(pl.sheep)	n	高
+rest	rest1	""	四	rest	n&v	高
+move	move	"movement"	四	move	v	高	movement	n	高
+amount	amount	""	四	amount	n&v	高
+comply	comply	"compliance"	四
+deviate	deviate	"deviation"	六
+album	album	""	四	album	n	高
+yawn	yawn	""	六	yawn	v	高
+say	say	"saying"	四	say(said,said)	v	高	saying	n	高
+sandwich	sandwich	""	四	sandwich	n	高
+also	also	""	四	also	ad	高
+enough	enough	""	四	enough	pron,a&ad	高
+increase	increase	"increasingly"	四	increase	v&n	高
+kingdom	kingdom	""	四	kingdom	n	高
+differ	differ	"difference,different"	四	differ	v	高	different	a	高
+spread	spread	""	四	spread(spread,spread)	v	高
+afternoon	afternoon	""	四	afternoon	n	高
+favor	favo(u)r	"favo(u)rable,favo(u)rite"	四	favor/favour	n	高	favorite/favourite	a&n	高
+latter	latter	""	四	latter	n	高
+front	front	""	四	front	a&n	高
+clinic	clinic	"clinical"	四	clinic	n	高
+affiliate	affiliate	"affiliation"	六
+customer	customer	""	四	customer	n	高
+plane	plane	""	四	plane	n	高
+equivalent	equivalent	"equivalence"	四
+stupid	stupid	"stupidity"	四	stupid	a	高
+mentor	mentor	""	六
+bad	bad	""	四	bad(worse,worst)	a	高
+canoe	canoe	""	六
+wedge	wedge	""	六
+bag	bag	""	四	bag	n	高
+awake	awake	""	四	awake(awoke,awoken)	v&a	高
+kiss	kiss	""	四	kiss	n&v	高
+perpetual	perpetual	"perpetuate"	六
+plague	plague	""	四
+retrospect	retrospect	"retrospective"	六
+ban	ban	""	四	ban	n&v	高
+fascinate	fascinate	"fascinating,fascination"	四
+offer	offer	"offering"	四	offer	n&v	高
+suffer	suffer	"suffering"	四	suffer	v	高	suffering	n	高
+bar	bar	""	四	bar	n	高
+bat	bat	""	四	bat	n	高
+draft	draft	""	四	draft	n&v	高
+complex	complex	"complexity"	四	complex	a&n	高
+fluid	fluid	""	四
+rubbish	rubbish	""	四	rubbish	n	高
+cinema	cinema	""	四	cinema	n	高
+bay	bay	""	四	bay	n	高
+pamphlet	pamphlet	""	六
+artery	artery	""	六
+angry	angry	"anger"	四	angry	a	高	anger	n	高
+underestimate	underestimate	""	四
+plastic	plastic	""	四	plastic	a	高
+delay	delay	""	四	delay	n&v	高
+globe	globe	"global,globalize/-ise"	四	globe	n	高
+transient	transient	""	六
+plant	plant	"plantation"	四	plant	v&n	高
+drive	drive	"driver"	四	drive(drove,driven)	v	高	driver	n	高
+Atlantic						Atlantic	a	高
+dean	dean	""	四
+sponge	sponge	"spongy"	六
+deal	deal1	"dealer,dealing"	四	deal	n	高
+strong	strong	"strength,strengthen"	四	strong	a	高	strengthen	v	高
+spaghetti	spaghetti	""	六
+abuse	abuse	"abusive"	四	abuse	v	高
+waiting-room						waiting-room	n	高
+insulate	insulate	"insulation,insulator"	六
+standby	standby	""	六
+scheme	scheme	""	四
+homeland	homeland	""	四	homeland	n	高
+affect	affect	""	四	affect	v	高
+deaf	deaf	""	四	deaf	a	高
+icon	icon	""	六
+dead	dead	""	四	dead	a	高
+drain	drain	"drainage"	四
+sea	sea	""	四	sea	n	高
+civic	civic	""	六
+sixth						sixth		高
+isolate	isolate	"isolation"	四
+amuse	amuse	"amusing,amusement"	四	amuse	v	高	amusement	n	高
+servant	servant	""	四	servant	n	高
+see	see	""	四	see(saw,seen)	v	高
+inward	inward	""	四
+enquire	enquire	"enquiry"	四	enquiry	n	高
+sharpener						sharpener	n	高
+civil	civil	"civilize/-ise,civilization/-sation"	四	civil	a	高	civilization	n	高
+subsequent	subsequent	""	四
+indicate	indicate	"indication,indicative,indicator"	四	indicate	v	高
+wheat	wheat	""	四	wheat	n	高
+dear	dear	""	四	dear	a	高
+sixty	sixty	""	四	sixty		高
+contain	contain	"container,containment"	四	contain	v	高	container	n	高
+litter	litter	""	四	litter	v	高
+set	set	""	四	set(set,set)	v&n	高
+sew	sew	""	四	sew(sewed,sewn/sewed)	v	高
+oval	oval	""	四	oval	n&ad	高
+sex	sex	"sexy,sexual"	四	sex	n	高
+column	column	"columnist"	四
+medicine	medicine	"medicinal"	四	medicine	n	高
+procedure	procedure	""	四	procedure	n	高
+biography	biography	"biographical,biographer"	四	biography	n	高
+embroidery	embroidery	""	六
+sample	sample	""	四
+integrate	integrate	"integration"	四
+battle	battle	""	四	battle	n	高
+awesome	awesome	""	四	awesome	a	高
+visa	visa	""	四	visa	n	高
+diagnose	diagnose	"diagnosis"	四
+petition	petition	"petitioner"	六
+somewhat	somewhat	""	四
+vicinity	vicinity	""	六
+motherland						motherland	n	高
+earnest	earnest	""	四
+river	river	""	四	river	n	高
+kite	kite	""	四	kite	n	高
+spider	spider	""	六
+bed	bed	"bedding"	四	bed	n	高
+bee	bee	""	四	bee	n	高
+beauty	beauty	"beautiful,beautify"	四	beauty	n	高	beautiful	a	高
+beg	beg	"beggar"	四	beg	v	高
+precede	precede	"preceding,precedent"	六
+deck	deck	""	四
+stroll	stroll	""	六
+bowling						bowling	n	高
+bet	bet	""	四
+differentiate	differentiate	"differentiation"	六
+parish	parish	""	六
+contact	contact	""	四
+discharge	discharge	""	四
+digit	digit	"digital"	四	digital	a	高
+disadvantage						disadvantage	n	高
+metropolitan	metropolitan	""	六
+garbage	garbage	""	四	garbage	n	高
+complain	complain	"complaint"	四
+zeal	zeal	"zealous"	六
+she	she	""	四	she	pron	高
+renovate	renovate	"renovation"	四
+adjust	adjust	"adjustment"	四	adjust	v	高	adjustment	n	高
+debt	debt	"debtor"	四	debt	n	高
+party	party	""	四	party	n	高
+little	little	""	四	little(less,least)	a	高
+deer	deer	""	四	deer	n	高
+however	however	""	四	however	ad&conj	高
+deep	deep	"deeply,depth"	四	deep	a&ad	高
+humane	humane	"humanism,humanist,humanitarian"	六
+shy	shy	"shyness,shyly"	四	shy	a	高
+forgive	forgive	"forgiving"	四	forgive(forgave,forgiven)	v	高
+goose	goose	""	四	goose(pl.geese)	n	高
+deem	deem	""	四
+compel	compel	"compelling"	四
+depress	depress	"depression"	四
+capable	capable	"capability"	四
+parade	parade	""	四
+deed	deed	""	四	deed	n	高
+salute	salute	"salutation"	六	salute	n&v	高
+riddle	riddle	""	四	riddle	n	高
+repress	repress	"repression,repressive"	六
+symposium	symposium	""	六
+lemon	lemon	"lemonade"	四	lemon	n&a	高	lemonade	n	高
+brigade	brigade	""	六
+aunt	aunt	"auntie"	四	aunt	n	高
+await	await	""	四
+sin	sin	""	四
+client	client	""	四
+unfair						unfair	a	高
+sip	sip	""	四
+sir	sir	""	四	sir	n	高
+lump	lump	""	四
+sit	sit	"sitting"	四	sit(sat,sat)	v	高
+over	over	""	四	over	prep&ad	高
+ballot	ballot	""	四
+brilliant	brilliant	"brilliance"	四	brilliant	a	高
+six	six	""	四	six		高
+practical	practical	"practicality"	四	practical	a	高
+eyebrow	eyebrow	""	四
+oven	oven	""	四
+easy-going	easy-going	""	四
+bound	bound1	""	四	bound	a	高
+false	false	"falsehood"	四
+football	football	""	四	football	n	高
+dinner	dinner	""	四	dinner	n	高
+stroke	stroke1	""	四
+breed	breed	""	四
+appraise	appraise	"appraisal"	六
+pyramid	pyramid	""	六	pyramid	n	高
+realm	realm	""	四
+avoid	avoid	"avoidance"	四	avoid	v	高
+fresh	fresh	""	四	fresh	a	高
+bid	bid	""	四	bid	v&n	高
+prompt	prompt	""	四
+comprehensive	comprehensive	""	四
+astonish	astonish	"astonishment"	四	astonish	v	高
+tunnel	tunnel	""	四
+elaborate	elaborate	"elaboration"	六
+peasant	peasant	""	四
+big	big	""	四	big	a	高
+corridor	corridor	""	四
+expert	expert	""	四	expert	n	高
+select	select	"selection,selective"	四	select	v	高
+crowd	crowd	"crowded"	四	crowd	n&v	高
+bin	bin	""	四
+sick	sick	"sicken"	四	sick	a	高
+bit	bit	""	四	bit	n	高
+slaughter	slaughter	""	六
+maiden	maiden	""	四
+ski	ski	"skiing"	四	ski	n&v	高
+output	output	""	四	output	n	高
+fatigue	fatigue	""	四
+corner	corner	""	四	corner	n	高
+warranty	warranty	""	六
+modem						modem	n	高
+model	model	""	四	model	n	高
+beside	beside	""	四	beside	prep	高
+join	join	""	四	join	v	高
+costume	costume	""	四
+crown	crown	""	四
+sky	sky	""	四	sky	n	高
+reduce	reduce	"reduction"	四	reduce	v	高
+sentence	sentence	""	四	sentence	n	高
+inquire	inquire/enquire	"inquiry/enquiry,inquisitive"	四
+gymnasium	gymnasium/gym	""	四
+large	large	"largely"	四	large	a	高
+surface	surface	""	四	surface	n	高
+vain	vain	"vanity"	四	vain	n	高
+tomorrow	tomorrow	""	四	tomorrow	ad&n	高
+ordinary	ordinary	""	四	ordinary	a	高
+youngster	youngster	""	四
+foresight	foresight	""	四
+drink	drink	""	四	drink(drank,drunk)	v	高
+lung	lung	""	四	lung	n	高
+operate	operate	"operation,operational,operator"	四	operate	v	高	operator	n	高
+verdict	verdict	""	六
+defy	defy	"defiance,defiant"	四
+doctrine	doctrine	""	六
+hello	hello	""	四	hello	int	高
+parrot	parrot	""	六	parrot	n	高
+begin	begin	"beginning"	四	begin(began,begun)	v	高
+bacterium						bacterium(pl.bacteria)	n	高
+paragraph	paragraph	""	四	paragraph	n	高
+oilfield						oilfield	n	高
+proportion	proportion	"proportional"	四
+alive	alive	""	四	alive	a	高
+crystal	crystal	""	四
+weekend	weekend	""	四	weekend	n	高
+plate	plate	""	四	plate	n	高
+noodle	noodle	""	四	noodle	n	高
+tournament	tournament	""	六	tournament	n	高
+cycle	cycle	"cycling,cyclist"	四	cycle	v	高	cyclist	n	高
+ruthless	ruthless	""	六
+lure	lure	""	六
+world	world	""	四	world	n	高
+dissolve	dissolve	""	四
+prejudice	prejudice	""	四	prejudice	n	高
+clergy	clergy	""	六
+clearance	clearance	""	六
+angle	angle	""	四	angle	n	高
+tradition	tradition	"traditional"	四	tradition	n	高	traditional	a	高
+everything	everything	""	四	everything	pron	高
+urgent	urgent	"urgency"	四	urgent	a	高
+unbearable						unbearable	a	高
+congregate	congregate	"congregation"	六
+optic	optic	"optical"	六
+bundle	bundle	""	四
+table	table	""	四	table	n	高
+side	side	""	四	side	n	高
+bread	bread	""	四	bread	n	高
+pence						pence	n	高
+thorn	thorn	"thorny"	六
+break	break	""	四	break(broke,broken)	v&n	高
+restaurant	restaurant	""	四	restaurant	n	高
+change	change	""	四	change	n&v	高
+predominate	predominate	"predominance,predominant"	六
+vogue	vogue	""	六
+trolleybus						trolleybus	n	高
+cupboard	cupboard	""	四	cupboard	n	高
+joke	joke	""	四	joke	n	高
+comfort	comfort	"comfortable"	四	comfort	n	高	comfortable	a	高
+likewise	likewise	""	四
+bacon	bacon	""	四	bacon	n	高
+hide	hide	"hiding"	四	hide(hid,hidden)	v	高
+whereabouts	whereabouts	""	六
+century	century	""	四	century	n	高
+candle	candle	""	四	candle	n	高
+report	report	"reporter"	四	report	n&v	高	reporter	n	高
+pessimism	pessimism	"pessimistic,pessimist"	四
+sigh	sigh	""	四	sigh	v&n	高
+theirs	theirs	""	四	theirs	pron	高
+auto	auto(mobile)	""	四
+constant	constant	""	四	constant	a	高
+sob	sob	""	六	sob	n&v	高
+intermittent	intermittent	""	六
+mislead	mislead	"misleading"	四
+sign	sign	"signature"	四	signature	n	高
+several	several	""	四	several	pron&a	高
+cotton	cotton	""	四	cotton	n&a	高
+outrage	outrage	"outrageous"	六
+toothbrush						toothbrush	n	高
+diffuse	diffuse	"diffusion"	六
+office	office	""	四	office	n	高
+angel	angel	""	四
+downgrade	downgrade	""	六
+scramble	scramble	""	六
+plaza	plaza	""	六
+download	download	""	四	download	n&v	高
+high	high	"highly"	四	high	a&ad	高
+son	son	""	四	son	n	高
+split	split	""	四	split	v	高
+contagious	contagious	""	六
+immerse	immerse	"immersion"	六
+champagne	champagne	""	四
+sow	sow	""	四	sow(sowed,sown/-ed)	v	高
+petroleum	petroleum	""	四
+depreciate	depreciate	"depreciation"	六
+kneel	kneel	""	四
+level	level	""	四	level	n	高
+Europe						Europe	n	高
+videophone						videophone	n	高
+lever	lever	"leverage"	六
+preserve	preserve	"preservation,preservative"	四	preserve	v	高
+establish	establish	"establishment"	四
+deter	deter	"deterrent"	六
+relevant	relevant	"relevance"	四	relevant	a	高
+confide	confide	""	六
+proclaim	proclaim	"proclamation"	四
+ought-to	ought-to	""	四
+Wednesday	Wednesday	""	四	Wednesday/Wed.		高
+bunch	bunch	""	四	bunch	n	高
+jeopardize	jeopardize/-ise	"jeopardy"	六
+spy	spy	""	四	spy	n&v	高
+tense	tense1	"tension"	四	tense	a	高	tension	n	高
+birthday	birthday	""	四	birthday	n	高
+behind	behind	""	四	behind	prep&ad	高
+tenth						tenth		高
+candy	candy	""	四	candy	n	高
+recipe	recipe	""	六	recipe	n	高
+mental	mental	"mentality"	四	mental	a	高
+box	box1	""	四	box	n	高
+ambassadress						ambassadress	n	高
+decent	decent	""	四
+bow	bow1	""	四	bow	v&n	高
+autobiography	autobiography	"autobiographic(al)"	六
+boy	boy	""	四	boy	n	高
+afloat	afloat	""	六
+handicraft	handicraft	""	六
+switch	switch	""	四	switch	v&n	高
+total	total	""	四	total	a,n&v	高
+niece	niece	""	四	niece	n	高
+upstairs	upstairs	""	四	upstairs	ad	高
+passerby	passerby(pl.passers-by)/passer	""	六
+auxiliary	auxiliary	""	六
+viable	viable	""	六
+savage	savage	""	六
+cripple	cripple	""	六
+zebra						zebra	n	高
+console	console	"consolation"	六
+unfortunate						unfortunate	a	高
+chance	chance	""	四	chance	n	高
+nature	nature	"natural,naturally"	四	nature	n	高	natural	a	高
+wheel	wheel	""	四	wheel	n	高
+clockwise	clockwise	""	四
+T-shirt						T-shirt	n	高
+cross	cross	"crossing"	四	cross	n&v	高	crossing	n	高
+control	control	""	四	control	v&n	高
+medication	medication	""	六
+drill	drill	""	四	drill	n&v	高
+clerk	clerk	"clerical"	四	clerk	n	高
+lobby	lobby	"lobbyist"	四
+acknowledge	acknowledge	"acknowledg(e)ment"	四	acknowledge	v	高
+earth	earth	""	四	earth	n	高
+quarrel	quarrel	"quarrelsome"	四	quarrel	v&n	高
+pulse	pulse	""	四	pulse	n	高
+overthrow	overthrow	""	四
+inflict	inflict	"infliction"	六
+inland	inland	""	四
+stance	stance	""	六
+worthwhile	worthwhile	""	四	worthwhile	a	高
+stumble	stumble	""	六
+cunning	cunning	""	六
+stool	stool	""	四
+elbow	elbow	""	四
+specialty	specialty/speciality	""	六
+stoop	stoop	""	六
+vary	vary	"variation,variable,variant"	四
+coherent	coherent	"coherence"	四
+upper	upper	""	四	upper	a	高
+county	county	""	四
+intercourse	intercourse	""	六
+paint	paint	"painting,painter"	四	paint	n&v	高	painter	n	高
+episode	episode	""	四
+vase						vase	n	高
+ponder	ponder	""	六
+behalf	behalf	""	四	behalf	n	高
+somewhere	somewhere	""	四	somewhere	ad	高
+animate	animate	"animated,animation"	六
+injure	injure	"injury,injurious"	四	injure	v	高	injury	n	高
+scene	scene	"scenery,scenic"	四	scene	n	高	scenery	n	高
+Saturday	Saturday	""	四	Saturday/Sat.		高
+objective	objective	""	四
+bathtub						bathtub	n	高
+exert	exert	"exertion"	四
+scandal	scandal	"scandalous"	四
+geography	geography	"geographic,geographically"	四	geography	n	高
+composite	composite	""	六
+hinder	hinder	"hindrance"	四
+friend	friend	"friendly,friendship"	四	friend	n	高	friendship	n	高
+scent	scent	""	四
+exhibit	exhibit	"exhibition"	四	exhibition	n	高
+mushroom	mushroom	""	四	mushroom	n	高
+alcohol	alcohol	"alcoholic"	四	alcohol	n	高	alcoholic	a&n	高
+deny	deny	"denial"	四
+trench	trench	""	六
+miserable	miserable	"misery"	四
+subtract	subtract	"subtraction"	四
+dent	dent	""	四
+hurricane	hurricane	""	六	hurricane	n	高
+hike	hike	""	六
+glory	glory	"glorious"	四	glory	n	高
+zigzag	zigzag	""	六
+morning	morning	""	四	morning	n	高
+accept	accept	"acceptance,acceptable"	四	accept	v	高
+horse	horse	""	四	horse	n	高
+secondary	secondary	""	四
+badge	badge	""	四
+mission	mission	""	四
+smuggle	smuggle	"smuggling,smuggler"	六
+autumn	autumn	""	四	autumn	n	高
+motor	motor	""	四	motor	n	高
+sue	sue	""	六
+access	access	"accessible"	四	access	n&v	高	accessible	a	高
+primitive	primitive	""	四	primitive	a	高
+dormitory	dormitory/dorm	""	四	dormitory(dorm)	n	高
+cooperate	cooperate	"cooperation,cooperative"	四
+overcome	overcome	""	四	overcome	v	高
+sum	sum	""	四
+recite	recite	"recitation"	四	recite	v	高
+sun	sun	"sunny"	四	sun	n	高	sunny	a	高
+current	current	"currently"	四
+secretary	secretary	"secretarial"	四	secretary	n	高
+gloom	gloom	"gloomy"	四
+audit	audit	"auditing,auditor"	六
+copper	copper	""	四
+civilian	civilian	""	四	civilian	n	高
+audio	audio	""	四
+intake	intake	""	四
+key	key	""	四	key	n	高
+silk	silk	"silky"	四	silk	n	高
+silent	silent	"silence"	四	silent	a	高	silence	n	高
+storm	storm	"stormy"	四	storm	n	高
+addicted						addicted	a	高
+cartoon	cartoon	"cartoonist"	四	cartoon	n	高
+texture	texture	""	六
+launch	launch	""	四
+amid	amid(st)	""	四
+store	store1	""	四	store	n&v	高
+beloved	beloved	""	四
+confirm	confirm	"confirmation"	四	confirm	v	高
+bud	bud	""	四
+hill	hill	"hilly"	四	hill	n	高
+unconditional						unconditional	a	高
+gallon	gallon	""	四	gallon	n	高
+bug	bug	""	四
+cloak	cloak	""	六
+cricket	cricket	""	六
+appoint	appoint	"appointment"	四	appoint	v	高	appointment	n	高
+vast	vast	""	四	vast	a	高
+fourth						fourth		高
+intervene	intervene	"intervention"	六
+story	story1	""	四	story	n	高
+dissent	dissent	""	六
+detriment	detriment	"detrimental"	六
+but	but	""	四	but	conj&prep	高
+ignite	ignite	"ignition"	六
+symbol	symbol	"symbolic(al)"	四	symbol	n	高
+bus	bus	""	四	bus	n	高
+sincerely						sincerely	ad	高
+declare	declare	"declaration,declarative"	四	declare	v	高
+dislike	dislike	""	四	dislike	v	高
+buy	buy	"buyer"	四	buy(bought,bought)	v	高
+available	available	"availability"	四	available	a	高
+express	express	"expression,expressive"	四	express	v&n	高	expression	n	高
+confine	confine	"confinement"	四
+advocate	advocate	"advocacy"	四	advocate	v	高
+quest	quest	""	六
+zero	zero	""	四	zero	n&num	高
+luggage	luggage	""	四	luggage	n	高
+drawback	drawback	""	六	drawback	n	高
+missile	missile	""	四	missile	n	高
+dynamic	dynamic	"dynamics"	四	dynamic	a	高
+generate	generate	"generator"	四
+sector	sector	""	四
+passion	passion	"passionate"	四
+unusual						unusual	a	高
+extreme	extreme	"extremity"	四	extreme	a	高
+tuck	tuck	""	六
+coordinate	coordinate	"coordination,coordinator"	四
+athlete	athlete	"athletic"	四	athlete	n	高	athletic	a	高
+sink	sink	""	四	sink(sank,sunk)	v&n	高
+query	query	""	六
+degree	degree	""	四	degree	n	高
+astronomy	astronomy	"astronomer,astronomical"	四	astronomy	n	高	astronomer	n	高
+ranch	ranch	""	六
+tube	tube	""	四	tube	n	高
+discord	discord	""	六
+especially	especially	""	四	especially	ad	高
+ocean	ocean	"oceanic"	四	ocean	n	高
+dismay	dismay	""	六
+once	once	""	四	once	n,ad&conj	高
+expend	expend	"expenditure"	四
+desk	desk	""	四	desk	n	高
+hint	hint	""	四
+carpet	carpet	""	四	carpet	n	高
+sing	sing	"singer"	四	sing(sang,sung)	v	高
+demonstrate	demonstrate	"demonstration/demo,demonstrative"	四
+hire	hire	""	四	hire	v	高
+idea	idea	""	四	idea	n	高
+kid	kid	""	四	kid	n	高
+pending	pending	""	六
+donkey	donkey	""	四
+throne	throne	""	六
+monument	monument	"monumental"	四	monument	n	高
+inventory	inventory	""	六
+vivid	vivid	""	四	vivid	a	高
+kin	kin	""	四
+flush	flush	""	六
+kit	kit	""	四
+missing	missing	""	四
+throughout	throughout	""	四	throughout	prep	高
+virtue	virtue	"virtuous"	四	virtue	n	高
+turnover	turnover	""	六
+mortal	mortal	"mortality"	六
+normal	normal	"normally,normalize/-ise,normalization/-sation"	四	normal	n&a	高
+figure	figure	"figurative"	四	figure	n&v	高
+gradual	gradual	"gradually"	四	gradual	a	高
+brutal	brutal	"brutality"	四
+corrupt	corrupt	"corruption"	四	corrupt	a&v	高
+transmit	transmit	"transmission,transmitter"	四
+commemorate	commemorate	"commemoration"	六
+socialism	socialism	"socialist"	四	socialism	n	高	socialist	a	高
+technology	technology/tech	"technological"	四	technology	n	高
+consulate	consulate	"consul"	六
+stone	stone	"stony"	四	stone	n	高
+bye						bye	int	高
+vaccine	vaccine	"vaccinate,vaccination"	六
+drought	drought	""	四
+leaflet	leaflet	""	六
+bluff	bluff	""	六
+gentleman	gentleman	""	四	gentleman	n	高
+punctual	punctual	"punctuality"	四	punctual	a	高
+compromise	compromise	""	四	compromise	v	高
+advertise	advertise	"advertisement/ad,advertising"	四	advertise	v	高	advertisement	n	高
+sack	sack	""	四
+reach	reach	""	四	reach	v	高
+potent	potent	""	六
+fringe	fringe	""	六
+react	react	"reaction,reactionary"	四	react	v	高
+feedback	feedback	""	四
+hack	hack1	"hacker"	四
+folklore	folklore	""	六
+credential	credential	""	六
+road	road	""	四	road	n	高
+justify	justify	"justification"	四
+review	review	"reviewer"	四	review	v&n	高
+sight	sight	""	四	sight	n	高
+weather	weather	""	四	weather	n	高
+timber	timber	""	四
+roar	roar	""	四
+nobody	nobody	""	四	nobody	n&pron	高
+simulate	simulate	"simulation"	六
+guide	guide	"guidance"	四	guide	n	高	guidance	n	高
+between	between	""	四	between	prep	高
+ethnic	ethnic	""	四
+spectacle	spectacle	"spectacular"	六
+goal	goal	""	四	goal	n	高
+collar	collar	""	四	collar	n	高
+overhead	overhead	""	四	overhead	a	高
+goat	goat	""	四	goat	n	高
+intact	intact	""	四
+seventeen	seventeen	""	四	seventeen		高
+motto						motto	n	高
+juvenile	juvenile	""	六
+petrochemical	petrochemical	""	六
+hive	hive	""	六
+flag	flag	""	四	flag	n	高
+freight	freight	""	四
+wear	wear	""	四	wear(wore,worn)	v	高
+botany	botany	"botanical"	六	botany	n	高	botanical	a	高
+range	range	""	四	range	n&v	高
+sportsman	sportsman/sportswoman	""	四
+derive	derive	"derivative,derivation"	四
+weak	weak	"weaken,weakness"	四	weak	a	高	weakness	n	高
+overseas	overseas	""	四
+rock	rock	"rocky"	四	rock	n	高
+overhear	overhear	""	四
+leak	leak	""	四	leak	v	高
+impress	impress	"impression,impressive"	四	impress	v	高	impression	n	高
+flaw	flaw	"flawless"	四
+feature	feature	""	四
+lean	lean	""	四
+flat	flat1	""	四	flat1	a	高
+assert	assert	"assertion,assertive"	六
+recall	recall	""	四
+climax	climax	""	四
+flap	flap	""	六
+leap	leap	""	四
+place	place	"placement"	四	place	n&v	高
+brand-new	brand-new	""	四
+irrational	irrational	""	四
+regular	regular	"regularity"	四	regular	a	高
+dispute	dispute	"disputable"	四
+overstate	overstate	""	六
+blouse	blouse	""	四	blouse	n	高
+O.K.						O.K.	ad	高
+tremble	tremble	""	四	tremble	v	高
+gymnastics						gymnastics	n	高
+suggest	suggest	"suggestion,suggestive"	四	suggest	v	高	suggestion	n	高
+leaf	leaf	""	四	leaf(pl.leaves)	n	高
+lead	lead1	"leader,leadership,leading"	四	lead(led,led)	v&n	高	leader	n	高
+fraction	fraction	""	四
+token	token	""	四
+filter	filter	""	四
+spaceship	spaceship/spacecraft	""	四	spaceship	n	高
+expect	expect	"expectation,expectancy"	四	expect	v	高	expectation	n	高
+site	site	""	四
+sunlight	sunlight	""	四	sunlight	n	高
+emotion	emotion	"emotional"	四
+soothe	soothe	""	六
+cease	cease	""	四
+etiquette	etiquette	""	六
+assess	assess	"assessment"	四	assess	v	高	assessment	n	高
+spectator	spectator	""	六
+scarce	scarce	"scarcity,scarcely"	四
+queue	queue	""	四	queue	n&v	高
+apology	apology	"apologize/-ise,apologetic"	四	apology	n	高	apologize	v	高
+obsess	obsess	"obsession,obsessive"	六
+passage	passage	""	四	passage	n	高
+utter	utter1	""	四
+adequate	adequate	"adequacy,adequately"	四	adequate	a	高
+sausage	sausage	""	四	sausage	n	高
+dozen	dozen	""	四	dozen	n	高
+tremendous	tremendous	""	四
+escalate	escalate	"escalation,escalator"	六
+condense	condense	"condensation"	四
+divert	divert	"diversion"	六
+armchair						armchair	n	高
+hygiene	hygiene	"hygienic"	六
+plain	plain	""	四	plain	a	高
+should	should	""	四	should	modal-v	高
+only	only	""	四	only	a&ad	高
+conspicuous	conspicuous	""	六
+justice	justice	""	四	justice	n	高
+tag	tag	""	四
+verse	verse	""	六
+tenure	tenure	""	六
+notebook	notebook	""	四	notebook	n	高
+tan	tan	""	六
+tap	tap	""	四	tap	n	高
+individual	individual	"individualism"	四
+bitch	bitch	""	四
+briefcase	briefcase	""	四
+salmon	salmon	""	六
+ugly	ugly	"ugliness"	四	ugly	a	高
+bouquet	bouquet	""	六
+tax	tax	"taxation"	四	tax	n	高
+constrain	constrain	"constraint"	六
+blueprint	blueprint	""	四
+interim	interim	""	六
+testimony	testimony	""	六
+person	person	"personal,personally,personality"	四	person	n	高	personally	ad	高
+safe	safe	"safety"	四	safe	a	高	safety	n	高
+enforce	enforce	"enforcement"	四
+glitter	glitter	""	六
+fragile	fragile	"fragility"	六	fragile	a	高
+herself	herself	""	四	herself	pron	高
+week	week	"weekly"	四	week	n	高	weekly	a	高
+sail	sail	"sailing,sailor"	四	sail	n&v	高	sailor	n	高
+cab	cab	""	四	cab	n	高
+sociology	sociology	"sociologist"	四
+stout	stout	""	六	stout	a	高
+distinct	distinct	"distinction,distinctive"	四	distinction	n	高
+flee	flee	""	四	flee(fled,fled)	v	高
+geology	geology	"geological,geologically"	四
+hedge	hedge	""	四
+hoist	hoist	""	六
+weep	weep	""	四	weep	v	高
+tune	tune	""	四	tune	n	高
+aware	aware	"awareness"	四	aware	a	高
+drama	drama	"dramatic,dramatically"	四
+numerical	numerical	""	六
+can	can1	""	四	can2	n	高
+hair	hair	"hairy"	四	hair	n	高
+cap	cap	""	四	cap	n	高
+award	award	""	四	award	n	高
+car	car	""	四	car	n	高
+eligible	eligible	"eligibility"	六
+ready	ready	"readily"	四	ready	a	高
+stove	stove	""	四	stove	n	高
+cat	cat	""	四	cat	n	高
+alarm	alarm	""	四	alarm	n&v	高
+weed	weed	""	四	weed	n	高
+sparrow						sparrow	n	高
+village	village	"villager"	四	village	n	高	villager	n	高
+glacier	glacier	""	六
+smooth	smooth	""	四	smooth	a	高
+unconscious						unconscious	a	高
+balloon	balloon	""	四	balloon	n	高
+rainfall						rainfall	n	高
+overcoat	overcoat	""	四	overcoat	n	高
+motion	motion	""	四
+idle	idle	"idly"	四
+satisfy	satisfy	"satisfaction,satisfactory"	四	satisfy	v	高	satisfaction	n	高
+plight	plight	""	六
+match	match	""	四	match	v&n	高
+fault	fault	"faulty"	四	fault	n	高
+hail	hail1	""	四
+passive	passive	""	四	passive	a	高
+accent	accent	""	四	accent	n	高
+clothes	clothes	""	四	clothes	n	高
+lorry	lorry	""	四	lorry	n	高
+fragment	fragment	"fragmentation,fragmentary"	四
+carrier	carrier	""	四	carrier	n	高
+beckon	beckon	""	六
+derail	derail	"derailment"	六
+category	category	""	四	category	n	高
+rival	rival	"rivalry"	四

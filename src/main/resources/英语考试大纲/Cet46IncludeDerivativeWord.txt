@@ -185,7 +185,7 @@ amount	""	四
 ample	""	四
 amplify	"amplification"	六
 amuse	"amusing,amusement"	四
-analogue	"analogous"	六
+analog(ue)	"analogous"	六
 analogy	""	六
 analyze/-yse	"analysis,analytic(al),analyst"	四
 ancestor	"ancestry"	四
@@ -218,10 +218,9 @@ antique	""	四
 antonym	""	六
 anxious	"anxiety"	四
 any	""	四
-anybody/anyone	""	四
-anyhow	""	四
+anybody/=anyone	""	四
+anyway/=anyhow	""	四
 anything	""	四
-anyway	""	四
 anywhere	""	四
 apart	""	四
 apartment/apt．	""	四
@@ -2181,7 +2180,7 @@ god	""	四
 gold	"golden"	四
 golf	""	四
 good	""	四
-goodbye	""	四
+goodby(e)	""	四
 goodness	""	四
 goods	""	四
 goose	""	四
@@ -2248,7 +2247,7 @@ gum	""	四
 gun	""	四
 gut	""	四
 guy	""	四
-gym(nasium)	""	四
+gymnasium/gym	""	四
 habit	"habitual"	四
 habitat	""	四
 hack1	"hacker"	四
@@ -2667,7 +2666,7 @@ jeopardize/-ise	"jeopardy"	六
 jerk	""	六
 jet	""	四
 jetlag	""	四
-jewel	"jewel(l)ery"	四
+jewel	"jewel(l)ery/jewelry"	四
 job	""	四
 jockey	""	六
 jog	""	四
@@ -3474,7 +3473,7 @@ party	""	四
 pass	""	四
 passage	""	四
 passenger	""	四
-passerby	""	六
+passerby(pl.passers-by)/passer	""	六
 passion	"passionate"	四
 passive	""	四
 passport	""	四
@@ -3857,7 +3856,7 @@ rag	"ragged,raggedly"	四
 rage	"raging"	四
 raid	""	四
 rail	""	四
-railway/railroad	""	四
+railroad/railway	""	四
 rain	"rainy"	四
 rainbow	""	四
 raincoat	""	四
@@ -3924,7 +3923,7 @@ refer	"reference"	四
 referee	""	六
 referendum	""	六
 refine	"refinery,refinement"	四
-reflect	"reflection,reflective"	四
+reflect	"reflection/-xion,reflective"	四
 reform	"reformation,reformist"	四
 refrain	""	四
 refresh	""	四
@@ -4993,7 +4992,7 @@ trip	""	四
 triple	""	四
 triumph	"triumphant"	四
 trivial	""	六
-trolley	""	四
+trolley/trolly	""	四
 troop	""	四
 trophy	""	六
 tropic	"tropical"	六
@@ -5269,7 +5268,7 @@ which	"whichever"	四
 while/whilst	""	四
 whip	""	四
 whirl	""	六
-whisky/whiskey	""	四
+whiskey/whisky	""	四
 whisper	""	四
 whistle	""	四
 white	""	四

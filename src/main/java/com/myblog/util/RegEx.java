@@ -513,13 +513,21 @@ public class RegEx {
 	    
 	  	//String content = "src: local('Open Sans Light'), local('OpenSans-Light'), url(http://fonts.gstatic.com/s/opensans/v13/DXI1ORHCpsQm3Vp6mXoaTa-j2U0lmluP9RWlSytm3ho.woff2) format('woff2')";
 	    
+	    
 	    //String content = "shrink(shrank,shrunk 或 shrunk,shrunken) v";
-	  	//String retLine = catchWordInBrackets(content);
-	  	//System.out.println("removeBrackets:" + retLine);
+//	    String content = "behaviour(Am behavior) n";
+//	    String retLine = catchWordInBrackets(content);
+//	  	System.out.println("removeBrackets:" + retLine);
 	  	
-	    line = "bike/bicycle";
-	  	line = line.replaceAll("/(.+)", "");//截取第一个/符号前的字符串，即把第一个/符号后的字符串截除掉--若无/符号，保留整个字符串
-	  	System.out.println("removeBrackets,:line=" + line);
+//	    line = "bike/bicycle";
+//	  	line = line.replaceAll("/(.+)", "");//截取第一个/符号前的字符串，即把第一个/符号后的字符串截除掉--若无/符号，保留整个字符串
+//	  	System.out.println("removeBrackets,:line=" + line);
+	    
+//	    String content = "behaviour(Am behavior) n";
+	    String content = "beat(beat,beaten) v&n";
+	    String retLine = fmtNCEEWordLine(content);
+	  	System.out.println("removeBrackets:" + retLine);
+	  	
 	}
 
 //	week - n. a period of time equal to seven days
@@ -640,7 +648,7 @@ public class RegEx {
     	// 从内容上截取路径数组
     	//Pattern pattern = Pattern.compile("(?<=\\()[^\\)]+");  
     	//Pattern pattern = Pattern.compile("([a-z])(?<=\\()[^\\)]*");//(\\w)\\s*(?<=\\()[^\\)]*\\s*(.+)
-    	Pattern pattern = Pattern.compile("(?<=\\()[^\\)]+");
+    	Pattern pattern = Pattern.compile("(?<=\\()[^\\)]+");	//(?<=pattern)
 		Matcher matcher = pattern.matcher(line);
 		if (matcher.find()) {
 			String bracketContent = matcher.group();
@@ -652,4 +660,31 @@ public class RegEx {
 //    	 }
 		return "";
 	}
+    
+//  格式化高考词汇
+//  be(am,is,are,was,were,being,been) v
+//  behaviour(Am behavior) n
+//  budget n
+//  build(built,built) v
+//  burn(burnt,burnt 或-ed,-ed) v&n
+//  ice-cream n
+//  T-shirt n
+//  yellow a&n
+//  X-ray n
+  public static String fmtNCEEWordLine(String line) {
+	  	//java正则表达式匹配小括号内的内容
+		Pattern pattern = Pattern.compile("(?<=\\()[^\\)]+");
+		Matcher matcher = pattern.matcher(line);
+		if (matcher.find()) {
+			String bracketContent = matcher.group();
+			System.out.println("fmtNCEEWordLine bracketContent:" + bracketContent);
+			if (bracketContent.startsWith("Am ")) {
+				line = line.replaceFirst("\\("+bracketContent+"\\)", "");
+				line = bracketContent.replaceFirst("Am ", "") + "/"+line;
+			}
+		}
+		line = line.replaceAll("pl ", "pl.");
+		line = line.replaceAll("\\s+", "\t");
+      return line;
+  }
 }
