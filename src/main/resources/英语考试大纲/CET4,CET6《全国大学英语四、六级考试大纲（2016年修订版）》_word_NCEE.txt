@@ -2,7 +2,7 @@ a/an
 abandon
 ★abbreviation
 ★abide
-able ability
+able ability unable(高考)
 ★abnormal
 aboard
 abolish abolition
@@ -73,7 +73,7 @@ adopt adoption
 ★adore adorable
 adult adulthood
 advance advancement advanced
-advantage advantageous
+advantage advantageous disadvantage(高考)
 ★advent
 adventure adventurer adventurous
 adverb
@@ -448,7 +448,7 @@ beach
 ★beak
 beam
 bean
-bear
+bear unbearable(高考)
 beard
 bearing
 beast
@@ -471,7 +471,7 @@ behave behavio(u)r behavio(u)ral
 behind
 being
 belief
-believe
+believe unbelievable(高考)
 bell
 bely
 belong belongings
@@ -507,7 +507,7 @@ bid
 big
 ★bilateral
 bill
-billion billionaire
+billion billionaire (billionth/高考)
 bin
 bind
 ★binoculars
@@ -595,7 +595,7 @@ boundary
 bow1
 bow2
 bowel
-bowl
+bowl bowling(高考)
 box1
 box2
 boxing
@@ -619,7 +619,7 @@ breakdown
 breakfast
 breakthrough
 breast
-breath
+breath breathless
 breathe
 breed
 breeze
@@ -665,7 +665,7 @@ budget budgetary
 ★buffer
 buffet
 bug
-build building
+build building rebuild(高考)
 bulb
 bulk bulky
 bull
@@ -1531,7 +1531,7 @@ divorce
 dizzy
 do
 dock
-doctor doctorate doctoral
+doctor/Dr doctorate doctoral
 ★doctrine
 document documentary
 ★dodge
@@ -1671,7 +1671,7 @@ elite
 ★eloquent eloquence
 else
 elsewhere
-email
+email/e-mail
 ★emancipate emancipation
 ★embargo
 ★embark
@@ -1872,7 +1872,7 @@ faculty
 fade
 fail failure
 faint
-fair1 fairly
+fair1 fairly unfair(高考)
 fair2
 fairy
 faith faithful
@@ -2041,7 +2041,7 @@ forth
 forthcoming
 ★fortify fortification
 ★fortnight
-fortune fortunate
+fortune fortunate unfortunate(高考)
 forty
 forum
 forward
@@ -2824,7 +2824,7 @@ light1 lighting
 light2
 lightning
 like1
-like2 likely likelihood
+like2 likely likelihood unlike(高考)
 likewise
 lily
 limb
@@ -4456,7 +4456,7 @@ span
 spare sparingly
 spark
 sparkle
-speak speaker
+speak speaker spoken(高考)
 ★spear
 special specialize/-ise specialization/-sation specialist
 ★specialty/speciality
@@ -4761,7 +4761,7 @@ tape
 target
 ★tariff
 task
-taste tasty
+taste tasty tasteless(高考)
 tax taxation
 taxi
 tea
@@ -5024,7 +5024,7 @@ turn
 ★turtle
 tutor tutorial
 twelve twelfth
-twenty twentieth
+twenty twentieth twenty-one(高考) twenty-first(高考)
 twice
 twin
 twist
@@ -5193,7 +5193,7 @@ vulnerable vulnerability
 wage
 wag(g)on
 waist
-wait waiter/waitress
+wait waiter waitress
 ★waive waiver
 wake waken
 walk

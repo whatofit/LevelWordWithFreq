@@ -146,142 +146,127 @@ x|y 匹配 x 或 y。
 */
 
 public class RegEx {
-    /**
-    * @param regex
-    * 正则表达式字符串
-    * @param txt
-    * 要匹配的字符串
-    * @return 如果txt 符合 regex的正则表达式格式,返回true, 否则返回 false;
-    */
+	/**
+	 * @param regex
+	 *            正则表达式字符串
+	 * @param txt
+	 *            要匹配的字符串
+	 * @return 如果txt 符合 regex的正则表达式格式,返回true, 否则返回 false;
+	 */
 	public static boolean isMatch(String regex, String txt) {
-        Pattern pattern = Pattern.compile(regex);
-        Matcher matcher = pattern.matcher(txt);
-        return matcher.matches();
-    }
-	
-    /**
-     * 在字符串中找单词
-    * @param regex
-    * 要找的单词
-    * @param txt
-    * 待找的字符串、
-    * @return 如果txt 有符合 regex单词,返回true, 否则返回 false;
-    */
+		Pattern pattern = Pattern.compile(regex);
+		Matcher matcher = pattern.matcher(txt);
+		return matcher.matches();
+	}
+
+	/**
+	 * 验证字符串是否为整数
+	 * 
+	 * @param 待验证的字符串
+	 * @return 如果是符合格式的字符串,返回 <b>true </b>,否则为 <b>false </b>
+	 */
+	public static boolean isNumber(String line) {
+		String regex = "^[0-9]+$"; // ^\\d+$
+		return isMatch(regex, line);
+	}
+
+	// 判断字符串中是否包含数字
+	public static boolean containsNumber(String line) {
+		String regex = "[\\d]+";
+		Pattern pattern = Pattern.compile(regex);
+		Matcher matcher = pattern.matcher(line);
+		return matcher.find();
+	}
+
+	/**
+	 * 22.验证汉字 表达式 ^[\u4e00-\u9fa5]{0,}$ 描述:只能汉字
+	 */
+	public static boolean isContainsChinese(String line) {
+		String regex = "^[\\u4e00-\\u9fa5]*$";
+		Matcher matcher = Pattern.compile(regex).matcher(line);
+		return matcher.find();
+	}
+
+	/**
+	 * 在字符串中找单词
+	 * 
+	 * @param regex
+	 *            要找的单词
+	 * @param txt
+	 *            待找的字符串、
+	 * @return 如果txt 有符合 regex单词,返回true, 否则返回 false;
+	 */
 	public static boolean isMatchWord(String line, String word) {
 		String[] wordField = line.split("\t");
 		String newLine = wordField[0] + "/" + wordField[1];
-		String []newField = newLine.split("/");
+		String[] newField = newLine.split("/");
 		for (int j = 0; j < newField.length; j++) {
 			if (word.equalsIgnoreCase(newField[j])) {
 				return true;
 			}
 		}
-        return false;
-    }
-    
+		return false;
+	}
+
 	// 拆分一行文本为一个单词,及自定义的其他，
-	//本行内容放到sentences, 单词放到spelling字段，【除单词之外的其他(可拼接)meanings字段,】
-	//比如集合1的每行如下：
-	//2	abandon	核	vt.离弃，丢弃；遗弃，抛弃；放弃
-	//5	able	基	a.有(能力、时间、知识等)做某事，有本事的
-	//5432	zone	核	n.地区,区域 v.分区,划分地带
+	// 本行内容放到sentences, 单词放到spelling字段，【除单词之外的其他(可拼接)meanings字段,】
+	// 比如集合1的每行如下：
+	// 2 abandon 核 vt.离弃，丢弃；遗弃，抛弃；放弃
+	// 5 able 基 a.有(能力、时间、知识等)做某事，有本事的
+	// 5432 zone 核 n.地区,区域 v.分区,划分地带
 	//
-	//结合2的每行如下:
-	//able
-	//zoo
-    //bike/bicycle    小
-	//telephone/phone    小
-	//theatre/theater  小
-	//child/children   小
+	// 结合2的每行如下:
+	// able
+	// zoo
+	// bike/bicycle 小
+	// telephone/phone 小
+	// theatre/theater 小
+	// child/children 小
 	public static int spelling_Idx = 0;
-    public static Word split2Word(String line) {
-        String []field = line.trim().split("\\s");
-        String spelling = "";
-        if (spelling_Idx < field.length) {
-        	spelling = field[spelling_Idx];
-        } 
-        Word word = new Word(removeBrackets(spelling)); //spelling.replaceAll("[()]", ""); 删除()小括号
-        word.setSentences(line);
-        return word;
-    }
-    
-//    public static String split2Word2(String line) {
-//        String []field = line.trim().split("\\s");
-//        String spelling = "";
-//        if (spelling_Idx < field.length) {
-//            spelling = field[spelling_Idx];
-//        } 
-//        return removeBrackets(spelling);
-//    }
-    
-//    5294    vitamin n.维生素
-//    5295    vivid   a.鲜艳的;生动的,栩栩如生的
-//    5296    vocabulary  n.词汇,词汇量;词汇表
-//    5297    vocal   a.声音的;有声的;歌唱的 n.元音;声乐作品
-//    ★ accession
-//    ★ accessory
-//       accident
-//       accidental
-//    ▲ acclaim
-//    ★ accommodate
-//       accommodation
-//       accompany
-//    ▲ accomplice
-//       accomplish
-//       accord
-    public static Word catchFreqLevelWord(String line) {
-//        if (line.trim())
-//        Word freqLevelWord = new Word();
-        Word levelWord = new Word();
-        // /匹配双字节字符(包括汉字在内)：[^x00-xff]
-        String regEx = "([^x00-xff])\\s*([a-zA-Z()\\-\']+)";//匹配一个宽字符 空白(空格) 大小写字母或连字符号(Coca-Cola/ice-cream/living-room/t-shirt/up-to-date/x-ray) 单引号(o'clock),不匹配数字
-        Pattern p = Pattern.compile(regEx);
-        Matcher matcher = p.matcher(line);
-        if (matcher.find()) {
-            // int gc = matcher.groupCount();
-            // System.out.println("gc = " + gc);
-            // 一般要求4794个单词（含中学已学词汇），表中不设标记；
-            // 较高要求1601个单词，表中标记为★；
-            // 更高要求1281个单词，表中标记为▲。
-            String cet = matcher.group(1);
-            String word = matcher.group(2);
-//          中考18Level
-//          高考35Level
-//          四级46Level
-//          考研55Level
-//          六级64Level
-//          String level = "cet4";
-//          if (cet.equals("★")) {
-//              level = "cet6";
-//          } else if (cet.equals("▲")) {
-//              level = "cet8";
-//          } else {
-//              level = "cet4";
-//          }
-            String level = "";
-            if (cet.equals("★")) {
-                level = "六级";
-            } else if (cet.equals("▲")) {
-                level = "更高要求";
-//              word = "";
-            } else if(isNumber(cet)){
-                levelWord.setFrequency(cet);
-            } else {
-                level = "四级";
-            }
-            levelWord.setSpelling(word.replaceAll("[()]", "")); // 删除()小括号
-//          levelWord.setSpelling(word.replaceAll("[()]", "").toLowerCase()); // 删除()小括号
-            levelWord.setLevel(level);
-        }
-        return levelWord;
-      }
-    
-    //hydrology
-	public static Word toLevelWord(String line) {
+
+	public static Word split2Word(String line) {
+		String[] field = line.trim().split("\\s");
+		String spelling = "";
+		if (spelling_Idx < field.length) {
+			spelling = field[spelling_Idx];
+		}
+		Word word = new Word(removeBrackets(spelling)); // spelling.replaceAll("[()]", ""); 删除()小括号
+		word.setSentences(line);
+		return word;
+	}
+
+	// public static String split2Word2(String line) {
+	// String []field = line.trim().split("\\s");
+	// String spelling = "";
+	// if (spelling_Idx < field.length) {
+	// spelling = field[spelling_Idx];
+	// }
+	// return removeBrackets(spelling);
+	// }
+
+	// 5294 vitamin n.维生素
+	// 5295 vivid a.鲜艳的;生动的,栩栩如生的
+	// 5296 vocabulary n.词汇,词汇量;词汇表
+	// 5297 vocal a.声音的;有声的;歌唱的 n.元音;声乐作品
+	// ★ accession
+	// ★ accessory
+	// accident
+	// accidental
+	// ▲ acclaim
+	// ★ accommodate
+	// accommodation
+	// accompany
+	// ▲ accomplice
+	// accomplish
+	// accord
+	public static Word catchFreqLevelWord(String line) {
+		// if (line.trim())
+		// Word freqLevelWord = new Word();
 		Word levelWord = new Word();
 		// /匹配双字节字符(包括汉字在内)：[^x00-xff]
-		//String regEx = "([\\d|^x00-xff]+)\\s*([a-zA-Z()\\-\']+)";//匹配一个宽字符 空白(空格) 大小写字母或连字符号(Coca-Cola/ice-cream/living-room/t-shirt/up-to-date/x-ray) 单引号(o'clock),不匹配数字
-		String regEx = "([^x00-xff]|\\d+)\\s*([a-zA-Z()\\-\']+)";//匹配一个宽字符 空白(空格) 大小写字母或连字符号(Coca-Cola/ice-cream/living-room/t-shirt/up-to-date/x-ray) 单引号(o'clock),不匹配数字
+		String regEx = "([^x00-xff])\\s*([a-zA-Z()\\-\']+)";// 匹配一个宽字符 空白(空格)
+															// 大小写字母或连字符号(Coca-Cola/ice-cream/living-room/t-shirt/up-to-date/x-ray)
+															// 单引号(o'clock),不匹配数字
 		Pattern p = Pattern.compile(regEx);
 		Matcher matcher = p.matcher(line);
 		if (matcher.find()) {
@@ -292,37 +277,88 @@ public class RegEx {
 			// 更高要求1281个单词，表中标记为▲。
 			String cet = matcher.group(1);
 			String word = matcher.group(2);
-//			中考18Level
-//			高考35Level
-//			四级46Level
-//			考研55Level
-//			六级64Level
-//			String level = "cet4";
-//			if (cet.equals("★")) {
-//				level = "cet6";
-//			} else if (cet.equals("▲")) {
-//				level = "cet8";
-//			} else {
-//				level = "cet4";
-//			}
+			// 中考18Level
+			// 高考35Level
+			// 四级46Level
+			// 考研55Level
+			// 六级64Level
+			// String level = "cet4";
+			// if (cet.equals("★")) {
+			// level = "cet6";
+			// } else if (cet.equals("▲")) {
+			// level = "cet8";
+			// } else {
+			// level = "cet4";
+			// }
 			String level = "";
 			if (cet.equals("★")) {
 				level = "六级";
 			} else if (cet.equals("▲")) {
 				level = "更高要求";
-//				word = "";
-            } else if(isNumber(cet)){
-                levelWord.setFrequency(cet);
+				// word = "";
+			} else if (isNumber(cet)) {
+				levelWord.setFrequency(cet);
 			} else {
-				//level = "四级";
+				level = "四级";
 			}
 			levelWord.setSpelling(word.replaceAll("[()]", "")); // 删除()小括号
-//			levelWord.setSpelling(word.replaceAll("[()]", "").toLowerCase()); // 删除()小括号
+			// levelWord.setSpelling(word.replaceAll("[()]", "").toLowerCase()); // 删除()小括号
 			levelWord.setLevel(level);
 		}
 		return levelWord;
-	  }
-	
+	}
+
+	// hydrology
+	public static Word toLevelWord(String line) {
+		Word levelWord = new Word();
+		// /匹配双字节字符(包括汉字在内)：[^x00-xff]
+		// String regEx = "([\\d|^x00-xff]+)\\s*([a-zA-Z()\\-\']+)";//匹配一个宽字符 空白(空格)
+		// 大小写字母或连字符号(Coca-Cola/ice-cream/living-room/t-shirt/up-to-date/x-ray)
+		// 单引号(o'clock),不匹配数字
+		String regEx = "([^x00-xff]|\\d+)\\s*([a-zA-Z()\\-\']+)";// 匹配一个宽字符 空白(空格)
+																	// 大小写字母或连字符号(Coca-Cola/ice-cream/living-room/t-shirt/up-to-date/x-ray)
+																	// 单引号(o'clock),不匹配数字
+		Pattern p = Pattern.compile(regEx);
+		Matcher matcher = p.matcher(line);
+		if (matcher.find()) {
+			// int gc = matcher.groupCount();
+			// System.out.println("gc = " + gc);
+			// 一般要求4794个单词（含中学已学词汇），表中不设标记；
+			// 较高要求1601个单词，表中标记为★；
+			// 更高要求1281个单词，表中标记为▲。
+			String cet = matcher.group(1);
+			String word = matcher.group(2);
+			// 中考18Level
+			// 高考35Level
+			// 四级46Level
+			// 考研55Level
+			// 六级64Level
+			// String level = "cet4";
+			// if (cet.equals("★")) {
+			// level = "cet6";
+			// } else if (cet.equals("▲")) {
+			// level = "cet8";
+			// } else {
+			// level = "cet4";
+			// }
+			String level = "";
+			if (cet.equals("★")) {
+				level = "六级";
+			} else if (cet.equals("▲")) {
+				level = "更高要求";
+				// word = "";
+			} else if (isNumber(cet)) {
+				levelWord.setFrequency(cet);
+			} else {
+				// level = "四级";
+			}
+			levelWord.setSpelling(word.replaceAll("[()]", "")); // 删除()小括号
+			// levelWord.setSpelling(word.replaceAll("[()]", "").toLowerCase()); // 删除()小括号
+			levelWord.setLevel(level);
+		}
+		return levelWord;
+	}
+
 	// ★ authoritative
 	// ▲ austere
 	// ★ authorize/-ise
@@ -350,8 +386,8 @@ public class RegEx {
 				level = "64";
 			} else if (cet.equals("▲")) {
 				level = "77";
-			} else if(isNumber(cet)){
-			    freq = cet;
+			} else if (isNumber(cet)) {
+				freq = cet;
 			} else {
 				level = "48";
 			}
@@ -403,288 +439,277 @@ public class RegEx {
 	}
 
 	// 从指定的(第一个匹配的)字符串，删除到行尾 ,String tag
-	public static String removeTrail(String line,String tag) {
-		return line.replaceAll(tag+".*$", "");
+	public static String removeTrail(String line, String tag) {
+		return line.replaceAll(tag + ".*$", "");
 	}
-	
-    /**
-    * 验证字符串是否为整数
-    * 
-    * @param 待验证的字符串
-    * @return 如果是符合格式的字符串,返回 <b>true </b>,否则为 <b>false </b>
-    */
-    public static boolean isNumber(String line) {
-        String regex = "^[0-9]*$";
-        return isMatch(regex, line);
-    }
 
-    
-	// 判断字符串中是否包含数字
-	public static boolean containsNumber(String line) {
-		String regex="[\\d]+";
-		Pattern pattern = Pattern.compile(regex);
-		Matcher matcher = pattern.matcher(line);
-		return matcher.find();
-	}
-	
 	// 取符串中的第一个数字
-	// 3	and	c
-	// 7/9	to	t/i
-	// 12/27/903	that	c/d/r
-	// 20/4665	this	d/r
+	// 3 and c
+	// 7/9 to t/i
+	// 12/27/903 that c/d/r
+	// 20/4665 this d/r
 	public static int catchFirstNumber(String line) {
 		String regex = "^(\\d+).*";
-        Pattern pattern = Pattern.compile(regex);
-        Matcher matcher = pattern.matcher(line.trim());
-        if (matcher.find()) {
-            String freq = matcher.group(1);
-            return Integer.parseInt(freq );
-        }
-        return 0;
+		Pattern pattern = Pattern.compile(regex);
+		Matcher matcher = pattern.matcher(line.trim());
+		if (matcher.find()) {
+			String freq = matcher.group(1);
+			return Integer.parseInt(freq);
+		}
+		return 0;
 	}
-	
+
 	// 摄取本行第一个整数,第一个单词，第二个整数
-    public static Word catchNumberWord(String line) {
-        String []arr = line.trim().split("\\s");
-        if (arr.length == 1) {
-            return new Word(arr[0]);
-        } else {
-            Word word = toLevelWord(line);
-            if (word.getSpelling() == null) {
-                if (arr.length >= 2) {
-                    word = new Word(arr[0],arr[1]);
-                }
-            }
-            return word;
-        }
-    }
-    
-    // 14 you p
-    // 29 n''t x
-    // 29 n't x 
-    // 48 will v
-    // 6863 welcome n  
-    //3652 and/or c 
-    //8288 sauté v  
-    //4103 o''clock r  
-    //12253 y''all p  
-    public static String catchWordLine(String line) {
-        String regex = "^(\\d+)\\s+([a-zA-Z\\-\'/é]+)(?:\\s*\\[PL\\])?\\s+([a-zA-Z])$";
-        Pattern pattern = Pattern.compile(regex);
-        Matcher matcher = pattern.matcher(line.trim().replaceAll("''", "'"));
-        if (matcher.find()) {
-            String freq = matcher.group(1);
-            String word = matcher.group(2);
-            String pos = matcher.group(3);
-            return freq +"\t"+word+"\t" + pos;
-        }
-        return "";
-    }
-    
+	public static Word catchNumberWord(String line) {
+		String[] arr = line.trim().split("\\s");
+		if (arr.length == 1) {
+			return new Word(arr[0]);
+		} else {
+			Word word = toLevelWord(line);
+			if (word.getSpelling() == null) {
+				if (arr.length >= 2) {
+					word = new Word(arr[0], arr[1]);
+				}
+			}
+			return word;
+		}
+	}
+
+	// 14 you p
+	// 29 n''t x
+	// 29 n't x
+	// 48 will v
+	// 6863 welcome n
+	// 3652 and/or c
+	// 8288 sauté v
+	// 4103 o''clock r
+	// 12253 y''all p
+	public static String catchWordLine(String line) {
+		String regex = "^(\\d+)\\s+([a-zA-Z\\-\'/é]+)(?:\\s*\\[PL\\])?\\s+([a-zA-Z])$";
+		Pattern pattern = Pattern.compile(regex);
+		Matcher matcher = pattern.matcher(line.trim().replaceAll("''", "'"));
+		if (matcher.find()) {
+			String freq = matcher.group(1);
+			String word = matcher.group(2);
+			String pos = matcher.group(3);
+			return freq + "\t" + word + "\t" + pos;
+		}
+		return "";
+	}
+
 	public static void main(String[] args) {
-	    //String line = "★ behavio(u)ral";
-//	    String line = "▲ acclaim";
-//		 String line = "★ authorize/-ise";
-//		 String line = "  ax(e) ";
-//		String line = "  airplane/aeroplane(r)";
-//      String line = "believe";
-//	    String line = "654 finish";
-	    //String line = "5297   vocal   a.声音的;有声的;歌唱的 n.元音;声乐作品";
-//	    String line = "6863 welcome n  ";
-//	    String line = "2846 | 0.96 ";
-//	    String line = "9826 | 0.93 ";
-	    //String line = "9975 semifinal [PL] n  ";
-	    //String line = "9975 semifinal n ";
-	    String line = "9997 supernova      ";
-      
-		//catchWord(line);
-		
-		//System.out.println("removeTrail=" + removeTrail(line,"/"));
-		
-		//System.out.println("replaceAll=" + line.replaceAll("[()\\d]", ""));
-		
-		//System.out.println("containsNumber=" + containsNumber(line));
-//	    System.out.println("containsNumber:" + catchNumberWord(line));
-	    
-//	    System.out.println("containsNumber:" + catchWordLine(line));
-//	    String content = "i want to [thank] you (state) [thank] very(dfljsj)nishishui";
-//	    String retLine = removeBrackets(content);
-//	    System.out.println("removeBrackets:" + retLine);
-	    
-	  	//String content = "src: local('Open Sans Light'), local('OpenSans-Light'), url(http://fonts.gstatic.com/s/opensans/v13/DXI1ORHCpsQm3Vp6mXoaTa-j2U0lmluP9RWlSytm3ho.woff2) format('woff2')";
-	    
-	    
-	    //String content = "shrink(shrank,shrunk 或 shrunk,shrunken) v";
-//	    String content = "behaviour(Am behavior) n";
-//	    String retLine = catchWordInBrackets(content);
-//	  	System.out.println("removeBrackets:" + retLine);
-	  	
-//	    line = "bike/bicycle";
-//	  	line = line.replaceAll("/(.+)", "");//截取第一个/符号前的字符串，即把第一个/符号后的字符串截除掉--若无/符号，保留整个字符串
-//	  	System.out.println("removeBrackets,:line=" + line);
-	    
-//	    String content = "behaviour(Am behavior) n";
-	    String content = "beat(beat,beaten) v&n";
-	    String retLine = fmtNCEEWordLine(content);
-	  	System.out.println("removeBrackets:" + retLine);
-	  	
+		// String line = "★ behavio(u)ral";
+		// String line = "▲ acclaim";
+		// String line = "★ authorize/-ise";
+		// String line = " ax(e) ";
+		// String line = " airplane/aeroplane(r)";
+		// String line = "believe";
+		// String line = "654 finish";
+		// String line = "5297 vocal a.声音的;有声的;歌唱的 n.元音;声乐作品";
+		// String line = "6863 welcome n ";
+		// String line = "2846 | 0.96 ";
+		// String line = "9826 | 0.93 ";
+		// String line = "9975 semifinal [PL] n ";
+		// String line = "9975 semifinal n ";
+		String line = "9997 supernova      ";
+
+		// catchWord(line);
+
+		// System.out.println("removeTrail=" + removeTrail(line,"/"));
+
+		// System.out.println("replaceAll=" + line.replaceAll("[()\\d]", ""));
+
+		// System.out.println("containsNumber=" + containsNumber(line));
+		// System.out.println("containsNumber:" + catchNumberWord(line));
+
+		// System.out.println("containsNumber:" + catchWordLine(line));
+		// String content = "i want to [thank] you (state) [thank]
+		// very(dfljsj)nishishui";
+		// String retLine = removeBrackets(content);
+		// System.out.println("removeBrackets:" + retLine);
+
+		// String content = "src: local('Open Sans Light'), local('OpenSans-Light'),
+		// url(http://fonts.gstatic.com/s/opensans/v13/DXI1ORHCpsQm3Vp6mXoaTa-j2U0lmluP9RWlSytm3ho.woff2)
+		// format('woff2')";
+
+		// String content = "shrink(shrank,shrunk 或 shrunk,shrunken) v";
+		// String content = "behaviour(Am behavior) n";
+		// String retLine = catchWordInBrackets(content);
+		// System.out.println("removeBrackets:" + retLine);
+
+		// line = "bike/bicycle";
+		// line = line.replaceAll("/(.+)",
+		// "");//截取第一个/符号前的字符串，即把第一个/符号后的字符串截除掉--若无/符号，保留整个字符串
+		// System.out.println("removeBrackets,:line=" + line);
+
+		// String content = "behaviour(Am behavior) n";
+		String content = "beat(beat,beaten) v&n";
+		String retLine = fmtNCEEWordLine(content);
+		System.out.println("removeBrackets:" + retLine);
+
 	}
 
-//	week - n. a period of time equal to seven days
-//	weigh - v. to measure how heavy someone or something is
-//	welcome - v. to express happiness or pleasure when someone arrives or something develops
-//	well - ad. in a way that is good or pleasing; in good health; n. a hole in the ground where water, gas or oil can be found
-//	west - n. the direction in which the sun goes down
-//	wet - ad. covered with water or other liquid; not dry
-    public static String parseWordOfVOA(String line) {
-        // 匹配一个单词开始，空白(空格) 连字符 所有字符
-        String regEx = "(^\\w+)\\s*-?\\s*(.*)";
-        Pattern p = Pattern.compile(regEx);
-        Matcher matcher = p.matcher(line);
-        if (matcher.find()) {
-            String word = matcher.group(1);
-            String mean = matcher.group(2);
-            return word + "\t"+ mean ;
-        }
-        return "" + "\t"+ line;
-        //return new String[] { "", line };
-    }
-    
-    
-//按照行合并单词，若某行以-连字符结尾，则把连字符去掉，把下一行拼接到其后；
-//弱这行不是以-连字符结尾，则在行尾添加空格，再把下一行拼接到其后。
-    //换句话说，若行尾是Hyphen，则直接删除行尾Hyphen，或行尾不是连字符，则拼接一个空格到行尾。
-    public static String removeEndHyphen(String line) {
-    	//String regex = "\\.*-$";
-    	if (line.endsWith("-")) {
-    		return line.substring(0,line.length()-1);
-    		//return line.replaceAll(regex, replacement)
-    	} else {
-    		return line + " ";
-    	}
+	// week - n. a period of time equal to seven days
+	// weigh - v. to measure how heavy someone or something is
+	// welcome - v. to express happiness or pleasure when someone arrives or
+	// something develops
+	// well - ad. in a way that is good or pleasing; in good health; n. a hole in
+	// the ground where water, gas or oil can be found
+	// west - n. the direction in which the sun goes down
+	// wet - ad. covered with water or other liquid; not dry
+	public static String parseWordOfVOA(String line) {
+		// 匹配一个单词开始，空白(空格) 连字符 所有字符
+		String regEx = "(^\\w+)\\s*-?\\s*(.*)";
+		Pattern p = Pattern.compile(regEx);
+		Matcher matcher = p.matcher(line);
+		if (matcher.find()) {
+			String word = matcher.group(1);
+			String mean = matcher.group(2);
+			return word + "\t" + mean;
+		}
+		return "" + "\t" + line;
+		// return new String[] { "", line };
 	}
-    
-    //String str="[\u4e00-\u9fa5]";    //该表达式可以识别出任何汉字。
-    //String punctuation =  "[\\pP+~$`^=|<>～｀＄＾＋＝｜＜＞￥×]"; //标点（所有中英文标点）的正则表达式
-    
-    //匹配中文标点符号：
-    //String str="[\u3002\uff1b\uff0c\uff1a\u201c\u201d\uff08\uff09\u3001\uff1f\u300a\u300b]"
-    //该表达式可以识别出： 。 ；  ， ： “ ”（ ） 、 ？ 《 》 这些标点符号。
-     
-//    //java中匹配字符串中的中文字符(含中文标点的)
-//    public static String catchChinese(String src) {
-//        String exp="^[\u4E00-\u9FA5|\\！|\\,|\\。|\\（|\\）|\\《|\\》|\\“|\\”|\\？|\\：|\\；|\\【|\\】]$";  
-//        Pattern pattern=Pattern.compile(exp);  
-//        for (int i = 0; i < src.length(); i++) {// 遍历字符串每一个字符  
-//            char c = str.charAt(i);  
-//            Matcher matcher=pattern.matcher(c + "");  
-//            if(matcher.matches()) {  
-//                amount++;  
-//            }  
-//        }  
-//        return amount;  
-//        
-//        String regex = "^(\\d+)\\s+([a-zA-Z\\-\'/é]+)(?:\\s*\\[PL\\])?\\s+([a-zA-Z])$";
-//        Pattern pattern = Pattern.compile(regex);
-//        Matcher matcher = pattern.matcher(line.trim().replaceAll("''", "'"));
-//        if (matcher.find()) {
-//            String freq = matcher.group(1);
-//            String word = matcher.group(2);
-//            String pos = matcher.group(3);
-//            return freq +"\t"+word+"\t" + pos;
-//        }
-//        return "";
-//    }  
 
-//    //java中匹配并获取前导字符串中的英文字符(含英文标点)，及数字，直到碰到汉字为准
-//    public static String catchEnglish(String src) {
-//        //([^\u4e00-\u9fa5])
-//        String regex = "^(\\d+)\\s+([a-zA-Z\\-\'/é]+)(?:\\s*\\[PL\\])?\\s+([a-zA-Z])$";
-//        Pattern pattern = Pattern.compile(regex);
-//        Matcher matcher = pattern.matcher(line.trim().replaceAll("''", "'"));
-//        if (matcher.find()) {
-//            String freq = matcher.group(1);
-//            String word = matcher.group(2);
-//            String pos = matcher.group(3);
-//            return freq +"\t"+word+"\t" + pos;
-//        }
-//        return "";
-//    }  
-    
-    //Java正则表达式:去掉括号()内任意字符
-    //1.字符集合:	非)右括号的所有字符[^)]
-    //2.次数匹配:	0或多次[^)]+
-    //3.转义: 	()是正则的关键字，所以要反斜杠转义 /( 反斜杠也是关键字，也要转义 //(
-    	    //[^字符]是一个匹配模式，所以里面的 ) 不用转义
-    //正确的表达式结果:    正则表达式 ([^)]+) 转义后是\\([^)]\\)
-    public static String removeBrackets(String line) {
-		//String pattern = "\\[[^\\]]+\\]";//中括号内  
-		String pattern = "\\([^)]*\\)";//括号内  
-		//String pattern = "\\(.+";  
-		line = line.replaceAll(pattern, "");//删除括号内的内容
-		line = line.replaceAll("[\\d*]", "");//删除数字
-		
-		//child/(pl.children)
-		//child/
-		line = line.replaceAll("/(.*)", "");//截取第一个/符号前的字符串，即把第一个/符号后的字符串截除掉--若无/符号，保留整个字符串
+	// 按照行合并单词，若某行以-连字符结尾，则把连字符去掉，把下一行拼接到其后；
+	// 弱这行不是以-连字符结尾，则在行尾添加空格，再把下一行拼接到其后。
+	// 换句话说，若行尾是Hyphen，则直接删除行尾Hyphen，或行尾不是连字符，则拼接一个空格到行尾。
+	public static String removeEndHyphen(String line) {
+		// String regex = "\\.*-$";
+		if (line.endsWith("-")) {
+			return line.substring(0, line.length() - 1);
+			// return line.replaceAll(regex, replacement)
+		} else {
+			return line + " ";
+		}
+	}
+
+	// String str="[\u4e00-\u9fa5]"; //该表达式可以识别出任何汉字。
+	// String punctuation = "[\\pP+~$`^=|<>～｀＄＾＋＝｜＜＞￥×]"; //标点（所有中英文标点）的正则表达式
+
+	// 匹配中文标点符号：
+	// String
+	// str="[\u3002\uff1b\uff0c\uff1a\u201c\u201d\uff08\uff09\u3001\uff1f\u300a\u300b]"
+	// 该表达式可以识别出： 。 ； ， ： “ ”（ ） 、 ？ 《 》 这些标点符号。
+
+	// //java中匹配字符串中的中文字符(含中文标点的)
+	// public static String catchChinese(String src) {
+	// String
+	// exp="^[\u4E00-\u9FA5|\\！|\\,|\\。|\\（|\\）|\\《|\\》|\\“|\\”|\\？|\\：|\\；|\\【|\\】]$";
+	// Pattern pattern=Pattern.compile(exp);
+	// for (int i = 0; i < src.length(); i++) {// 遍历字符串每一个字符
+	// char c = str.charAt(i);
+	// Matcher matcher=pattern.matcher(c + "");
+	// if(matcher.matches()) {
+	// amount++;
+	// }
+	// }
+	// return amount;
+	//
+	// String regex =
+	// "^(\\d+)\\s+([a-zA-Z\\-\'/é]+)(?:\\s*\\[PL\\])?\\s+([a-zA-Z])$";
+	// Pattern pattern = Pattern.compile(regex);
+	// Matcher matcher = pattern.matcher(line.trim().replaceAll("''", "'"));
+	// if (matcher.find()) {
+	// String freq = matcher.group(1);
+	// String word = matcher.group(2);
+	// String pos = matcher.group(3);
+	// return freq +"\t"+word+"\t" + pos;
+	// }
+	// return "";
+	// }
+
+	// //java中匹配并获取前导字符串中的英文字符(含英文标点)，及数字，直到碰到汉字为准
+	// public static String catchEnglish(String src) {
+	// //([^\u4e00-\u9fa5])
+	// String regex =
+	// "^(\\d+)\\s+([a-zA-Z\\-\'/é]+)(?:\\s*\\[PL\\])?\\s+([a-zA-Z])$";
+	// Pattern pattern = Pattern.compile(regex);
+	// Matcher matcher = pattern.matcher(line.trim().replaceAll("''", "'"));
+	// if (matcher.find()) {
+	// String freq = matcher.group(1);
+	// String word = matcher.group(2);
+	// String pos = matcher.group(3);
+	// return freq +"\t"+word+"\t" + pos;
+	// }
+	// return "";
+	// }
+
+	// Java正则表达式:去掉括号()内任意字符
+	// 1.字符集合: 非)右括号的所有字符[^)]
+	// 2.次数匹配: 0或多次[^)]+
+	// 3.转义: ()是正则的关键字，所以要反斜杠转义 /( 反斜杠也是关键字，也要转义 //(
+	// [^字符]是一个匹配模式，所以里面的 ) 不用转义
+	// 正确的表达式结果: 正则表达式 ([^)]+) 转义后是\\([^)]\\)
+	public static String removeBrackets(String line) {
+		// String pattern = "\\[[^\\]]+\\]";//中括号内
+		String pattern = "\\([^)]*\\)";// 括号内
+		// String pattern = "\\(.+";
+		line = line.replaceAll(pattern, "");// 删除括号内的内容
+		line = line.replaceAll("[\\d*]", "");// 删除数字
+
+		// child/(pl.children)
+		// child/
+		line = line.replaceAll("/(.*)", "");// 截取第一个/符号前的字符串，即把第一个/符号后的字符串截除掉--若无/符号，保留整个字符串
 		return line;
 	}
-    
-    //java正则表达式匹配小括号内的内容
-    //a(an) art
-    //above prep,a & ad
-    //a.m./am,A.M./AM abbr
-    //be(am,is,are,was,were,being,been) v
-    //do(did,done) v
-    //dormitory(dorm) n
-    //dream(dreamt,dreamt 或-ed,-ed) n & v
-    //shrink(shrank,shrunk 或 shrunk,shrunken) v
-    //forget(forgot,forgot/forgotten) v
-    //cheque(Am check) n
-    //fall2(Am)=autumn n
-    //favourite(Am favorite) a & n
-    //dialogue(Am dialog) n
-    public static String catchWordInBrackets(String line) {
-    	// 从内容上截取路径数组
-    	//Pattern pattern = Pattern.compile("(?<=\\()[^\\)]+");  
-    	//Pattern pattern = Pattern.compile("([a-z])(?<=\\()[^\\)]*");//(\\w)\\s*(?<=\\()[^\\)]*\\s*(.+)
-    	Pattern pattern = Pattern.compile("(?<=\\()[^\\)]+");	//(?<=pattern)
+
+	// java正则表达式匹配小括号内的内容
+	// a(an) art
+	// above prep,a & ad
+	// a.m./am,A.M./AM abbr
+	// be(am,is,are,was,were,being,been) v
+	// do(did,done) v
+	// dormitory(dorm) n
+	// dream(dreamt,dreamt 或-ed,-ed) n & v
+	// shrink(shrank,shrunk 或 shrunk,shrunken) v
+	// forget(forgot,forgot/forgotten) v
+	// cheque(Am check) n
+	// fall2(Am)=autumn n
+	// favourite(Am favorite) a & n
+	// dialogue(Am dialog) n
+	public static String catchWordInBrackets(String line) {
+		// 从内容上截取路径数组
+		// Pattern pattern = Pattern.compile("(?<=\\()[^\\)]+");
+		// Pattern pattern =
+		// Pattern.compile("([a-z])(?<=\\()[^\\)]*");//(\\w)\\s*(?<=\\()[^\\)]*\\s*(.+)
+		Pattern pattern = Pattern.compile("(?<=\\()[^\\)]+"); // (?<=pattern)
 		Matcher matcher = pattern.matcher(line);
 		if (matcher.find()) {
 			String bracketContent = matcher.group();
 			return bracketContent;
 			// line = line.replaceFirst("("+bracketContent+")", "");
 		}
-//    	 while(matcher.find()){
-//    	    System.out.println(matcher.group());
-//    	 }
+		// while(matcher.find()){
+		// System.out.println(matcher.group());
+		// }
 		return "";
 	}
-    
-//  格式化高考词汇
-//  be(am,is,are,was,were,being,been) v
-//  behaviour(Am behavior) n
-//  budget n
-//  build(built,built) v
-//  burn(burnt,burnt 或-ed,-ed) v&n
-//  ice-cream n
-//  T-shirt n
-//  yellow a&n
-//  X-ray n
-  public static String fmtNCEEWordLine(String line) {
-	  	//java正则表达式匹配小括号内的内容
+
+	// 格式化高考词汇
+	// be(am,is,are,was,were,being,been) v
+	// behaviour(Am behavior) n
+	// budget n
+	// build(built,built) v
+	// burn(burnt,burnt 或-ed,-ed) v&n
+	// ice-cream n
+	// T-shirt n
+	// yellow a&n
+	// X-ray n
+	public static String fmtNCEEWordLine(String line) {
+		// java正则表达式匹配小括号内的内容
 		Pattern pattern = Pattern.compile("(?<=\\()[^\\)]+");
 		Matcher matcher = pattern.matcher(line);
 		if (matcher.find()) {
 			String bracketContent = matcher.group();
-			System.out.println("fmtNCEEWordLine bracketContent:" + bracketContent);
+			//System.out.println("fmtNCEEWordLine bracketContent:" + bracketContent);
 			if (bracketContent.startsWith("Am ")) {
-				line = line.replaceFirst("\\("+bracketContent+"\\)", "");
-				line = bracketContent.replaceFirst("Am ", "") + "/"+line;
+				line = line.replaceFirst("\\(" + bracketContent + "\\)", "");
+				line = bracketContent.replaceFirst("Am ", "") + "/" + line;
 			}
 		}
-		line = line.replaceAll("pl ", "pl.");
-		line = line.replaceAll("\\s+", "\t");
-      return line;
-  }
+		
+		//line = line.replaceAll("\\s+", "\t");
+		return line;
+	}
 }

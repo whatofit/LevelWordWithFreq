@@ -1,4 +1,4 @@
-a/an art
+a(an) art
 abandon v
 ability n
 able a
@@ -55,7 +55,7 @@ actress n
 actual a
 acute a
 AD abbr
-ad/advertisement n
+ad=advertisement n
 adapt v
 adaptation n
 add v
@@ -141,7 +141,7 @@ alternative a
 although conj
 altitude n
 altogether ad
-aluminium(Am aluminum) n
+aluminum/aluminium n
 always ad
 am v(be)
 a.m./am,A.M./AM abbr
@@ -302,7 +302,7 @@ back ad,a&n
 background n
 backward(s) ad
 bacon n
-bacterium(pl bacteria) n
+bacterium(pl.bacteria) n
 bad(worse,worst) a
 badminton n
 bag n
@@ -347,7 +347,7 @@ BC abbr
 be(am,is,are,was,were,being,been) v
 beach n
 bean n
-bean-curd n
+bean curd n
 bear1 n
 bear2 v
 beard n
@@ -368,7 +368,7 @@ beg v
 begin(began,begun) v
 behalf n
 behave v
-behaviour(Am behavior) n
+behavior/behaviour n
 behind prep&ad
 being n
 belief n
@@ -392,7 +392,7 @@ beyond prep
 bicycle n
 bid v&n
 big a
-bike/bicycle n
+bike=bicycle n
 bill n
 bingo n
 biochemistry n
@@ -502,7 +502,7 @@ bury v
 bus n
 bush n
 business n
-businessman/woman(pl businessmen/women) n
+businessman/woman(pl.businessmen/ women) n
 busy a
 but conj&prep
 butcher n&v
@@ -526,7 +526,7 @@ camera n
 camp n&v
 campaign n
 can1(could);
-can’t/cannot modal-v
+can’t=cannot modal v
 can2 n
 canal n
 cancel v
@@ -572,23 +572,23 @@ cause n&v
 caution n
 cautious a
 cave n
-CD/(compact-disk) n
+CD=compact disk n
 ceiling n
 celebrate v
 celebration n
 cell n
 cent n
 centigrade a
-centimetre(Am centimeter) n
+centimeter/centimetre n
 central a
-centre(Am center) n
+center/centre n
 century n
 ceremony n
 certain a
 certificate n
 chain n
 chair n
-chairman/woman(pl chairmen/women) n
+chairman/woman(pl.chairmen/women) n
 chalk n
 challenge n
 challenging a
@@ -617,13 +617,13 @@ chef n
 chemical a&n
 chemist n
 chemistry n
-cheque(Am check) n
+check/cheque n
 chess n
 chest n
 chew v
 chicken n
 chief a&n
-child(pl children) n
+child(pl.children) n
 childhood n
 chocolate n
 choice n
@@ -692,7 +692,7 @@ collect v
 collection n
 college n
 collision n
-colour(Am color) n&v
+color/colour n&v
 comb n&v
 combine v
 come(came,come) v
@@ -797,11 +797,11 @@ correction n
 correspond v
 corrupt a&v
 cost n&v
-cosy(Am cozy) a
+cozy/cosy a
 cottage n
 cotton n&a
 cough n&v
-could modal-v
+could modal v
 count v
 counter n
 country n
@@ -824,7 +824,7 @@ credit n
 crew n
 crime n
 criminal n
-criterion(pl criteria) n
+criterion(pl.criteria) n
 crop n
 cross n&v
 crossing n
@@ -850,7 +850,7 @@ customs n
 cut(cut,cut) v&n
 cycle v
 cyclist n
-dad/daddy n
+dad=daddy n
 daily a,ad&n
 dam n
 damage n&v
@@ -858,7 +858,7 @@ damp a&n
 dance n&v
 danger n
 dangerous a
-dare v&modal-v
+dare v&modal v
 dark a&n
 darkness n
 dash v&n
@@ -888,7 +888,7 @@ deed n
 deep a&ad
 deer n
 defeat v
-defence(Am defense) n
+defense/defence n
 defend v
 degree n
 delay n&v
@@ -925,7 +925,7 @@ devote v
 devotion n
 diagram n
 dial v
-dialogue(Am dialog) n
+dialog/dialogue n
 diamond n
 diary n
 dictation n
@@ -972,7 +972,7 @@ discussion n
 disease n
 disgusting a
 dish n
-disk/disc n
+disk=disc n
 dislike v
 dismiss v
 distance n
@@ -1006,7 +1006,7 @@ download n&v
 downstairs ad
 downtown ad,n&a
 dozen n
-Dr/doctor n
+Dr=doctor n
 draft n&v
 drag v
 draw(drew,drawn) v
@@ -1033,7 +1033,7 @@ dust n
 dustbin n
 dusty a
 duty n
-DVD/digital-versatile-disk n
+DVD=digital versatile disk n
 dynamic a
 dynasty n
 each a&pron
@@ -1130,7 +1130,7 @@ evidence n
 evident a
 evolution n
 exact a
-exam/examination n
+exam=examination n
 examine v
 example n
 excellent a
@@ -1177,7 +1177,7 @@ fair1 a
 fair2 n
 faith n
 fall1(fell,fallen) v
-fall2(Am)/autumn n
+fall2(Am)=autumn n
 false a
 familiar a
 family n
@@ -1186,7 +1186,7 @@ fan n
 fancy n,v&a
 fantastic a
 fantasy n
-far(farther,farthest或further,furthest) a&ad
+far(farther,farthest或 further,furthest) a&ad
 fare n
 farm n
 farmer n
@@ -1195,8 +1195,8 @@ fasten v
 fat n&a
 father n
 fault n
-favour(Am favor) n
-favourite(Am favorite) a&n
+favor/favour n
+favorite/favourite a&n
 fax n&v
 fear n
 feast n
@@ -1214,7 +1214,7 @@ festival n&a
 fetch v
 fever n
 few pron&a
-fibre(Am fiber) n
+fiber/fibre n
 fiction n
 field n
 fierce a
@@ -1271,7 +1271,7 @@ fond a
 food n
 fool n&v
 foolish a
-foot(pl feet) n
+foot(pl.feet) n
 football n
 for prep&conj
 forbid(forbade,forbidden) v
@@ -1310,7 +1310,7 @@ freezing a
 frequent a
 fresh a
 friction n
-fridge/refrigerator n
+fridge=refrigerator n
 friend n
 friendly a
 friendship n
@@ -1377,7 +1377,7 @@ golden a
 golf n
 good(better,best) a
 goods n
-goose(pl geese) n
+goose(pl.geese) n
 govern v
 government n
 grade n
@@ -1390,8 +1390,8 @@ grammar n
 grand a
 grandchild n
 granddaughter n
-grandma/grandmother n
-grandpa/grandfather n
+grandma=grandmother n
+grandpa=grandfather n
 grandparents n
 grandson n
 granny n
@@ -1407,7 +1407,7 @@ green a&n
 greengrocer n
 greet v
 greeting n
-grey(Am gray) a
+gray/grey a
 grill n
 grocer n
 grocery n
@@ -1424,7 +1424,7 @@ guide n
 guilty a
 guitar n
 gun n
-gym/gymnasium n
+gym=gymnasium n
 gymnastics n
 habit n
 hair n
@@ -1442,11 +1442,11 @@ handle n&v
 handsome a
 handwriting n
 handy a
-hang(hung,hung或-ed,-ed) v
+hang(hung,hung 或-ed,-ed) v
 happen v
 happiness n
 happy a
-harbour(Am harbor) n
+harbor/harbour n
 hard ad&a
 hardly ad
 hardship n
@@ -1510,7 +1510,7 @@ hometown n
 homework n
 honest a
 honey n
-honour(Am honor) n&v
+honor/honour n&v
 hook n&v
 hope n&v
 hopeful a
@@ -1533,9 +1533,9 @@ howl v
 hug v
 huge a
 human a&n
-human-being n
+human being n
 humorous a
-humour(Am humor) n
+humor/humour n
 hunger n
 hungry a
 hunt v
@@ -1635,7 +1635,7 @@ jazz n
 jeans n
 jeep n
 jet n
-jewellery(Am jewelry) n
+jewelry/jewellery n
 job n
 jog v
 join v
@@ -1644,7 +1644,7 @@ journalist n
 journey n
 joy n
 judge n&v
-judgement(Am judgment) n
+judgment/judgement n
 juice n
 jump n&v
 jungle n
@@ -1661,7 +1661,7 @@ kid n
 kill v
 kilo n
 kilogram n
-kilometre(Am kilometer) n
+kilometer/kilometre n
 kind1 n
 kind2 a
 kindergarten n
@@ -1672,12 +1672,12 @@ kiss n&v
 kitchen n
 kite n
 knee n
-knife(pl knives) n
+knife(pl.knives) n
 knock n&v
 know(knew,known) v
 knowledge n
-lab/laboratory n
-labour(Am labor) n
+lab=laboratory n
+labor/labour n
 lack n&v
 lady n
 lake n
@@ -1701,7 +1701,7 @@ lay(laid,laid) v
 lazy a
 lead(led,led) v&n
 leader n
-leaf(pl leaves) n
+leaf(pl.leaves) n
 league n
 leak v
 learn(learnt,learnt或-ed,-ed) v
@@ -1744,7 +1744,7 @@ list n&v
 listen v
 literature n
 literary a
-litre(Am liter) n
+liter/litre n
 litter v
 little(less,least) a
 live v&a
@@ -1786,7 +1786,7 @@ majority n
 make1 n
 make2(made,made) v
 male a&n
-man(pl men) n
+man(pl.men) n
 manage v
 manager n
 mankind n
@@ -1807,11 +1807,12 @@ master v&n
 mat n
 match v&n
 material n
-mathematics/math/maths n
+mathematics
+=math/maths n
 matter n&v
 mature a
 maximum a&n
-may modal-v
+may modal v
 maybe ad
 me pron
 meal n
@@ -1846,16 +1847,16 @@ message n
 messy a
 metal n&a
 method n
-metre(Am meter) n
+meter/metre n
 microscope n
 microwave n
 middle n
 midnight n
-might modal-v
+might modal v
 mild a
 mile n
 milk n&v
-millimetre(Am millimeter) n
+millimeter/millimetre n
 millionaire n
 mind n&v
 mine1 n&v
@@ -1883,9 +1884,9 @@ model n
 modem n
 modern a
 modest a
-mom/mum n
+mom=mum n
 moment n
-mommy/mummy n
+mommy=mummy n
 money n
 monitor n
 monkey n
@@ -1908,7 +1909,7 @@ motto n
 mountain n
 mountainous a
 mourn v
-mouse(pl mice) n
+mouse(pl.mice) n
 moustache n
 mouth n
 move v
@@ -1927,7 +1928,7 @@ mushroom n
 music n
 musical a&n
 musician n
-must modal-v
+must modal v
 mustard n
 mutton n
 my pron
@@ -1950,11 +1951,11 @@ neat a
 necessary a
 neck n
 necklace n
-need n&modal-v
+need n&modal v
 needle n
 negotiate v
-neighbour(Am neighbor) n
-neighbourhood(Am neighborhood) n
+neighbor/neighbour n
+neighborhood/neighbourhood n
 neither a
 nephew n
 nervous a
@@ -1970,7 +1971,7 @@ nice a
 niece n
 night n
 no ad&a
-No./number n
+No.=number n
 noble a
 nobody n&pron
 nod v
@@ -2054,12 +2055,12 @@ orbit n
 order n&v
 ordinary a
 organ n
-organise(Am organize) v
-organisation(Am organization) n
+organize/organise v
+organization/organisation n
 origin n
 other pron&a
 otherwise ad
-ought modal-v
+ought modal v
 our pron
 ours pron
 ourselves pron
@@ -2086,7 +2087,7 @@ owe v
 own a&v
 owner n
 ownership n
-ox(pl oxen) n
+ox(pl.oxen) n
 oxygen n
 pace n
 Pacific a
@@ -2141,8 +2142,8 @@ pattern n
 pause n&v
 pavement n
 pay(paid,paid) v&n
-P.C./personal-computer n
-P.E./physical-education n
+P.C.=personal computer n
+P.E.=physical education n
 pea n
 peace n
 peaceful a
@@ -2177,9 +2178,9 @@ persuade v
 pest n
 pet n
 petrol n
-phenomenon(pl phenomena) n
-phone/telephone n&v
-photo/photograph n
+phenomenon(pl.phenomena) n
+phone = telephone n&v
+photo = photograph n
 photograph n
 photographer n
 phrase n
@@ -2236,7 +2237,7 @@ poison n
 poisonous a
 pole n
 police n
-policeman/woman(pl policemen/policewomen) n
+policeman/woman(pl.policemen/policewomen) n
 policy n
 polish v
 polite a
@@ -2248,7 +2249,7 @@ pollution n
 pond n
 pool n
 poor a
-pop/popular a
+pop = popular a
 popcorn n
 popular a
 population n
@@ -2269,7 +2270,7 @@ postage n
 postcard n
 postcode n
 poster n
-postman(pl postmen) n
+postman(pl.postmen) n
 postpone v
 pot n
 potato n
@@ -2281,7 +2282,7 @@ power n
 powerful a
 practical a
 practice n&v
-practise(Am practice) v
+practice/practise v
 praise n&v
 pray v
 prayer n
@@ -2330,7 +2331,7 @@ production n
 profession n
 professor n
 profit n
-programme(Am program) n
+program/programme n
 progress n&v
 prohibit v
 project n
@@ -2416,7 +2417,7 @@ read(read,read) v
 reading n
 ready a
 real a
-realise(Am realize) v
+realize/realise v
 reality n
 really ad
 reason v&n
@@ -2430,7 +2431,7 @@ reception n
 receptionist n
 recipe n
 recite v
-recognize(Am recognize) v
+recognize/recognize v
 recommend v
 record n&v
 recorder n
@@ -2512,7 +2513,7 @@ rewind v
 rhyme n&v
 rice n
 rich a
-rid(rid,rid或ridded,ridded) v
+rid(rid,rid或 ridded,ridded) v
 riddle n
 ridiculous a
 ride(rode,ridden) v&n
@@ -2566,7 +2567,7 @@ salad n
 salary n
 sale n
 salesgirl n
-salesman/woman(pl salesmen/women) n
+salesman/woman(pl.salesmen/women) n
 salt n
 salty a
 salute n&v
@@ -2587,7 +2588,7 @@ scare v
 scarf n
 scene n
 scenery n
-sceptical(Am skeptical) a
+skeptical/sceptical a
 schedule n&v
 scholar n
 scholarship n
@@ -2656,7 +2657,7 @@ shabby a
 shade n
 shadow n
 shake(shook,shaken) v
-shall modal-v
+shall modal v
 shallow a
 shame n
 shape n&v
@@ -2668,9 +2669,9 @@ sharpener n
 shave(shaved,shaved/shaven) v
 shaver n
 she pron
-sheep(pl sheep) n
+sheep(pl.sheep) n
 sheet n
-shelf(pl shelves) n
+shelf(pl.shelves) n
 shelter n
 shine(shone,shone) v
 ship n&v
@@ -2687,19 +2688,19 @@ shortcoming n
 shortly ad
 shorts n
 shot n
-should modal-v
+should modal v
 shoulder n
 shout n&v
 show(showed,shown/showed) v&n
 shower n
-shrink(shrank,shrunk或shrunk,shrunken) v
+shrink(shrank,shrunk或 shrunk,shrunken) v
 shut(shut,shut) v
 shuttle n
 shy a
 sick a
 sickness n
 side n
-sideroad(Am sidewalk) n
+sidewalk/sideroad n
 sideways ad
 sigh v&n
 sight n
@@ -2824,7 +2825,7 @@ spit v
 splendid a
 split v
 spoken a
-spokesman/woman(pl spokesmen/women) n
+spokesman/woman(pl.spokesmen/women) n
 sponsor n
 spoon n
 spoonful n
@@ -2855,7 +2856,7 @@ starve v
 state n
 station n
 statement n
-statesman/woman(pl statesmen/women) n
+statesman/woman(pl.statesmen/women) n
 statistics n
 statue n
 status n
@@ -2894,7 +2895,7 @@ strength n
 strengthen v
 stress n&v
 strict a
-strike(struck,struck/stricken) v&n
+strike(struck,struck /stricken) v&n
 string n
 strong a
 struggle v
@@ -2971,7 +2972,7 @@ symptom n
 system n
 systematic a
 table n
-table-tennis n
+table tennis n
 tablet n
 tail n
 tailor n
@@ -3030,7 +3031,7 @@ thank v&n
 thankful a
 that pron,conj&ad
 the art
-theatre(Am theater) n
+theater/theatre n
 theft n
 their pron
 theirs pron
@@ -3046,7 +3047,7 @@ thermos n
 these a&pron
 they pron
 thick a
-thief(pl thieves) n
+thief(pl.thieves) n
 thin a
 thing n
 think(thought,thought) v
@@ -3099,7 +3100,7 @@ tongue n
 tonight ad&n
 too ad
 tool n
-tooth(pl teeth) n
+tooth(pl.teeth) n
 toothache n
 toothbrush n
 toothpaste n
@@ -3135,7 +3136,7 @@ transparent a
 transport n&v
 trap n&v
 travel n&v
-traveller(Am traveler) n
+traveler/traveller n
 treasure n
 treat v
 treatment n
@@ -3165,7 +3166,7 @@ turkey n
 turn v&n
 turning n
 tutor n
-TV/television n
+TV=television n
 twice ad
 twin n
 twist v&n
@@ -3174,7 +3175,7 @@ typewriter n
 typical a
 typhoon n
 typist n
-tyre(Am tire) n
+tire/tyre n
 ugly a
 umbrella n
 unable a
@@ -3238,7 +3239,7 @@ variety n
 various a
 vase n
 vast a
-VCD/versatile-compact-disk n
+VCD=versatile compact disk n
 vegetable n
 vehicle n
 version n
@@ -3359,7 +3360,7 @@ wife n
 wild a
 wildlife n
 will1 n
-will2(would) modal-v
+will2(would) modal v
 willing a
 win(won,won) v
 wind1 n
@@ -3380,13 +3381,13 @@ withdraw v
 within prep
 without prep
 witness v&n
-wolf(pl wolves) n
-woman(pl women) n
+wolf(pl.wolves) n
+woman(pl.women) n
 wonder v&n
 wonderful a
 wood n
 wool n
-woollen(Am woolen) a
+woolen/woollen a
 word n
 work n&v
 worker n
@@ -3399,7 +3400,7 @@ worry n&v
 worth a
 worthwhile a
 worthy a
-would modal-v
+would modal v
 wound v&n
 wrestle v
 wrinkle n
@@ -3420,7 +3421,7 @@ you pron
 young a
 your pron
 yours pron
-yourself(pl yourselves) pron
+yourself(pl.yourselves) pron
 youth n
 yummy a
 zebra n
@@ -3430,91 +3431,61 @@ zipper n
 zone n
 zoo n
 zoom v
-
-one
-two
-three
-four
-five
-six
-seven
-eight
-nine
-ten
-eleven
-twelve
-thirteen
-fourteen
-fifteen
-sixteen
-seventeen
-eighteen
-nineteen
-twenty
-twenty-one
-twenty-two
-twenty-three
-thirty
-forty
-fifty
-sixty
-seventy
-eighty
-ninety
-hundred
-thousand
-million
-billion
-first
-second
-third
-fourth
-fifth
-sixth
-seventh
-eighth
-ninth
-tenth
-eleventh
-twelfth
-thirteenth
-fourteenth
-fifteenth
-sixteenth
-seventeenth
-eighteenth
-nineteenth
-twentieth
-twenty-first
-twenty-second
-twenty-third
-thirtieth
-fortieth
-fiftieth
-sixtieth
-seventieth
-eightieth
-ninetieth
-hundredth
-thousandth
-millionth
-billionth
-January/Jan.
-February/Feb.
-March/Mar.
-April/Apr.
-May/May
-June/Jun.
-July/Jul.
-August/Aug.
-September/Sept.
-October/Oct.
-November/Nov.
-December/Dec.
-Monday/Mon.
-Tuesday/Tues.
-Wednesday/Wed.
-Thursday/Thurs.
-Friday/Fri.
-Saturday/Sat.
-Sunday/Sun.
+one 1st first
+two 2nd second
+three 3rd third
+four 4th fourth
+five 5th fifth
+six 6th sixth
+seven 7th seventh
+eight 8th eighth
+nine 9th ninth
+ten 10th tenth
+eleven 11th eleventh
+twelve 12th twelfth
+thirteen 13th thirteenth
+fourteen 14th fourteenth
+fifteen 15th fifteenth
+sixteen 16th sixteenth
+seventeen 17th seventeenth
+eighteen 18th eighteenth
+nineteen 19th nineteenth
+twenty 20th twentieth
+twenty-one 21st twenty-first
+twenty-two 22nd twenty-second
+twenty-three 23rd twenty-third
+thirty 30th thirtieth
+forty 40th fortieth
+fifty 50th fiftieth
+sixty 60th sixtieth
+seventy 70th seventieth
+eighty 80th eightieth
+ninety 90th ninetieth
+one hundred 100th one hundredth
+one hundred(and) one 101st one hundred and first
+one hundred(and) two 102nd one hundred and second
+three hundred 300th three hundredth
+one thousand 1000th one thousandth
+three thousand 3000th three thousandth
+ten thousand 10000th ten thousandth
+million 1000000th millionth
+billion 1000000000th billionth
+January (Jan.)
+February (Feb.)
+March (Mar.)
+April (Apr.)
+May (May)
+June (Jun.)
+July (Jul.)
+August (Aug.)
+September (Sept.)
+October (Oct.)
+November (Nov.)
+December (Dec.)
+Monday (Mon.)
+Tuesday (Tues.)
+Wednesday (Wed.)
+Thursday (Thurs.)
+Friday (Fri.)
+Saturday (Sat.)
+Sunday (Sun.)

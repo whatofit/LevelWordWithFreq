@@ -62,6 +62,7 @@ public class AddColumn {
 				} else {
 					//String mapValue = augendMap.get(word);//value中不包含带英文单词的其他项
 					String []field = augendMapValue.trim().split("\\s");
+					System.out.println("augendMapValue.trim:" + augendMapValue.trim());
 			        String []words =  field[1].replaceAll("\"", "").split(",");
 			        for (int i = 0; words !=null && i < words.length; i++) {
 			        	String derivedWord = RegEx.removeBrackets(words[i]);

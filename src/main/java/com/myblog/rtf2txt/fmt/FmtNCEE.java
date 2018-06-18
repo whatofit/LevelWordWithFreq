@@ -18,7 +18,7 @@ public class FmtNCEE {
     public static void doFmtNCEE() {
         long startTime = System.currentTimeMillis();
         // 1.读取单词集合路径
-        String cfg_english_path = CfgUtil.getPropCfg(Constant.FILE_CONFIG_FILE, "cfg_english_txt");
+        String cfg_english_path = CfgUtil.getPropCfg(Constant.FILE_CONFIG_FILE, "cfg_english_txt_result");
         // String forderPath = "E:/FanMingyou/The Economist";
         String englishTxtFile = Constant.PATH_RESOURCES + cfg_english_path;
         // 2.加载/读取原文件line集合
@@ -26,7 +26,7 @@ public class FmtNCEE {
         // 3.处理文件集合:格式化/替换
         List<String> wordLines = fmtNCEEWord(fileLines);
         // 3.保存word list
-        String cfg_english_txt_result_path = CfgUtil.getPropCfg(Constant.FILE_CONFIG_FILE, "cfg_english_txt_result");
+        String cfg_english_txt_result_path = CfgUtil.getPropCfg(Constant.FILE_CONFIG_FILE, "cfg_sum_result");
         String txtWordFile = Constant.PATH_RESOURCES + cfg_english_txt_result_path;
         ResourceUtil.writerFile(txtWordFile, wordLines, false);
         long endTime = System.currentTimeMillis();
