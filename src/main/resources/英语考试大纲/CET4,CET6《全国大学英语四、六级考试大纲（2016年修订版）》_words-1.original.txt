@@ -2,7 +2,7 @@ a/an
 abandon
 ★abbreviation
 ★abide
-able ability unable(高考)
+able ability
 ★abnormal
 aboard
 abolish abolition
@@ -32,7 +32,7 @@ accompany
 accomplish accomplishment
 accord
 accordance
-according-to
+according to
 accordingly
 account accounting accountant accountancy
 accountable accountability
@@ -44,7 +44,7 @@ ace
 ache
 achieve achievement
 acid acidity
-acknowledge acknowledg(e)ment
+acknowledge acknowledgement
 acquaint acquaintance
 acquire acquisition
 acre
@@ -73,7 +73,7 @@ adopt adoption
 ★adore adorable
 adult adulthood
 advance advancement advanced
-advantage advantageous disadvantage(高考)
+advantage advantageous
 ★advent
 adventure adventurer adventurous
 adverb
@@ -185,7 +185,7 @@ amount
 ample
 ★amplify amplification
 amuse amusing amusement
-★analog(ue) analogous
+★analogue analogous
 ★analogy
 analyze/-yse analysis analytic(al) analyst
 ancestor ancestry
@@ -218,9 +218,10 @@ antique
 ★antonym
 anxious anxiety
 any
-anybody/=anyone
-anyway/=anyhow
+anybody/anyone
+anyhow
 anything
+anyway
 anywhere
 apart
 apartment/apt．
@@ -372,7 +373,7 @@ awkward
 ax(e)
 axis
 baby
-baby-boom baby-boomer
+baby boom baby boomer
 bachelor
 back
 background
@@ -448,7 +449,7 @@ beach
 ★beak
 beam
 bean
-bear unbearable(高考)
+bear
 beard
 bearing
 beast
@@ -471,7 +472,7 @@ behave behavio(u)r behavio(u)ral
 behind
 being
 belief
-believe unbelievable(高考)
+believe
 bell
 bely
 belong belongings
@@ -507,7 +508,7 @@ bid
 big
 ★bilateral
 bill
-billion billionaire (billionth/高考)
+billion billionaire
 bin
 bind
 ★binoculars
@@ -595,7 +596,7 @@ boundary
 bow1
 bow2
 bowel
-bowl bowling(高考)
+bowl
 box1
 box2
 boxing
@@ -619,7 +620,7 @@ breakdown
 breakfast
 breakthrough
 breast
-breath breathless
+breath
 breathe
 breed
 breeze
@@ -665,7 +666,7 @@ budget budgetary
 ★buffer
 buffet
 bug
-build building rebuild(高考)
+build building
 bulb
 bulk bulky
 bull
@@ -1531,7 +1532,7 @@ divorce
 dizzy
 do
 dock
-doctor/Dr doctorate doctoral
+doctor doctorate doctoral
 ★doctrine
 document documentary
 ★dodge
@@ -1671,7 +1672,7 @@ elite
 ★eloquent eloquence
 else
 elsewhere
-email/e-mail
+email
 ★emancipate emancipation
 ★embargo
 ★embark
@@ -1872,7 +1873,7 @@ faculty
 fade
 fail failure
 faint
-fair1 fairly unfair(高考)
+fair1 fairly
 fair2
 fairy
 faith faithful
@@ -2041,7 +2042,7 @@ forth
 forthcoming
 ★fortify fortification
 ★fortnight
-fortune fortunate unfortunate(高考)
+fortune fortunate
 forty
 forum
 forward
@@ -2180,7 +2181,7 @@ god
 gold golden
 golf
 good
-goodby(e)
+goodbye
 goodness
 goods
 goose
@@ -2247,7 +2248,7 @@ gum
 gun
 gut
 guy
-gymnasium/gym
+gym(nasium)
 habit habitual
 habitat
 hack1 hacker
@@ -2666,7 +2667,7 @@ jeep
 ★jerk
 jet
 jetlag
-jewel jewelry/jewel(l)ery
+jewel jewel(l)ery
 job
 ★jockey
 jog
@@ -2824,7 +2825,7 @@ light1 lighting
 light2
 lightning
 like1
-like2 likely likelihood unlike(高考)
+like2 likely likelihood
 likewise
 lily
 limb
@@ -3309,7 +3310,7 @@ official
 ★offspring
 often/oftentimes
 oil oily
-okay/O.K./OK
+okay
 old
 old-fashioned
 ★olive
@@ -3361,7 +3362,7 @@ orphan orphanage
 ★orthodox
 other
 otherwise
-ought-to
+ought to
 ounce
 our
 ours
@@ -3473,7 +3474,7 @@ party
 pass
 passage
 passenger
-★passerby(pl.passers-by)/passer
+★passerby
 passion passionate
 passive
 passport
@@ -3856,7 +3857,7 @@ rag ragged raggedly
 rage raging
 raid
 rail
-railroad/railway
+railway/railroad
 rain rainy
 rainbow
 raincoat
@@ -3923,7 +3924,7 @@ refer reference
 ★referee
 ★referendum
 refine refinery refinement
-reflect reflection/-xion reflective
+reflect reflection reflective
 reform reformation reformist
 refrain
 refresh
@@ -4456,7 +4457,7 @@ span
 spare sparingly
 spark
 sparkle
-speak speaker spoken(高考)
+speak speaker
 ★spear
 special specialize/-ise specialization/-sation specialist
 ★specialty/speciality
@@ -4761,7 +4762,7 @@ tape
 target
 ★tariff
 task
-taste tasty tasteless(高考)
+taste tasty
 tax taxation
 taxi
 tea
@@ -4777,7 +4778,7 @@ tedious
 teen
 teenager
 telecommunications
-telephone/phone/tel.
+telephone/phone
 telescope telescopic
 television/TV
 tell telling
@@ -4992,7 +4993,7 @@ trip
 triple
 triumph triumphant
 ★trivial
-trolley/trolly
+trolley
 troop
 ★trophy
 ★tropic tropical
@@ -5024,7 +5025,7 @@ turn
 ★turtle
 tutor tutorial
 twelve twelfth
-twenty twentieth twenty-one(高考) twenty-first(高考)
+twenty twentieth
 twice
 twin
 twist
@@ -5193,7 +5194,7 @@ vulnerable vulnerability
 wage
 wag(g)on
 waist
-wait waiter waitress
+wait waiter/waitress
 ★waive waiver
 wake waken
 walk
@@ -5268,7 +5269,7 @@ which whichever
 while/whilst
 whip
 ★whirl
-whiskey/whisky
+whisky
 whisper
 whistle
 white

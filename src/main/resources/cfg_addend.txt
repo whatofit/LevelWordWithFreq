@@ -159,7 +159,7 @@ amount	n&v	高
 ample	a	高
 amuse	v	高
 amusement	n	高
-analyse	v	高
+analyze/-yse	v	高
 analysis	n	高
 ancestor	n	高
 anchor	v&n	高
@@ -183,11 +183,9 @@ antique	n	高
 anxiety	n	高
 anxious	a	高
 any	pron&a	高
-anybody	pron	高
-anyhow	ad	高
-anyone	pron	高
+anybody/=anyone	pron	高
 anything	pron	高
-anyway	ad	高
+anyway/=anyhow	ad	高
 anywhere	ad	高
 apart	ad&a	高
 apartment	n	高
@@ -389,10 +387,9 @@ besides	prep&ad	高
 betray	v	高
 between	prep	高
 beyond	prep	高
-bicycle	n	高
+bicycle/bike	n	高
 bid	v&n	高
 big	a	高
-bike/bicycle	n	高
 bill	n	高
 bingo	n	高
 biochemistry	n	高
@@ -561,7 +558,7 @@ cast(cast,cast)	v	高
 castle	n	高
 casual	a	高
 cat	n	高
-catalogue	n	高
+catalog(ue)	n	高
 catastrophe	n	高
 catch(caught,caught)	v	高
 category	n	高
@@ -630,13 +627,13 @@ choice	n	高
 choir	n	高
 choke	n&v	高
 choose(chose,chosen)	v	高
-chopsticks	n	高
+chopstick	n	高
 chorus	n	高
 Christian	n	高
 Christmas	n	高
 church	n	高
 cigar	n	高
-cigarette	n	高
+cigaret(te)	n	高
 cinema	n	高
 circle	n&v	高
 circuit	n	高
@@ -990,7 +987,7 @@ division	n	高
 divorce	v	高
 dizzy	a	高
 do(did,done)	v	高
-doctor	n	高
+doctor/Dr	n	高
 document	n	高
 dog	n	高
 doll	n	高
@@ -1006,7 +1003,6 @@ download	n&v	高
 downstairs	ad	高
 downtown	ad,n&a	高
 dozen	n	高
-Dr/doctor	n	高
 draft	n&v	高
 drag	v	高
 draw(drew,drawn)	v	高
@@ -1063,14 +1059,13 @@ eggplant	n	高
 either	a,conj&ad	高
 elder	n	高
 elect	v	高
-electric	a	高
-electrical	a	高
+electric(al)	a	高
 electricity	n	高
 electronic	a	高
 elegant	a	高
 elephant	n	高
 else	ad	高
-e-mail	n&v	高
+email/e-mail	n&v	高
 embarrass	v	高
 embassy	n	高
 emergency	n	高
@@ -1310,7 +1305,7 @@ freezing	a	高
 frequent	a	高
 fresh	a	高
 friction	n	高
-fridge/refrigerator	n	高
+refrigerator/fridge	n	高
 friend	n	高
 friendly	a	高
 friendship	n	高
@@ -1424,7 +1419,7 @@ guide	n	高
 guilty	a	高
 guitar	n	高
 gun	n	高
-gym/gymnasium	n	高
+gymnasium/gym	n	高
 gymnastics	n	高
 habit	n	高
 hair	n	高
@@ -1659,8 +1654,7 @@ keyboard	n	高
 kick	v&n	高
 kid	n	高
 kill	v	高
-kilo	n	高
-kilogram	n	高
+kilogram(me)/kilo	n	高
 kilometer/kilometre	n	高
 kind1	n	高
 kind2	a	高
@@ -1676,7 +1670,7 @@ knife(pl.knives)	n	高
 knock	n&v	高
 know(knew,known)	v	高
 knowledge	n	高
-lab/laboratory	n	高
+laboratory/lab	n	高
 labor/labour	n	高
 lack	n&v	高
 lady	n	高
@@ -1807,7 +1801,7 @@ master	v&n	高
 mat	n	高
 match	v&n	高
 material	n	高
-mathematics/math/maths	n	高
+math(ematics)/maths	n	高
 matter	n&v	高
 mature	a	高
 maximum	a&n	高
@@ -2013,7 +2007,7 @@ occupy	v	高
 occur	v	高
 ocean	n	高
 Oceania	n	高
-o’clock	n	高
+o'clock	n	高
 of	prep	高
 off	prep&ad	高
 offence	n	高
@@ -2026,7 +2020,7 @@ often	ad	高
 oh	int	高
 oil	n&v	高
 oilfield	n	高
-O.K.	ad	高
+okay/O.K./OK	ad	高
 old	a	高
 Olympic(s)	a&n	高
 on	prep&ad	高
@@ -2178,9 +2172,7 @@ pest	n	高
 pet	n	高
 petrol	n	高
 phenomenon(pl.phenomena)	n	高
-phone/telephone	n&v	高
-photo/photograph	n	高
-photograph	n	高
+photo(graph)	n	高
 photographer	n	高
 phrase	n	高
 physical	a	高
@@ -2392,7 +2384,7 @@ radioactive	a	高
 radium	n	高
 rag	n	高
 rail	n	高
-railway	n	高
+railroad/railway	n	高
 rain	n&v	高
 rainbow	n	高
 raincoat	n	高
@@ -2446,7 +2438,6 @@ reference	n	高
 reflect	v	高
 reform	v&n	高
 refresh	v	高
-refrigerator	n	高
 refuse	v	高
 regard	v&n	高
 regardless	a	高
@@ -3003,7 +2994,7 @@ technical	a	高
 technique	n	高
 technology	n	高
 teenager	n	高
-telephone	n&v	高
+telephone/phone/tel.	n&v	高
 telescope	n	高
 television	n	高
 tell(told,told)	v	高

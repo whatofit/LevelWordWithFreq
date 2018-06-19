@@ -59,9 +59,11 @@ public class MergeCet46 {
                 	subWords += "," + fileLine[i];
                 }
             }
+            //wordLines.add(strWord+"\t"+subWords);
+            wordLines.add(cet+"\t"+strWord+"\t"+subWords);
             //wordLines.add(cet+"\t"+strWord+"\t\""+subWords+"\"");
             //wordLines.add(cet+","+strWord+",\""+subWords+"\"");
-            wordLines.add(strWord+"\t\""+subWords+"\""+"\t"+cet);
+            //wordLines.add(strWord+"\t\""+subWords+"\""+"\t"+cet);
         }
         return wordLines;
     }
