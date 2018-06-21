@@ -87,8 +87,6 @@
 高	affection	n	
 高	afford	v	
 高	afraid	a	
-高	Africa	n	
-高	African	a&n	
 高	after	ad,prep&conj	
 高	afternoon	n	
 高	afterward(s)	ad	
@@ -142,7 +140,6 @@
 高	altogether	ad	
 高	aluminum/aluminium	n	
 高	always	ad	
-高	am	v(be)	
 高	a.m./am/A.M./AM	abbr	
 高	amateur	a	
 高	amaze	v	
@@ -152,7 +149,6 @@
 高	ambiguous	a	
 高	ambition	n	
 高	ambulance	n	
-高	America	n	
 高	among	prep	
 高	amount	n&v	
 高	ample	a	
@@ -177,7 +173,6 @@
 高	another	a&pron	
 高	answer	n&v	
 高	ant	n	
-高	Antarctic	a	
 高	antique	n	
 高	anxiety	n	
 高	anxious	a	
@@ -215,7 +210,6 @@
 高	arch	n	
 高	architect	n	
 高	architecture	n	
-高	Arctic	a	
 高	area	n	
 高	argue	v	
 高	argument	n	
@@ -238,8 +232,6 @@
 高	as	ad,conj&prep	
 高	ash	n	
 高	ashamed	a	
-高	Asia	n	
-高	Asian	a&n	
 高	aside	ad	
 高	ask	v	
 高	asleep	a	
@@ -260,7 +252,6 @@
 高	at	prep	
 高	athlete	n	
 高	athletic	a	
-高	Atlantic	a	
 高	atmosphere	n	
 高	atom	n	
 高	attach	v	
@@ -365,7 +356,6 @@
 高	behave	v	
 高	behavior/behaviour	n	
 高	behind	prep&ad	
-高	being	n	
 高	belief	n	
 高	believe	v	
 高	bell	n	
@@ -505,7 +495,7 @@
 高	button	n&v	
 高	buy(bought,bought)	v	
 高	by	prep	
-高	bye	int	
+高	goodby(e)/bye	int
 高	cab	n	
 高	cabbage	n	
 高	cafe	n	
@@ -519,7 +509,6 @@
 高	camera	n	
 高	camp	n&v	
 高	campaign	n	
-高	can't/cannot	modal-v	
 高	can(could)	modal-v&n	
 高	canal	n	
 高	cancel	v	
@@ -527,6 +516,7 @@
 高	candidate	n	
 高	candle	n	
 高	candy	n	
+高	can't/cannot	modal-v
 高	canteen	n	
 高	cap	n	
 高	capital	n	
@@ -1102,8 +1092,6 @@
 高	escape	n&v	
 高	especially	ad	
 高	essay	n	
-高	Europe	n	
-高	European	a&n	
 高	evaluate	v	
 高	even	ad	
 高	evening	n	
@@ -1373,8 +1361,8 @@
 高	grand	a	
 高	grandchild	n	
 高	granddaughter	n	
+高	grandfather/grandpa	n
 高	grandmother/grandma/granny	n	
-高	grandfather/grandpa	n	
 高	grandparents	n	
 高	grandson	n	
 高	grape	n	
@@ -1749,6 +1737,7 @@
 高	luggage	n	
 高	lunch	n	
 高	lung	n	
+高	m(o)ustache	n
 高	machine	n	
 高	mad	a	
 高	madam/madame	n	
@@ -1859,9 +1848,8 @@
 高	modem	n	
 高	modern	a	
 高	modest	a	
-高	mom/mum	n	
+高	mom(my)/mum(my)	n
 高	moment	n	
-高	mommy/mummy	n	
 高	money	n	
 高	monitor	n	
 高	monkey	n	
@@ -1872,7 +1860,7 @@
 高	moral	a&n	
 高	more(much,many)	a,ad&n	
 高	morning	n	
-高	Moslem	n	
+高	Moslem/=Muslim	n
 高	mosquito	n	
 高	most	a&ad	
 高	mother	n	
@@ -1885,7 +1873,6 @@
 高	mountainous	a	
 高	mourn	v	
 高	mouse(pl.mice)	n	
-高	moustache	n	
 高	mouth	n	
 高	move	v	
 高	movement	n	
@@ -1987,7 +1974,6 @@
 高	occupy	v	
 高	occur	v	
 高	ocean	n	
-高	Oceania	n	
 高	o'clock	n	
 高	of	prep	
 高	off	prep&ad	
@@ -2034,7 +2020,7 @@
 高	origin	n	
 高	other	pron&a	
 高	otherwise	ad	
-高	ought-to	modal-v	
+高	ought(-to)	modal-v	
 高	our	pron	
 高	ours	pron	
 高	ourselves	pron	
@@ -2067,7 +2053,6 @@
 高	P.E./physical-education	n	
 高	p.m./pm/P.M./PM	abbr	
 高	pace	n	
-高	Pacific	a	
 高	pack	n&v	
 高	package	n	
 高	packet	n	
