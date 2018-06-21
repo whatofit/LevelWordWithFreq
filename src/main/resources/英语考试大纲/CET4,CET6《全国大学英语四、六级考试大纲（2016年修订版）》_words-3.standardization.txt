@@ -32,7 +32,7 @@
 四	accomplish	accomplishment
 四	accord	
 四	accordance	
-四	according-to
+四	according(-to)	
 四	accordingly	
 四	account	accounting,accountant,accountancy
 四	accountable	accountability
@@ -183,7 +183,7 @@
 四	among(st)	
 四	amount	
 四	ample	
-六	amplify	amplification
+六	amplify	amplification,amplifier(研)
 四	amuse	amusing,amusement
 六	analog(ue)	analogous
 六	analogy	
@@ -218,7 +218,7 @@
 六	antonym	
 四	anxious	anxiety
 四	any	
-四	anybody/=anyone
+四	anybody/=anyone	
 四	anything	
 四	anyway/=anyhow	
 四	anywhere	
@@ -345,9 +345,9 @@
 四	author	
 四	authority	authoritative
 四	authorize/-ise	authorization/-sation
-四	auto(mobile)	
 六	autobiography	autobiographic(al)
 四	automate	automation,automatic,automatically
+四	auto(mobile)	
 六	autonomous	autonomy
 四	autumn	
 六	auxiliary	
@@ -371,7 +371,7 @@
 四	ax(e)	
 四	axis	
 四	baby	
-四	baby-boom   baby-boomer
+四	baby-boom	baby-boomer
 四	bachelor	
 四	back	
 四	background	
@@ -471,7 +471,7 @@
 四	belief	
 四	believe	unbelievable(高考)
 四	bell	
-四	bely	
+四	belly	
 四	belong	belongings
 四	beloved	
 四	below	
@@ -589,7 +589,7 @@
 六	bout	
 四	bow	
 四	bowel	
-四	bowl	bowling(高考)	
+四	bowl	bowling(高考)
 四	box	
 四	boxing	
 四	boy	
@@ -651,8 +651,8 @@
 四	bucket	
 四	buckle	
 四	bud	
-四	buddy	
 六	Buddhism	Buddhist
+四	buddy	
 四	budget	budgetary
 六	buffalo	
 六	buffer	
@@ -983,8 +983,8 @@
 四	common	
 四	commonplace	
 六	commonwealth	
-四	communicate	communication,communicative
 四	commune	communist,communism
+四	communicate	communication,communicative
 四	community	
 四	commute	commuter
 四	compact	
@@ -1038,7 +1038,7 @@
 四	condition	conditional,conditioner,unconditional(高中)
 六	condolence	
 六	conducive	
-四	conduct	conductor
+四	conduct	conductor,semiconductor(研)
 六	confederation	confederate
 六	confer	
 四	conference	
@@ -1113,7 +1113,7 @@
 四	convenient	convenience
 四	convention	conventional
 六	converge	convergence
-四	converse	conversation
+四	converse	conversation,conversely(研)
 四	convert	conversion,convertible
 四	convey	conveyance
 六	convict	conviction
@@ -1391,7 +1391,7 @@
 六	detach	detached,detachment
 四	detail	detailed
 六	detain	detention
-四	detect	detection,detective
+四	detect	detection,detective,detector(研)
 六	deter	deterrent
 六	detergent	
 四	deteriorate	deterioration
@@ -1530,7 +1530,7 @@
 四	donate	donation,donor
 四	donkey	
 四	doom	
-四	door	
+四	door	doorway
 四	dormitory/dorm	
 四	dose	dosage
 四	dot	
@@ -1803,7 +1803,7 @@
 四	exit	
 六	exotic	
 四	expand	expansion,expansive
-四	expect	expectation,expectancy
+四	expect	expectation,expectancy,unexpected(研)
 六	expedition	
 四	expel	
 四	expend	expenditure
@@ -1939,7 +1939,7 @@
 六	fiscal	
 四	fish	fishing,fisherman
 四	fist	
-四	fit	unfit(高中)
+四	fit	unfit(高中),fitting(研)
 四	five	
 四	fix	fixed,fixture,fixation
 四	flag	
@@ -2017,7 +2017,7 @@
 四	forthcoming	
 六	fortify	fortification
 六	fortnight	
-四	fortune	fortunate,unfortunate(高考)
+四	fortune	fortunate,unfortunate(高考),unfortunately(研)
 四	forty	
 四	forum	
 四	forward	
@@ -2115,7 +2115,7 @@
 四	generous	generosity
 四	genius	
 六	genre	
-四	gentle	
+四	gentle	gently(研)
 四	gentleman	
 四	genuine	
 四	geography	geographic,geographically
@@ -2156,7 +2156,7 @@
 四	gold	golden
 四	golf	
 四	good	
-四	goodby(e)	
+四	goodby(e)/bye	
 四	goodness	
 四	goods	
 四	goose	
@@ -2167,13 +2167,13 @@
 四	govern	government,governor
 四	gown	
 四	grab	
-四	grace	graceful,gracious
+四	grace	graceful,gracious,disgrace(研)
 四	grade	
 四	gradual	gradually
 四	graduate	graduation
 四	grain	
-四	gram(me)	
 四	grammar	grammatical
+四	gram(me)	
 四	grand	
 四	grandchild	grandchildren,grandson,granddaughter
 四	grandparent	grandfather/grandpa,grandmother/grandma/granny,grandparents(高考)
@@ -2209,7 +2209,7 @@
 四	gross	
 四	ground	
 四	group	
-四	grow	growth
+四	grow	growth,grown-up(研)
 四	guarantee	
 四	guard	guardian
 四	guess	
@@ -2312,7 +2312,7 @@
 四	here	
 四	hereby	
 四	heritage	
-四	hero/heroine	heroic,heroism
+四	hero	heroine,heroic,heroism
 六	heroin	
 四	hers	
 四	herself	
@@ -2343,7 +2343,7 @@
 四	hobby	
 六	hockey	
 六	hoist	
-四	hold	
+四	hold	holder(研)
 四	hole	
 四	holiday	
 四	hollow	
@@ -2366,8 +2366,8 @@
 四	horse	
 四	horsepower	
 六	hose	
-四	hospital	hospitalize
 四	hospitable	hospitality
+四	hospital	hospitalize
 四	host	hostess
 六	hostage	
 四	hostile	hostility
@@ -2696,8 +2696,8 @@
 四	know	knowledge,knowledgeable
 四	knowhow	
 四	label	
-四	labo(u)r	laborious
 四	laboratory/lab	
+四	labo(u)r	laborious
 四	lace	
 四	lack	
 六	lad	
@@ -2709,7 +2709,7 @@
 四	lame	
 四	lamp	
 四	land	landing
-四	landlord/landlady	
+四	landlord	landlady
 六	landmark	
 四	landscape	
 四	lane	
@@ -2788,7 +2788,7 @@
 四	lift	
 四	light	lighting
 四	lightning	
-四	like	likely,likelihood,unlike(高考)
+四	like	likely,likelihood,unlike(高考),unlikely(研)
 四	likewise	
 四	lily	
 四	limb	
@@ -2869,7 +2869,7 @@
 六	lyric	lyrical
 四	machine	machinery
 四	mad	madden
-四	madam	
+四	madam(e)	
 四	magazine	
 四	magic	magical
 六	magistrate	
@@ -2918,7 +2918,7 @@
 六	maritime	
 四	mark	
 四	market	marketing
-四	marry	marriage,marital
+四	marry	marriage,marital,married(研)
 四	marsh	
 四	marshal	
 六	martyr	martyrdom
@@ -3014,7 +3014,7 @@
 四	military	
 六	militia	
 四	milk	milky
-四	mil	
+四	mill	
 四	millimeter/-tre	
 四	million	millionaire
 四	mind	
@@ -3041,8 +3041,8 @@
 六	missionary	
 四	mist	misty
 四	mistake	mistaken
-四	Mr.(mister)	
-四	Mrs.(mistress)
+四	mister/Mr.	
+四	mistress/Mrs.	
 四	misunderstand	misunderstanding
 四	mix	mixture,mixer
 六	moan	
@@ -3056,11 +3056,10 @@
 四	modest	modesty
 四	modify	modification,modifier
 四	moist	moisture
-四	mo(u)ld	mo(u)ldy
 六	molecule	molecular
-四	mom(my)	
 四	moment	momentary,momentarily
 六	momentum	momentous
+四	mom(my)/mum(my)	
 六	monarchy	monarch
 四	Monday	
 四	money	monetary
@@ -3090,6 +3089,7 @@
 四	motive	
 四	motor	
 四	motorway	
+四	mo(u)ld	mo(u)ldy
 四	mount	mounting
 四	mountain	mountainous
 六	mourn	mourning
@@ -3314,7 +3314,7 @@
 六	orthodox	
 四	other	
 四	otherwise	
-四	ought-to
+四	ought(-to)	
 四	ounce	
 四	our	
 四	ours	
@@ -3364,7 +3364,7 @@
 四	overtime	
 六	overturn	
 四	overwhelm	overwhelming,overwhelmingly
-四	owe	owing-to
+四	owe	owing(-to)
 六	owl	
 四	own	owner,ownership
 四	ox	
@@ -3594,7 +3594,7 @@
 四	polish	
 四	polite	politeness
 四	politics	political,politician
-四	pol	pollster
+四	poll	pollster
 四	pollute	pollution,pollutant
 六	polytechnic	
 四	pond	
@@ -3631,8 +3631,8 @@
 四	pour	
 四	powder	
 四	power	powerful
-四	practice/-ise	practicable
 四	practical	practicality
+四	practice/-ise	practicable
 六	practitioner	
 四	praise	
 四	pray	prayer
@@ -3680,7 +3680,7 @@
 四	primary	primarily
 四	prime	
 四	primitive	
-四	prince/princess	
+四	prince	princess
 四	principal	
 四	principle	
 四	print	printer,printing
@@ -3693,7 +3693,7 @@
 六	probe	
 四	problem	problematic
 四	procedure	
-四	proceed	proceedings
+四	proceed	proceeding(s)
 四	process	processor
 四	procession	
 四	proclaim	proclamation
@@ -3907,7 +3907,7 @@
 六	relish	
 四	reluctant	reluctance
 四	rely	reliance,reliable
-四	remain	remainder
+四	remain	remainder,remains(研)
 四	remark	remarkable
 四	remedy	remedial
 四	remember	remembrance
@@ -4014,7 +4014,7 @@
 四	rival	rivalry
 四	river	
 四	road	
-四	roar	
+四	roar	uproar
 四	roast	
 四	rob	robbery
 四	robot	robotic
@@ -4269,8 +4269,8 @@
 四	sister	
 四	sit	sitting
 四	site	
+四	situate	situated
 四	situation	
-四	situate	
 四	six	
 四	sixteen	
 四	sixty	
@@ -4336,8 +4336,8 @@
 六	sober/-re	
 四	so-called	
 四	soccer	
-四	society	social,socialize/-ise,sociable
 四	socialism	socialist
+四	society	social,socialize/-ise,sociable
 四	sociology	sociologist
 四	sock	
 六	socket	
@@ -4494,7 +4494,7 @@
 四	step	
 六	stereotype	
 六	stern	
-六	steward stewardess
+六	steward	stewardess
 四	stick	sticky
 四	stiff	stiffen
 六	stifle	
@@ -4513,9 +4513,9 @@
 六	stoop	
 四	stop	stoppage
 四	store	storage
+四	stor(e)y	
 四	storm	stormy
 四	story	
-四	stor(e)y	
 六	stout	
 四	stove	
 四	straight	straighten
@@ -5039,7 +5039,7 @@
 四	vanish	
 四	vapo(u)r	
 四	various	variety
-四	vary	variation,variable,variant
+四	vary	variation,variable,variant,invariable(研)
 四	vast	
 四	vegetable	vegetarian
 六	vegetation	
