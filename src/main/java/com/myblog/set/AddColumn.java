@@ -8,12 +8,10 @@ package com.myblog.set;
 //5432	zone	核	n.地区,区域 v.分区,划分地带
 
 import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Collections;
-import java.util.HashMap;
 import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
+import java.util.Map.Entry;
 import java.util.stream.Collectors;
 
 import com.myblog.Constant;
@@ -49,8 +47,8 @@ public class AddColumn {
 		boolean isContinue = true;
 		while (isContinue) {
 			isContinue = false;
-			for (Iterator it = augendMap.entrySet().iterator(); it.hasNext();) {
-				Map.Entry entry = (Map.Entry) it.next();
+			for (Iterator<Entry<String, String>> it = augendMap.entrySet().iterator(); it.hasNext();) {
+				Map.Entry<String, String> entry = it.next();
 				String augendKeyWord = (String) entry.getKey();
 				String augendMapValue = (String) entry.getValue();
 				// String newLine = augendMapValue;
@@ -61,10 +59,10 @@ public class AddColumn {
 					addendMap.remove(augendKeyWord);
 					isContinue = true;
 				} else {
-					System.out.println("augendMapValue.trim=" + augendMapValue.trim());
+					//System.out.println("augendMapValue.trim=" + augendMapValue.trim());
 					String[] field = augendMapValue.trim().split("\\s"); //
 					if (field != null && field.length > 2) {
-						System.out.println("augendMapValue,field=" + Arrays.toString(field));
+						//System.out.println("augendMapValue,field=" + Arrays.toString(field));
 						String[] words = field[2].replaceAll("\"", "").split(",");
 						for (int i = 0; words != null && i < words.length; i++) {
 							String derivedWord = RegEx.removeBrackets(words[i]);
@@ -81,8 +79,8 @@ public class AddColumn {
 		}
 		;
 
-		for (Iterator it = addendMap.entrySet().iterator(); it.hasNext();) {
-			Map.Entry entry = (Map.Entry) it.next();
+		for (Iterator<Entry<String, String>> it = addendMap.entrySet().iterator(); it.hasNext();) {
+			Map.Entry<String, String> entry = it.next();
 			String word = (String) entry.getKey();
 			String addendLine = (String) entry.getValue();
 			String newLine = "\t\t\t\t\t\t" + addendLine;
