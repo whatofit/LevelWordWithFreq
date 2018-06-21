@@ -474,7 +474,7 @@ being
 belief
 believe
 bell
-bely
+belly
 belong belongings
 beloved
 below
@@ -3055,7 +3055,7 @@ mile mileage
 military
 ★militia
 milk milky
-mil
+mill
 millimeter/-tre
 million millionaire
 mind
@@ -3644,7 +3644,7 @@ policy
 polish
 polite politeness
 politics political politician
-pol pollster
+poll pollster
 pollute pollution pollutant
 ★polytechnic
 pond

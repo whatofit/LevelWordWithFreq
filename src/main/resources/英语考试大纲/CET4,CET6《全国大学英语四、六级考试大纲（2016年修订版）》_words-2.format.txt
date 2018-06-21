@@ -474,7 +474,7 @@
 四	belief	
 四	believe	
 四	bell	
-四	bely	
+四	belly	
 四	belong	belongings
 四	beloved	
 四	below	
@@ -3055,7 +3055,7 @@
 四	military	
 六	militia	
 四	milk	milky
-四	mil	
+四	mill	
 四	millimeter/-tre	
 四	million	millionaire
 四	mind	
@@ -3644,7 +3644,7 @@
 四	polish	
 四	polite	politeness
 四	politics	political,politician
-四	pol	pollster
+四	poll	pollster
 四	pollute	pollution,pollutant
 六	polytechnic	
 四	pond	
