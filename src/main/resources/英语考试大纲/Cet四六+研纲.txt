@@ -1,0 +1,5447 @@
+﻿a	四	a/an		研纲	a/an
+abandon	四	abandon		研纲	abandon
+abbreviation	六	abbreviation			
+abdomen				研纲	abdomen
+abide	六	abide		研纲	abide
+able	四	able	ability,unable(高考)	研纲	able,ability
+abnormal	六	abnormal		研纲	abnormal
+aboard	四	aboard		研纲	aboard
+abolish	四	abolish	abolition	研纲	abolish
+abort	六	abort	abortion		
+abound				研纲	abound
+about	四	about		研纲	about
+above	四	above		研纲	above
+abreast	六	abreast			
+abroad	四	abroad		研纲	abroad
+abrupt	六	abrupt		研纲	abrupt
+absent	四	absent	absence	研纲	absent,absence
+absolute	四	absolute		研纲	absolute
+absorb	四	absorb	absorption	研纲	absorb
+abstract	四	abstract		研纲	abstract
+absurd	六	absurd	absurdity	研纲	absurd
+abundant	四	abundant	abundance	研纲	abundant
+abuse	四	abuse	abusive	研纲	abuse
+academy	四	academy	academic,academician	研纲	academy,academic
+accelerate	四	accelerate	acceleration	研纲	accelerate
+accent	四	accent		研纲	accent
+accept	四	accept	acceptance,acceptable	研纲	accept,acceptance
+access	四	access	accessible	研纲	access
+accessory	六	accessory		研纲	accessory
+accident	四	accident	accidental	研纲	accident
+acclaim	六	acclaim		研纲	acclaim
+accommodate	四	accommodate	accommodation	研纲	accommodate,accommodation(s)
+accompany	四	accompany		研纲	accompany
+accomplish	四	accomplish	accomplishment	研纲	accomplish
+accord	四	accord		研纲	accord
+accordance	四	accordance		研纲	accordance
+according	四	according(-to)		研纲	according(-to)
+accordingly	四	accordingly		研纲	accordingly
+account	四	account	accounting,accountant,accountancy	研纲	account,accountant
+accountable	四	accountable	accountability		
+accumulate	四	accumulate	accumulation,accumulative	研纲	accumulate
+accurate	四	accurate	accuracy	研纲	accurate,accuracy
+accuse	四	accuse	accusation	研纲	accuse
+accustom	四	accustom	accustomed		
+ace	四	ace			
+ache	四	ache		研纲	ache
+achieve	四	achieve	achievement	研纲	achieve
+acid	四	acid	acidity	研纲	acid
+acknowledge	四	acknowledge	acknowledg(e)ment	研纲	acknowledge
+acquaint	四	acquaint	acquaintance	研纲	acquaint,acquaintance
+acquire	四	acquire	acquisition	研纲	acquire,acquisition
+acre	四	acre		研纲	acre
+acrobat				研纲	acrobat
+across	四	across		研纲	across
+act	四	act	action,acting	研纲	act,action
+activate	六	activate		研纲	activate
+active	四	active	activity,activist	研纲	active,activity
+actor	四	actor	actress	研纲	actor,actress
+actual	四	actual	actually	研纲	actual
+acupuncture	六	acupuncture			
+acute	四	acute		研纲	acute
+adapt	四	adapt	adaptation,adaptive	研纲	adapt
+add	四	add	addition,additional	研纲	add,addition,additional
+addict	四	addict	addiction,addictive,addicted(高考)	研纲	addict
+address	四	address		研纲	address
+adequate	四	adequate	adequacy,adequately	研纲	adequate
+adhere	六	adhere	adherence	研纲	adhere
+adjacent	六	adjacent		研纲	adjacent
+adjective	四	adjective		研纲	adjective
+adjoin				研纲	adjoin
+adjust	四	adjust	adjustment	研纲	adjust
+administer	四	administer/administrate	administration,administrative	研纲	administer,administration
+admire	四	admire	admiration,admirable	研纲	admire
+admit	四	admit	admission,admittance,admittedly	研纲	admit,admission
+adolescent	六	adolescent	adolescence	研纲	adolescent
+adopt	四	adopt	adoption	研纲	adopt
+adore	六	adore	adorable	研纲	adore
+adult	四	adult	adulthood	研纲	adult
+advance	四	advance	advancement,advanced	研纲	advance,advanced
+advantage	四	advantage	advantageous,disadvantage(高考)	研纲	advantage
+advent	六	advent		研纲	advent
+adventure	四	adventure	adventurer,adventurous	研纲	adventure
+adverb	四	adverb		研纲	adverb
+adversary	六	adversary			
+adverse	六	adverse	adversity	研纲	adverse
+advertise	四	advertise	advertisement/ad,advertising	研纲	advertise
+advice	四	advice		研纲	advice
+advise	四	advise	advisor/-er,advisory,advisable	研纲	advise,advisable
+advocate	四	advocate	advocacy	研纲	advocate
+aerial	四	aerial		研纲	aerial
+aesthetic	六	aesthetic	aesthetics		
+affair	四	affair		研纲	affair
+affect	四	affect		研纲	affect
+affection	四	affection	affectionate	研纲	affection
+affiliate	六	affiliate	affiliation	研纲	affiliate
+affirm	六	affirm	affirmation,affirmative	研纲	affirm
+affix	六	affix	affixation		
+affluent	四	affluent	affluence	研纲	affluent
+afford	四	afford	affordable,affordability	研纲	afford
+afloat	六	afloat			
+afraid	四	afraid		研纲	afraid
+after	四	after		研纲	after
+aftermath	六	aftermath			
+afternoon	四	afternoon		研纲	afternoon
+afterward	四	afterward(s)		研纲	afterward(s)
+again	四	again		研纲	again
+against	四	against		研纲	against
+age	四	age	aged,ag(e)ing	研纲	age
+agenda	四	agenda		研纲	agenda
+agent	四	agent	agency	研纲	agent,agency
+aggravate	六	aggravate	aggravation	研纲	aggravate
+aggregate	六	aggregate			
+aggressive	四	aggressive	aggression	研纲	aggressive
+agitate	六	agitate	agitation	研纲	agitate
+ago	四	ago		研纲	ago
+agony	六	agony		研纲	agony
+agree	四	agree	agreement,agreeable	研纲	agree,agreeable
+agriculture	四	agriculture	agricultural	研纲	agriculture
+ahead	四	ahead		研纲	ahead
+aid	四	aid		研纲	aid
+aide	六	aide			
+AIDS	四	AIDS			
+ail	六	ail	ailment		
+aim	四	aim		研纲	aim
+air	四	air		研纲	air
+airborne	六	airborne			
+air-conditioning	四	air-conditioning	air-conditioner	研纲	air-conditioning
+aircraft	四	aircraft		研纲	aircraft
+airline	四	airline		研纲	airline
+airplane	四	airplane/aeroplane		研纲	airplane/aeroplane
+airport	四	airport		研纲	airport
+aisle	四	aisle		研纲	aisle
+akin	六	akin			
+alarm	四	alarm		研纲	alarm
+album	四	album		研纲	album
+alcohol	四	alcohol	alcoholic	研纲	alcohol
+ale	六	ale			
+alert	四	alert		研纲	alert
+algebra	四	algebra			
+alien	六	alien	alienate,alienation	研纲	alien,alienate
+align	六	align	alignment		
+alike	四	alike		研纲	alike
+alive	四	alive		研纲	alive
+all	四	all		研纲	all
+allege	四	allege	allegation,alleged,allegedly	研纲	allege
+allegiance				研纲	allegiance
+allergic	六	allergic	allergy		
+alleviate	六	alleviate	alleviation	研纲	alleviate
+alley	四	alley			
+allocate	六	allocate	allocation	研纲	allocate
+allot	六	allot	allotment		
+allow	四	allow		研纲	allow
+allowance	四	allowance		研纲	allowance
+alloy	六	alloy		研纲	alloy
+allude	六	allude	allusion		
+allure	六	allure	allurement		
+ally	四	ally	alliance	研纲	ally,alliance
+almighty	六	almighty			
+almost	四	almost		研纲	almost
+aloft	六	aloft			
+alone	四	alone		研纲	alone
+along	四	along		研纲	along
+alongside	四	alongside		研纲	alongside
+aloud	四	aloud		研纲	aloud
+alphabet	四	alphabet	alphabetic(al)	研纲	alphabet
+already	四	already		研纲	already
+also	四	also		研纲	also
+alter	四	alter	alteration	研纲	alter
+alternate	六	alternate	alternation,alternately	研纲	alternate
+alternative	四	alternative		研纲	alternative
+although	四	although		研纲	although
+altitude	四	altitude		研纲	altitude
+altogether	四	altogether		研纲	altogether
+aluminum	四	alumin(i)um		研纲	alumin(i)um/(pl.aluminia)
+always	四	always		研纲	always
+am	四	am			
+amass	六	amass			
+amateur	四	amateur		研纲	amateur
+amaze	四	amaze	amazing,amazement	研纲	amaze
+ambassador	四	ambassador	ambassadress(高考)	研纲	ambassador
+ambiguous	六	ambiguous	ambiguity	研纲	ambiguous
+ambition	四	ambition	ambitious	研纲	ambition,ambitious
+ambulance	四	ambulance		研纲	ambulance
+amend	六	amend	amendment	研纲	amend
+amiable	六	amiable		研纲	amiable
+amid	四	amid(st)		研纲	amid
+ammunition	六	ammunition			
+among	四	among(st)		研纲	among/amongst
+amount	四	amount		研纲	amount
+ample	四	ample		研纲	ample
+amplify	六	amplify	amplification,amplifier(研)	研纲	amplify,amplifier
+amuse	四	amuse	amusing,amusement	研纲	amuse
+analog	六	analog(ue)	analogous	研纲	analog(ue)
+analogy	六	analogy		研纲	analogy
+analyze	四	analyze/-yse	analysis,analytic(al),analyst	研纲	analyze/-yse,analysis/(pl.analyses),analytic(al)
+ancestor	四	ancestor	ancestry	研纲	ancestor
+anchor	四	anchor	anchorage	研纲	anchor
+ancient	四	ancient		研纲	ancient
+and	四	and		研纲	and
+anecdote	六	anecdote	anecdotal	研纲	anecdote
+anew	四	anew			
+angel	四	angel		研纲	angel
+angle	四	angle		研纲	angle
+angry	四	angry	anger	研纲	angry,anger
+anguish	六	anguish		研纲	anguish
+animal	四	animal		研纲	animal
+animate	六	animate	animated,animation		
+ankle	四	ankle		研纲	ankle
+annex	六	annex	annexation		
+anniversary	四	anniversary		研纲	anniversary
+announce	四	announce	announcement	研纲	announce
+annoy	四	annoy	annoyance	研纲	annoy
+annual	四	annual		研纲	annual
+anonymous	六	anonymous	anonymity	研纲	anonymous
+another	四	another		研纲	another
+answer	四	answer		研纲	answer
+ant	四	ant		研纲	ant
+antagonism	六	antagonism	antagonist,antagonistic,antagonistically		
+antenna	六	antenna		研纲	antenna
+antibiotic	六	antibiotic			
+anticipate	四	anticipate	anticipation	研纲	anticipate
+antique	四	antique		研纲	antique
+antonym	六	antonym			
+anxious	四	anxious	anxiety	研纲	anxious,anxiety
+any	四	any		研纲	any
+anybody	四	anybody/=anyone		研纲	anybody/=anyone
+anything	四	anything		研纲	anything
+anyway	四	anyway/=anyhow		研纲	anyway/=anyhow
+anywhere	四	anywhere		研纲	anywhere
+apart	四	apart		研纲	apart
+apartment	四	apartment/apt．		研纲	apartment/apt.
+ape	六	ape		研纲	ape
+apology	四	apology	apologize/-ise,apologetic	研纲	apology,apologize/-ise
+app	四	app			
+appal	六	appal(l)	appalling	研纲	appal(l)
+apparatus	四	apparatus		研纲	apparatus
+apparent	四	apparent	apparently	研纲	apparent
+appeal	四	appeal	appealing	研纲	appeal
+appear	四	appear	appearance	研纲	appear,appearance
+appease	六	appease	appeasement		
+appendix	六	appendix		研纲	appendix
+appetite	四	appetite		研纲	appetite
+applaud	四	applaud	applause	研纲	applaud,applause
+apple	四	apple		研纲	apple
+appliance	四	appliance		研纲	appliance
+apply	四	apply	application,applicant,applicable	研纲	apply,application,applicable
+appoint	四	appoint	appointment	研纲	appoint,appointment
+appraise	六	appraise	appraisal	研纲	appraisal
+appreciate	四	appreciate	appreciation,appreciative	研纲	appreciate
+apprentice	六	apprentice			
+approach	四	approach		研纲	approach
+appropriate	六	appropriate	appropriation	研纲	appropriate
+approve	四	approve	approval	研纲	approve,approval
+approximate	四	approximate	approximately,approximation	研纲	approximate
+April	四	April		研纲	April
+apron	六	apron			
+apt	六	apt	aptly	研纲	apt
+aptitude	四	aptitude			
+arbitrary	四	arbitrary	arbitrarily	研纲	arbitrary
+arbitrate	六	arbitrate	arbitration		
+arc	六	arc			
+arch	六	arch		研纲	arch
+archeology				研纲	arch(a)eology
+architect	四	architect		研纲	architect
+architecture	四	architecture		研纲	architecture
+archive	六	archive			
+ardent	六	ardent			
+area	四	area		研纲	area
+arena	六	arena			
+argue	四	argue	argument,argumentation,argumentative,arguable	研纲	argue,argument
+arise	四	arise		研纲	arise
+aristocrat	六	aristocrat	aristocratic,aristocracy		
+arithmetic	四	arithmetic		研纲	arithmetic
+arm	四	arm	armament	研纲	arm
+armor	六	armo(u)r			
+army	四	army		研纲	army
+around	四	around		研纲	around
+arouse	四	arouse	arousal	研纲	arouse
+arrange	四	arrange	arrangement	研纲	arrange
+array	六	array		研纲	array
+arrest	四	arrest		研纲	arrest
+arrive	四	arrive	arrival	研纲	arrive,arrival
+arrogant	六	arrogant	arrogance	研纲	arrogant
+arrow	四	arrow		研纲	arrow
+art	四	art	artist,artistic,artistically	研纲	art,artist,artistic
+artery	六	artery		研纲	artery
+article	四	article		研纲	article
+articulate	六	articulate	articulation	研纲	articulate
+artifact	六	artifact			
+artificial	四	artificial		研纲	artificial
+artillery	六	artillery			
+as	四	as		研纲	as
+ascend	六	ascend	ascendance	研纲	ascend
+ascertain	六	ascertain		研纲	ascertain
+ascribe	六	ascribe			
+ash	四	ash		研纲	ash
+ashamed	四	ashamed		研纲	ashamed
+ashore	四	ashore		研纲	ashore
+aside	四	aside		研纲	aside
+ask	四	ask		研纲	ask
+asleep	四	asleep		研纲	asleep
+aspect	四	aspect		研纲	aspect
+aspire	六	aspire	aspiration	研纲	aspire
+ass	四	ass			
+assassinate	六	assassinate	assassination,assassin	研纲	assassinate
+assault	六	assault		研纲	assault
+assemble	四	assemble	assembly	研纲	assemble,assembly
+assert	六	assert	assertion,assertive	研纲	assert
+assess	四	assess	assessment	研纲	assess
+asset	四	asset		研纲	asset
+assign	四	assign	assignment	研纲	assign,assignment
+assimilate	六	assimilate	assimilation	研纲	assimilate
+assist	四	assist	assistance,assistant	研纲	assist,assistance,assistant
+associate	四	associate	association	研纲	associate,association
+assorted	六	assorted			
+assortment	六	assortment			
+assume	四	assume	assumption	研纲	assume,assumption
+assure	四	assure	assurance	研纲	assure,assurance
+astonish	四	astonish	astonishment	研纲	astonish
+astray	六	astray			
+astronaut	四	astronaut		研纲	astronaut
+astronomy	四	astronomy	astronomer,astronomical	研纲	astronomy
+asylum	六	asylum			
+at	四	at		研纲	at
+athlete	四	athlete	athletic	研纲	athlete
+atlas	六	atlas			
+atmosphere	四	atmosphere	atmospheric	研纲	atmosphere
+atom	四	atom	atomic	研纲	atom
+atop	四	atop			
+atrocity	六	atrocity	atrocious		
+attach	四	attach	attachment	研纲	attach
+attack	四	attack		研纲	attack
+attain	四	attain	attainment	研纲	attain
+attempt	四	attempt		研纲	attempt
+attend	四	attend	attendance,attendant	研纲	attend,attendant
+attention	四	attention	attentive	研纲	attention
+attic	四	attic			
+attitude	四	attitude		研纲	attitude
+attorney	四	attorney		研纲	attorney
+attract	四	attract	attraction,attractive	研纲	attract,attractive
+attribute	四	attribute	attributable,attributive	研纲	attribute
+auction	六	auction	auctioneer	研纲	auction
+audience	四	audience		研纲	audience
+audio	四	audio		研纲	audio
+audit	六	audit	auditing,auditor	研纲	audit
+auditorium	四	auditorium		研纲	auditorium
+augment	六	augment	augmentation	研纲	augment
+August	四	August		研纲	August
+aunt	四	aunt	auntie	研纲	aunt
+aural				研纲	aural
+authentic	四	authentic	authenticity	研纲	authentic
+author	四	author		研纲	author
+authority	四	authority	authoritative	研纲	authority
+authorize	四	authorize/-ise	authorization/-sation		
+auto	四	auto(mobile)		研纲	auto/automobile
+autobiography	六	autobiography	autobiographic(al)		
+automate	四	automate	automation,automatic,automatically	研纲	automation,automatic
+autonomous	六	autonomous	autonomy	研纲	autonomy
+autumn	四	autumn		研纲	autumn
+auxiliary	六	auxiliary		研纲	auxiliary
+avail	六	avail		研纲	avail
+available	四	available	availability	研纲	available
+avenge	六	avenge			
+avenue	四	avenue		研纲	avenue
+average	四	average		研纲	average
+avert	六	avert	aversion	研纲	avert
+aviation	四	aviation		研纲	aviation
+avoid	四	avoid	avoidance	研纲	avoid
+await	四	await		研纲	await
+awake	四	awake		研纲	awake
+award	四	award		研纲	award
+aware	四	aware	awareness	研纲	aware
+away	四	away		研纲	away
+awe	四	awe		研纲	awe
+awesome	四	awesome			
+awful	四	awful		研纲	awful
+awkward	四	awkward		研纲	awkward
+ax	四	ax(e)		研纲	ax/axe
+axis	四	axis		研纲	axis
+baby	四	baby		研纲	baby
+baby-boom	四	baby-boom	baby-boomer		
+bachelor	四	bachelor		研纲	bachelor
+back	四	back		研纲	back
+background	四	background		研纲	background
+backup	四	backup			
+backward	四	backward	backwards	研纲	backward(s)
+backyard	四	backyard			
+bacon	四	bacon		研纲	bacon
+bacteria	四	bacteria			
+bacterium				研纲	bacterium/(pl.bacteria)
+bad	四	bad		研纲	bad
+badge	四	badge		研纲	badge
+badly	四	badly		研纲	badly
+badminton	四	badminton		研纲	badminton
+baffle	六	baffle			
+bag	四	bag		研纲	bag
+baggage	四	baggage		研纲	baggage
+bail	四	bail		研纲	bail
+bait	四	bait		研纲	bait
+bake	四	bake	bakery	研纲	bake
+balance	四	balance		研纲	balance
+balcony	四	balcony		研纲	balcony
+bald	六	bald		研纲	bald
+ball	四	ball		研纲	ball
+ballet	四	ballet		研纲	ballet
+balloon	四	balloon		研纲	balloon
+ballot	四	ballot		研纲	ballot
+bamboo	四	bamboo			
+ban	四	ban		研纲	ban
+banana	四	banana		研纲	banana
+band	四	band		研纲	band
+bandage	四	bandage		研纲	bandage
+bang	四	bang		研纲	bang
+bank	四	bank	banking,banker	研纲	bank
+banknote	四	banknote			
+bankrupt	四	bankrupt	bankruptcy	研纲	bankrupt
+banner	四	banner		研纲	banner
+banquet	四	banquet		研纲	banquet
+bar	四	bar		研纲	bar
+barbecue	四	barbecue/BBQ		研纲	barbecue/BBQ
+barber	四	barber		研纲	barber
+bare	四	bare	barely	研纲	bare,barely
+bargain	四	bargain		研纲	bargain
+barge	六	barge			
+bark	四	bark		研纲	bark
+barn	六	barn		研纲	barn
+barometer	六	barometer			
+barracks	六	barracks			
+barrel	四	barrel		研纲	barrel
+barren	六	barren		研纲	barren
+barrier	四	barrier		研纲	barrier
+base	四	base		研纲	base
+baseball	四	baseball		研纲	baseball
+basement	四	basement		研纲	basement
+basic	四	basic	basically	研纲	basic
+basin	四	basin		研纲	basin
+basis	四	basis		研纲	basis
+basket	四	basket		研纲	basket
+basketball	四	basketball		研纲	basketball
+bass	六	bass			
+bat	四	bat		研纲	bat
+batch	四	batch		研纲	batch
+bath	四	bath		研纲	bath
+bathe	四	bathe		研纲	bathe
+bathroom	四	bathroom		研纲	bathroom
+battalion	四	battalion			
+batter	六	batter			
+battery	四	battery		研纲	battery
+battle	四	battle		研纲	battle
+bay	四	bay		研纲	bay
+be	四	be		研纲	be/(am/is/are)
+beach	四	beach		研纲	beach
+bead	六	bead			
+beak	六	beak			
+beam	四	beam		研纲	beam
+bean	四	bean		研纲	bean
+bear	四	bear	unbearable(高考)	研纲	bear
+beard	四	beard		研纲	beard
+bearing	四	bearing			
+beast	四	beast		研纲	beast
+beat	四	beat		研纲	beat
+beauty	四	beauty	beautiful,beautify	研纲	beauty,beautiful
+because	四	because		研纲	because
+beckon	六	beckon			
+become	四	become		研纲	become
+bed	四	bed	bedding	研纲	bed
+bee	四	bee		研纲	bee
+beef	四	beef		研纲	beef
+beer	四	beer		研纲	beer
+beetle	六	beetle			
+before	四	before		研纲	before
+beforehand	四	beforehand			
+beg	四	beg	beggar	研纲	beg
+begin	四	begin	beginning	研纲	begin,beginning
+behalf	四	behalf		研纲	behalf
+behave	四	behave	behavio(u)r,behavio(u)ral	研纲	behave,behavio(u)r
+behind	四	behind		研纲	behind
+being	四	being		研纲	being
+belief	四	belief		研纲	belief
+believe	四	believe	unbelievable(高考)	研纲	believe
+bell	四	bell		研纲	bell
+belly	四	belly		研纲	belly
+belong	四	belong	belongings	研纲	belong
+beloved	四	beloved		研纲	beloved
+below	四	below		研纲	below
+belt	四	belt		研纲	belt
+bench	四	bench		研纲	bench
+bend	四	bend	bent(高考)	研纲	bend
+beneath	四	beneath		研纲	beneath
+benefit	四	benefit	beneficial,beneficiary	研纲	benefit,beneficial
+benevolent	六	benevolent	benevolence		
+benign	六	benign		研纲	benign
+berry	四	berry			
+beset	六	beset			
+beside	四	beside		研纲	beside
+besides	四	besides		研纲	besides
+besiege	六	besiege			
+best	四	best		研纲	best
+best-seller	四	best-seller	best-selling		
+bet	四	bet		研纲	bet
+betray	四	betray	betrayal	研纲	betray
+better	四	better		研纲	better
+between	四	between		研纲	between
+beverage	四	beverage		研纲	beverage
+beware	六	beware		研纲	beware
+bewilder	六	bewilder	bewilderment	研纲	bewilder
+beyond	四	beyond		研纲	beyond
+bias	四	bias		研纲	bias
+Bible	四	Bible	Biblical/biblical	研纲	Bible
+bibliography	六	bibliography		研纲	bibliography
+bicycle	四	bicycle/bike		研纲	bicycle/bike
+bid	四	bid		研纲	bid
+big	四	big		研纲	big
+bilateral	六	bilateral			
+bill	四	bill		研纲	bill
+billion	四	billion	billionaire,billionth(高考)	研纲	billion
+bin	四	bin		研纲	bin
+bind	四	bind		研纲	bind
+binoculars	六	binoculars			
+biochemistry	四	biochemistry	biochemical,biochemist		
+biography	四	biography	biographical,biographer	研纲	biography
+biology	四	biology	biological,biologist	研纲	biology
+biotechnology	四	biotechnology			
+bird	四	bird		研纲	bird
+birth	四	birth	birthplace(高考)	研纲	birth
+birthday	四	birthday		研纲	birthday
+biscuit	四	biscuit		研纲	biscuit
+bishop	六	bishop			
+bit	四	bit		研纲	bit
+bitch	四	bitch			
+bite	四	bite		研纲	bite
+bitter	四	bitter		研纲	bitter
+bizarre	六	bizarre		研纲	bizarre
+black	四	black		研纲	black
+blackboard	四	blackboard		研纲	blackboard
+blackmail	六	blackmail			
+blade	四	blade		研纲	blade
+blame	四	blame		研纲	blame
+blank	四	blank		研纲	blank
+blanket	四	blanket		研纲	blanket
+blast	四	blast		研纲	blast
+blaze	六	blaze		研纲	blaze
+bleach	六	bleach			
+bleak	六	bleak		研纲	bleak
+bleed	四	bleed		研纲	bleed
+blend	四	blend		研纲	blend
+bless	四	bless	blessing	研纲	bless
+blind	四	blind		研纲	blind
+blink	六	blink			
+bloc	六	bloc			
+block	四	block		研纲	block
+blog	四	blog		研纲	blog
+blond	四	blond(e)			
+blood	四	blood	bloody	研纲	blood,bloody
+bloom	四	bloom		研纲	bloom
+blossom	四	blossom		研纲	blossom
+blouse	四	blouse		研纲	blouse
+blow	四	blow		研纲	blow
+blue	四	blue		研纲	blue
+blueprint	四	blueprint		研纲	blueprint
+bluff	六	bluff			
+blunder	六	blunder		研纲	blunder
+blunt	六	blunt		研纲	blunt
+blur	四	blur		研纲	blur
+blush	六	blush		研纲	blush
+board	四	board		研纲	board
+boast	四	boast	boastful	研纲	boast
+boat	四	boat		研纲	boat
+body	四	body	bodily	研纲	body
+boil	四	boil	boiler	研纲	boil
+bold	四	bold		研纲	bold
+bolster	六	bolster			
+bolt	四	bolt		研纲	bolt
+bomb	四	bomb		研纲	bomb
+bond	四	bond	bondage	研纲	bond
+bone	四	bone	bony	研纲	bone
+bonus	四	bonus		研纲	bonus
+book	四	book		研纲	book
+boom	四	boom		研纲	boom
+boost	四	boost		研纲	boost
+boot	四	boot		研纲	boot
+booth	四	booth		研纲	booth
+border	四	border		研纲	border
+bore	四	bore	boring,bored(高考)	研纲	bore
+born	四	born		研纲	born
+borrow	四	borrow		研纲	borrow
+bosom				研纲	bosom
+boss	四	boss		研纲	boss
+botany	六	botany	botanical	研纲	botany
+both	四	both		研纲	both
+bother	四	bother		研纲	bother
+bottle	四	bottle		研纲	bottle
+bottom	四	bottom		研纲	bottom
+bounce	四	bounce		研纲	bounce
+bound	四	bound		研纲	bound
+boundary	四	boundary		研纲	boundary
+bouquet	六	bouquet			
+bout	六	bout			
+bow	四	bow		研纲	bow
+bowel	四	bowel		研纲	bowel
+bowl	四	bowl	bowling(高考)	研纲	bowl,bowling
+box	四	box		研纲	box
+boxing	四	boxing			
+boy	四	boy		研纲	boy
+boycott	六	boycott		研纲	boycott
+brace	六	brace		研纲	brace
+bracket	四	bracket		研纲	bracket
+brag	四	brag			
+brain	四	brain		研纲	brain
+brake	四	brake		研纲	brake
+branch	四	branch		研纲	branch
+brand	四	brand		研纲	brand
+brand-new	四	brand-new			
+brandy	四	brandy		研纲	brandy
+brass	四	brass		研纲	brass
+brave	四	brave	bravery	研纲	brave
+breach	六	breach		研纲	breach
+bread	四	bread		研纲	bread
+break	四	break	broken(高考)	研纲	break
+breakdown	四	breakdown		研纲	breakdown
+breakfast	四	breakfast		研纲	breakfast
+breakthrough	四	breakthrough			
+breast	四	breast		研纲	breast
+breath	四	breath	breathless(高考)	研纲	breath
+breathe	四	breathe		研纲	breathe
+breed	四	breed		研纲	breed
+breeze	四	breeze		研纲	breeze
+brew	六	brew	brewery		
+bribe	四	bribe	bribery	研纲	bribe
+brick	四	brick		研纲	brick
+bride	四	bride		研纲	bride
+bridegroom	四	bridegroom			
+bridge	四	bridge		研纲	bridge
+brief	四	brief	briefing	研纲	brief
+briefcase	四	briefcase		研纲	briefcase
+brigade	六	brigade		研纲	brigade
+bright	四	bright	brighten	研纲	bright
+brilliant	四	brilliant	brilliance	研纲	brilliant
+brim				研纲	brim
+bring	四	bring		研纲	bring
+brink	六	brink			
+brisk	六	brisk		研纲	brisk
+brittle				研纲	brittle
+broad	四	broad	broaden,breadth	研纲	broad
+broadcast	四	broadcast		研纲	broadcast
+brochure	四	brochure		研纲	brochure
+broke	四	broke			
+broker	四	broker			
+bronze	六	bronze		研纲	bronze
+brood	六	brood			
+brook				研纲	brook
+broom	四	broom		研纲	broom
+brother	四	brother		研纲	brother
+brow	四	brow		研纲	brow
+brown	四	brown		研纲	brown
+browse	四	browse	browser	研纲	browse
+bruise	六	bruise		研纲	bruise
+brunch	四	brunch			
+brush	四	brush		研纲	brush
+brutal	四	brutal	brutality	研纲	brutal
+bubble	四	bubble		研纲	bubble
+buck	四	buck			
+bucket	四	bucket		研纲	bucket
+buckle	四	buckle			
+bud	四	bud		研纲	bud
+Buddhism	六	Buddhism	Buddhist		
+buddy	四	buddy			
+budget	四	budget	budgetary	研纲	budget
+buffalo	六	buffalo			
+buffer	六	buffer			
+buffet	四	buffet		研纲	buffet
+bug	四	bug		研纲	bug
+build	四	build	building,rebuild(高考)	研纲	build
+bulb	四	bulb		研纲	bulb
+bulk	四	bulk	bulky	研纲	bulk
+bull	四	bull		研纲	bull
+bullet	四	bullet		研纲	bullet
+bulletin	四	bulletin		研纲	bulletin
+bully	四	bully		研纲	bully
+bump	四	bump		研纲	bump
+bumper	四	bumper			
+bunch	四	bunch		研纲	bunch
+bundle	四	bundle		研纲	bundle
+burden	四	burden		研纲	burden
+bureau	四	bureau		研纲	bureau
+bureaucrat	六	bureaucrat	bureaucratic,bureaucracy	研纲	bureaucracy
+burglar	六	burglar	burglary	研纲	burglar
+burn	四	burn		研纲	burn
+burst	四	burst		研纲	burst
+bury	四	bury	burial	研纲	bury
+bus	四	bus		研纲	bus
+bush	四	bush	bushy	研纲	bush
+business	四	business		研纲	business
+businessman	四	businessman			
+bust	六	bust			
+busy	四	busy		研纲	busy
+but	四	but		研纲	but
+butcher	四	butcher		研纲	butcher
+butt	六	butt			
+butter	四	butter		研纲	butter
+butterfly	四	butterfly		研纲	butterfly
+button	四	button		研纲	button
+buy	四	buy	buyer	研纲	buy
+buzz	六	buzz		研纲	buzz
+by	四	by		研纲	by
+bypass	四	bypass		研纲	bypass/by-pass
+bystander	四	bystander			
+cab	四	cab		研纲	cab
+cabbage	四	cabbage		研纲	cabbage
+cabin	四	cabin		研纲	cabin
+cabinet	四	cabinet		研纲	cabinet
+cable	四	cable		研纲	cable
+cafe	四	cafe		研纲	cafe
+cafeteria	四	cafeteria		研纲	cafeteria
+cage	四	cage		研纲	cage
+cake	四	cake		研纲	cake
+calcium	六	calcium		研纲	calcium
+calculate	四	calculate	calculation,calculator,calculating	研纲	calculate,calculator
+calendar	四	calendar		研纲	calendar
+calf	四	calf			
+call	四	call		研纲	call
+calling	四	calling			
+calm	四	calm		研纲	calm
+calorie	四	calorie		研纲	calorie
+camel	四	camel		研纲	camel
+camera	四	camera		研纲	camera
+camp	四	camp		研纲	camp
+campaign	四	campaign		研纲	campaign
+campus	四	campus		研纲	campus
+can	四	can		研纲	can
+canal	四	canal		研纲	canal
+cancel	四	cancel	cancelation	研纲	cancel
+cancer	四	cancer		研纲	cancer
+candidate	四	candidate	candidacy	研纲	candidate
+candle	四	candle		研纲	candle
+candy	四	candy		研纲	candy
+cane	四	cane			
+cannon	六	cannon		研纲	cannon
+canoe	六	canoe		研纲	canoe
+canteen	四	canteen		研纲	canteen
+canvas	六	canvas		研纲	canvas
+cap	四	cap		研纲	cap
+capable	四	capable	capability	研纲	capable
+capacity	四	capacity		研纲	capacity
+cape	六	cape		研纲	cape
+capital	四	capital	capitalist,capitalism	研纲	capital
+capsule	六	capsule		研纲	capsule
+captain	四	captain		研纲	captain
+caption	六	caption			
+captive	六	captive		研纲	captive
+capture	四	capture		研纲	capture
+car	四	car		研纲	car
+caravan	六	caravan			
+carbohydrate	六	carbohydrate		研纲	carbohydrate
+carbon	四	carbon		研纲	carbon
+card	四	card		研纲	card
+cardboard	四	cardboard			
+cardinal	六	cardinal		研纲	cardinal
+care	四	care	careful,careless	研纲	care,careful,careless
+career	四	career		研纲	career
+caress				研纲	caress
+cargo	四	cargo		研纲	cargo
+carpenter	四	carpenter		研纲	carpenter
+carpet	四	carpet		研纲	carpet
+carriage	四	carriage		研纲	carriage
+carrier	四	carrier		研纲	carrier
+carrot	四	carrot		研纲	carrot
+carry	四	carry		研纲	carry
+cart	四	cart		研纲	cart
+carton	六	carton			
+cartoon	四	cartoon	cartoonist	研纲	cartoon
+carve	六	carve	carving	研纲	carve
+case	四	case		研纲	case
+cash	四	cash		研纲	cash
+cashier	四	cashier		研纲	cashier
+casino	六	casino			
+cassette				研纲	cassette
+cast	四	cast		研纲	cast
+castle	四	castle		研纲	castle
+casual	四	casual		研纲	casual
+casualty	六	casualty		研纲	casualty
+cat	四	cat		研纲	cat
+catalog	四	catalog(ue)		研纲	catalog(ue)
+catastrophe	六	catastrophe	catastrophic	研纲	catastrophe
+catch	四	catch		研纲	catch
+category	四	category		研纲	category
+cater	四	cater		研纲	cater
+cathedral	六	cathedral		研纲	cathedral
+Catholic	六	Catholic		研纲	Catholic
+cattle	四	cattle		研纲	cattle
+cauliflower	六	cauliflower			
+cause	四	cause		研纲	cause
+caution	四	caution	cautious	研纲	caution,cautious
+cave	四	cave		研纲	cave
+cavity	六	cavity			
+cease	四	cease		研纲	cease
+ceiling	四	ceiling		研纲	ceiling
+celebrate	四	celebrate	celebration	研纲	celebrate
+celebrity	六	celebrity		研纲	celebrity
+cell	四	cell		研纲	cell
+cellar	四	cellar		研纲	cellar
+cell-phone	四	cell-phone			
+Celsius	四	Celsius/-cius			
+cement	四	cement		研纲	cement
+cemetery	六	cemetery		研纲	cemetery
+censor	六	censor	censorship	研纲	censorship
+census	六	census		研纲	census
+cent	四	cent		研纲	cent
+center	四	center/-tre	central,centralize/-ise	研纲	center/-tre,central
+centigrade	四	centigrade		研纲	centigrade
+centimeter	四	centimeter/-tre		研纲	centimeter/-tre
+century	四	century		研纲	century
+ceramic	六	ceramic			
+cereal	四	cereal		研纲	cereal
+ceremony	四	ceremony	ceremonial	研纲	ceremony
+certain	四	certain	certainly,certainty	研纲	certain,certainty
+certificate	四	certificate		研纲	certificate
+certify	六	certify	certification	研纲	certify
+chain	四	chain		研纲	chain
+chair	四	chair		研纲	chair
+chairman	四	chairman/chairperson		研纲	chairman/(pl.chairmen)
+chalk	四	chalk		研纲	chalk
+challenge	四	challenge	challenging	研纲	challenge
+chamber	六	chamber		研纲	chamber
+champagne	四	champagne		研纲	champagne
+champion	四	champion	championship	研纲	champion
+chance	四	chance		研纲	chance
+chancellor	六	chancellor		研纲	chancellor
+change	四	change	changeable(高考)	研纲	change
+channel	四	channel		研纲	channel
+chant	六	chant			
+chaos	四	chaos	chaotic	研纲	chaos
+chap				研纲	chap
+chapel	六	chapel			
+chapter	四	chapter		研纲	chapter
+character	四	character	characteristic,characterize/-ise	研纲	character,characteristic,characterize/-ise
+charge	四	charge		研纲	charge
+charity	四	charity	charitable	研纲	charity
+charm	四	charm	charming	研纲	charm
+chart	四	chart		研纲	chart
+charter	四	charter		研纲	charter
+chase	四	chase		研纲	chase
+chat	四	chat		研纲	chat
+cheap	四	cheap		研纲	cheap
+cheat	四	cheat		研纲	cheat
+check	四	check/cheque		研纲	check
+cheek	四	cheek		研纲	cheek/cheque
+cheer	四	cheer	cheerful,cheers(高考)	研纲	cheer
+cheese	四	cheese		研纲	cheese
+chef	四	chef		研纲	chef
+chemistry	四	chemistry	chemical,chemist	研纲	chemistry,chemical,chemist
+cherish	四	cherish		研纲	cherish
+cherry				研纲	cherry
+chess	四	chess		研纲	chess
+chest	四	chest		研纲	chest
+chew	四	chew		研纲	chew
+chicken	四	chicken		研纲	chicken
+chief	四	chief		研纲	chief
+child	四	child	childish,childhood(高考)	研纲	child/(pl.children),childhood
+chill	四	chill	chilly	研纲	chill
+chimney	四	chimney		研纲	chimney
+chin	四	chin		研纲	chin
+china	四	china		研纲	china
+chip	四	chip		研纲	chip
+chocolate	四	chocolate		研纲	chocolate
+choice	四	choice		研纲	choice
+choir	六	choir			
+choke	四	choke		研纲	choke
+cholesterol	四	cholesterol			
+choose	四	choose	choosy	研纲	choose
+chop	四	chop		研纲	chop
+chopstick	四	chopstick			
+chord	六	chord			
+chore	四	chore			
+chorus	四	chorus		研纲	chorus
+Christ	四	Christ	Christmas,Christian,Christianity	研纲	Christ,Christmas,Christian
+chronic	六	chronic	chronically	研纲	chronic
+chronicle	六	chronicle			
+chunk	六	chunk			
+church	四	church		研纲	church
+cigar	四	cigar		研纲	cigar
+cigaret	四	cigaret(te)		研纲	cigaret(te)
+cinema	四	cinema		研纲	cinema
+circle	四	circle	circular,semicircle(高考)	研纲	circle,circular
+circuit	四	circuit		研纲	circuit
+circulate	四	circulate	circulation	研纲	circulate
+circumference				研纲	circumference
+circumstance	四	circumstance			
+circus	四	circus		研纲	circus
+cite	四	cite	citation	研纲	cite
+citizen	四	citizen	citizenship	研纲	citizen
+city	四	city		研纲	city
+civic	六	civic			
+civil	四	civil	civilize/-ise,civilization/-sation	研纲	civil,civilize/-ise,civilization/-isation
+civilian	四	civilian		研纲	civilian
+claim	四	claim		研纲	claim
+clamp	六	clamp			
+clan	六	clan			
+clap	四	clap		研纲	clap
+clarity	四	clarity	clarify,clarification	研纲	clarity,clarify
+clash	四	clash		研纲	clash
+clasp	六	clasp		研纲	clasp
+class	四	class		研纲	class
+classic	四	classic	classical	研纲	classic,classical
+classify	四	classify	classification,classified	研纲	classify,classification
+classmate	四	classmate		研纲	classmate
+classroom	四	classroom		研纲	classroom
+clause	四	clause		研纲	clause
+claw	四	claw		研纲	claw
+clay	四	clay		研纲	clay
+clean	四	clean	cleaner(高考)	研纲	clean
+cleanse	六	cleanse			
+clear	四	clear	clearly	研纲	clear
+clearance	六	clearance			
+clear-cut	四	clear-cut			
+clearing	六	clearing			
+clench	六	clench			
+clergy	六	clergy		研纲	clergy
+clerk	四	clerk	clerical	研纲	clerk
+clever	四	clever		研纲	clever
+cliche	六	cliche			
+click	四	click		研纲	click
+client	四	client		研纲	client
+cliff	四	cliff		研纲	cliff
+climate	四	climate	climatic	研纲	climate
+climax	四	climax		研纲	climax
+climb	四	climb		研纲	climb
+cling	四	cling		研纲	cling
+clinic	四	clinic	clinical	研纲	clinic
+clip	四	clip		研纲	clip
+cloak	六	cloak		研纲	cloak
+clock	四	clock		研纲	clock
+clockwise	四	clockwise		研纲	clockwise
+clog	六	clog			
+clone	四	clone		研纲	clone
+close	四	close		研纲	close
+closet	六	closet		研纲	closet
+cloth	四	cloth		研纲	cloth
+clothe	四	clothe	clothing	研纲	clothe,clothing
+clothes	四	clothes		研纲	clothes
+cloud	四	cloud	cloudy	研纲	cloud,cloudy
+clown	四	clown			
+club	四	club		研纲	club
+clue	四	clue		研纲	clue
+clumsy	四	clumsy		研纲	clumsy
+cluster	六	cluster		研纲	cluster
+clutch	六	clutch		研纲	clutch
+coach	四	coach		研纲	coach
+coal	四	coal		研纲	coal
+coalition	六	coalition		研纲	coalition
+coarse	四	coarse		研纲	coarse
+coast	四	coast	coastal	研纲	coast
+coat	四	coat		研纲	coat
+cocaine	六	cocaine		研纲	cocaine
+cock	四	cock		研纲	cock
+cockpit	六	cockpit			
+cocktail	六	cocktail			
+coconut	六	coconut			
+code	四	code		研纲	code
+coexist	六	coexist	coexistence		
+coffee	四	coffee		研纲	coffee
+cognitive	六	cognitive	cognition	研纲	cognitive
+coherent	四	coherent	coherence	研纲	coherent
+cohesion	四	cohesion	cohesive	研纲	cohesive
+coil	四	coil		研纲	coil
+coin	四	coin	coinage	研纲	coin
+coincide	六	coincide	coincidence	研纲	coincide
+coke				研纲	coke
+cold	四	cold		研纲	cold
+collaborate	四	collaborate	collaboration,collaborative	研纲	collaborate
+collapse	四	collapse		研纲	collapse
+collar	四	collar		研纲	collar
+colleague	四	colleague		研纲	colleague
+collect	四	collect	collection,collective	研纲	collect,collection,collective
+college	四	college		研纲	college
+collide	六	collide	collision	研纲	collide,collision
+colon	四	colon	semi-colon		
+colonel	六	colonel		研纲	colonel
+colony	四	colony	colonial,colonialism,colonize/-ise	研纲	colony,colonial
+color	四	colo(u)r	colo(u)rful	研纲	colo(u)r
+column	四	column	columnist	研纲	column
+comb	四	comb		研纲	comb
+combat	四	combat	combative	研纲	combat
+combine	四	combine	combination	研纲	combine,combination
+come	四	come		研纲	come
+comedy	四	comedy		研纲	comedy
+comet	六	comet		研纲	comet
+comfort	四	comfort	comfortable,uncomfortable(高考)	研纲	comfort
+comic	六	comic		研纲	comic
+comma	四	comma			
+command	四	command	commander	研纲	command
+commemorate	六	commemorate	commemoration	研纲	commemorate
+commence	四	commence	commencement	研纲	commence
+commend	六	commend	commendation	研纲	commend
+comment	四	comment	commentary,commentator	研纲	comment
+commerce	四	commerce	commercial,commercialize/-ise	研纲	commerce,commercial
+commission	四	commission		研纲	commission
+commit	四	commit	commitment	研纲	commit
+committee	四	committee		研纲	committee
+commodity	四	commodity		研纲	commodity
+common	四	common		研纲	common
+commonplace	四	commonplace		研纲	commonplace
+commonwealth	六	commonwealth		研纲	commonwealth
+commune	四	commune	communist,communism	研纲	communism
+communicate	四	communicate	communication,communicative	研纲	communicate,communication
+community	四	community		研纲	community
+commute	四	commute	commuter	研纲	commute
+compact	四	compact		研纲	compact
+companion	四	companion	companionship	研纲	companion
+company	四	company		研纲	company
+compare	四	compare	comparison,comparative,comparable	研纲	compare,comparison,comparative,comparable
+compartment	六	compartment		研纲	compartment
+compass	四	compass		研纲	compass
+compassion	六	compassion	compassionate	研纲	compassion
+compatible	四	compatible	compatibility	研纲	compatible
+compel	四	compel	compelling	研纲	compel
+compensate	四	compensate	compensation,compensatory	研纲	compensate
+compete	四	compete	competition,competitive,competitor	研纲	compete,competition,competitive
+competent	四	competent	competence	研纲	competent
+compile	六	compile	compilation	研纲	compile
+complacent	六	complacent	complacency		
+complain	四	complain	complaint	研纲	complain,complaint
+complement	六	complement	complementary	研纲	complement
+complete	四	complete	completion	研纲	complete
+complex	四	complex	complexity	研纲	complex
+complexion	六	complexion			
+complicate	四	complicate	complicated,complication	研纲	complicate,complicated
+compliment	六	compliment	complimentary	研纲	compliment
+comply	四	comply	compliance	研纲	comply
+component	四	component		研纲	component
+compose	四	compose	composition,composer	研纲	compose,composition
+composite	六	composite		研纲	composite
+compound	四	compound		研纲	compound
+comprehend	四	comprehend	comprehension	研纲	comprehend,comprehension
+comprehensive	四	comprehensive		研纲	comprehensive
+compress	六	compress	compression	研纲	compress
+comprise	四	comprise		研纲	comprise
+compromise	四	compromise		研纲	compromise
+compulsory	四	compulsory		研纲	compulsory
+compute	四	compute	computer,computerize/-ise,computation	研纲	compute,computer
+comrade	四	comrade		研纲	comrade
+conceal	四	conceal	concealment	研纲	conceal
+concede	六	concede	concession	研纲	concede,concession
+conceit	六	conceit	conceited		
+conceive	六	conceive	conception	研纲	conceive,conception
+concentrate	四	concentrate	concentration	研纲	concentrate
+concept	四	concept	conceptual	研纲	concept
+concern	四	concern	concerned,concerning	研纲	concern
+concert	四	concert	concerted	研纲	concert
+concise	六	concise		研纲	concise
+conclude	四	conclude	conclusion,conclusive	研纲	conclude,conclusion
+concrete	四	concrete		研纲	concrete
+concurrent	六	concurrent			
+condemn	四	condemn	condemnation	研纲	condemn
+condense	四	condense	condensation	研纲	condense
+condition	四	condition	conditional,conditioner,unconditional(高考)	研纲	condition
+condolence	六	condolence			
+conducive	六	conducive			
+conduct	四	conduct	conductor,semiconductor(研)	研纲	conduct,conductor,semiconductor
+confederation	六	confederation	confederate		
+confer	六	confer		研纲	confer
+conference	四	conference		研纲	conference
+confess	四	confess	confession	研纲	confess
+confide	六	confide			
+confidence	四	confidence	confident,confidential	研纲	confidence,confident,confidential
+configuration	六	configuration			
+confine	四	confine	confinement	研纲	confine
+confirm	四	confirm	confirmation	研纲	confirm
+conflict	四	conflict		研纲	conflict
+conform	四	conform	conformity	研纲	conform
+confront	四	confront	confrontation	研纲	confront
+Confucian	四	Confucian	Confucianism		
+confuse	四	confuse	confusion	研纲	confuse,confusion
+congratulate	四	congratulate	congratulation,congratulatory	研纲	congratulate,congratulation
+congregate	六	congregate	congregation		
+congress	四	congress	congressional	研纲	congress
+conjunction	四	conjunction		研纲	conjunction
+connect	四	connect	connection/-xion	研纲	connect,connection/connexion
+connotation	六	connotation			
+conquer	四	conquer	conqueror,conquest	研纲	conquer,conquest
+conscience	四	conscience		研纲	conscience
+conscientious	四	conscientious		研纲	conscientious
+conscious	四	conscious	consciousness,unconscious(高考)	研纲	conscious
+consecutive	六	consecutive		研纲	consecutive
+consensus	四	consensus		研纲	consensus
+consent	四	consent		研纲	consent
+consequence	四	consequence	consequent,consequently	研纲	consequence,consequently
+conservative	四	conservative		研纲	conservative
+conserve	六	conserve	conservation	研纲	conservation
+consider	四	consider	consideration,considering	研纲	consider
+considerable	四	considerable		研纲	considerable
+considerate	四	considerate		研纲	considerate
+consist	四	consist		研纲	consist
+consistent	四	consistent	consistency	研纲	consistent
+console	六	console	consolation	研纲	console
+consolidate	四	consolidate	consolidation	研纲	consolidate
+conspicuous	六	conspicuous		研纲	conspicuous
+conspire	六	conspire	conspiracy	研纲	conspiracy
+constant	四	constant		研纲	constant
+constituent	六	constituent	constituency	研纲	constituent
+constitute	四	constitute		研纲	constitute
+constitution	四	constitution	constitutional	研纲	constitution
+constrain	六	constrain	constraint	研纲	constrain
+construct	四	construct	construction	研纲	construct
+consulate	六	consulate	consul		
+consult	四	consult	consultation,consultative,consultant	研纲	consult,consultant
+consume	四	consume	consumer,consumption	研纲	consume,consumption
+contact	四	contact		研纲	contact
+contagious	六	contagious		研纲	contagious
+contain	四	contain	container,containment	研纲	contain
+contaminate	四	contaminate	contamination	研纲	contaminate
+contemplate	六	contemplate	contemplation,contemplative	研纲	contemplate
+contemporary	四	contemporary		研纲	contemporary
+contempt	四	contempt	contemptible	研纲	contempt
+contend	四	contend	contention,contentious	研纲	contend
+content	四	content	contented	研纲	content
+contest	四	contest	contestant	研纲	contest
+context	四	context	contextual	研纲	context
+continent	四	continent	continental	研纲	continent
+contingent	六	contingent			
+continue	四	continue	continuation,continual,continuous,continuity	研纲	continue,continual,continuous
+contract	四	contract	contractor,contraction	研纲	contract
+contradict	四	contradict	contradiction,contradictory	研纲	contradict
+contrary	四	contrary		研纲	contrary
+contrast	四	contrast		研纲	contrast
+contribute	四	contribute	contribution,contributor	研纲	contribute,contribution
+contrive	六	contrive		研纲	contrive
+control	四	control		研纲	control
+controversy	四	controversy	controversial	研纲	controversy,controversial
+convene	六	convene			
+convenient	四	convenient	convenience	研纲	convenient,convenience
+convention	四	convention	conventional	研纲	convention
+converge	六	converge	convergence	研纲	converge
+converse	四	converse	conversation,conversely(研)	研纲	conversation,conversely
+convert	四	convert	conversion,convertible	研纲	convert,conversion
+convey	四	convey	conveyance	研纲	convey
+convict	六	convict	conviction	研纲	convict,conviction
+convince	四	convince	convincing	研纲	convince
+convoy	六	convoy			
+cook	四	cook	cooker	研纲	cook
+cookie	四	cookie			
+cool	四	cool		研纲	cool
+cooperate	四	cooperate	cooperation,cooperative	研纲	cooperate,cooperative
+coordinate	四	coordinate	coordination,coordinator	研纲	coordinate
+cop	四	cop		研纲	cop
+cope	四	cope		研纲	cope
+copper	四	copper		研纲	copper
+copy	四	copy		研纲	copy
+copyright	四	copyright		研纲	copyright
+coral	六	coral			
+cord	四	cord		研纲	cord
+cordial	六	cordial	cordiality	研纲	cordial
+core	四	core		研纲	core
+cork	六	cork			
+corn	四	corn		研纲	corn
+corner	四	corner		研纲	corner
+cornerstone	四	cornerstone			
+corporal	六	corporal			
+corporation	四	corporation	corporate	研纲	corporation
+corps	四	corps			
+corpse	六	corpse			
+correct	四	correct	correction,corrective	研纲	correct
+correlate	六	correlate	correlation,correlative	研纲	correlate
+correspond	四	correspond	correspondence,correspondent,corresponding	研纲	correspond,correspondence,correspondent
+corridor	四	corridor		研纲	corridor
+corrode	六	corrode	corrosion	研纲	corrode
+corrupt	四	corrupt	corruption	研纲	corrupt
+cosmetic	六	cosmetic			
+cosmopolitan	六	cosmopolitan			
+cosmos	四	cosmos	cosmic	研纲	cosmic
+cost	四	cost	costly	研纲	cost,costly
+costume	四	costume		研纲	costume
+cottage	四	cottage		研纲	cottage
+cotton	四	cotton		研纲	cotton
+couch	四	couch		研纲	couch
+cough	四	cough		研纲	cough
+could	四	could		研纲	could
+council	四	council	council(l)or	研纲	council
+counsel	四	counsel	counsel(l)or	研纲	counsel
+count	四	count		研纲	count
+countdown	四	countdown			
+counter	四	counter		研纲	counter
+counteract	六	counteract	counteraction		
+counterfeit	六	counterfeit			
+counterpart	四	counterpart		研纲	counterpart
+country	四	country		研纲	country
+countryside	四	countryside		研纲	countryside
+county	四	county		研纲	county
+coup	六	coup(d'état)			
+couple	四	couple		研纲	couple
+coupon	四	coupon		研纲	coupon
+courage	四	courage	courageous	研纲	courage
+course	四	course		研纲	course
+court	四	court		研纲	court
+courtesy	六	courtesy		研纲	courtesy
+courtyard	四	courtyard		研纲	courtyard
+cousin	四	cousin		研纲	cousin
+cover	四	cover	coverage	研纲	cover
+cow	四	cow		研纲	cow
+coward	四	coward	cowardly,cowardice	研纲	coward
+cowboy	四	cowboy			
+cozy	六	cozy/-sy		研纲	cozy/cosy
+crab	四	crab		研纲	crab
+crack	四	crack		研纲	crack
+crackdown	六	crackdown			
+cracker	四	cracker			
+cradle	六	cradle		研纲	cradle
+craft	四	craft		研纲	craft
+cram	六	cram			
+crane	四	crane		研纲	crane
+crash	四	crash		研纲	crash
+crate	六	crate			
+crave	六	crave			
+crawl	四	crawl		研纲	crawl
+crazy	四	crazy	craze	研纲	crazy
+cream	四	cream	creamy	研纲	cream
+create	四	create	creation,creative,creator	研纲	create,creative
+creature	四	creature		研纲	creature
+credential	六	credential		研纲	credential
+credible	六	credible	credibility		
+credit	四	credit	creditable	研纲	credit
+creep	四	creep		研纲	creep
+crew	四	crew		研纲	crew
+cricket	六	cricket		研纲	cricket
+crime	四	crime	criminal	研纲	crime,criminal
+cripple	六	cripple		研纲	cripple
+crisis	四	crisis		研纲	crisis/(pl.crises)
+crisp	六	crisp		研纲	crisp
+criterion	四	criterion		研纲	criterion/(pl.criteria/criterions)
+criticize	四	criticize/-ise	criticism,critic,critical	研纲	criticize/-ise,criticism,critic,critical
+crocodile	四	crocodile			
+crop	四	crop		研纲	crop
+cross	四	cross	crossing	研纲	cross
+crouch	六	crouch			
+crow	六	crow		研纲	crow
+crowd	四	crowd	crowded	研纲	crowd
+crown	四	crown		研纲	crown
+crucial	四	crucial		研纲	crucial
+crude	六	crude		研纲	crude
+cruel	四	cruel	cruelty	研纲	cruel
+cruise	四	cruise	cruiser	研纲	cruise
+crumble	六	crumble			
+crunch	六	crunch			
+crush	四	crush		研纲	crush
+crust	六	crust		研纲	crust
+cry	四	cry		研纲	cry
+crystal	四	crystal		研纲	crystal
+cub	六	cub			
+cube	四	cube	cubic	研纲	cube
+cucumber	四	cucumber		研纲	cucumber
+cue	四	cue		研纲	cue
+cuisine	六	cuisine			
+culminate	六	culminate	culmination		
+culprit				研纲	culprit
+cult	六	cult			
+cultivate	四	cultivate	cultivation	研纲	cultivate
+culture	四	culture	cultural	研纲	culture
+cumulative	六	cumulative			
+cunning	六	cunning		研纲	cunning
+cup	四	cup		研纲	cup
+cupboard	四	cupboard		研纲	cupboard
+curb	四	curb		研纲	curb
+cure	四	cure	curable	研纲	cure
+curfew	六	curfew			
+curious	四	curious	curiosity	研纲	curious,curiosity
+curl	四	curl		研纲	curl
+currency	四	currency		研纲	currency
+current	四	current	currently	研纲	current
+curriculum	四	curriculum		研纲	curriculum/(pl.curricula)
+curse	四	curse		研纲	curse
+curtail	六	curtail			
+curtain	四	curtain		研纲	curtain
+curve	四	curve		研纲	curve
+cushion	四	cushion		研纲	cushion
+custody	六	custody			
+custom	四	custom	customary	研纲	custom
+customer	四	customer		研纲	customer
+customs	四	customs			
+cut	四	cut		研纲	cut
+cute	四	cute			
+cyberspace	四	cyberspace		研纲	cyberspace
+cycle	四	cycle	cycling,cyclist	研纲	cycle
+cylinder	六	cylinder		研纲	cylinder
+cynical	六	cynical	cynicism		
+dad	四	dad(dy)			
+daily	四	daily		研纲	daily
+dairy	四	dairy		研纲	dairy
+dam	四	dam		研纲	dam
+damage	四	damage		研纲	damage
+damn	四	damn		研纲	damn
+damp	四	damp	dampen	研纲	damp
+dance	四	dance		研纲	dance
+danger	四	danger	dangerous	研纲	danger,dangerous
+dare	四	dare	daring	研纲	dare
+dark	四	dark	darkness,darken	研纲	dark
+darling	四	darling		研纲	darling
+dart	六	dart			
+dash	四	dash		研纲	dash
+data	四	data	datum	研纲	data
+database	四	database		研纲	database
+date	四	date	dating	研纲	date
+daughter	四	daughter		研纲	daughter
+daunt				研纲	daunt
+dawn	四	dawn		研纲	dawn
+day	四	day	daily	研纲	day
+daylight	四	daylight		研纲	daylight
+dazzle	六	dazzle		研纲	dazzle
+dead	四	dead		研纲	dead
+deadline	四	deadline		研纲	deadline
+deadlock	六	deadlock			
+deadly	四	deadly		研纲	deadly
+deaf	四	deaf		研纲	deaf
+deal	四	deal	dealer,dealing	研纲	deal,dealer
+dean	四	dean		研纲	dean
+dear	四	dear		研纲	dear
+death	四	death		研纲	death
+debate	四	debate		研纲	debate
+debris	六	debris			
+debt	四	debt	debtor	研纲	debt
+debut	六	debut		研纲	debut
+decade	四	decade		研纲	decade
+decay	四	decay		研纲	decay
+deceive	四	deceive	deceit,deception,deceptive	研纲	deceive,deceit
+December	四	December		研纲	December
+decent	四	decent		研纲	decent
+decide	四	decide	decision,decisive	研纲	decide,decision,decisive
+decimal	六	decimal		研纲	decimal
+deck	四	deck		研纲	deck
+declare	四	declare	declaration,declarative	研纲	declare,declaration
+decline	四	decline		研纲	decline
+decorate	四	decorate	decoration,decorative	研纲	decorate
+decrease	四	decrease		研纲	decrease
+decree	六	decree			
+dedicate	六	dedicate	dedication	研纲	dedicate
+deduce	六	deduce	deducible	研纲	deduce
+deduct	六	deduct	deduction,deductive,deductible	研纲	deduct
+deed	四	deed		研纲	deed
+deem	四	deem		研纲	deem
+deep	四	deep	deeply,depth	研纲	deep
+deer	四	deer		研纲	deer/(pl.deer)
+default	六	default		研纲	default
+defeat	四	defeat		研纲	defeat
+defect	四	defect	defective,defection	研纲	defect
+defend	四	defend	defense/-ce,defensive,defendant	研纲	defend,defense/-ence,defendant
+defer	六	defer		研纲	defer
+deficient	四	deficient	deficiency	研纲	deficiency
+deficit	四	deficit		研纲	deficit
+define	四	define	definition	研纲	define,definition
+definite	四	definite	definitely	研纲	definite
+defy	四	defy	defiance,defiant	研纲	defy
+degenerate	六	degenerate	degeneration	研纲	degenerate
+degrade	六	degrade	degradation		
+degree	四	degree		研纲	degree
+delay	四	delay		研纲	delay
+delegate	四	delegate	delegation	研纲	delegate
+delete	四	delete	deletion	研纲	delete
+deliberate	四	deliberate	deliberation,deliberately(高考)	研纲	deliberate
+delicacy	六	delicacy			
+delicate	四	delicate		研纲	delicate
+delicious	四	delicious		研纲	delicious
+delight	四	delight	delightful,delighted(高考)	研纲	delight
+deliver	四	deliver	delivery	研纲	deliver,delivery
+delude	六	delude	delusion		
+demand	四	demand	demanding	研纲	demand
+democracy	四	democracy	democratic,democrat	研纲	democracy,democratic
+demographic	六	demographic			
+demonstrate	四	demonstrate	demonstration/demo,demonstrative	研纲	demonstrate
+denote	六	denote	denotation	研纲	denote
+denounce	六	denounce	denunciation	研纲	denounce
+dense	四	dense	density	研纲	dense,density
+dent	四	dent			
+dental	四	dental		研纲	dental
+dentist	四	dentist		研纲	dentist
+deny	四	deny	denial	研纲	deny,denial
+depart	四	depart	departure	研纲	depart,departure
+department	四	department		研纲	department
+depend	四	depend	dependent,dependence,dependable	研纲	depend,dependent
+depict	六	depict	depiction	研纲	depict
+deplete	六	deplete	depletion		
+deplore	六	deplore		研纲	deplore
+deploy	六	deploy	deployment		
+deport	六	deport	deportation		
+deposit	四	deposit		研纲	deposit
+depot	六	depot			
+depreciate	六	depreciate	depreciation		
+depress	四	depress	depression	研纲	depress
+deprive	四	deprive	deprivation	研纲	deprive
+depth	四	depth		研纲	depth
+deputy	四	deputy		研纲	deputy
+derail	六	derail	derailment		
+deregulate	六	deregulate	deregulation		
+derive	四	derive	derivative,derivation	研纲	derive
+descend	四	descend	descent,descendant	研纲	descend,descent,descendant
+describe	四	describe	description,descriptive	研纲	describe,description
+desert	四	desert	desertion	研纲	desert
+deserve	四	deserve		研纲	deserve
+design	四	design	designer	研纲	design
+designate	六	designate	designation	研纲	designate
+desire	四	desire	desirable,desirability,desirous	研纲	desire,desirable
+desk	四	desk		研纲	desk
+desktop	四	desktop			
+desolate	六	desolate		研纲	desolate
+despair	四	despair	desperate	研纲	despair,desperate
+despatch	四	despatch			
+despise	六	despise		研纲	despise
+despite	四	despite		研纲	despite
+dessert	四	dessert		研纲	dessert
+destination	四	destination		研纲	destination
+destiny	六	destiny	destined	研纲	destiny
+destroy	四	destroy	destruction,destructive	研纲	destroy,destruction,destructive
+detach	六	detach	detached,detachment	研纲	detach
+detail	四	detail	detailed	研纲	detail
+detain	六	detain	detention	研纲	detain
+detect	四	detect	detection,detective,detector(研)	研纲	detect,detective,detector
+deter	六	deter	deterrent		
+detergent	六	detergent			
+deteriorate	四	deteriorate	deterioration	研纲	deteriorate
+determine	四	determine	determination,determined	研纲	determine
+detriment	六	detriment	detrimental		
+devastate	六	devastate	devastating,devastation		
+develop	四	develop	development,developmental,developer	研纲	develop
+deviate	六	deviate	deviation	研纲	deviate
+device	四	device		研纲	device
+devil	四	devil		研纲	devil
+devise	四	devise		研纲	devise
+devote	四	devote	devotion	研纲	devote
+devour	六	devour			
+dew	四	dew		研纲	dew
+diabetes	四	diabetes		研纲	diabetes
+diagnose	四	diagnose	diagnosis	研纲	diagnose
+diagram	四	diagram		研纲	diagram
+dial	四	dial		研纲	dial
+dialect	四	dialect		研纲	dialect
+dialog	四	dialog(ue)		研纲	dialog(ue)
+diameter	四	diameter		研纲	diameter
+diamond	四	diamond		研纲	diamond
+diary	四	diary		研纲	diary
+dictate	四	dictate	dictation,dictator	研纲	dictate,dictation
+dictionary	四	dictionary		研纲	dictionary
+die	四	die	dying	研纲	die
+diesel	六	diesel			
+diet	四	diet	dietary	研纲	diet
+differ	四	differ	difference,different	研纲	differ,difference,different
+differentiate	六	differentiate	differentiation	研纲	differentiate
+difficult	四	difficult	difficulty	研纲	difficult,difficulty
+diffuse	六	diffuse	diffusion	研纲	diffuse
+dig	四	dig		研纲	dig
+digest	四	digest	digestion,digestive	研纲	digest
+digit	四	digit	digital	研纲	digital
+dignity	四	dignity	dignify	研纲	dignity
+dilemma	四	dilemma		研纲	dilemma
+diligent	四	diligent	diligence	研纲	diligent
+dilute	六	dilute	dilution	研纲	dilute
+dim	四	dim		研纲	dim
+dime	四	dime			
+dimension	四	dimension	dimensional	研纲	dimension
+diminish	六	diminish		研纲	diminish
+dine	四	dine	diner	研纲	dine
+dinner	四	dinner		研纲	dinner
+dinosaur	六	dinosaur		研纲	dinosaur
+dioxide	四	dioxide		研纲	dioxide
+dip	四	dip		研纲	dip
+diploma	四	diploma		研纲	diploma
+diplomat	四	diplomat	diplomatic,diplomacy	研纲	diplomatic
+direct	四	direct	direction,director	研纲	direct,direction,director
+directory	六	directory		研纲	directory
+dirt	四	dirt	dirty	研纲	dirt,dirty
+disable	四	disable	disabled,disability	研纲	disable
+disagree	四	disagree	disagreement		
+disappear	四	disappear	disappearance	研纲	disappear
+disappoint	四	disappoint	disappointment,disappointing,disappointed(高考)	研纲	disappoint
+disapprove	四	disapprove	disapproval		
+disarm	六	disarm	disarmament		
+disaster	四	disaster	disastrous	研纲	disaster,disastrous
+discard	四	discard		研纲	discard
+discern	六	discern		研纲	discern
+discharge	四	discharge			
+discipline	四	discipline	disciplined,disciplinary	研纲	discipline
+disclose	六	disclose	disclosure	研纲	disclose
+disco	四	disco			
+discord	六	discord			
+discount	四	discount		研纲	discount
+discourage	四	discourage		研纲	discourage
+discourse	六	discourse		研纲	discourse
+discover	四	discover	discovery	研纲	discover,discovery
+discreet	六	discreet		研纲	discreet
+discrepancy	六	discrepancy		研纲	discrepancy
+discriminate	四	discriminate	discrimination,discriminatory	研纲	discriminate
+discuss	四	discuss	discussion	研纲	discuss
+disease	四	disease		研纲	disease
+disguise	四	disguise		研纲	disguise
+disgust	四	disgust	disgusting	研纲	disgust
+dish	四	dish		研纲	dish
+disintegrate	四	disintegrate	disintegration		
+disk	四	disk/disc		研纲	disk/disc
+dislike	四	dislike		研纲	dislike
+dismantle	六	dismantle			
+dismay	六	dismay		研纲	dismay
+dismiss	四	dismiss	dismissal	研纲	dismiss
+disorder	四	disorder		研纲	disorder
+dispatch	六	dispatch/despatch		研纲	dispatch/despatch
+dispense	六	dispense			
+disperse	六	disperse		研纲	disperse
+displace	六	displace	displacement	研纲	displace
+display	四	display		研纲	display
+dispose	四	dispose	disposal	研纲	dispose,disposal
+disposition	六	disposition		研纲	disposition
+dispute	四	dispute	disputable	研纲	dispute
+disregard	六	disregard			
+disrupt	四	disrupt	disruptive,disruption	研纲	disrupt
+dissent	六	dissent			
+dissertation	六	dissertation			
+dissident	六	dissident			
+dissipate				研纲	dissipate
+dissolve	四	dissolve		研纲	dissolve
+distance	四	distance	distant	研纲	distance,distant
+distil	六	distil(l)		研纲	distil(l)
+distinct	四	distinct	distinction,distinctive	研纲	distinct,distinction
+distinguish	四	distinguish	distinguishable	研纲	distinguish
+distort	六	distort	distortion	研纲	distort
+distract	四	distract	distraction	研纲	distract
+distress	四	distress	distressful	研纲	distress
+distribute	四	distribute	distribution,distributive	研纲	distribute
+district	四	district		研纲	district
+disturb	四	disturb	disturbance,disturbing(高考)	研纲	disturb,disturbance
+ditch	四	ditch		研纲	ditch
+dive	四	dive		研纲	dive
+diverse	四	diverse	diversify,diversity	研纲	diverse
+divert	六	divert	diversion	研纲	divert,diversion
+divide	四	divide	division,divisive	研纲	divide,division
+dividend	六	dividend		研纲	dividend
+divine	六	divine		研纲	divine
+divorce	四	divorce		研纲	divorce
+dizzy	四	dizzy		研纲	dizzy
+do	四	do		研纲	do
+dock	四	dock		研纲	dock
+doctor	四	doctor/Dr	doctorate,doctoral	研纲	doctor/Dr.
+doctrine	六	doctrine		研纲	doctrine
+document	四	document	documentary	研纲	document,documentary
+dodge	六	dodge			
+dog	四	dog		研纲	dog
+dogma	六	dogma			
+dole	六	dole			
+doll	四	doll		研纲	doll
+dollar	四	dollar		研纲	dollar
+dolphin	四	dolphin			
+domain	六	domain		研纲	domain
+dome	六	dome		研纲	dome
+domestic	四	domestic		研纲	domestic
+dominate	四	dominate	domination,dominance,dominant	研纲	dominate,dominant
+donate	四	donate	donation,donor	研纲	donate
+donkey	四	donkey		研纲	donkey
+doom	四	doom		研纲	doom
+door	四	door	doorway	研纲	door,doorway
+dormitory	四	dormitory/dorm		研纲	dormitory/dorm
+dose	四	dose	dosage	研纲	dose
+dot	四	dot		研纲	dot
+double	四	double		研纲	double
+doubt	四	doubt	doubtful,doubtless	研纲	doubt
+dough	六	dough			
+dove	四	dove		研纲	dove
+down	四	down		研纲	down
+downgrade	六	downgrade			
+download	四	download			
+downstairs	四	downstairs		研纲	downstairs
+downtown	四	downtown		研纲	downtown
+downward	四	downward	downwards	研纲	downward
+doze	六	doze		研纲	doze
+dozen	四	dozen		研纲	dozen
+draft	四	draft		研纲	draft/draught
+drag	四	drag		研纲	drag
+dragon	四	dragon		研纲	dragon
+drain	四	drain	drainage	研纲	drain
+drama	四	drama	dramatic,dramatically	研纲	drama,dramatic
+drastic	四	drastic	drastically	研纲	drastic
+draw	四	draw	drawing	研纲	draw,drawing
+drawback	六	drawback		研纲	drawback
+drawer	四	drawer		研纲	drawer
+dread	六	dread	dreadful	研纲	dread
+dream	四	dream	dreamy	研纲	dream
+dress	四	dress		研纲	dress
+dressing	六	dressing			
+drift	四	drift		研纲	drift
+drill	四	drill		研纲	drill
+drink	四	drink		研纲	drink
+drip	四	drip		研纲	drip
+drive	四	drive	driver	研纲	drive,driver
+drop	四	drop		研纲	drop
+dropout	四	dropout			
+drought	四	drought		研纲	drought
+drown	四	drown		研纲	drown
+drug	四	drug		研纲	drug
+drum	四	drum		研纲	drum
+drunk	四	drunk	drunken,drunkard	研纲	drunk
+dry	四	dry	dryer	研纲	dry
+dual	四	dual			
+dub	六	dub			
+dubious	六	dubious		研纲	dubious
+duck	四	duck		研纲	duck
+due	四	due	duly	研纲	due
+dull	四	dull		研纲	dull
+dumb	四	dumb		研纲	dumb
+dump	四	dump		研纲	dump
+dumpling				研纲	dumpling
+duplicate	六	duplicate	duplication	研纲	duplicate
+durable	四	durable	durability	研纲	durable
+duration	四	duration		研纲	duration
+during	四	during		研纲	during
+dusk	四	dusk		研纲	dusk
+dust	四	dust	dusty	研纲	dust
+duty	四	duty		研纲	duty
+dwarf	六	dwarf		研纲	dwarf
+dwell	六	dwell	dweller,dwelling	研纲	dwell,dwelling
+dye	四	dye		研纲	dye
+dynamic	四	dynamic	dynamics	研纲	dynamic
+dynasty	四	dynasty		研纲	dynasty
+each	四	each		研纲	each
+eager	四	eager		研纲	eager
+eagle	四	eagle		研纲	eagle
+ear	四	ear		研纲	ear
+early	四	early		研纲	early
+earn	四	earn	earnings	研纲	earn
+earnest	四	earnest		研纲	earnest
+earth	四	earth		研纲	earth
+earthquake	四	earthquake		研纲	earthquake
+ease	四	ease		研纲	ease
+east	四	east	eastern	研纲	east,eastern
+Easter	六	Easter		研纲	Easter
+easy	四	easy	easily	研纲	easy
+easy-going	四	easy-going			
+eat	四	eat		研纲	eat
+ebb				研纲	ebb
+eccentric	六	eccentric		研纲	eccentric
+echo	四	echo		研纲	echo
+eclipse	六	eclipse		研纲	eclipse
+ecology	四	ecology	ecological	研纲	ecology
+economics	四	economics	economist	研纲	economics
+economy	四	economy	economic,economical	研纲	economy,economic,economical
+ecosystem	六	ecosystem			
+edge	四	edge		研纲	edge
+edible	六	edible		研纲	edible
+edit	四	edit	editor,edition	研纲	edit,editor,edition
+editorial	四	editorial		研纲	editorial
+educate	四	educate	education,educational,educator	研纲	educate,education
+effect	四	effect	effective	研纲	effect,effective
+efficient	四	efficient	efficiency	研纲	efficient,efficiency
+effort	四	effort		研纲	effort
+egg	四	egg		研纲	egg
+eggplant	四	eggplant			
+ego	六	ego	egoism,egoist	研纲	ego
+eight	四	eight		研纲	eight
+eighteen	四	eighteen	eighteenth(高考)	研纲	eighteen
+eighth	四	eighth			
+eighty	四	eighty	eightieth(高考)	研纲	eighty
+either	四	either		研纲	either
+eject	六	eject	ejection	研纲	eject
+elaborate	六	elaborate	elaboration	研纲	elaborate
+elapse	六	elapse		研纲	elapse
+elastic	六	elastic	elasticity	研纲	elastic
+elbow	四	elbow		研纲	elbow
+elder	四	elder	elderly	研纲	elder
+elect	四	elect	election,elective	研纲	elect
+electoral	六	electoral	electorate		
+electricity	四	electricity	electric(al),electrician	研纲	electricity,electric(al),electrician
+electron	四	electron	electronic,electronically,electronics	研纲	electron,electronic
+elegant	四	elegant	elegance	研纲	elegant
+element	四	element		研纲	element
+elementary	四	elementary		研纲	elementary
+elephant	四	elephant		研纲	elephant
+elevate	四	elevate	elevation,elevator	研纲	elevate,elevator
+eleven	四	eleven	eleventh(高考)	研纲	eleven
+elicit	六	elicit			
+eligible	六	eligible	eligibility	研纲	eligible
+eliminate	四	eliminate	elimination	研纲	eliminate
+elite	四	elite		研纲	elite
+eloquent	六	eloquent	eloquence	研纲	eloquent
+else	四	else		研纲	else
+elsewhere	四	elsewhere		研纲	elsewhere
+email	四	email/e-mail		研纲	email/e-mail/electronic mail
+emancipate	六	emancipate	emancipation		
+embargo	六	embargo			
+embark	六	embark		研纲	embark
+embarrass	四	embarrass	embarrassment	研纲	embarrass
+embassy	四	embassy		研纲	embassy
+embed	六	embed		研纲	embed
+embody	六	embody	embodiment	研纲	embody
+embrace	四	embrace		研纲	embrace
+embroidery	六	embroidery			
+embryo				研纲	embryo
+emerge	四	emerge	emergence	研纲	emerge
+emergency	四	emergency		研纲	emergency
+emigrate	六	emigrate	emigration,emigrant	研纲	emigrate
+eminent	六	eminent	eminence	研纲	eminent
+emit	四	emit	emission	研纲	emit
+emotion	四	emotion	emotional	研纲	emotion
+emperor	四	emperor	empress	研纲	emperor
+emphasis	四	emphasis	emphasize/-ise,emphatic	研纲	emphasis,emphasize/-ise
+empire	四	empire		研纲	empire
+empirical	六	empirical		研纲	empirical
+employ	四	employ	employment,employer,employee	研纲	employ,employment,employer,employee
+empty	四	empty	emptiness	研纲	empty
+emulate	六	emulate	emulation		
+enable	四	enable		研纲	enable
+enact	六	enact	enactment		
+enclose	六	enclose	enclosure	研纲	enclose,enclosure
+encounter	四	encounter		研纲	encounter
+encourage	四	encourage	encouragement,encouraging	研纲	encourage
+encyclopedia	六	encyclop(a)edia		研纲	encyclop(a)edia
+end	四	end	ending,endless	研纲	end,ending
+endanger	四	endanger			
+endeavor	六	endeavo(u)r		研纲	endeavo(u)r
+endorse	六	endorse	endorsement		
+endow	六	endow	endowment	研纲	endow
+endure	四	endure	endurance	研纲	endure,endurance
+enemy	四	enemy		研纲	enemy
+energy	四	energy	energetic,energetically	研纲	energy,energetic
+enforce	四	enforce	enforcement	研纲	enforce
+engage	四	engage	engagement	研纲	engage,engagement
+engine	四	engine		研纲	engine
+engineer	四	engineer	engineering	研纲	engineer,engineering
+enhance	四	enhance	enhancement	研纲	enhance
+enjoy	四	enjoy	enjoyable,enjoyment	研纲	enjoy
+enlarge	四	enlarge		研纲	enlarge
+enlighten	四	enlighten	enlightenment,enlightening	研纲	enlighten
+enlist	六	enlist			
+enormous	四	enormous		研纲	enormous
+enough	四	enough		研纲	enough
+enquire	四	enquire	enquiry		
+enrich	四	enrich		研纲	enrich
+enrol	四	enrol(l)	enrol(l)ment	研纲	enrol(l)
+ensue	六	ensue			
+ensure	四	ensure		研纲	ensure
+entail	六	entail		研纲	entail
+enter	四	enter	entrance,entry	研纲	enter,entrance,entry
+enterprise	四	enterprise	enterprising	研纲	enterprise
+entertain	四	entertain	entertainment,entertaining	研纲	entertain,entertainment
+enthusiasm	四	enthusiasm	enthusiastic,enthusiastically,enthusiast	研纲	enthusiasm,enthusiastic
+entire	四	entire	entirety	研纲	entire
+entitle	四	entitle		研纲	entitle
+entity	六	entity		研纲	entity
+entrepreneur	四	entrepreneur	entrepreneurial	研纲	entrepreneur
+entrust	六	entrust			
+envelop	六	envelop			
+envelope	四	envelope		研纲	envelope
+environment	四	environment	environmental,environmentalist	研纲	environment
+envisage	六	envisage		研纲	envisage
+envoy	六	envoy			
+envy	四	envy	envious	研纲	envy
+epic	六	epic			
+epidemic	六	epidemic		研纲	epidemic
+episode	四	episode		研纲	episode
+epoch	六	epoch		研纲	epoch
+equal	四	equal	equally,equality	研纲	equal,equality
+equate	六	equate	equation	研纲	equation
+equator	六	equator		研纲	equator
+equip	四	equip	equipment	研纲	equip,equipment
+equity	六	equity	equitable		
+equivalent	四	equivalent	equivalence	研纲	equivalent
+era	四	era		研纲	era
+eradicate	六	eradicate	eradication		
+erase	四	erase	eraser	研纲	erase
+erect	六	erect	erection	研纲	erect
+erode	六	erode	erosion,erosive	研纲	erosion
+err	四	err	error,erroneous	研纲	error,erroneous
+errand	六	errand			
+erupt	六	erupt	eruption	研纲	erupt
+escalate	六	escalate	escalation,escalator	研纲	escalate
+escape	四	escape		研纲	escape
+escort	六	escort		研纲	escort
+especially	四	especially		研纲	especially
+essay	四	essay	essayist	研纲	essay
+essence	四	essence	essential	研纲	essence,essential
+establish	四	establish	establishment	研纲	establish
+estate	四	estate		研纲	estate
+esteem	六	esteem		研纲	esteem
+esthetic	六	esthetic/aesthetic	esthetics/aesthetics	研纲	esthetic/aesthetic
+estimate	四	estimate	estimation	研纲	estimate
+eternal	四	eternal	eternity	研纲	eternal
+ethic	四	ethic	ethics	研纲	ethic
+ethnic	四	ethnic		研纲	ethnic
+etiquette	六	etiquette			
+euro	四	euro			
+evacuate	六	evacuate	evacuation	研纲	evacuate
+evade	六	evade	evasive,evasion	研纲	evade
+evaluate	四	evaluate	evaluation	研纲	evaluate
+evaporate	六	evaporate	evaporation	研纲	evaporate
+eve	四	eve		研纲	eve
+even	四	even	evenly	研纲	even
+evening	四	evening		研纲	evening
+event	四	event	eventful,eventually,eventual,eventuality	研纲	event,eventually
+ever	四	ever		研纲	ever
+every	四	every		研纲	every
+everybody	四	everybody		研纲	everybody
+everyday	四	everyday		研纲	everyday
+everyone	四	everyone		研纲	everyone
+everything	四	everything		研纲	everything
+everywhere	四	everywhere		研纲	everywhere
+evident	四	evident	evidence	研纲	evident,evidence
+evil	四	evil		研纲	evil
+evoke	六	evoke		研纲	evoke
+evolve	四	evolve	evolution,evolutionary	研纲	evolve,evolution
+exact	四	exact		研纲	exact
+exaggerate	四	exaggerate	exaggeration	研纲	exaggerate
+examine	四	examine	exam(ination),examiner,examinee	研纲	examine,exam/examination
+example	四	example	exemplary,exemplify	研纲	example,exemplify
+exceed	四	exceed	exceedingly	研纲	exceed,exceedingly
+excel	四	excel		研纲	excel
+excellent	四	excellent	excellence	研纲	excellent
+except	四	except		研纲	except
+exception	四	exception	exceptional	研纲	exception,exceptional
+excerpt	六	excerpt		研纲	excerpt
+excess	四	excess	excessive	研纲	excess,excessive
+exchange	四	exchange		研纲	exchange
+excite	四	excite	exciting,excitement	研纲	excite,exciting,excitement
+exclaim	四	exclaim	exclamation,exclamatory	研纲	exclaim
+exclude	四	exclude	exclusion,exclusive	研纲	exclude,exclusive
+excursion	四	excursion		研纲	excursion
+excuse	四	excuse		研纲	excuse
+execute	四	execute	execution,executive	研纲	execute,executive
+exempt	六	exempt	exemption	研纲	exempt
+exercise	四	exercise		研纲	exercise
+exert	四	exert	exertion	研纲	exert
+exhaust	四	exhaust	exhaustion,exhaustive	研纲	exhaust
+exhibit	四	exhibit	exhibition	研纲	exhibit,exhibition
+exile	四	exile		研纲	exile
+exist	四	exist	existence,existent,existing	研纲	exist,existence
+exit	四	exit		研纲	exit
+exotic	六	exotic		研纲	exotic
+expand	四	expand	expansion,expansive	研纲	expand,expansion
+expect	四	expect	expectation,expectancy,unexpected(研)	研纲	expect,expectation,unexpected
+expedition	六	expedition		研纲	expedition
+expel	四	expel		研纲	expel
+expend	四	expend	expenditure	研纲	expend,expenditure
+expense	四	expense	expensive	研纲	expense,expensive
+experience	四	experience	experienced	研纲	experience
+experiment	四	experiment	experimental	研纲	experiment
+expert	四	expert		研纲	expert
+expertise	四	expertise		研纲	expertise
+expire	六	expire	expiration	研纲	expire
+explain	四	explain	explanation,explanatory	研纲	explain,explanation
+explicit	四	explicit		研纲	explicit
+explode	四	explode	explosion,explosive	研纲	explode,explosion,explosive
+exploit	四	exploit	exploitation	研纲	exploit
+explore	四	explore	exploration	研纲	explore
+exponent	六	exponent			
+export	四	export	exportation	研纲	export
+expose	四	expose	exposure	研纲	expose,exposure
+exposition	六	exposition			
+express	四	express	expression,expressive	研纲	express,expression
+expressway	四	expressway			
+exquisite	六	exquisite		研纲	exquisite
+extend	四	extend	extension,extensive,extended	研纲	extend,extension,extensive
+extent	四	extent		研纲	extent
+exterior	四	exterior		研纲	exterior
+external	四	external		研纲	external
+extinct	六	extinct	extinction	研纲	extinct
+extinguish	四	extinguish		研纲	extinguish
+extra	四	extra		研纲	extra
+extract	六	extract	extraction	研纲	extract
+extraordinary	四	extraordinary		研纲	extraordinary
+extravagant	六	extravagant	extravagance	研纲	extravagant
+extreme	四	extreme	extremity	研纲	extreme
+eye	四	eye		研纲	eye
+eyebrow	四	eyebrow		研纲	eyebrow
+eyesight	四	eyesight		研纲	eyesight
+fable	四	fable		研纲	fable
+fabric	四	fabric		研纲	fabric
+fabricate	六	fabricate	fabrication	研纲	fabricate
+fabulous	六	fabulous		研纲	fabulous
+face	四	face	facial	研纲	face
+facet	六	facet			
+facility	四	facility	facilitate,facilitation	研纲	facility,facilitate
+fact	四	fact	factual	研纲	fact
+faction	六	faction			
+factor	四	factor		研纲	factor
+factory	四	factory		研纲	factory
+faculty	四	faculty		研纲	faculty
+fade	四	fade		研纲	fade
+fail	四	fail	failure	研纲	fail,failure
+faint	四	faint		研纲	faint
+fair	四	fair	fairly,unfair(高考)	研纲	fair,fairly
+fairy	四	fairy		研纲	fairy
+faith	四	faith	faithful	研纲	faith,faithful
+fake	四	fake		研纲	fake
+fall	四	fall		研纲	fall
+false	四	false	falsehood	研纲	false
+fame	四	fame	famous	研纲	fame,famous
+familiar	四	familiar	familiarity,familiarize/-ise	研纲	familiar
+family	四	family		研纲	family
+famine	四	famine		研纲	famine
+fan	四	fan		研纲	fan
+fancy	四	fancy		研纲	fancy
+fantasy	四	fantasy	fantastic	研纲	fantasy,fantastic(al)
+far	四	far		研纲	far
+fare	四	fare		研纲	fare
+farewell	四	farewell		研纲	farewell
+farm	四	farm	farmer,farming	研纲	farm,farmer
+farther	四	farther		研纲	farther
+fascinate	四	fascinate	fascinating,fascination	研纲	fascinate
+fascist	六	fascist	fascism		
+fashion	四	fashion	fashionable	研纲	fashion,fashionable
+fast	四	fast		研纲	fast
+fasten	四	fasten		研纲	fasten
+fat	四	fat		研纲	fat
+fatal	四	fatal	fatality	研纲	fatal
+fate	四	fate		研纲	fate
+father	四	father	fatherly	研纲	father
+fatigue	四	fatigue		研纲	fatigue
+fault	四	fault	faulty	研纲	fault,faulty
+favor	四	favo(u)r	favo(u)rable,favo(u)rite	研纲	favo(u)r,favo(u)rable,favo(u)rite
+fax	四	fax		研纲	fax
+fear	四	fear	fearful	研纲	fear,fearful
+feasible	四	feasible	feasibility	研纲	feasible
+feast	六	feast		研纲	feast
+feat	六	feat		研纲	feat
+feather	四	feather		研纲	feather
+feature	四	feature		研纲	feature
+February	四	February		研纲	February
+federal	四	federal		研纲	federal
+federation	四	federation		研纲	federation
+fee	四	fee		研纲	fee
+feeble	六	feeble		研纲	feeble
+feed	四	feed		研纲	feed
+feedback	四	feedback		研纲	feedback
+feel	四	feel	feeling	研纲	feel,feeling
+fell				研纲	fell
+fellow	四	fellow	fellowship	研纲	fellow,fellowship
+female	四	female		研纲	female
+feminine	六	feminine	feminism,feminist	研纲	feminine
+fence	四	fence		研纲	fence
+ferry	四	ferry		研纲	ferry
+fertile	四	fertile	fertility,fertilizer/-iser	研纲	fertile,fertilizer/-iser
+festival	四	festival		研纲	festival
+fetch	四	fetch		研纲	fetch
+feudal				研纲	feudal
+fever	四	fever	feverish	研纲	fever
+few	四	few		研纲	few
+fiber	四	fiber/-bre		研纲	fiber/-bre
+fiction	四	fiction	fictional	研纲	fiction
+field	四	field		研纲	field
+fierce	四	fierce		研纲	fierce
+fifteen	四	fifteen	fifteenth(高考)	研纲	fifteen
+fifth	四	fifth			
+fifty	四	fifty	fiftieth(高考)	研纲	fifty
+fight	四	fight		研纲	fight
+figure	四	figure	figurative	研纲	figure
+file	四	file		研纲	file
+fill	四	fill	filling	研纲	fill
+film	四	film		研纲	film
+filter	四	filter		研纲	filter
+final	四	final	finally,finalize/-ise	研纲	final,finally
+finance	四	finance	financial	研纲	finance,financial
+find	四	find	finding	研纲	find,finding
+fine	四	fine		研纲	fine
+finger	四	finger		研纲	finger
+fingerprint	四	fingerprint			
+finish	四	finish		研纲	finish
+finite	六	finite		研纲	finite
+fire	四	fire		研纲	fire
+fireman	四	fireman		研纲	fireman/(pl.firemen)
+fireplace	四	fireplace		研纲	fireplace
+fireworks	四	fireworks			
+firm	四	firm		研纲	firm
+first	四	first	firstly	研纲	first
+fiscal	六	fiscal			
+fish	四	fish	fishing,fisherman	研纲	fish/(pl.fish(es)),fisherman/(pl.fishermen)
+fist	四	fist		研纲	fist
+fit	四	fit	unfit(高考),fitting(研)	研纲	fit,fitting
+five	四	five		研纲	five
+fix	四	fix	fixed,fixture,fixation	研纲	fix,fixture
+flag	四	flag		研纲	flag
+flame	四	flame		研纲	flame
+flank	六	flank			
+flap	六	flap		研纲	flap
+flare	六	flare		研纲	flare
+flash	四	flash		研纲	flash
+flat	四	flat		研纲	flat
+flatter	六	flatter	flattery	研纲	flatter
+flavor	四	flavo(u)r		研纲	flavo(u)r
+flaw	四	flaw	flawless	研纲	flaw
+flee	四	flee		研纲	flee
+fleet	四	fleet		研纲	fleet
+flesh	四	flesh		研纲	flesh
+flexible	四	flexible	flexibility	研纲	flexible
+fling	六	fling		研纲	fling
+flip	六	flip			
+flirt	六	flirt	flirtation		
+float	四	float		研纲	float
+flock	四	flock		研纲	flock
+flood	四	flood		研纲	flood
+floor	四	floor		研纲	floor
+flour	四	flour		研纲	flour
+flourish	四	flourish		研纲	flourish
+flow	四	flow		研纲	flow
+flower	四	flower		研纲	flower
+flu				研纲	flu
+fluctuate	四	fluctuate	fluctuation	研纲	fluctuate
+fluent	四	fluent	fluency	研纲	fluent
+fluid	四	fluid		研纲	fluid
+flush	六	flush		研纲	flush
+flutter	六	flutter			
+fly	四	fly	flight	研纲	fly,flight
+foam	六	foam		研纲	foam
+focus	四	focus		研纲	focus
+foe	六	foe			
+fog	四	fog	foggy	研纲	fog
+foil	六	foil			
+fold	四	fold		研纲	fold
+folk	四	folk		研纲	folk
+folklore	六	folklore			
+follow	四	follow	following	研纲	follow,following
+fond	四	fond		研纲	fond
+food	四	food		研纲	food
+fool	四	fool	foolish	研纲	fool,foolish
+foot	四	foot		研纲	foot/(pl.feet)
+football	四	football		研纲	football
+footprint	四	footprint			
+footstep				研纲	footstep
+for	四	for		研纲	for
+forbid	四	forbid		研纲	forbid
+force	四	force	forceful	研纲	force
+fore				研纲	fore
+forecast	四	forecast		研纲	forecast
+forehead	四	forehead		研纲	forehead
+foreign	四	foreign	foreigner	研纲	foreign,foreigner
+foremost	四	foremost		研纲	foremost
+foresee	四	foresee	foreseeable	研纲	foresee
+foresight	四	foresight			
+forest	四	forest	forestry	研纲	forest
+foretell	六	foretell			
+forever	四	forever		研纲	forever
+forfeit	六	forfeit			
+forge	四	forge	forgery	研纲	forge
+forget	四	forget	forgetful,forgettable	研纲	forget
+forgive	四	forgive	forgiving	研纲	forgive
+fork	四	fork		研纲	fork
+form	四	form	formation	研纲	form,formation
+formal	四	formal	formality	研纲	formal
+format	四	format		研纲	format
+former	四	former		研纲	former
+formidable	六	formidable		研纲	formidable
+formula	四	formula		研纲	formula/(pl.formulae)
+formulate	四	formulate	formulation	研纲	formulate
+fort	六	fort			
+forth	四	forth		研纲	forth
+forthcoming	四	forthcoming		研纲	forthcoming
+fortify	六	fortify	fortification		
+fortnight	六	fortnight		研纲	fortnight
+fortune	四	fortune	fortunate,unfortunate(高考),unfortunately(研)	研纲	fortune,fortunate,unfortunately
+forty	四	forty	fortieth(高考)	研纲	forty
+forum	四	forum		研纲	forum
+forward	四	forward		研纲	forward
+fossil	四	fossil		研纲	fossil
+foster	六	foster		研纲	foster
+foul	六	foul		研纲	foul
+found	四	found	founding,founder	研纲	found
+foundation	四	foundation		研纲	foundation
+fountain	四	fountain		研纲	fountain
+four	四	four	fourth(高考)	研纲	four
+fourteen	四	fourteen	fourteenth(高考)	研纲	fourteen
+fox	四	fox		研纲	fox
+fraction	四	fraction		研纲	fraction
+fracture	六	fracture		研纲	fracture
+fragile	六	fragile	fragility	研纲	fragile
+fragment	四	fragment	fragmentation,fragmentary	研纲	fragment
+fragrant	六	fragrant	fragrance	研纲	fragrant
+frame	四	frame		研纲	frame
+framework	四	framework		研纲	framework
+franchise	六	franchise			
+frank	四	frank		研纲	frank
+frantic	六	frantic	frantically		
+fraud	六	fraud	fraudulent	研纲	fraud
+free	四	free	freedom	研纲	free,freedom
+freeway	四	freeway			
+freeze	四	freeze	freezing(高考)	研纲	freeze
+freight	四	freight		研纲	freight
+frequent	四	frequent	frequency	研纲	frequent,frequency
+fresh	四	fresh		研纲	fresh
+freshman	四	freshman			
+friction	六	friction		研纲	friction
+Friday	四	Friday		研纲	Friday
+friend	四	friend	friendly,friendship	研纲	friend,friendly,friendship
+fright	四	fright	frighten	研纲	fright,frighten
+fringe	六	fringe		研纲	fringe
+frog	四	frog		研纲	frog
+from	四	from		研纲	from
+front	四	front		研纲	front
+frontier	四	frontier		研纲	frontier
+frost	四	frost	frosty	研纲	frost
+frown	六	frown		研纲	frown
+fruit	四	fruit	fruitful	研纲	fruit,fruitful
+frustrate	四	frustrate	frustration,frustrating	研纲	frustrate
+fry	四	fry		研纲	fry
+fuck	四	fuck			
+fuel	四	fuel		研纲	fuel
+fulfil	四	fulfil(l)	fulfil(l)ment	研纲	fulfil(l)
+full	四	full		研纲	full
+fume				研纲	fume
+fun	四	fun	funny	研纲	fun,funny
+function	四	function	functional	研纲	function
+fund	四	fund	funding	研纲	fund
+fundamental	四	fundamental		研纲	fundamental
+funeral	四	funeral		研纲	funeral
+fur	四	fur		研纲	fur
+furnace	四	furnace		研纲	furnace
+furnish	四	furnish	furnished(高考)	研纲	furnish
+furniture	四	furniture		研纲	furniture
+further	四	further		研纲	further
+furthermore	四	furthermore		研纲	furthermore
+fury	六	fury	furious	研纲	furious
+fuse	六	fuse		研纲	fuse
+fusion	六	fusion			
+fuss	四	fuss		研纲	fuss
+futile	六	futile	futility	研纲	futile
+future	四	future		研纲	future
+gadget	四	gadget	gadgetry		
+gain	四	gain		研纲	gain
+galaxy	六	galaxy		研纲	galaxy
+gallery	四	gallery		研纲	gallery
+gallon	四	gallon		研纲	gallon
+gallop				研纲	gallop
+gamble	四	gamble		研纲	gamble
+game	四	game		研纲	game
+gang	四	gang	gangster	研纲	gang
+gaol	四	gaol			
+gap	四	gap		研纲	gap
+garage	四	garage		研纲	garage
+garbage	四	garbage		研纲	garbage
+garden	四	garden	gardener,gardening	研纲	garden
+garlic	六	garlic		研纲	garlic
+garment	四	garment		研纲	garment
+gas	四	gas		研纲	gas
+gasoline	四	gasoline/petrol		研纲	gasoline/gasolene
+gasp	六	gasp		研纲	gasp
+gate	四	gate		研纲	gate
+gather	四	gather	gathering	研纲	gather
+gauge	六	gauge		研纲	gauge
+gay	四	gay		研纲	gay
+gaze	四	gaze		研纲	gaze
+gear	四	gear		研纲	gear
+gender	四	gender		研纲	gender
+gene	四	gene	genetic,genetically	研纲	gene,genetic
+general	四	general	generally,generalize/-ise	研纲	general,generalize/-ise
+generate	四	generate	generator	研纲	generate,generator
+generation	四	generation		研纲	generation
+generous	四	generous	generosity	研纲	generous
+genius	四	genius		研纲	genius
+genre	六	genre			
+gentle	四	gentle	gently(研)	研纲	gentle,gently
+gentleman	四	gentleman		研纲	gentleman/(pl.gentlemen)
+genuine	四	genuine		研纲	genuine
+geography	四	geography	geographic,geographically	研纲	geography
+geology	四	geology	geological,geologically	研纲	geology
+geometry	四	geometry	geometric,geometrically	研纲	geometry
+germ	四	germ		研纲	germ
+gesture	四	gesture		研纲	gesture
+get	四	get		研纲	get
+ghost	四	ghost		研纲	ghost
+giant	四	giant	gigantic	研纲	giant,gigantic
+gift	四	gift	gifted	研纲	gift
+giggle	六	giggle		研纲	giggle
+girl	四	girl		研纲	girl
+give	四	give		研纲	give
+given	四	given			
+glacier	六	glacier		研纲	glacier
+glad	四	glad		研纲	glad
+glamor	六	glamo(u)r	glamo(u)rous	研纲	glamo(u)r
+glance	四	glance		研纲	glance
+gland	六	gland			
+glare	六	glare		研纲	glare
+glass	四	glass		研纲	glass
+gleam	六	gleam			
+glide	六	glide	glider	研纲	glide
+glimpse	四	glimpse		研纲	glimpse
+glitter	六	glitter		研纲	glitter
+globe	四	globe	global,globalize/-ise	研纲	globe,global
+gloom	四	gloom	gloomy	研纲	gloomy
+glory	四	glory	glorious	研纲	glory,glorious
+glossary	六	glossary			
+glove	四	glove		研纲	glove
+glow	四	glow		研纲	glow
+glue	四	glue		研纲	glue
+go	四	go		研纲	go
+goal	四	goal		研纲	goal
+goat	四	goat		研纲	goat
+god	四	god		研纲	god
+gold	四	gold	golden	研纲	gold,golden
+golf	四	golf		研纲	golf
+good	四	good		研纲	good
+goodby	四	goodby(e)/bye		研纲	goodby(e)
+goodness	四	goodness		研纲	goodness
+goods	四	goods		研纲	goods
+goose	四	goose		研纲	goose/(pl.geese)
+gorge	六	gorge			
+gorgeous	四	gorgeous		研纲	gorgeous
+gospel	六	gospel			
+gossip	四	gossip		研纲	gossip
+govern	四	govern	government,governor	研纲	govern,government,governor
+gown	四	gown		研纲	gown
+grab	四	grab		研纲	grab
+grace	四	grace	graceful,gracious,disgrace(研)	研纲	grace,graceful,gracious,disgrace
+grade	四	grade		研纲	grade
+gradual	四	gradual	gradually	研纲	gradual
+graduate	四	graduate	graduation	研纲	graduate
+grain	四	grain		研纲	grain
+gram	四	gram(me)		研纲	gram(me)
+grammar	四	grammar	grammatical	研纲	grammar
+grand	四	grand		研纲	grand
+grandchild	四	grandchild	grandchildren,grandson,granddaughter		
+grandparent	四	grandparent	grandfather/grandpa,grandmother/grandma/granny,grandparents(高考)	研纲	grandmother
+grant	四	grant	granted	研纲	grant
+grape	四	grape		研纲	grape
+graph	四	graph	graphic,graphically	研纲	graph,graphic
+grasp	四	grasp		研纲	grasp
+grass	四	grass	grassy	研纲	grass
+grateful	四	grateful		研纲	grateful
+gratitude	四	gratitude		研纲	gratitude
+grave	四	grave		研纲	grave
+gravitation	四	gravitation			
+gravity	四	gravity		研纲	gravity
+gray	四	gray/grey		研纲	gray/grey
+graze	六	graze		研纲	graze
+grease	六	grease	greasy	研纲	grease
+great	四	great		研纲	great
+greed	六	greed	greedy	研纲	greedy
+green	四	green		研纲	green
+greenhouse	四	greenhouse		研纲	greenhouse
+greet	四	greet	greeting	研纲	greet,greeting
+grid	六	grid			
+grief	四	grief	grieve,grievous	研纲	grief,grieve
+grill	六	grill			
+grim	六	grim		研纲	grim
+grin	四	grin		研纲	grin
+grind	四	grind		研纲	grind
+grip	四	grip		研纲	grip
+groan	六	groan		研纲	groan
+grocer	四	grocer	grocery	研纲	grocer
+groove	六	groove			
+grope	六	grope		研纲	grope
+gross	四	gross		研纲	gross
+ground	四	ground		研纲	ground
+group	四	group		研纲	group
+grow	四	grow	growth,grown-up(研)	研纲	grow,growth,grown-up
+grown				研纲	grown
+guarantee	四	guarantee		研纲	guarantee
+guard	四	guard	guardian	研纲	guard
+guess	四	guess		研纲	guess
+guest	四	guest		研纲	guest
+guide	四	guide	guidance	研纲	guide,guidance
+guideline	四	guideline		研纲	guideline
+guild				研纲	guild
+guilt	四	guilt	guilty	研纲	guilt,guilty
+guitar	四	guitar	guitarist	研纲	guitar
+gulf	四	gulf		研纲	gulf
+gum	四	gum		研纲	gum
+gun	四	gun		研纲	gun
+gut	四	gut		研纲	gut
+guy	四	guy		研纲	guy
+gymnasium	四	gymnasium/gym	gymnastics(高考)	研纲	gymnasium/gym
+habit	四	habit	habitual	研纲	habit
+habitat	四	habitat		研纲	habitat
+hack	四	hack	hacker		
+hail	四	hail		研纲	hail
+hair	四	hair	hairy	研纲	hair
+half	四	half		研纲	half
+halfway	四	halfway			
+hall	四	hall		研纲	hall
+halt	四	halt		研纲	halt
+ham	四	ham		研纲	ham
+hamburger	四	hamburger/burger		研纲	hamburger
+hammer	四	hammer		研纲	hammer
+hamper	六	hamper		研纲	hamper
+hand	四	hand	handful	研纲	hand,handful
+handbook	四	handbook		研纲	handbook
+handicap	四	handicap	handicapped	研纲	handicap
+handicraft	六	handicraft			
+handkerchief				研纲	handkerchief
+handle	四	handle		研纲	handle
+handsome	四	handsome		研纲	handsome
+handwriting	四	handwriting		研纲	handwriting
+handy	四	handy		研纲	handy
+hang	四	hang		研纲	hang
+happen	四	happen		研纲	happen
+happy	四	happy	happiness,happily	研纲	happy
+harass	六	harass	harassment	研纲	harassment
+harbor	四	harbo(u)r		研纲	harbo(u)r
+hard	四	hard	harden	研纲	hard,harden
+hardly	四	hardly		研纲	hardly
+hardship	四	hardship		研纲	hardship
+hardware	四	hardware		研纲	hardware
+hardy	六	hardy			
+harm	四	harm	harmful,harmless	研纲	harm
+harmony	四	harmony	harmonious	研纲	harmony
+harness	四	harness		研纲	harness
+harsh	四	harsh		研纲	harsh
+harvest	四	harvest		研纲	harvest
+haste	四	haste	hasty,hasten	研纲	haste,hasty
+hat	四	hat		研纲	hat
+hatch	四	hatch		研纲	hatch
+hate	四	hate	hatred,hateful	研纲	hate,hatred
+haul	四	haul		研纲	haul
+haunt	四	haunt			
+have	四	have		研纲	have
+haven	六	haven			
+havoc	六	havoc			
+hawk	六	hawk		研纲	hawk
+hay	四	hay		研纲	hay
+hazard	四	hazard	hazardous	研纲	hazard
+haze	四	haze	hazy		
+he	四	he		研纲	he
+head	四	head		研纲	head
+headache	四	headache		研纲	headache
+heading	四	heading		研纲	heading
+headline	四	headline		研纲	headline
+headmaster	四	headmaster	headmistress	研纲	headmaster
+headquarters	四	headquarters		研纲	headquarters
+heal	四	heal		研纲	heal
+health	四	health	healthy,healthful	研纲	health,healthy
+heap	四	heap		研纲	heap
+hear	四	hear	hearing	研纲	hear,hearing
+heart	四	heart	hearty	研纲	heart
+heartfelt	四	heartfelt			
+heat	四	heat	heated,heating	研纲	heat
+heave	六	heave		研纲	heave
+heaven	四	heaven		研纲	heaven
+heavy	四	heavy		研纲	heavy
+hectare	四	hectare			
+hectic	六	hectic			
+hedge	四	hedge		研纲	hedge
+heel	四	heel		研纲	heel
+height	四	height	heighten	研纲	height,heighten
+heir	四	heir	heiress	研纲	heir
+helicopter	四	helicopter		研纲	helicopter
+hell	四	hell		研纲	hell
+hello	四	hello		研纲	hello
+helmet	六	helmet		研纲	helmet
+help	四	help	helpful,helpless,helplessly	研纲	help,helpful
+hemisphere	六	hemisphere		研纲	hemisphere
+hen	四	hen		研纲	hen
+hence	四	hence		研纲	hence
+henceforth	六	henceforth		研纲	henceforth
+her	四	her		研纲	her
+herald	六	herald		研纲	herald
+herb	六	herb	herbal	研纲	herb
+herd	四	herd		研纲	herd
+here	四	here		研纲	here
+hereby	四	hereby			
+heritage	四	heritage		研纲	heritage
+hero	四	hero	heroine,heroic,heroism	研纲	hero,heroine,heroic
+heroin	六	heroin		研纲	heroin
+hers	四	hers		研纲	hers
+herself	四	herself		研纲	herself
+hesitate	四	hesitate	hesitation,hesitant	研纲	hesitate
+hi	四	hi		研纲	hi/hey
+hibernate	六	hibernate	hibernation		
+hide	四	hide	hiding	研纲	hide
+hierarchy	六	hierarchy	hierarchical	研纲	hierarchy
+high	四	high	highly	研纲	high,highly
+highland				研纲	highland
+highlight	四	highlight		研纲	highlight
+high-tech	四	high-tech			
+highway	四	highway		研纲	highway
+hijack	四	hijack		研纲	hijack
+hike	六	hike		研纲	hike
+hill	四	hill	hilly	研纲	hill
+him	四	him		研纲	him
+himself	四	himself		研纲	himself
+hinder	四	hinder	hindrance	研纲	hinder
+hinge	六	hinge		研纲	hinge
+hint	四	hint		研纲	hint
+hip	四	hip		研纲	hip
+hire	四	hire		研纲	hire
+his	四	his		研纲	his
+history	四	history	historic,historical,historian	研纲	history,historic,historical,historian
+hit	四	hit		研纲	hit
+hitherto	六	hitherto		研纲	hitherto
+hive	六	hive			
+hobby	四	hobby		研纲	hobby
+hockey	六	hockey			
+hoist	六	hoist		研纲	hoist
+hold	四	hold	holder(研)	研纲	hold,holder
+hole	四	hole		研纲	hole
+holiday	四	holiday		研纲	holiday
+hollow	四	hollow		研纲	hollow
+holy	四	holy	holiness	研纲	holy
+home	四	home	homeless,homely	研纲	home
+homeland	四	homeland			
+homework	四	homework		研纲	homework
+homogeneous	六	homogeneous		研纲	homogeneous
+homosexual	四	homosexual/homo			
+honest	四	honest	honesty	研纲	honest
+honey	四	honey		研纲	honey
+honeymoon	四	honeymoon			
+honor	四	hono(u)r	hono(u)rable,hono(u)rary	研纲	hono(u)r,hono(u)rable
+hook	四	hook		研纲	hook
+hop	六	hop		研纲	hop
+hope	四	hope	hopeful,hopeless	研纲	hope,hopeful
+horizon	四	horizon	horizontal	研纲	horizon,horizontal
+hormone				研纲	hormone
+horn	四	horn		研纲	horn
+horror	四	horror	horrible,horrify	研纲	horror,horrible
+horse	四	horse		研纲	horse
+horsepower	四	horsepower		研纲	horsepower
+hose	六	hose		研纲	hose
+hospitable	四	hospitable	hospitality	研纲	hospitality
+hospital	四	hospital	hospitalize	研纲	hospital
+host	四	host	hostess	研纲	host,hostess
+hostage	六	hostage		研纲	hostage
+hostile	四	hostile	hostility	研纲	hostile
+hot	四	hot		研纲	hot
+hotdog	四	hotdog			
+hotel	四	hotel		研纲	hotel
+hound	六	hound		研纲	hound
+hour	四	hour	hourly	研纲	hour
+house	四	house	housing	研纲	house
+household	四	household		研纲	household
+housewife	四	housewife		研纲	housewife
+housework	四	housework		研纲	housework
+hover	六	hover		研纲	hover
+how	四	how		研纲	how
+however	四	however		研纲	however
+howl	六	howl		研纲	howl
+huddle	六	huddle		研纲	huddle
+hug	四	hug		研纲	hug
+huge	四	huge		研纲	huge
+hum	六	hum		研纲	hum
+human	四	human	humanity	研纲	human,humanity
+humane	六	humane	humanism,humanist,humanitarian		
+humble	四	humble	humbly	研纲	humble
+humid	六	humid	humidity	研纲	humid,humidity
+humiliate	六	humiliate	humiliation	研纲	humiliate
+humor	四	humo(u)r	humo(u)rous	研纲	humo(u)r,humorous
+hundred	四	hundred	hundredth(高考)	研纲	hundred
+hunger	四	hunger	hungry	研纲	hunger,hungry
+hunt	四	hunt	hunting,hunter	研纲	hunt
+hurdle	六	hurdle			
+hurl	六	hurl		研纲	hurl
+hurricane	六	hurricane		研纲	hurricane
+hurry	四	hurry	hurriedly	研纲	hurry
+hurt	四	hurt	hurtful	研纲	hurt
+husband	四	husband		研纲	husband
+hut	四	hut		研纲	hut
+hybrid	六	hybrid			
+hydrogen	四	hydrogen		研纲	hydrogen
+hygiene	六	hygiene	hygienic	研纲	hygiene
+hyphen	四	hyphen			
+hypocrisy	六	hypocrisy	hypocritical,hypocrite	研纲	hypocrisy
+hypothesis	六	hypothesis	hypothetical	研纲	hypothesis
+hysterical	六	hysterical	hysteria	研纲	hysterical
+I	四	I		研纲	I
+ice	四	ice	icy	研纲	ice
+iceberg	六	iceberg			
+ice-cream	四	ice-cream		研纲	ice-cream
+icon	六	icon			
+idea	四	idea		研纲	idea
+ideal	四	ideal	idealistic,idealism	研纲	ideal
+identify	四	identify	identification	研纲	identify,identification
+identity	四	identity	identical	研纲	identity,identical
+ideology	六	ideology	ideological	研纲	ideology
+idiom	四	idiom	idiomatic	研纲	idiom
+idiot	六	idiot	idiotic	研纲	idiot
+idle	四	idle	idly	研纲	idle
+idol	六	idol			
+if	四	if		研纲	if
+ignite	六	ignite	ignition	研纲	ignite
+ignorant	四	ignorant	ignorance	研纲	ignorant,ignorance
+ignore	四	ignore		研纲	ignore
+ill	四	ill	illness	研纲	ill,illness
+illegal	四	illegal		研纲	illegal
+illicit	六	illicit			
+illiterate	六	illiterate	illiteracy	研纲	illiterate
+illuminate	六	illuminate	illumination	研纲	illuminate
+illusion	四	illusion	illusory	研纲	illusion
+illustrate	四	illustrate	illustration,illustrative	研纲	illustrate,illustration
+image	四	image	imaging	研纲	image
+imagine	四	imagine	imagination,imaginative,imaginary	研纲	imagine,imagination,imaginative,imaginary
+imitate	四	imitate	imitation,imitative	研纲	imitate,imitation
+immediate	四	immediate	immediately	研纲	immediate
+immense	四	immense	immensely,immensity	研纲	immense
+immerse	六	immerse	immersion	研纲	immerse
+immigrate	四	immigrate	immigration,immigrant	研纲	immigrant
+imminent	六	imminent			
+immune	四	immune	immunity,immunize/-ise	研纲	immune
+impact	四	impact		研纲	impact
+impair	六	impair		研纲	impair
+impart	六	impart		研纲	impart
+impatient	四	impatient	impatience	研纲	impatient
+imperative	六	imperative		研纲	imperative
+imperial	四	imperial	imperialism,imperialist	研纲	imperial
+impetus	六	impetus		研纲	impetus
+implement	四	implement	implementation	研纲	implement
+implicit	四	implicit		研纲	implicit
+imply	四	imply	implication	研纲	imply,implication
+import	四	import	importation	研纲	import
+important	四	important	importance	研纲	important,importance
+impose	四	impose	imposition,imposing	研纲	impose
+impossible	四	impossible	impossibility	研纲	impossible
+impress	四	impress	impression,impressive	研纲	impress,impression,impressive
+imprison	六	imprison	imprisonment		
+impromptu	六	impromptu			
+improve	四	improve	improvement	研纲	improve
+impulse	四	impulse	impulsive	研纲	impulse
+in	四	in		研纲	in
+inaugurate	六	inaugurate	inauguration	研纲	inaugurate
+inborn	六	inborn			
+incentive	四	incentive		研纲	incentive
+inch	四	inch		研纲	inch
+incidence	四	incidence		研纲	incidence
+incident	四	incident	incidental,incidentally	研纲	incident,incidentally
+incline	四	incline	inclined,inclination	研纲	incline
+include	四	include	inclusion,inclusive,including	研纲	include,inclusive
+income	四	income		研纲	income
+incorporate	六	incorporate	incorporation	研纲	incorporate
+increase	四	increase	increasingly	研纲	increase,increasingly
+incredible	四	incredible	incredibly	研纲	incredible
+incumbent	六	incumbent			
+incur	六	incur		研纲	incur
+indebted	六	indebted			
+indeed	四	indeed		研纲	indeed
+indefinite	六	indefinite			
+independent	四	independent	independence	研纲	independent,independence
+index	四	index		研纲	index/(pl.indexes/indices)
+indicate	四	indicate	indication,indicative,indicator	研纲	indicate,indication,indicative
+indict	六	indict	indictment		
+indifferent	四	indifferent	indifference	研纲	indifferent
+indigenous	六	indigenous			
+indignant	六	indignant	indignation	研纲	indignant,indignation
+indispensable	四	indispensable		研纲	indispensable
+individual	四	individual	individualism	研纲	individual
+indoor	四	indoor	indoors	研纲	indoor
+induce	四	induce	inducement	研纲	induce
+indulge	六	indulge	indulgence,indulgent	研纲	indulge
+industry	四	industry	industrial,industrialize/-ise,industrious	研纲	industry,industrial,industrialize/-ise
+inertia	六	inertia		研纲	inertia
+inevitable	四	inevitable		研纲	inevitable
+infant	四	infant		研纲	infant
+infect	四	infect	infection,infectious	研纲	infect,infectious
+infer	四	infer	inference	研纲	infer,inference
+inferior	四	inferior	inferiority	研纲	inferior
+infinite	四	infinite	infinity,infinitive	研纲	infinite
+inflate	四	inflate	inflation	研纲	inflation
+inflict	六	inflict	infliction		
+influence	四	influence	influential	研纲	influence,influential
+influenza	四	influenza/flu			
+inform	四	inform	information,informative,informant	研纲	inform,information
+infrared				研纲	infrared
+infrastructure	四	infrastructure		研纲	infrastructure
+infringe	六	infringe	infringement		
+ingenious	六	ingenious	ingenuity	研纲	ingenious
+ingredient	四	ingredient		研纲	ingredient
+inhabit	四	inhabit	inhabitant	研纲	inhabit,inhabitant
+inhale				研纲	inhale
+inherent	六	inherent		研纲	inherent
+inherit	四	inherit	inheritance	研纲	inherit
+inhibit	六	inhibit	inhibition	研纲	inhibit
+initial	四	initial	initially	研纲	initial
+initiate	四	initiate	initiation,initiative	研纲	initiate,initiative
+inject	六	inject	injection	研纲	inject
+injure	四	injure	injury,injurious	研纲	injure,injury
+ink	四	ink		研纲	ink
+inland	四	inland		研纲	inland
+inlet				研纲	inlet
+inmate	六	inmate			
+inn	四	inn		研纲	inn
+inner	四	inner		研纲	inner
+innocent	四	innocent	innocence	研纲	innocent
+innovate	四	innovate	innovation,innovative	研纲	innovation
+innumerable	六	innumerable		研纲	innumerable
+input	四	input		研纲	input
+inquire	四	inquire/enquire	inquiry/enquiry,inquisitive	研纲	inquiry/enquiry
+insane	四	insane	insanity		
+insect	四	insect		研纲	insect
+insert	四	insert	insertion	研纲	insert
+inside	四	inside	insider	研纲	inside
+insight	四	insight	insightful	研纲	insight
+insist	四	insist	insistence,insistent	研纲	insist
+inspect	四	inspect	inspection,inspector	研纲	inspect
+inspire	四	inspire	inspiration,inspirational	研纲	inspire,inspiration
+instal	四	instal(l)	instal(l)ation	研纲	instal(l),instal(l)ation
+instalment	四	instal(l)ment		研纲	instal(l)ment
+instance	四	instance		研纲	instance
+instant	四	instant	instantaneous	研纲	instant,instantaneous
+instead	四	instead		研纲	instead
+instinct	四	instinct	instinctive	研纲	instinct
+institute	四	institute		研纲	institute
+institution	四	institution	institutional	研纲	institution
+instruct	四	instruct	instruction,instructor,instructive	研纲	instruct,instruction
+instrument	四	instrument	instrumental	研纲	instrument,instrumental
+insulate	六	insulate	insulation,insulator	研纲	insulate
+insult	四	insult		研纲	insult
+insure	四	insure/ensure	insurance	研纲	insure,insurance
+intact	四	intact		研纲	intact
+intake	四	intake			
+intangible	四	intangible			
+integral	六	integral		研纲	integral
+integrate	四	integrate	integration	研纲	integrate
+integrity	四	integrity		研纲	integrity
+intellect	六	intellect			
+intellectual	四	intellectual		研纲	intellectual
+intelligent	四	intelligent	intelligence	研纲	intelligent,intelligence
+intelligible	六	intelligible		研纲	intelligible
+intend	四	intend	intention,intent,intentional	研纲	intend,intention
+intense	四	intense	intensity,intensify	研纲	intense,intensity
+intensive	四	intensive		研纲	intensive
+interact	四	interact	interaction,interactive	研纲	interact
+intercourse	六	intercourse		研纲	intercourse
+interest	四	interest	interesting,interested	研纲	interest,interesting
+interface				研纲	interface
+interfere	四	interfere	interference	研纲	interfere,interference
+interim	六	interim		研纲	interim
+interior	四	interior		研纲	interior
+intermediate	四	intermediate	intermediary	研纲	intermediate
+intermittent	六	intermittent		研纲	intermittent
+internal	四	internal		研纲	internal
+international	四	international		研纲	international
+Internet	四	Internet/internet		研纲	Internet
+interpret	四	interpret	interpretation,interpreter	研纲	interpret
+interrogate	六	interrogate	interrogation		
+interrupt	四	interrupt	interruption	研纲	interrupt
+intersection				研纲	intersection
+interval	四	interval		研纲	interval
+intervene	六	intervene	intervention	研纲	intervene
+interview	四	interview	interviewer,interviewee	研纲	interview
+intimate	四	intimate	intimacy	研纲	intimate
+intimidate	六	intimidate	intimidation	研纲	intimidate
+into	四	into		研纲	into
+intricate	六	intricate	intricacy	研纲	intricate
+intrigue	六	intrigue		研纲	intrigue
+intrinsic	六	intrinsic	intrinsically	研纲	intrinsic
+introduce	四	introduce	introduction,introductory	研纲	introduce,introduction
+intrude	四	intrude	intrusion,intruder	研纲	intrude
+intuition	六	intuition	intuitive	研纲	intuition
+invade	四	invade	invasion,invader,invasive	研纲	invade,invasion
+invalid	六	invalid		研纲	invalid
+invaluable	四	invaluable		研纲	invaluable
+invariably	四	invariably			
+invent	四	invent	invention,inventor	研纲	invent,invention
+inventory	六	inventory		研纲	inventory
+inverse				研纲	inverse
+invert	六	invert	inversion	研纲	invert
+invest	四	invest	investment,investor	研纲	invest,investment
+investigate	四	investigate	investigation,investigator	研纲	investigate,investigation
+invisible	四	invisible		研纲	invisible
+invite	四	invite	invitation,inviting	研纲	invite,invitation
+involve	四	involve	involvement,involved	研纲	involve
+inward	四	inward		研纲	inward
+iron	四	iron		研纲	iron
+irony	四	irony	ironic(al),ironically	研纲	irony
+irrational	四	irrational			
+irregular	四	irregular			
+irrespective	六	irrespective		研纲	irrespective
+irrigate	四	irrigate	irrigation	研纲	irrigate
+irritate	六	irritate	irritation,irritating,irritable	研纲	irritate
+island	四	island		研纲	island
+isle	六	isle		研纲	isle
+isolate	四	isolate	isolation	研纲	isolate
+issue	四	issue		研纲	issue
+it	四	it		研纲	it
+item	四	item		研纲	item
+its	四	its		研纲	its
+itself	四	itself		研纲	itself
+ivory	六	ivory		研纲	ivory
+jack	六	jack			
+jacket	四	jacket		研纲	jacket
+jail	四	jail/gaol		研纲	jail/gaol
+jam	四	jam		研纲	jam
+January	四	January		研纲	January
+jar	四	jar		研纲	jar
+jargon	六	jargon		研纲	jargon
+jaw	四	jaw		研纲	jaw
+jazz	四	jazz		研纲	jazz
+jealous	四	jealous	jealousy	研纲	jealous
+jeans	四	jeans		研纲	jeans
+jeep	四	jeep			
+jelly	六	jelly			
+jeopardize	六	jeopardize/-ise	jeopardy		
+jerk	六	jerk			
+jet	四	jet		研纲	jet
+jetlag	四	jetlag			
+jewel	四	jewel	jewelry/jewel(l)ery	研纲	jewel,jewelry/jewel(l)ery
+job	四	job		研纲	job
+jockey	六	jockey			
+jog	四	jog		研纲	jog
+join	四	join		研纲	join
+joint	四	joint		研纲	joint
+joke	四	joke		研纲	joke
+jolly	六	jolly		研纲	jolly
+journal	四	journal		研纲	journal
+journalism	四	journalism	journalist	研纲	journalist
+journey	四	journey		研纲	journey
+joy	四	joy	joyous,joyful	研纲	joy
+judge	四	judge	judg(e)ment	研纲	judge,judg(e)ment
+judicial	六	judicial		研纲	judicial
+judiciary	六	judiciary			
+jug				研纲	jug
+juice	四	juice	juicy	研纲	juice
+July	四	July		研纲	July
+jump	四	jump		研纲	jump
+junction	六	junction		研纲	junction
+June	四	June		研纲	June
+jungle	四	jungle		研纲	jungle
+junior	四	junior		研纲	junior
+junk	四	junk		研纲	junk
+jurisdiction	六	jurisdiction			
+jury	四	jury	juror	研纲	jury
+just	四	just		研纲	just
+justice	四	justice		研纲	justice
+justify	四	justify	justification	研纲	justify
+juvenile	六	juvenile		研纲	juvenile
+keen	四	keen		研纲	keen
+keep	四	keep		研纲	keep
+kettle	四	kettle		研纲	kettle
+key	四	key		研纲	key
+keyboard	四	keyboard		研纲	keyboard
+kick	四	kick		研纲	kick
+kid	四	kid		研纲	kid
+kidnap	六	kidnap		研纲	kidnap
+kidney	六	kidney		研纲	kidney
+kill	四	kill		研纲	kill
+kilogram	四	kilogram(me)/kilo		研纲	kilogram(me)/kilo
+kilometer	四	kilometer/-tre		研纲	kilometer/-tre
+kin	四	kin		研纲	kin
+kind	四	kind	kindness	研纲	kind,kindness
+kindergarten	四	kindergarten		研纲	kindergarten
+king	四	king		研纲	king
+kingdom	四	kingdom		研纲	kingdom
+kiss	四	kiss		研纲	kiss
+kit	四	kit		研纲	kit
+kitchen	四	kitchen		研纲	kitchen
+kite	四	kite		研纲	kite
+knee	四	knee		研纲	knee
+kneel	四	kneel		研纲	kneel
+knife	四	knife		研纲	knife
+knight	六	knight			
+knit	四	knit		研纲	knit
+knob	六	knob		研纲	knob
+knock	四	knock		研纲	knock
+knot	四	knot	knotty	研纲	knot
+know	四	know	knowledge,knowledgeable	研纲	know,knowledge
+knowhow	四	knowhow			
+label	四	label		研纲	label
+labor	四	labo(u)r	laborious	研纲	labo(u)r
+laboratory	四	laboratory/lab		研纲	laboratory/lab
+lace	四	lace		研纲	lace
+lack	四	lack		研纲	lack
+lad	六	lad		研纲	lad
+ladder	四	ladder		研纲	ladder
+lady	四	lady		研纲	lady
+lag	四	lag		研纲	lag
+lake	四	lake		研纲	lake
+lamb	四	lamb		研纲	lamb
+lame	四	lame		研纲	lame
+lamp	四	lamp		研纲	lamp
+land	四	land	landing	研纲	land
+landlord	四	landlord	landlady	研纲	landlord,landlady
+landmark	六	landmark			
+landscape	四	landscape			
+lane	四	lane		研纲	lane
+language	四	language		研纲	language
+lantern				研纲	lantern
+lap	四	lap		研纲	lap
+lapse				研纲	lapse
+laptop	四	laptop		研纲	laptop
+large	四	large	largely	研纲	large,largely
+laser	四	laser		研纲	laser
+lash	六	lash		研纲	lash
+lass	四	lass			
+last	四	last	lastly	研纲	last
+late	四	late	later	研纲	late,later
+lately	四	lately		研纲	lately
+latent				研纲	latent
+lateral				研纲	lateral
+Latin				研纲	Latin
+latitude	六	latitude		研纲	latitude
+latter	四	latter		研纲	latter
+laugh	四	laugh	laughter	研纲	laugh,laughter
+launch	四	launch		研纲	launch
+laundry	四	laundry		研纲	laundry
+lavatory	四	lavatory		研纲	lavatory
+lavish	六	lavish			
+law	四	law	lawful	研纲	law
+lawn	四	lawn		研纲	lawn
+lawsuit	六	lawsuit			
+lawyer	四	lawyer		研纲	lawyer
+lay	四	lay		研纲	lay
+layer	四	layer		研纲	layer
+layman	六	layman		研纲	layman/(pl.laymen)
+layoff	四	layoff		研纲	layoff
+layout	四	layout		研纲	layout
+lazy	四	lazy	laziness	研纲	lazy
+lead	四	lead	leader,leadership,leading	研纲	lead,leadership,leading
+leaf	四	leaf		研纲	leaf
+leaflet	六	leaflet		研纲	leaflet
+league	四	league		研纲	league
+leak	四	leak		研纲	leak
+lean	四	lean		研纲	lean
+leap	四	leap		研纲	leap
+learn	四	learn	learned,learning,learner	研纲	learn
+lease	四	lease		研纲	lease
+least	四	least		研纲	least
+leather	四	leather		研纲	leather
+leave	四	leave		研纲	leave
+lecture	四	lecture	lecturer	研纲	lecture
+left	四	left	leftist	研纲	left
+leg	四	leg		研纲	leg
+legacy	六	legacy		研纲	legacy
+legal	四	legal	legalize/-ise	研纲	legal
+legend	四	legend	legendary	研纲	legend
+legislate	四	legislate	legislation,legislative,legislator	研纲	legislation
+legitimate	六	legitimate	legitimacy	研纲	legitimate
+leisure	四	leisure	leisurely	研纲	leisure
+lemon	四	lemon	lemonade	研纲	lemon
+lend	四	lend		研纲	lend
+lenient	六	lenient	leniency		
+lens	四	lens		研纲	lens
+lesbian	六	lesbian			
+less	四	less		研纲	less
+lesson	四	lesson		研纲	lesson
+lest	四	lest		研纲	lest
+let	四	let		研纲	let
+letter	四	letter		研纲	letter
+level	四	level		研纲	level
+lever	六	lever	leverage	研纲	lever
+levy	六	levy		研纲	levy
+liable	四	liable	liability	研纲	liable,liability
+liberal	四	liberal		研纲	liberal
+liberate	四	liberate	liberation	研纲	liberate
+liberty	四	liberty		研纲	liberty
+library	四	library	librarian	研纲	library,librarian
+license	四	license/-ce		研纲	license/-ence
+lick	四	lick		研纲	lick
+lid	四	lid		研纲	lid
+lie	四	lie	liar	研纲	lie
+lieutenant	六	lieutenant			
+life	四	life		研纲	life
+lifetime				研纲	lifetime
+lift	四	lift		研纲	lift
+light	四	light	lighting	研纲	light
+lightning	四	lightning		研纲	lightning
+like	四	like	likely,likelihood,unlike(高考),unlikely(研)	研纲	like,likely,likelihood,unlike,unlikely
+likewise	四	likewise		研纲	likewise
+lily	四	lily			
+limb	四	limb		研纲	limb
+lime	六	lime			
+limelight	六	limelight			
+limit	四	limit	limitation,limited	研纲	limit,limitation,limited
+limp	六	limp		研纲	limp
+line	四	line	linear	研纲	line,linear
+linen	六	linen		研纲	linen
+liner	六	liner		研纲	liner
+linger	六	linger		研纲	linger
+linguistic	六	linguistic	linguistics	研纲	linguistic
+link	四	link	linkage	研纲	link
+lion	四	lion	lioness	研纲	lion
+lip	四	lip		研纲	lip
+lipstick	六	lipstick			
+liquid	四	liquid		研纲	liquid
+liquor	四	liquor		研纲	liquor
+list	四	list		研纲	list
+listen	四	listen	listener	研纲	listen
+liter	四	liter/-tre		研纲	liter/-tre
+literal	四	literal	literally	研纲	literally
+literary	四	literary	literature,literate,literacy	研纲	literary,literature,literacy
+litter	四	litter		研纲	litter
+little	四	little		研纲	little
+live	四	live	living	研纲	live,living
+livelihood	四	livelihood			
+lively	四	lively		研纲	lively
+liver	四	liver		研纲	liver
+livestock	六	livestock			
+living-room	四	living-room		研纲	living-room
+load	四	load		研纲	load
+loaf	四	loaf		研纲	loaf
+loan	四	loan		研纲	loan
+lobby	四	lobby	lobbyist	研纲	lobby
+local	四	local	locality	研纲	local,locality
+locate	四	locate	location	研纲	locate,location
+lock	四	lock	locker	研纲	lock,locker
+locomotive	六	locomotive		研纲	locomotive
+lodge	四	lodge	lodging	研纲	lodge
+lofty	六	lofty		研纲	lofty
+log	四	log		研纲	log
+logic	四	logic	logical	研纲	logic,logical
+logistics	六	logistics	logistic(al)		
+logo	四	logo			
+lonely	四	lonely	loneliness	研纲	lonely
+long	四	long	length,lengthy	研纲	long,length
+longevity	六	longevity			
+longitude	六	longitude	longitudinal	研纲	longitude
+look	四	look		研纲	look
+loom	六	loom		研纲	loom
+loop	六	loop		研纲	loop
+loophole	四	loophole			
+loose	四	loose	loosen	研纲	loose,loosen
+loot	六	loot			
+lord	四	lord		研纲	lord
+lorry	四	lorry		研纲	lorry
+lose	四	lose	loss	研纲	lose,loss
+lot	四	lot		研纲	lot
+lotion	六	lotion			
+lottery	六	lottery		研纲	lottery
+loud	四	loud	loudly	研纲	loud
+loudspeaker				研纲	loudspeaker
+lounge	六	lounge		研纲	lounge
+love	四	love	lovely,lover	研纲	love,lovely,lover
+low	四	low	lower	研纲	low,lower
+loyal	四	loyal	loyalty	研纲	loyal,loyalty
+lubricate	六	lubricate	lubrication	研纲	lubricate
+luck	四	luck	lucky	研纲	luck,lucky
+lucrative	六	lucrative			
+luggage	四	luggage		研纲	luggage
+lumber				研纲	lumber
+luminous	六	luminous			
+lump	四	lump		研纲	lump
+lunar	四	lunar		研纲	lunar
+lunch	四	lunch	luncheon	研纲	lunch
+lung	四	lung		研纲	lung
+lure	六	lure		研纲	lure
+luxury	四	luxury	luxurious	研纲	luxury
+lyric	六	lyric	lyrical	研纲	lyric
+machine	四	machine	machinery	研纲	machine,machinery
+mad	四	mad	madden	研纲	mad
+madam	四	madam(e)		研纲	madam(e)
+magazine	四	magazine		研纲	magazine
+magic	四	magic	magical	研纲	magic
+magistrate	六	magistrate		研纲	magistrate
+magnet	四	magnet	magnetic	研纲	magnet,magnetic
+magnificent	四	magnificent	magnificence	研纲	magnificent
+magnify	六	magnify		研纲	magnify
+magnitude	六	magnitude		研纲	magnitude
+maid	四	maid		研纲	maid
+maiden	四	maiden		研纲	maiden
+mail	四	mail		研纲	mail
+main	四	main		研纲	main
+mainland	四	mainland		研纲	mainland
+mainstream	四	mainstream			
+maintain	四	maintain	maintenance	研纲	maintain,maintenance
+majesty	六	majesty	majestic	研纲	majesty
+major	四	major	majority	研纲	major,majority
+make	四	make		研纲	make
+makeup	四	makeup			
+male	四	male		研纲	male
+malice	六	malice	malicious		
+malignant	六	malignant		研纲	malignant
+mall	四	mall			
+malpractice	六	malpractice			
+mammal	四	mammal		研纲	mammal
+man	四	man	manly,manhood	研纲	man/(pl.men)
+manage	四	manage	management,manager,managerial	研纲	manage,management,manager
+mandate	六	mandate	mandatory		
+maneuver	六	maneuver/manoeuvre		研纲	maneuver/manoeuvre
+manifest	六	manifest	manifestation	研纲	manifest
+manipulate	四	manipulate	manipulation,manipulative	研纲	manipulate
+mankind	四	mankind		研纲	mankind
+manner	四	manner		研纲	manner
+mansion	六	mansion			
+manual	四	manual		研纲	manual
+manufacture	四	manufacture	manufacturer	研纲	manufacture
+manuscript	六	manuscript		研纲	manuscript
+many	四	many		研纲	many
+map	四	map		研纲	map
+mar	六	mar			
+marathon	四	marathon		研纲	marathon
+marble	六	marble		研纲	marble
+March	四	March		研纲	March
+march	四	march		研纲	march
+margin	四	margin	marginal	研纲	margin,marginal
+marine	四	marine		研纲	marine
+maritime	六	maritime			
+mark	四	mark		研纲	mark
+market	四	market	marketing	研纲	market
+marry	四	marry	marriage,marital,married(研)	研纲	marry,marriage,marital,married
+marsh	四	marsh			
+marshal	四	marshal			
+martyr	六	martyr	martyrdom		
+marvel	四	marvel	marvel(l)ous	研纲	marvel(l)ous
+Marxism	四	Marxism	Marxist	研纲	Marxist
+masculine	六	masculine	masculinity	研纲	masculine
+mask	四	mask		研纲	mask
+mass	四	mass	massive	研纲	mass,massive
+massacre	六	massacre		研纲	massacre
+massage	四	massage			
+master	四	master	mastery	研纲	master
+masterpiece	四	masterpiece		研纲	masterpiece
+mat	四	mat		研纲	mat
+match	四	match		研纲	match
+mate	四	mate		研纲	mate
+material	四	material	materialism,materialist,materialize/-ise	研纲	material
+maternal	六	maternal	maternity		
+math	四	math(ematics)/maths	mathematical	研纲	math(s)/mathematics,mathematical
+matter	四	matter		研纲	matter
+mature	四	mature	maturity	研纲	mature
+maximum	四	maximum	maximize/-ise,maximal	研纲	maximum
+may	四	may		研纲	may
+May	四	May		研纲	May
+maybe	四	maybe		研纲	maybe
+mayor	四	mayor		研纲	mayor
+me	四	me		研纲	me
+meadow	六	meadow		研纲	meadow
+meal	四	meal		研纲	meal
+mean	四	mean	meaning,meaningful	研纲	mean,meaning
+means	四	means		研纲	means
+meantime	四	meantime		研纲	meantime
+meanwhile	四	meanwhile		研纲	meanwhile
+measure	四	measure	measurement,measurable	研纲	measure
+meat	四	meat	meaty	研纲	meat
+mechanic	四	mechanic	mechanical,mechanics,mechanism	研纲	mechanic,mechanical,mechanism
+mechanize	四	mechanize/-ise	mechanization/-sation		
+medal	四	medal		研纲	medal
+mediate	六	mediate	mediation,mediator		
+medical	四	medical		研纲	medical
+Medicare	四	Medicare			
+medication	六	medication			
+medicine	四	medicine	medicinal	研纲	medicine
+medieval	六	medieval		研纲	medi(a)eval
+meditate				研纲	meditate
+meditation				研纲	meditation
+medium	四	medium	media	研纲	medium/(pl.media)
+meet	四	meet		研纲	meet
+meeting	四	meeting		研纲	meeting
+melody	六	melody	melodious	研纲	melody
+melon	四	melon		研纲	melon
+melt	四	melt		研纲	melt
+member	四	member	membership	研纲	member,membership
+memorandum	四	memorandum/memo		研纲	memorandum/memo
+memorial	四	memorial		研纲	memorial
+memory	四	memory	memorize/-ise	研纲	memory
+menace	六	menace		研纲	menace
+mend	四	mend		研纲	mend
+mental	四	mental	mentality	研纲	mental
+mention	四	mention		研纲	mention
+mentor	六	mentor			
+menu	四	menu		研纲	menu
+merchandise	六	merchandise		研纲	merchandise
+merchant	四	merchant		研纲	merchant
+mercury	六	mercury		研纲	mercury
+mercy	四	mercy	merciful	研纲	mercy
+mere	四	mere	merely	研纲	mere,merely
+merge	六	merge	merger	研纲	merge
+merit	四	merit	meritorious	研纲	merit
+merry	四	merry	merriment	研纲	merry
+mess	四	mess	messy	研纲	mess
+message	四	message	messenger	研纲	message,messenger
+metabolism	六	metabolism	metabolic		
+metal	四	metal	metallic	研纲	metal
+metaphor	六	metaphor	metaphorical	研纲	metaphor
+meter	四	meter/-tre	metric	研纲	meter/-tre,metric
+method	四	method	methodical,methodology	研纲	method
+meticulous	六	meticulous			
+metro	四	metro			
+metropolitan	六	metropolitan		研纲	metropolitan
+microphone	四	microphone		研纲	microphone
+microscope	四	microscope	microscopic	研纲	microscope
+microwave	四	microwave	microwavable		
+midday	四	midday			
+middle	四	middle		研纲	middle
+middle-class	四	middle-class			
+midnight	四	midnight			
+midst	六	midst		研纲	midst
+midwife	六	midwife			
+might	四	might	mighty	研纲	might
+migrate	四	migrate	migration,migrant	研纲	migrate
+mild	四	mild		研纲	mild
+mile	四	mile	mileage	研纲	mile
+milestone	六	milestone			
+militant	六	militant	militancy	研纲	militant
+military	四	military		研纲	military
+militia	六	militia			
+milk	四	milk	milky	研纲	milk
+mill	四	mill		研纲	mill
+millimeter	四	millimeter/-tre		研纲	millimeter/-tre
+million	四	million	millionaire,millionth(高考)	研纲	million,millionaire
+mind	四	mind		研纲	mind
+mindset	六	mindset			
+mine	四	mine	mineral,mining	研纲	mine,mineral
+mingle	六	mingle		研纲	mingle
+miniature	六	miniature		研纲	miniature
+minimum	四	minimum	minimal,minimize/-ise	研纲	minimum,minimize/-ise
+minister	四	minister	ministry,ministerial	研纲	minister,ministry
+minor	四	minor	minority	研纲	minor,minority
+mint	六	mint			
+minus	四	minus		研纲	minus
+minute	四	minute		研纲	minute
+miracle	四	miracle	miraculous	研纲	miracle
+mirror	四	mirror		研纲	mirror
+mischief				研纲	mischief
+miserable	四	miserable	misery	研纲	miserable,misery
+misfortune	四	misfortune		研纲	misfortune
+mislead	四	mislead	misleading	研纲	mislead
+miss	四	miss		研纲	miss
+Miss	四	Miss			
+missile	四	missile		研纲	missile
+missing	四	missing		研纲	missing
+mission	四	mission		研纲	mission
+missionary	六	missionary		研纲	missionary
+mist	四	mist	misty	研纲	mist
+mistake	四	mistake	mistaken	研纲	mistake
+mister	四	mister/Mr.			
+mistress	四	mistress/Mrs.		研纲	mistress/Mrs.
+misunderstand	四	misunderstand	misunderstanding	研纲	misunderstand
+mix	四	mix	mixture,mixer	研纲	mix,mixture
+moan	六	moan		研纲	moan
+mob				研纲	mob
+mobile	四	mobile		研纲	mobile
+mobilize	六	mobilize/-ise		研纲	mobilize/-ise
+mock	六	mock		研纲	mock
+mode	四	mode		研纲	mode
+model	四	model		研纲	model
+moderate	四	moderate	moderation,moderator	研纲	moderate
+modern	四	modern	modernize/-ise,modernization/-sation	研纲	modern,modernization/-isation
+modest	四	modest	modesty	研纲	modest
+modify	四	modify	modification,modifier	研纲	modify
+module				研纲	module
+moist	四	moist	moisture	研纲	moist,moisture
+mold	四	mo(u)ld	mo(u)ldy	研纲	mold/mould
+molecule	六	molecule	molecular	研纲	molecule
+mom	四	mom(my)/mum(my)			
+moment	四	moment	momentary,momentarily	研纲	moment
+momentum	六	momentum	momentous	研纲	momentum
+monarchy	六	monarchy	monarch	研纲	monarch
+Monday	四	Monday		研纲	Monday
+money	四	money	monetary	研纲	money,monetary
+monitor	四	monitor		研纲	monitor
+monkey	四	monkey		研纲	monkey
+monopoly	六	monopoly	monopolize/-ise	研纲	monopoly
+monotony	六	monotony	monotonous	研纲	monotonous
+monster	四	monster	monstrous	研纲	monster
+month	四	month	monthly	研纲	month
+monument	四	monument	monumental	研纲	monument
+mood	四	mood	moody	研纲	mood
+moon	四	moon		研纲	moon
+mop	四	mop			
+moral	四	moral	morality	研纲	moral,morality
+morale	六	morale			
+more	四	more		研纲	more
+moreover	四	moreover		研纲	moreover
+morning	四	morning		研纲	morning
+mortal	六	mortal	mortality	研纲	mortal
+mortgage	四	mortgage		研纲	mortgage
+mosaic				研纲	mosaic
+mosquito	六	mosquito		研纲	mosquito
+moss				研纲	moss
+most	四	most	mostly	研纲	most,mostly
+motel	四	motel		研纲	motel
+mother	四	mother	motherly	研纲	mother
+motion	四	motion		研纲	motion
+motivate	四	motivate	motivation	研纲	motivate
+motive	四	motive		研纲	motive
+motor	四	motor		研纲	motor
+motorway	四	motorway			
+mount	四	mount	mounting	研纲	mount
+mountain	四	mountain	mountainous	研纲	mountain
+mourn	六	mourn	mourning	研纲	mourn
+mouse	四	mouse		研纲	mouse/(pl.mice)
+mouth	四	mouth	mouthful	研纲	mouth
+move	四	move	movement	研纲	move,movement
+movie	四	movie		研纲	movie
+mow	六	mow			
+much	四	much		研纲	much
+mud	四	mud	muddy	研纲	mud
+mug	四	mug		研纲	mug
+mule	四	mule			
+multilateral	六	multilateral			
+multiple	四	multiple	multiply,multiplication	研纲	multiple,multiply
+multitude	六	multitude		研纲	multitude
+municipal	四	municipal	municipality	研纲	municipal
+murder	四	murder	murderous	研纲	murder
+murmur	六	murmur		研纲	murmur
+muscle	四	muscle	muscular	研纲	muscle,muscular
+museum	四	museum		研纲	museum
+mushroom	四	mushroom		研纲	mushroom
+music	四	music	musical,musician	研纲	music,musical,musician
+must	四	must		研纲	must
+mute	六	mute		研纲	mute
+mutter	六	mutter		研纲	mutter
+mutton				研纲	mutton
+mutual	四	mutual		研纲	mutual
+my	四	my		研纲	my
+myself	四	myself		研纲	myself
+mystery	四	mystery	mysterious	研纲	mystery,mysterious
+myth	四	myth	mythical,mythology	研纲	myth
+nail	四	nail		研纲	nail
+naive	六	naive	naivety	研纲	naive
+naked	四	naked		研纲	naked
+name	四	name		研纲	name
+namely	四	namely		研纲	namely
+nap	四	nap		研纲	nap
+napkin	四	napkin		研纲	napkin
+narrate	四	narrate	narration,narrative,narrator	研纲	narrative
+narrow	四	narrow	narrowly	研纲	narrow
+nasty	四	nasty		研纲	nasty
+nation	四	nation	national,nationality,nationalist,nationalism	研纲	nation,national,nationality
+nationwide	四	nationwide			
+native	四	native		研纲	native
+nature	四	nature	natural,naturally	研纲	nature,natural
+naughty	四	naughty		研纲	naughty
+navigate	六	navigate	navigation	研纲	navigation
+navy	四	navy	naval	研纲	navy,naval
+near	四	near	nearly	研纲	near,nearly
+nearby	四	nearby		研纲	nearby
+neat	四	neat		研纲	neat
+necessary	四	necessary	necessarily	研纲	necessary
+necessity	四	necessity	necessitate	研纲	necessity,necessitate
+neck	四	neck		研纲	neck
+necklace	四	necklace		研纲	necklace
+need	四	need	needy	研纲	need
+needle	四	needle		研纲	needle
+negate	四	negate	negation,negative	研纲	negative
+neglect	四	neglect	neglectful	研纲	neglect
+negligent	六	negligent	negligence		
+negligible	六	negligible		研纲	negligible
+negotiate	四	negotiate	negotiation,negotiable	研纲	negotiate,negotiation
+Negro				研纲	Negro
+neighbor	四	neighbo(u)r	neighbo(u)rhood	研纲	neighbo(u)r,neighbo(u)rhood
+neither	四	neither		研纲	neither
+nephew	四	nephew		研纲	nephew
+nerve	四	nerve	nervous	研纲	nerve,nervous
+nest	四	nest		研纲	nest
+net	四	net		研纲	net
+network	四	network	networking	研纲	network
+neutral	四	neutral	neutrality,neutralize/-ise	研纲	neutral
+neutron				研纲	neutron
+never	四	never		研纲	never
+nevertheless	四	nevertheless		研纲	nevertheless
+new	四	new		研纲	new
+news	四	news		研纲	news
+newspaper	四	newspaper		研纲	newspaper
+next	四	next		研纲	next
+nice	四	nice	nicety	研纲	nice
+nickel	四	nickel		研纲	nickel
+nickname	六	nickname		研纲	nickname
+niece	四	niece		研纲	niece
+night	四	night	nightly	研纲	night
+nightmare	四	nightmare		研纲	nightmare
+nil	六	nil			
+nine	四	nine		研纲	nine
+nineteen	四	nineteen	nineteenth(高考)	研纲	nineteen
+ninety	四	ninety	ninetieth(高考)	研纲	ninety
+ninth	四	ninth			
+nitrogen	六	nitrogen		研纲	nitrogen
+no	四	no		研纲	no
+noble	四	noble	nobility	研纲	noble
+nobody	四	nobody		研纲	nobody
+nod	四	nod		研纲	nod
+noise	四	noise	noisy	研纲	noise,noisy
+nominal	六	nominal		研纲	nominal
+nominate	六	nominate	nomination,nominee	研纲	nominate
+none	四	none		研纲	none
+nonetheless	六	nonetheless		研纲	nonetheless
+nonsense	四	nonsense		研纲	nonsense
+noodle	四	noodle		研纲	noodle
+noon	四	noon		研纲	noon
+nor	四	nor		研纲	nor
+norm	四	norm		研纲	norm
+normal	四	normal	normally,normalize/-ise,normalization/-sation	研纲	normal,normalization/-isation
+north	四	north	northern	研纲	north,northern
+northeast	四	northeast	northeastern	研纲	northeast
+northwest	四	northwest	northwestern	研纲	northwest
+nose	四	nose	nosy	研纲	nose
+not	四	not		研纲	not
+note	四	note	notation,notable	研纲	note,notable
+notebook	四	notebook		研纲	notebook
+noteworthy	六	noteworthy			
+nothing	四	nothing		研纲	nothing
+notice	四	notice	noticeable	研纲	notice
+notify	四	notify	notification	研纲	notify
+notion	四	notion	notional	研纲	notion
+notorious	六	notorious	notoriety	研纲	notorious
+notwithstanding	六	notwithstanding		研纲	notwithstanding
+noun	四	noun		研纲	noun
+nourish	四	nourish	nourishment	研纲	nourish
+novel	四	novel	novelist,novelty	研纲	novel,novelty
+November	四	November		研纲	November
+now	四	now		研纲	now
+nowadays	四	nowadays		研纲	nowadays
+nowhere	四	nowhere		研纲	nowhere
+nuclear	四	nuclear	nucleus	研纲	nuclear,nucleus/(pl.nuclei)
+nude	四	nude	nudity		
+nuisance	四	nuisance		研纲	nuisance
+numb	六	numb		研纲	numb
+number	四	number/No.		研纲	number
+numeral				研纲	numeral
+numerical	六	numerical		研纲	numerical
+numerous	四	numerous		研纲	numerous
+nurse	四	nurse		研纲	nurse
+nursery	四	nursery		研纲	nursery
+nurture	六	nurture		研纲	nurture
+nut	四	nut		研纲	nut
+nutrition	四	nutrition	nutrient	研纲	nutrition
+nylon				研纲	nylon
+oak	六	oak		研纲	oak
+oar	六	oar		研纲	oar
+oath	六	oath		研纲	oath
+obese	四	obese	obesity		
+obey	四	obey	obedient,obedience	研纲	obey,obedient,obedience
+object	四	object	objection	研纲	object,objection
+objective	四	objective		研纲	objective
+oblige	四	oblige	obligation,obliged,obligatory	研纲	oblige,obligation
+obscene	六	obscene	obscenity		
+obscure	六	obscure	obscurity	研纲	obscure
+observatory	六	observatory			
+observe	四	observe	observation,observer,observant	研纲	observe,observation
+obsess	六	obsess	obsession,obsessive	研纲	obsession
+obsolete				研纲	obsolete
+obstacle	四	obstacle		研纲	obstacle
+obstruct	六	obstruct	obstruction	研纲	obstruct,obstruction
+obtain	四	obtain	obtainment	研纲	obtain
+obvious	四	obvious	obviously	研纲	obvious
+occasion	四	occasion	occasional,occasionally	研纲	occasion,occasional
+occupation	四	occupation	occupational	研纲	occupation
+occupy	四	occupy	occupancy,occupant	研纲	occupy
+occur	四	occur	occurrence	研纲	occur,occurrence
+ocean	四	ocean	oceanic	研纲	ocean
+o'clock	四	o'clock		研纲	o'clock
+October	四	October		研纲	October
+odd	四	odd	oddity	研纲	odd
+odds	四	odds		研纲	odds
+odor	四	odo(u)r	odorous	研纲	odo(u)r
+of	四	of		研纲	of
+off	四	off		研纲	off
+offend	四	offend	offense/-ce,offensive,offender	研纲	offend,offensive
+offer	四	offer	offering	研纲	offer
+office	四	office		研纲	office
+officer	四	officer		研纲	officer
+official	四	official		研纲	official
+offset	六	offset		研纲	offset
+offspring	六	offspring		研纲	offspring
+often	四	often/oftentimes		研纲	often
+oil	四	oil	oily	研纲	oil
+okay	四	okay/O.K./OK		研纲	okay/O.K./OK
+old	四	old		研纲	old
+old-fashioned	四	old-fashioned			
+olive	六	olive			
+Olympic	四	Olympic	Olympics,Olympiad		
+omit	四	omit	omission	研纲	omit
+on	四	on		研纲	on
+once	四	once		研纲	once
+one	四	one		研纲	one
+oneself	四	oneself		研纲	oneself
+ongoing	四	ongoing			
+onion	四	onion		研纲	onion
+online	四	online			
+only	四	only		研纲	only
+onset	六	onset			
+onto	四	onto		研纲	onto
+onward	四	onward			
+opaque	六	opaque		研纲	opaque
+open	四	open	opener,opening,openly	研纲	open,opening
+opera	四	opera		研纲	opera
+operate	四	operate	operation,operational,operator	研纲	operate,operation,operational,operator
+operative	六	operative			
+opinion	四	opinion		研纲	opinion
+opportunity	四	opportunity		研纲	opportunity
+oppose	四	oppose	opposition,opponent	研纲	oppose,opponent
+opposite	四	opposite		研纲	opposite
+oppress	六	oppress	oppression,oppressive	研纲	oppress
+opt	四	opt	option,optional	研纲	opt,option,optional
+optic	六	optic	optical	研纲	optic,optical
+optimism	四	optimism	optimistic,optimist	研纲	optimistic
+optimum	六	optimum	optimal	研纲	optimum
+or	四	or		研纲	or
+oral	四	oral		研纲	oral
+orange	四	orange		研纲	orange
+orbit	四	orbit	orbital	研纲	orbit
+orchard				研纲	orchard
+orchestra	四	orchestra		研纲	orchestra
+ordeal	六	ordeal			
+order	四	order	orderly	研纲	order,orderly
+ordinary	四	ordinary		研纲	ordinary
+ore	四	ore		研纲	ore
+organ	四	organ		研纲	organ
+organic	四	organic		研纲	organic
+organism	四	organism		研纲	organism
+organize	四	organize/-ise	organization/-sation,organizational/-sational	研纲	organize/-ise,organization/-isation
+orient	四	orient	orientation,oriental	研纲	orient,orientation,oriental
+origin	四	origin	original,originality,originate	研纲	origin,original,originate
+ornament	四	ornament	ornamental	研纲	ornament
+orphan	四	orphan	orphanage	研纲	orphan
+orthodox	六	orthodox		研纲	orthodox
+other	四	other		研纲	other
+otherwise	四	otherwise		研纲	otherwise
+ought	四	ought(-to)		研纲	ought(-to)
+ounce	四	ounce		研纲	ounce
+our	四	our		研纲	our
+ours	四	ours		研纲	ours
+ourselves	四	ourselves		研纲	ourselves
+out	四	out		研纲	out
+outbreak	四	outbreak		研纲	outbreak
+outcome	四	outcome		研纲	outcome
+outdated	四	outdated			
+outdoor	四	outdoor	outdoors	研纲	outdoor
+outer	四	outer		研纲	outer
+outfit	六	outfit		研纲	outfit
+outgoing	四	outgoing			
+outing	四	outing		研纲	outing
+outlaw	六	outlaw			
+outlet	四	outlet		研纲	outlet
+outline	四	outline		研纲	outline
+outlook	四	outlook		研纲	outlook
+output	四	output		研纲	output
+outrage	六	outrage	outrageous	研纲	outrage
+outset	四	outset		研纲	outset
+outside	四	outside	outsider	研纲	outside
+outskirts	四	outskirts		研纲	outskirts
+outstanding	四	outstanding		研纲	outstanding
+outward	四	outward	outwards	研纲	outward
+oval	四	oval		研纲	oval
+oven	四	oven		研纲	oven
+over	四	over		研纲	over
+overall	四	overall		研纲	overall
+overcoat	四	overcoat		研纲	overcoat
+overcome	四	overcome		研纲	overcome
+overdue	四	overdue			
+overflow	六	overflow		研纲	overflow
+overhaul	六	overhaul		研纲	overhaul
+overhead	四	overhead		研纲	overhead
+overhear	四	overhear		研纲	overhear
+overlap	六	overlap		研纲	overlap
+overlook	四	overlook		研纲	overlook
+overnight	四	overnight		研纲	overnight
+overpass				研纲	overpass
+override	六	override			
+overseas	四	overseas		研纲	overseas
+oversee	四	oversee			
+oversight	四	oversight			
+overstate	六	overstate			
+overt	六	overt			
+overtake	四	overtake		研纲	overtake
+overthrow	四	overthrow		研纲	overthrow
+overtime	四	overtime		研纲	overtime
+overturn	六	overturn		研纲	overturn
+overwhelm	四	overwhelm	overwhelming,overwhelmingly	研纲	overwhelm
+owe	四	owe	owing(-to)	研纲	owe,owing
+owl	六	owl		研纲	owl
+own	四	own	owner,ownership	研纲	own,owner,ownership
+ox	四	ox		研纲	ox
+oxide	六	oxide		研纲	oxide
+oxygen	四	oxygen		研纲	oxygen
+ozone	四	ozone		研纲	ozone
+pace	四	pace		研纲	pace
+pack	四	pack		研纲	pack
+package	四	package		研纲	package
+packet	四	packet		研纲	packet
+pact	六	pact		研纲	pact
+pad	四	pad		研纲	pad
+paddle				研纲	paddle
+paddy	四	paddy			
+page	四	page		研纲	page
+pail				研纲	pail
+pain	四	pain	painful	研纲	pain,painful
+paint	四	paint	painting,painter	研纲	paint,painting,painter
+pair	四	pair		研纲	pair
+palace	四	palace		研纲	palace
+pale	四	pale		研纲	pale
+palm	四	palm		研纲	palm
+pamphlet	六	pamphlet		研纲	pamphlet
+pan	四	pan		研纲	pan
+panda	四	panda		研纲	panda
+panel	四	panel		研纲	panel
+panic	四	panic		研纲	panic
+panorama	六	panorama	panoramic	研纲	panorama
+pant	六	pant		研纲	pant
+pants	四	pants		研纲	pants
+paper	四	paper		研纲	paper
+paperback	四	paperback		研纲	paperback
+parachute	六	parachute		研纲	parachute
+parade	四	parade		研纲	parade
+paradigm	六	paradigm			
+paradise	六	paradise		研纲	paradise
+paradox	四	paradox	paradoxical	研纲	paradox
+paragraph	四	paragraph		研纲	paragraph
+parallel	四	parallel		研纲	parallel
+paralyze	六	paralyze/-yse	paralysis	研纲	paralyze/-yse
+parameter	六	parameter		研纲	parameter
+parasite	六	parasite		研纲	parasite
+parcel	四	parcel		研纲	parcel
+pardon	四	pardon		研纲	pardon
+parent	四	parent	parental,parenting	研纲	parent
+parish	六	parish			
+park	四	park	parking	研纲	park
+parliament	四	parliament	parliamentary	研纲	parliament
+parole	六	parole			
+parrot	六	parrot			
+part	四	part	partial,partially	研纲	part,partial
+participate	四	participate	participation,participant	研纲	participate,participant
+particle	四	particle		研纲	particle
+particular	四	particular	particularly	研纲	particular
+partisan	六	partisan			
+partition	六	partition			
+partly	四	partly		研纲	partly
+partner	四	partner	partnership	研纲	partner
+party	四	party		研纲	party
+pass	四	pass		研纲	pass
+passage	四	passage		研纲	passage
+passenger	四	passenger		研纲	passenger
+passerby	六	passerby/passer-by/passer		研纲	passerby(pl.passers-by)/passer
+passion	四	passion	passionate	研纲	passion
+passive	四	passive		研纲	passive
+passport	四	passport		研纲	passport
+password	四	password			
+past	四	past		研纲	past
+pasta	六	pasta			
+paste	四	paste		研纲	paste
+pastime	四	pastime		研纲	pastime
+pastry	六	pastry			
+pasture	六	pasture		研纲	pasture
+pat	四	pat		研纲	pat
+patch	四	patch		研纲	patch
+patent	四	patent		研纲	patent
+path	四	path		研纲	path
+pathetic	六	pathetic		研纲	pathetic
+patient	四	patient	patience	研纲	patient,patience
+patriot	六	patriot	patriotic,patriotism	研纲	patriotic
+patrol	六	patrol		研纲	patrol
+patron	六	patron	patronize/-ise,patronage	研纲	patron
+pattern	四	pattern		研纲	pattern
+pause	四	pause		研纲	pause
+pave	四	pave	pavement	研纲	pave,pavement
+paw	四	paw		研纲	paw
+pay	四	pay	payment	研纲	pay,payment
+payroll	四	payroll			
+pea	四	pea		研纲	pea
+peace	四	peace	peaceful	研纲	peace,peaceful
+peach	四	peach		研纲	peach
+peak	四	peak		研纲	peak
+peanut	四	peanut		研纲	peanut
+pear	四	pear		研纲	pear
+pearl	四	pearl		研纲	pearl
+peasant	四	peasant		研纲	peasant
+pebble				研纲	pebble
+peck	六	peck			
+peculiar	四	peculiar	peculiarity	研纲	peculiar
+pedal	六	pedal		研纲	pedal
+peddle	六	peddle			
+pedestrian	四	pedestrian		研纲	pedestrian
+peel	六	peel		研纲	peel
+peep	六	peep		研纲	peep
+peer	四	peer		研纲	peer
+peg	六	peg			
+pen	四	pen		研纲	pen
+penalty	四	penalty	penalize/-ise	研纲	penalty
+pencil	四	pencil		研纲	pencil
+pending	六	pending			
+pendulum	六	pendulum		研纲	pendulum
+penetrate	四	penetrate	penetration	研纲	penetrate
+penguin	六	penguin			
+peninsula	六	peninsula		研纲	peninsula
+penny	四	penny	pence(高考)	研纲	penny/(pl.pence)
+pension	四	pension	pensioner	研纲	pension
+people	四	people		研纲	people
+pepper	四	pepper		研纲	pepper
+per	四	per		研纲	per
+perceive	四	perceive	perception,perceptive	研纲	perceive
+percent	四	percent	percentage	研纲	percent/(per cent),percentage
+perch	六	perch			
+perfect	四	perfect	perfection	研纲	perfect
+perform	四	perform	performance,performer	研纲	perform,performance
+perfume	六	perfume		研纲	perfume
+perhaps	四	perhaps		研纲	perhaps
+peril	四	peril	perilous		
+period	四	period	periodic,periodical	研纲	period,periodical
+perish	六	perish		研纲	perish
+permanent	四	permanent	permanence	研纲	permanent
+permeate	六	permeate	permeation	研纲	permeate
+permit	四	permit	permission,permissible,permissive	研纲	permit,permission
+perpetual	六	perpetual	perpetuate	研纲	perpetual
+perplex	六	perplex	perplexity	研纲	perplex
+persecute	六	persecute	persecution	研纲	persecute
+persevere	四	persevere	perseverance	研纲	persevere
+persist	四	persist	persistent,persistence	研纲	persist
+person	四	person	personal,personally,personality	研纲	person,personal,personality
+personnel	四	personnel		研纲	personnel
+perspective	四	perspective		研纲	perspective
+persuade	四	persuade	persuasion,persuasive	研纲	persuade,persuasion
+pessimism	四	pessimism	pessimistic,pessimist	研纲	pessimistic
+pest	六	pest		研纲	pest
+pesticide	六	pesticide			
+pet	四	pet		研纲	pet
+petition	六	petition	petitioner	研纲	petition
+petrochemical	六	petrochemical			
+petrol	四	petrol		研纲	petrol
+petroleum	四	petroleum		研纲	petroleum
+petty	四	petty		研纲	petty
+pharmacy	六	pharmacy	pharmaceutical	研纲	pharmacy
+phase	四	phase		研纲	phase
+phenomenon	四	phenomenon		研纲	phenomenon
+philosophy	四	philosophy	philosophical,philosopher	研纲	philosophy,philosopher
+photo	四	photo(graph)	photographic,photographer,photography	研纲	photo(graph)
+phrase	四	phrase	phrasal	研纲	phrase
+physical	四	physical		研纲	physical
+physician	四	physician		研纲	physician
+physics	四	physics	physicist	研纲	physics,physicist
+physiological	六	physiological			
+physiology				研纲	physiology
+piano	四	piano	pianist	研纲	piano
+pick	四	pick	picky	研纲	pick
+pickup				研纲	pickup
+picnic	四	picnic		研纲	picnic
+picture	四	picture	picturesque	研纲	picture
+pie	四	pie		研纲	pie
+piece	四	piece		研纲	piece
+pierce	四	pierce		研纲	pierce
+pig	四	pig		研纲	pig
+pigeon	四	pigeon		研纲	pigeon
+pile	四	pile		研纲	pile
+pilgrim	六	pilgrim	pilgrimage	研纲	pilgrim
+pill	四	pill		研纲	pill
+pillar	四	pillar		研纲	pillar
+pillow	四	pillow		研纲	pillow
+pilot	四	pilot		研纲	pilot
+pin	四	pin		研纲	pin
+pinch	四	pinch		研纲	pinch
+pine	四	pine		研纲	pine
+pink	四	pink		研纲	pink
+pint	四	pint		研纲	pint
+pioneer	四	pioneer		研纲	pioneer
+pipe	四	pipe		研纲	pipe
+pirate	四	pirate	piracy	研纲	pirate
+pistol	四	pistol		研纲	pistol
+piston				研纲	piston
+pit	四	pit		研纲	pit
+pitch	四	pitch		研纲	pitch
+pity	四	pity		研纲	pity
+pizza	四	pizza			
+place	四	place	placement	研纲	place
+plague	四	plague		研纲	plague
+plain	四	plain		研纲	plain
+plaintiff	六	plaintiff		研纲	plaintiff
+plan	四	plan	planning,planner	研纲	plan
+plane	四	plane		研纲	plane
+planet	四	planet	planetary	研纲	planet
+plant	四	plant	plantation	研纲	plant,plantation
+plaster				研纲	plaster
+plastic	四	plastic		研纲	plastic
+plate	四	plate		研纲	plate
+plateau	六	plateau		研纲	plateau
+platform	四	platform		研纲	platform
+plausible	六	plausible		研纲	plausible
+play	四	play	player	研纲	play
+playground	四	playground		研纲	playground
+plaza	六	plaza			
+plea	六	plea		研纲	plea
+plead	六	plead		研纲	plead
+please	四	please	pleasure,pleasant,pleasing,pleased(高考)	研纲	please,pleasure,pleasant
+pledge	四	pledge		研纲	pledge
+plenty	四	plenty	plentiful	研纲	plenty,plentiful
+plight	六	plight		研纲	plight
+plot	四	plot		研纲	plot
+plow	四	plow/plough		研纲	plow/plough
+plug	四	plug		研纲	plug
+plumber	六	plumber		研纲	plumber
+plumbing	六	plumbing			
+plunge	四	plunge		研纲	plunge
+plural	四	plural		研纲	plural
+plus	四	plus		研纲	plus
+pneumonia				研纲	pneumonia
+pocket	四	pocket		研纲	pocket
+podcast	四	podcast			
+poem	四	poem	poetry	研纲	poem,poetry
+poet	四	poet	poetic	研纲	poet
+point	四	point	pointless	研纲	point
+poise	六	poise	poised		
+poison	四	poison	poisonous	研纲	poison,poisonous
+poke	六	poke		研纲	poke
+pole	四	pole	polar	研纲	pole,polar
+police	四	police	policeman	研纲	police,policeman/(pl.policemen)
+policy	四	policy		研纲	policy
+polish	四	polish		研纲	polish
+polite	四	polite	politeness	研纲	polite
+politics	四	politics	political,politician	研纲	politics,political,politician
+poll	四	poll	pollster	研纲	poll
+pollute	四	pollute	pollution,pollutant	研纲	pollute,pollution
+polytechnic	六	polytechnic			
+pond	四	pond		研纲	pond
+ponder	六	ponder		研纲	ponder
+pool	四	pool		研纲	pool
+poor	四	poor	poverty	研纲	poor,poverty
+pop	四	pop		研纲	pop
+pope				研纲	pope
+popular	四	popular	popularity	研纲	popular
+population	四	population	populous,populate	研纲	population
+porcelain	六	porcelain		研纲	porcelain
+porch	六	porch		研纲	porch
+pork	四	pork		研纲	pork
+porridge	六	porridge			
+port	四	port	portable,porter	研纲	port,portable,porter
+portfolio	六	portfolio		研纲	portfolio
+portion	四	portion		研纲	portion
+portray	六	portray	portrayal,portrait	研纲	portray,portrait
+pose	四	pose	posture	研纲	pose,posture
+position	四	position		研纲	position
+positive	四	positive		研纲	positive
+possess	四	possess	possession,possessive	研纲	possess,possession
+possible	四	possible	possibility,possibly	研纲	possible,possibility
+post	四	post	postage,postman,postcode(高考)	研纲	post,postage,postman/(pl.postmen)
+postcard	四	postcard		研纲	postcard
+poster	四	poster		研纲	poster
+postpone	四	postpone	postponement	研纲	postpone
+pot	四	pot		研纲	pot
+potato	四	potato		研纲	potato
+potent	六	potent			
+potential	四	potential	potentiality	研纲	potential
+pottery	六	pottery			
+poultry	六	poultry		研纲	poultry
+pound	四	pound		研纲	pound
+pour	四	pour		研纲	pour
+powder	四	powder		研纲	powder
+power	四	power	powerful	研纲	power,powerful
+practical	四	practical	practicality	研纲	practical
+practice	四	practice/-ise	practicable	研纲	practice/-ise
+practitioner	六	practitioner		研纲	practitioner
+praise	四	praise		研纲	praise
+pray	四	pray	prayer	研纲	pray,prayer
+preach	四	preach	preacher	研纲	preach
+precaution	四	precaution	precautionary	研纲	precaution
+precede	六	precede	preceding,precedent	研纲	precede,preceding,precedent
+precious	四	precious		研纲	precious
+precise	四	precise	precision,precisely	研纲	precise,precision
+preclude				研纲	preclude
+predator	六	predator	predatory		
+predecessor	六	predecessor		研纲	predecessor
+predict	四	predict	prediction,predictable	研纲	predict
+predominate	六	predominate	predominance,predominant	研纲	predominant
+preface	四	preface		研纲	preface
+prefer	四	prefer	preferable,preference,preferential	研纲	prefer,preferable,preference
+pregnant	四	pregnant	pregnancy	研纲	pregnant
+prejudice	四	prejudice		研纲	prejudice
+preliminary	四	preliminary		研纲	preliminary
+premature	六	premature			
+premier	四	premier		研纲	premier
+premise	六	premise		研纲	premise
+premium	六	premium		研纲	premium
+preoccupy	六	preoccupy	preoccupied		
+prepare	四	prepare	preparation,preparatory	研纲	prepare,preparation
+preposition	四	preposition		研纲	preposition
+prerequisite	六	prerequisite			
+prescribe	四	prescribe	prescription	研纲	prescribe,prescription
+present	四	present	presence,presentation,presently	研纲	present,presence,presently
+preserve	四	preserve	preservation,preservative	研纲	preserve
+preside	六	preside		研纲	preside
+president	四	president	presidency,presidential	研纲	president
+press	四	press	pressure,pressing	研纲	press,pressure
+prestige	六	prestige	prestigious	研纲	prestige
+presume	六	presume	presumption,presumably	研纲	presume,presumably
+pretend	四	pretend	pretense/-ce	研纲	pretend
+pretext	六	pretext		研纲	pretext
+pretty	四	pretty		研纲	pretty
+prevail	四	prevail	prevalence,prevalent	研纲	prevail,prevalent
+prevent	四	prevent	prevention,preventive	研纲	prevent
+preview	四	preview			
+previous	四	previous		研纲	previous
+prey	六	prey		研纲	prey
+price	四	price	priceless	研纲	price
+prick				研纲	prick
+pride	四	pride	proud	研纲	pride,proud
+priest	四	priest		研纲	priest
+primary	四	primary	primarily	研纲	primary
+prime	四	prime		研纲	prime
+primitive	四	primitive		研纲	primitive
+prince	四	prince	princess	研纲	prince,princess
+principal	四	principal		研纲	principal
+principle	四	principle		研纲	principle
+print	四	print	printer,printing	研纲	print
+prior	四	prior	priority	研纲	prior,priority
+prison	四	prison	prisoner	研纲	prison,prisoner
+private	四	private	privacy,privatize/-ise,privatization/-sation	研纲	private,privacy
+privilege	四	privilege	privileged	研纲	privilege
+prize	四	prize		研纲	prize
+probable	四	probable	probability,probably	研纲	probable,probability
+probe	六	probe		研纲	probe
+problem	四	problem	problematic	研纲	problem
+procedure	四	procedure		研纲	procedure
+proceed	四	proceed	proceeding(s)	研纲	proceed,proceeding
+process	四	process	processor	研纲	process
+procession	四	procession		研纲	procession
+proclaim	四	proclaim	proclamation	研纲	proclaim
+produce	四	produce	production,productive,productivity	研纲	produce,production,productive,productivity
+product	四	product		研纲	product
+profession	四	profession	professional	研纲	profession,professional
+professor	四	professor		研纲	professor
+proficient	四	proficient	proficiency	研纲	proficiency
+profile	六	profile		研纲	profile
+profit	四	profit	profitable	研纲	profit,profitable
+profound	四	profound		研纲	profound
+program	四	program(me)		研纲	program(me)
+progress	四	progress	progressive,progression	研纲	progress,progressive
+prohibit	四	prohibit	prohibition,prohibitive	研纲	prohibit
+project	四	project	projector,projection	研纲	project,projector
+prolong	六	prolong		研纲	prolong
+prominent	四	prominent	prominence	研纲	prominent
+promise	四	promise	promising	研纲	promise,promising
+promote	四	promote	promotion	研纲	promote
+prompt	四	prompt		研纲	prompt
+prone	六	prone		研纲	prone
+pronoun	四	pronoun		研纲	pronoun
+pronounce	四	pronounce	pronunciation	研纲	pronounce,pronunciation
+proof	四	proof		研纲	proof
+proofread	六	proofread			
+prop	六	prop			
+propaganda	六	propaganda		研纲	propaganda
+propagate	六	propagate	propagation		
+propel	六	propel	propeller	研纲	propel
+proper	四	proper	properly(高考)	研纲	proper
+property	四	property		研纲	property
+prophet				研纲	prophet
+proportion	四	proportion	proportional	研纲	proportion
+propose	四	propose	proposal,proposition	研纲	propose,proposal,proposition
+prose	四	prose		研纲	prose
+prosecute	六	prosecute	prosecution	研纲	prosecute
+prospect	四	prospect	prospective	研纲	prospect,prospective
+prosper	六	prosper	prosperity,prosperous	研纲	prosper,prosperity,prosperous
+protect	四	protect	protection,protective	研纲	protect
+protein	四	protein		研纲	protein
+protest	四	protest		研纲	protest
+protocol	六	protocol			
+prototype	六	prototype		研纲	prototype
+prove	四	prove		研纲	prove
+proverb	四	proverb	proverbial	研纲	proverb
+provide	四	provide	provision	研纲	provide,provision
+provided	四	provided		研纲	provided
+province	四	province	provincial	研纲	province
+provoke	四	provoke	provocation,provocative	研纲	provoke
+proximate	六	proximate	proximity		
+prudent				研纲	prudent
+psychiatry	六	psychiatry	psychiatric,psychiatrist	研纲	psychiatry
+psychology	四	psychology	psychological,psychologist	研纲	psychology
+pub	四	pub		研纲	pub
+public	四	public	publicize/-ise,publicity,publicly	研纲	public,publicity
+publish	四	publish	publication	研纲	publish,publication
+pudding	六	pudding			
+puff				研纲	puff
+pull	四	pull		研纲	pull
+pulse	四	pulse		研纲	pulse
+pump	四	pump		研纲	pump
+pumpkin	六	pumpkin			
+punch	四	punch		研纲	punch
+punctual	四	punctual	punctuality	研纲	punctual
+punish	四	punish	punishment	研纲	punish
+pupil	四	pupil		研纲	pupil
+puppet				研纲	puppet
+purchase	四	purchase		研纲	purchase
+pure	四	pure	purity,purify	研纲	pure,purify
+purple	四	purple		研纲	purple
+purpose	四	purpose	purposeful	研纲	purpose
+purse	四	purse		研纲	purse
+pursue	四	pursue	pursuit	研纲	pursue,pursuit
+push	四	push	pushy	研纲	push
+put	四	put		研纲	put
+puzzle	四	puzzle	puzzlement	研纲	puzzle
+pyramid	六	pyramid		研纲	pyramid
+quake	四	quake			
+qualify	四	qualify	qualification	研纲	qualify,qualification
+quality	四	quality	qualitative	研纲	quality,qualitative
+quantify	四	quantify	quantification	研纲	quantify
+quantity	四	quantity	quantitative	研纲	quantity,quantitative
+quarrel	四	quarrel	quarrelsome	研纲	quarrel
+quart	六	quart		研纲	quart
+quarter	四	quarter	quarterly	研纲	quarter
+quartz				研纲	quartz
+queen	四	queen		研纲	queen
+queer				研纲	queer
+quench				研纲	quench
+query	六	query			
+quest	六	quest		研纲	quest
+question	四	question	questionnaire	研纲	question,questionnaire
+queue	四	queue		研纲	queue
+quick	四	quick		研纲	quick
+quiet	四	quiet		研纲	quiet
+quilt				研纲	quilt
+quit	四	quit		研纲	quit
+quite	四	quite		研纲	quite
+quiver	六	quiver		研纲	quiver
+quiz	四	quiz		研纲	quiz
+quota	四	quota		研纲	quota
+quote	四	quote	quotation	研纲	quote
+rabbit	四	rabbit		研纲	rabbit
+race	四	race	racial,racism,racist	研纲	race,racial
+rack	四	rack		研纲	rack
+racket				研纲	racket
+radar	四	radar		研纲	radar
+radiate	六	radiate	radiation,radiator,radiant	研纲	radiate,radiant
+radical	四	radical		研纲	radical
+radio	四	radio		研纲	radio
+radioactive	六	radioactive	radioactivity	研纲	radioactive
+radius				研纲	radius
+rag	四	rag	ragged,raggedly	研纲	rag
+rage	四	rage	raging	研纲	rage
+raid	四	raid		研纲	raid
+rail	四	rail		研纲	rail
+railroad	四	railroad/railway		研纲	railroad/railway
+rain	四	rain	rainy	研纲	rain
+rainbow	四	rainbow		研纲	rainbow
+raincoat	四	raincoat			
+raise	四	raise		研纲	raise
+rake				研纲	rake
+rally	四	rally		研纲	rally
+ranch	六	ranch			
+random	六	random		研纲	random
+range	四	range		研纲	range
+rank	四	rank		研纲	rank
+rap	六	rap		研纲	rap
+rape	六	rape		研纲	rape
+rapid	四	rapid	rapidity	研纲	rapid
+rare	四	rare	rarely,rarity	研纲	rare,rarely
+rash	六	rash		研纲	rash
+rat	四	rat		研纲	rat
+rate	四	rate	rating	研纲	rate
+rather	四	rather		研纲	rather
+ratify	六	ratify	ratification		
+ratio	四	ratio		研纲	ratio
+ration	六	ration			
+rational	四	rational		研纲	rational
+rattle	六	rattle			
+raw	四	raw		研纲	raw
+ray	四	ray		研纲	ray
+razor				研纲	razor
+reach	四	reach		研纲	reach
+react	四	react	reaction,reactionary	研纲	react
+read	四	read	reading,reader	研纲	read,reading,reader
+ready	四	ready	readily	研纲	ready,readily
+real	四	real	really,reality	研纲	real,really,reality
+realistic	四	realistic	realism	研纲	realistic
+realize	四	realize/-ise	realization/-sation	研纲	realize/-ise
+realm	四	realm		研纲	realm
+reap	四	reap		研纲	reap
+rear	四	rear		研纲	rear
+reason	四	reason	reasonable	研纲	reason,reasonable
+reassure	六	reassure	reassurance	研纲	reassure
+rebel	四	rebel	rebellion,rebellious	研纲	rebel,rebellion
+recall	四	recall		研纲	recall
+recede	六	recede		研纲	recede
+receive	四	receive	receipt,recipient,receptive,receiver	研纲	receive,receipt,recipient
+recent	四	recent	recently	研纲	recent
+reception	四	reception	receptionist	研纲	reception
+recession	四	recession			
+recipe	六	recipe		研纲	recipe
+reciprocal	六	reciprocal		研纲	reciprocal
+recite	四	recite	recitation	研纲	recite
+reckless	六	reckless		研纲	reckless
+reckon	四	reckon		研纲	reckon
+reclaim				研纲	reclaim
+recognize	四	recognize/-ise	recognition	研纲	recognize/-ise,recognition
+recollect				研纲	recollect
+recommend	四	recommend	recommendation	研纲	recommend
+reconcile	六	reconcile	reconciliation,reconciliatory	研纲	reconcile
+record	四	record	recorder,recording	研纲	record
+recover	四	recover	recovery	研纲	recover,recovery
+recreation	四	recreation	recreational	研纲	recreation
+recruit	四	recruit	recruitment	研纲	recruit
+rectangle				研纲	rectangle
+rectify	六	rectify	rectification	研纲	rectify
+recur	六	recur	recurrence	研纲	recur
+recycle	四	recycle	recyclable	研纲	recycle
+red	四	red		研纲	red
+redeem				研纲	redeem
+reduce	四	reduce	reduction	研纲	reduce,reduction
+redundant	六	redundant	redundancy	研纲	redundant
+reed				研纲	reed
+reel	六	reel		研纲	reel
+refer	四	refer	reference/ref	研纲	refer,reference/ref
+referee	六	referee			
+referendum	六	referendum			
+refine	四	refine	refinery,refinement	研纲	refine
+reflect	四	reflect	reflection/-xion,reflective	研纲	reflect,reflection/-xion
+reform	四	reform	reformation,reformist	研纲	reform
+refrain	四	refrain		研纲	refrain
+refresh	四	refresh		研纲	refresh
+refreshment	四	refreshment			
+refrigerator	四	refrigerator/fridge	refrigeration	研纲	refrigerator/fridge
+refuge	六	refuge	refugee	研纲	refuge,refugee
+refund	六	refund		研纲	refund
+refuse	四	refuse	refusal	研纲	refuse,refusal
+refute	六	refute	refutation	研纲	refute
+regard	四	regard		研纲	regard
+regarding	四	regarding		研纲	regarding
+regardless	四	regardless		研纲	regardless
+regime	六	regime		研纲	regime
+regiment	六	regiment	regimental		
+region	四	region	regional	研纲	region
+register	四	register	registration,registrar	研纲	register
+regret	四	regret	regrettable,regretful	研纲	regret
+regular	四	regular	regularity	研纲	regular
+regulate	四	regulate	regulation,regulatory,regulator	研纲	regulate,regulation
+rehabilitate	六	rehabilitate	rehabilitation		
+rehearse	六	rehearse	rehearsal	研纲	rehearse
+reign	六	reign		研纲	reign
+rein	六	rein		研纲	rein
+reinforce	四	reinforce	reinforcement	研纲	reinforce
+reject	四	reject	rejection	研纲	reject
+rejoice	六	rejoice	rejoicing	研纲	rejoice
+relate	四	relate	relation,relationship	研纲	relate,relation,relationship
+relative	四	relative	relativity	研纲	relative,relativity
+relax	四	relax	relaxation	研纲	relax
+relay	四	relay		研纲	relay
+release	四	release		研纲	release
+relentless	六	relentless			
+relevant	四	relevant	relevance	研纲	relevant
+relic	六	relic			
+relieve	四	relieve	relief	研纲	relieve,relief
+religion	四	religion	religious	研纲	religion,religious
+relish	六	relish		研纲	relish
+reluctant	四	reluctant	reluctance	研纲	reluctant
+rely	四	rely	reliance,reliable	研纲	rely,reliance,reliable
+remain	四	remain	remainder,remains(研)	研纲	remain,remainder,remains
+remark	四	remark	remarkable	研纲	remark,remarkable
+remedy	四	remedy	remedial	研纲	remedy
+remember	四	remember	remembrance	研纲	remember
+remind	四	remind	reminder	研纲	remind
+reminiscent	六	reminiscent	reminiscence		
+remnant	六	remnant		研纲	remnant
+remote	四	remote		研纲	remote
+remove	四	remove	removal	研纲	remove,removal
+renaissance	六	renaissance		研纲	renaissance
+render	四	render	rendering	研纲	render
+renew	四	renew	renewal,renewable	研纲	renew
+renovate	四	renovate	renovation	研纲	renovate
+renown	六	renown	renowned		
+rent	四	rent	rental	研纲	rent
+repair	四	repair	reparable	研纲	repair
+repay	四	repay	repayment	研纲	repay
+repeat	四	repeat	repetition,repetitive,repeatedly	研纲	repeat,repetition,repeatedly
+repel	六	repel		研纲	repel
+repertoire	六	repertoire		研纲	repertoire
+replace	四	replace	replacement	研纲	replace
+reply	四	reply		研纲	reply
+report	四	report	reporter	研纲	report,reporter
+represent	四	represent	representation,representative	研纲	represent,representative
+repress	六	repress	repression,repressive	研纲	repression
+reproach	六	reproach		研纲	reproach
+reproduce	四	reproduce	reproduction,reproductive	研纲	reproduce
+reptile				研纲	reptile
+republic	四	republic	republican	研纲	republic,republican
+reputation	四	reputation		研纲	reputation
+repute	六	repute	reputable		
+request	四	request		研纲	request
+require	四	require	requirement	研纲	require,requirement
+rescue	四	rescue		研纲	rescue
+research	四	research	researcher	研纲	research
+resemble	四	resemble	resemblance	研纲	resemble,resemblance
+resent	四	resent	resentment	研纲	resent
+reserve	四	reserve	reservation,reserved	研纲	reserve,reservation
+reservoir	六	reservoir		研纲	reservoir
+reshuffle	六	reshuffle			
+reside	四	reside	residence,resident,residential	研纲	residence,resident
+resign	四	resign	resignation	研纲	resign
+resist	四	resist	resistance,resistant	研纲	resist,resistance,resistant
+resolve	四	resolve	resolution,resolute	研纲	resolve,resolution,resolute
+resort	四	resort		研纲	resort
+resource	四	resource	resourceful	研纲	resource
+respect	四	respect	respectable,respectful	研纲	respect
+respective	四	respective	respectively	研纲	respective
+respond	四	respond	response,responsive,respondent	研纲	respond,response
+responsible	四	responsible	responsibility	研纲	responsible,responsibility
+rest	四	rest	unrest	研纲	rest
+restaurant	四	restaurant		研纲	restaurant
+restless	六	restless		研纲	restless
+restore	四	restore	restoration	研纲	restore
+restrain	四	restrain	restraint	研纲	restrain,restraint
+restrict	四	restrict	restriction,restrictive	研纲	restrict
+result	四	result	resultant	研纲	result,resultant
+resume	四	resume	resumption	研纲	resume
+retail	四	retail	retailer	研纲	retail
+retain	四	retain	retention	研纲	retain,retention
+retaliate	六	retaliate	retaliation		
+retarded	六	retarded			
+retell	四	retell	retelling		
+retire	四	retire	retirement,retired	研纲	retire
+retort	六	retort		研纲	retort
+retreat	四	retreat		研纲	retreat
+retrieve	六	retrieve	retrieval	研纲	retrieve
+retrospect	六	retrospect	retrospective	研纲	retrospect
+return	四	return		研纲	return
+reunite	四	reunite	reunification,reunion		
+reveal	四	reveal	revelation	研纲	reveal,revelation
+revenge	六	revenge	revengeful	研纲	revenge
+revenue	四	revenue		研纲	revenue
+reverse	四	reverse	reversal,reversible	研纲	reverse
+review	四	review	reviewer	研纲	review
+revise	四	revise	revision	研纲	revise
+revive	六	revive	revival	研纲	revive
+revolt	六	revolt		研纲	revolt
+revolution	四	revolution	revolutionary	研纲	revolution,revolutionary
+revolve	四	revolve		研纲	revolve
+reward	四	reward	rewarding	研纲	reward
+rhetoric	六	rhetoric	rhetorical		
+rhythm	四	rhythm	rhythmic	研纲	rhythm
+rib	四	rib		研纲	rib
+ribbon	四	ribbon		研纲	ribbon
+rice	四	rice		研纲	rice
+rich	四	rich		研纲	rich
+rid	四	rid		研纲	rid
+riddle	四	riddle		研纲	riddle
+ride	四	ride	rider	研纲	ride
+ridge	六	ridge		研纲	ridge
+ridicule	四	ridicule	ridiculous	研纲	ridiculous
+rifle	四	rifle		研纲	rifle
+rig	六	rig			
+right	四	right		研纲	right
+rigid	六	rigid	rigidity	研纲	rigid
+rigor	六	rigo(u)r	rigorous	研纲	rigorous
+rim	六	rim		研纲	rim
+ring	四	ring		研纲	ring
+riot	四	riot	riotous	研纲	riot
+rip	四	rip		研纲	rip
+ripe	四	ripe	ripen	研纲	ripe
+rise	四	rise		研纲	rise
+risk	四	risk	risky	研纲	risk
+ritual	六	ritual		研纲	ritual
+rival	四	rival	rivalry	研纲	rival
+river	四	river		研纲	river
+road	四	road		研纲	road
+roar	四	roar	uproar	研纲	roar,uproar
+roast	四	roast		研纲	roast
+rob	四	rob	robbery	研纲	rob
+robe				研纲	robe
+robot	四	robot	robotic	研纲	robot
+robust	六	robust		研纲	robust
+rock	四	rock	rocky	研纲	rock
+rocket	四	rocket		研纲	rocket
+rod	四	rod		研纲	rod
+role	四	role		研纲	role
+roll	四	roll	roller	研纲	roll
+romance	四	romance	romantic	研纲	romance,romantic
+roof	四	roof		研纲	roof
+room	四	room		研纲	room
+root	四	root		研纲	root
+rope	四	rope		研纲	rope
+rose	四	rose	rosy	研纲	rose
+rot	六	rot	rotten	研纲	rot,rotten
+rotary				研纲	rotary
+rotate	六	rotate	rotation	研纲	rotate
+rough	四	rough	roughly	研纲	rough
+round	四	round		研纲	round
+roundabout				研纲	roundabout
+rouse	四	rouse		研纲	rouse
+route	四	route		研纲	route
+routine	四	routine		研纲	routine
+row	四	row		研纲	row
+royal	四	royal	royalty	研纲	royal,royalty
+rub	四	rub		研纲	rub
+rubber	四	rubber		研纲	rubber
+rubbish	四	rubbish		研纲	rubbish
+ruby				研纲	ruby
+rude	四	rude		研纲	rude
+rug	四	rug		研纲	rug
+ruin	四	ruin	ruinous	研纲	ruin
+rule	四	rule	ruler,ruling	研纲	rule,ruler
+rumor	四	rumo(u)r		研纲	rumo(u)r
+run	四	run	runner,running	研纲	run
+runway	四	runway			
+rural	四	rural		研纲	rural
+rush	四	rush		研纲	rush
+rust	六	rust	rusty	研纲	rust
+ruthless	六	ruthless		研纲	ruthless
+sack	四	sack		研纲	sack
+sacred	六	sacred		研纲	sacred
+sacrifice	四	sacrifice	sacrificial	研纲	sacrifice
+sad	四	sad	sadness,sadden	研纲	sad
+saddle	六	saddle		研纲	saddle
+safe	四	safe	safety	研纲	safe,safety
+safeguard	六	safeguard		研纲	safeguard
+sail	四	sail	sailing,sailor	研纲	sail,sailor
+saint	四	saint		研纲	saint
+sake	四	sake		研纲	sake
+salad	四	salad		研纲	salad
+salary	四	salary		研纲	salary
+sale	四	sale	salesgirl(高考)	研纲	sale
+salesman	四	salesman		研纲	salesman/(pl.salesmen)
+salient				研纲	salient
+salmon	六	salmon			
+salon	六	salon			
+salt	四	salt	salty	研纲	salt
+salute	六	salute	salutation	研纲	salute
+salvage	六	salvage			
+salvation	六	salvation		研纲	salvation
+same	四	same		研纲	same
+sample	四	sample		研纲	sample
+sanction	六	sanction		研纲	sanction
+sanctuary	六	sanctuary			
+sand	四	sand		研纲	sand
+sandwich	四	sandwich		研纲	sandwich
+sane				研纲	sane
+sanitation	六	sanitation	sanitary		
+sarcasm	六	sarcasm	sarcastic	研纲	sarcastic
+satellite	四	satellite		研纲	satellite
+satire	六	satire	satirical,satirist	研纲	satire
+satisfy	四	satisfy	satisfaction,satisfactory	研纲	satisfy,satisfaction,satisfactory
+saturate	六	saturate	saturation	研纲	saturate
+Saturday	四	Saturday		研纲	Saturday
+sauce	四	sauce	saucer(高考)	研纲	sauce,saucer
+sausage	四	sausage		研纲	sausage
+savage	六	savage		研纲	savage
+save	四	save	saving	研纲	save,saving
+saw				研纲	saw
+say	四	say	saying	研纲	say
+scale	四	scale		研纲	scale
+scan	四	scan	scanner	研纲	scan
+scandal	四	scandal	scandalous	研纲	scandal
+scar	四	scar		研纲	scar
+scarce	四	scarce	scarcity,scarcely	研纲	scarce,scarcely
+scare	四	scare	scary	研纲	scare
+scarf				研纲	scarf
+scatter	四	scatter		研纲	scatter
+scenario	六	scenario			
+scene	四	scene	scenery,scenic	研纲	scene,scenery
+scent	四	scent		研纲	scent
+schedule	四	schedule		研纲	schedule
+scheme	四	scheme		研纲	scheme
+scholar	四	scholar	scholarly,scholarship,scholastic	研纲	scholar,scholarship
+school	四	school	schooling,schoolbag(高考),schoolboy(高考),schoolgirl(高考),schoolmate(高考)	研纲	school
+science	四	science	scientific,scientist	研纲	science,scientific,scientist
+scissors	四	scissors		研纲	scissors
+scold	四	scold		研纲	scold
+scope	四	scope		研纲	scope
+score	四	score		研纲	score
+scorn	六	scorn	scornful	研纲	scorn
+scout	四	scout		研纲	scout
+scramble	六	scramble		研纲	scramble
+scrap	六	scrap		研纲	scrap
+scrape	六	scrape		研纲	scrape
+scratch	四	scratch		研纲	scratch
+scream	四	scream		研纲	scream
+screen	四	screen		研纲	screen
+screw	四	screw		研纲	screw
+script	四	script	scripture	研纲	script
+scrub	六	scrub			
+scrutiny	六	scrutiny	scrutinize/-ise	研纲	scrutiny
+sculpture	六	sculpture		研纲	sculpture
+sea	四	sea		研纲	sea
+seal	四	seal		研纲	seal
+seam				研纲	seam
+search	四	search		研纲	search
+seaside				研纲	seaside
+season	四	season	seasonal	研纲	season
+seat	四	seat		研纲	seat
+second	四	second		研纲	second
+secondary	四	secondary		研纲	secondary
+second-hand	四	second-hand			
+secret	四	secret	secrecy,secretive	研纲	secret
+secretary	四	secretary	secretarial	研纲	secretary
+section	四	section		研纲	section
+sector	四	sector		研纲	sector
+secular	六	secular			
+secure	四	secure	security	研纲	secure,security
+seduce	六	seduce	seduction,seductive		
+see	四	see		研纲	see
+seed	四	seed	seedling	研纲	seed
+seek	四	seek		研纲	seek
+seem	四	seem	seeming,seemingly	研纲	seem,seemingly
+segment	四	segment	segmental	研纲	segment
+segregate	六	segregate	segregation	研纲	segregate
+seize	四	seize	seizure	研纲	seize
+seldom	四	seldom		研纲	seldom
+select	四	select	selection,selective	研纲	select,selection
+self	四	self	selfish,selfless	研纲	self/(pl.selves),selfish
+sell	四	sell		研纲	sell
+semester	四	semester		研纲	semester
+seminar	四	seminar		研纲	seminar
+senate	四	senate	senator	研纲	senate,senator
+send	四	send		研纲	send
+senior	四	senior	seniority	研纲	senior
+sensation	六	sensation	sensational	研纲	sensation
+sense	四	sense	sensible,sensor	研纲	sense,sensible
+sensitive	四	sensitive	sensitivity	研纲	sensitive
+sentence	四	sentence		研纲	sentence
+sentiment	六	sentiment	sentimental	研纲	sentiment
+separate	四	separate	separation,separatist	研纲	separate
+September	四	September		研纲	September
+sequence	四	sequence	sequential	研纲	sequence
+sergeant	六	sergeant			
+serial	六	serial		研纲	serial
+series	四	series		研纲	series
+serious	四	serious		研纲	serious
+servant	四	servant		研纲	servant
+serve	四	serve	service,serving	研纲	serve,service
+session	四	session		研纲	session
+set	四	set		研纲	set
+setback	四	setback		研纲	setback
+setting	四	setting		研纲	setting
+settle	四	settle	settlement,settler(高考)	研纲	settle,settlement
+seven	四	seven	seventh(高考)	研纲	seven
+seventeen	四	seventeen	seventeenth(高考)		
+seventy	四	seventy	seventieth(高考)		
+several	四	several		研纲	several
+severe	四	severe	severity	研纲	severe
+sew	四	sew		研纲	sew
+sex	四	sex	sexy,sexual	研纲	sex
+shabby	六	shabby		研纲	shabby
+shade	四	shade	shady	研纲	shade
+shadow	四	shadow		研纲	shadow
+shaft	六	shaft		研纲	shaft
+shake	四	shake	shaky	研纲	shake
+shall	四	shall		研纲	shall
+shallow	四	shallow		研纲	shallow
+sham				研纲	sham
+shame	四	shame	shameful,shameless	研纲	shame
+shampoo				研纲	shampoo
+shape	四	shape		研纲	shape
+share	四	share		研纲	share
+shark	六	shark		研纲	shark
+sharp	四	sharp	sharpen,sharpener(高考)	研纲	sharp
+shatter	六	shatter		研纲	shatter
+shave	四	shave	shaver	研纲	shave
+she	四	she		研纲	she
+shear				研纲	shear
+shed	四	shed		研纲	shed
+sheep	四	sheep		研纲	sheep/(pl.sheep)
+sheer	四	sheer		研纲	sheer
+sheet	四	sheet		研纲	sheet
+shelf	四	shelf		研纲	shelf
+shell	四	shell		研纲	shell
+shelter	四	shelter		研纲	shelter
+shepherd	六	shepherd		研纲	shepherd
+shield	六	shield		研纲	shield
+shift	四	shift		研纲	shift
+shilling				研纲	shilling
+shine	四	shine	shiny	研纲	shine
+ship	四	ship	shipping,shipment	研纲	ship,shipment
+shipyard	六	shipyard			
+shirt	四	shirt	T-shirt	研纲	shirt
+shit	四	shit			
+shiver	四	shiver		研纲	shiver
+shock	四	shock		研纲	shock
+shoe	四	shoe		研纲	shoe
+shoot	四	shoot		研纲	shoot
+shop	四	shop	shopping	研纲	shop
+shopkeeper				研纲	shopkeeper
+shore	四	shore		研纲	shore
+short	四	short	shortage,shorts	研纲	short,shortage
+shortcoming	四	shortcoming		研纲	shortcoming
+shorthand	六	shorthand		研纲	shorthand
+shortly	四	shortly			
+shot	四	shot		研纲	shot
+should	四	should		研纲	should
+shoulder	四	shoulder		研纲	shoulder
+shout	四	shout		研纲	shout
+shove	六	shove		研纲	shove
+show	四	show	showy	研纲	show
+showcase	六	showcase			
+shower	四	shower		研纲	shower
+shred	六	shred			
+shrewd	六	shrewd		研纲	shrewd
+shrimp	四	shrimp			
+shrink	四	shrink		研纲	shrink
+shrub	六	shrub	shrubbery		
+shrug	四	shrug		研纲	shrug
+shut	四	shut		研纲	shut
+shutter				研纲	shutter
+shuttle	四	shuttle		研纲	shuttle
+shy	四	shy	shyness,shyly	研纲	shy
+sick	四	sick	sicken,sickness(高考)	研纲	sick
+side	四	side		研纲	side
+sideways	四	sideways		研纲	sideways
+siege	四	siege		研纲	siege
+sigh	四	sigh		研纲	sigh
+sight	四	sight		研纲	sight
+sightseeing	四	sightseeing		研纲	sightseeing
+sign	四	sign	signature	研纲	sign,signature
+signal	四	signal		研纲	signal
+significant	四	significant	significance	研纲	significant,significance
+signify	六	signify		研纲	signify
+silent	四	silent	silence	研纲	silent,silence
+silicon	四	silicon		研纲	silicon
+silk	四	silk	silky	研纲	silk
+silly				研纲	silly
+silver	四	silver	silvery	研纲	silver
+similar	四	similar	similarity	研纲	similar
+simple	四	simple	simplicity,simplify,simply	研纲	simple,simplicity,simplify,simply
+simulate	六	simulate	simulation	研纲	simulate
+simultaneous	六	simultaneous		研纲	simultaneous
+sin	四	sin		研纲	sin
+since	四	since		研纲	since
+sincere	四	sincere	sincerity,sincerely(高考)	研纲	sincere
+sing	四	sing	singer	研纲	sing
+single	四	single		研纲	single
+singular	四	singular	singularity	研纲	singular
+sinister	六	sinister			
+sink	四	sink		研纲	sink
+sip	四	sip		研纲	sip
+sir	四	sir		研纲	sir
+siren				研纲	siren
+sister	四	sister		研纲	sister
+sit	四	sit	sitting	研纲	sit
+site	四	site		研纲	site
+situate	四	situate	situated	研纲	situated
+situation	四	situation		研纲	situation
+six	四	six	sixth(高考)	研纲	six
+sixteen	四	sixteen	sixteenth(高考)		
+sixty	四	sixty	sixtieth(高考)		
+size	四	size	sizable	研纲	size
+skate	四	skate	skating	研纲	skate
+skeleton	四	skeleton		研纲	skeleton
+skeptical	六	skeptical/sceptical	skeptic/sceptic,skepticism/scepticism	研纲	skeptical/sceptical
+sketch	四	sketch	sketchy	研纲	sketch
+ski	四	ski	skiing	研纲	ski
+skill	四	skill	skil(l)ful,skilled	研纲	skill,skil(l)ful,skilled
+skim	六	skim		研纲	skim
+skin	四	skin	skinny	研纲	skin
+skip	四	skip		研纲	skip
+skirt	四	skirt		研纲	skirt
+skull	六	skull		研纲	skull
+sky	四	sky		研纲	sky
+skyline	四	skyline			
+skyscraper	四	skyscraper		研纲	skyscraper
+slack	六	slack		研纲	slack
+slam	六	slam		研纲	slam
+slap	四	slap		研纲	slap
+slash	六	slash			
+slaughter	六	slaughter		研纲	slaughter
+slave	四	slave	slavery	研纲	slave
+sleep	四	sleep	sleepy,sleepiness	研纲	sleep
+sleeve	四	sleeve		研纲	sleeve
+slender	四	slender		研纲	slender
+slice	四	slice		研纲	slice
+slide	四	slide		研纲	slide
+slight	四	slight	slightly	研纲	slight
+slim	四	slim		研纲	slim
+slip	四	slip	slippery,slipper	研纲	slip,slippery,slipper
+slit				研纲	slit
+slogan	四	slogan		研纲	slogan
+slope	四	slope		研纲	slope
+slot	六	slot		研纲	slot
+slow	四	slow		研纲	slow
+slum	六	slum		研纲	slum
+slump	六	slump			
+sly				研纲	sly
+small	四	small		研纲	small
+smart	四	smart		研纲	smart
+smartphone	四	smartphone			
+smash	四	smash		研纲	smash
+smell	四	smell	smelly	研纲	smell
+smile	四	smile		研纲	smile
+smog	四	smog	smoggy	研纲	smog
+smoke	四	smoke	smoky,smoker(高考)	研纲	smoke
+smooth	四	smooth		研纲	smooth
+smuggle	六	smuggle	smuggling,smuggler	研纲	smuggle
+snack	四	snack		研纲	snack
+snail	六	snail			
+snake	四	snake		研纲	snake
+snap	六	snap		研纲	snap
+snatch	六	snatch		研纲	snatch
+sneak	六	sneak		研纲	sneak
+sneeze				研纲	sneeze
+sniff	六	sniff		研纲	sniff
+snob	六	snob	snobbish	研纲	snobbish
+snow	四	snow	snowy	研纲	snow
+snowstorm				研纲	snowstorm
+so	四	so		研纲	so
+soak	四	soak		研纲	soak
+soap	四	soap		研纲	soap
+soar	四	soar		研纲	soar
+sob	六	sob		研纲	sob
+sober	六	sober/-re		研纲	sober
+so-called	四	so-called		研纲	so-called
+soccer	四	soccer		研纲	soccer
+socialism	四	socialism	socialist	研纲	socialism
+society	四	society	social,socialize/-ise,sociable	研纲	society,social,sociable
+sociology	四	sociology	sociologist	研纲	sociology
+sock	四	sock		研纲	sock
+socket	六	socket			
+soda	四	soda		研纲	soda
+sodium	六	sodium			
+sofa	四	sofa		研纲	sofa
+soft	四	soft	soften	研纲	soft
+software	四	software		研纲	software
+soil	四	soil		研纲	soil
+solar	四	solar		研纲	solar
+soldier	四	soldier		研纲	soldier
+sole	四	sole	solely	研纲	sole
+solemn	四	solemn	solemnity	研纲	solemn
+solicit	六	solicit	solicitor		
+solid	四	solid	solidity,solidify	研纲	solid
+solidarity	六	solidarity		研纲	solidarity
+solitary	六	solitary	solitude	研纲	solitary
+solo	六	solo		研纲	solo
+solve	四	solve	solution,solvent,soluble	研纲	solve,solution,soluble
+some	四	some		研纲	some
+somebody	四	somebody		研纲	somebody
+somehow	四	somehow		研纲	somehow
+someone	四	someone		研纲	someone
+something	四	something		研纲	something
+sometime	四	sometime		研纲	sometime
+sometimes	四	sometimes		研纲	sometimes
+somewhat	四	somewhat		研纲	somewhat
+somewhere	四	somewhere		研纲	somewhere
+son	四	son		研纲	son
+song	四	song		研纲	song
+soon	四	soon		研纲	soon
+soothe	六	soothe			
+sophisticated	四	sophisticated	sophistication	研纲	sophisticated
+sophomore				研纲	sophomore
+sore	四	sore		研纲	sore
+sorrow	四	sorrow	sorrowful	研纲	sorrow
+sorry	四	sorry		研纲	sorry
+sort	四	sort		研纲	sort
+soul	四	soul		研纲	soul
+sound	四	sound		研纲	sound
+soup	四	soup		研纲	soup
+sour	四	sour		研纲	sour
+source	四	source		研纲	source
+south	四	south	southern	研纲	south,southern
+southeast	四	southeast	southeastern	研纲	southeast
+southwest	四	southwest	southwestern	研纲	southwest
+souvenir	四	souvenir			
+sovereign	六	sovereign	sovereignty	研纲	sovereign
+sow	四	sow		研纲	sow
+space	四	space	spacious,spatial	研纲	space,spacious
+spaceship	四	spaceship/spacecraft		研纲	spaceship/spacecraft
+spade	四	spade		研纲	spade
+spaghetti	六	spaghetti			
+span	四	span		研纲	span
+spare	四	spare	sparingly	研纲	spare
+spark	四	spark		研纲	spark
+sparkle	四	sparkle		研纲	sparkle
+speak	四	speak	speaker,spoken(高考)	研纲	speak,speaker
+spear	六	spear		研纲	spear
+special	四	special	specialize/-ise,specialization/-sation,specialist	研纲	special,specialize/-ise,specialist
+specialty	六	specialty/speciality		研纲	specialty/speciality
+species	四	species		研纲	species
+specific	四	specific	specifically	研纲	specific
+specify	四	specify	specification	研纲	specify,specification
+specimen	四	specimen		研纲	specimen
+spectacle	六	spectacle	spectacular	研纲	spectacle,spectacular
+spectator	六	spectator		研纲	spectator
+spectrum	六	spectrum		研纲	spectrum
+speculate	四	speculate	speculation,speculative	研纲	speculate
+speech	四	speech	speechless	研纲	speech
+speed	四	speed	speedy,speeding	研纲	speed
+spell	四	spell	spelling	研纲	spell,spelling
+spend	四	spend	spending	研纲	spend
+sphere	四	sphere	spherical	研纲	sphere
+spice	六	spice	spicy	研纲	spicy
+spider	六	spider		研纲	spider
+spill	四	spill		研纲	spill
+spin	四	spin		研纲	spin
+spine	六	spine	spinal	研纲	spine
+spiral	六	spiral		研纲	spiral
+spirit	四	spirit	spiritual	研纲	spirit,spiritual
+spit	四	spit		研纲	spit
+spite	四	spite		研纲	spite
+splash	四	splash		研纲	splash
+splendid	四	splendid	splendo(u)r	研纲	splendid
+split	四	split		研纲	split
+spoil	四	spoil		研纲	spoil
+spokesman	四	spokesman/spokeswoman	spokesperson	研纲	spokesman/(pl.spokesmen)
+sponge	六	sponge	spongy	研纲	sponge
+sponsor	四	sponsor	sponsorship	研纲	sponsor
+spontaneous	四	spontaneous	spontaneity	研纲	spontaneous
+spoon	四	spoon	spoonful	研纲	spoon
+sport	四	sport		研纲	sport
+sportsman	四	sportsman/sportswoman		研纲	sportsman/(pl.sportsmen)
+spot	四	spot		研纲	spot
+spotlight	六	spotlight			
+spouse	四	spouse		研纲	spouse
+sprawl	六	sprawl			
+spray	四	spray		研纲	spray
+spread	四	spread		研纲	spread
+spring	四	spring		研纲	spring
+sprinkle	六	sprinkle		研纲	sprinkle
+sprout				研纲	sprout
+spur	四	spur		研纲	spur
+spy	四	spy		研纲	spy
+squad	六	squad			
+square	四	square		研纲	square
+squeeze	四	squeeze		研纲	squeeze
+squirrel				研纲	squirrel
+stab	六	stab		研纲	stab
+stable	四	stable	stability,stabilize/-ise	研纲	stable,stability
+stack	四	stack		研纲	stack
+stadium	四	stadium		研纲	stadium
+staff	四	staff		研纲	staff
+stage	四	stage		研纲	stage
+stagger	六	stagger		研纲	stagger
+stagnate	六	stagnate	stagnation,stagnant		
+stain	四	stain	stainless	研纲	stain
+stair	四	stair		研纲	stair
+staircase	四	staircase		研纲	staircase/stairway
+stake	四	stake		研纲	stake
+stale	四	stale		研纲	stale
+stalk	六	stalk		研纲	stalk
+stall	六	stall		研纲	stall
+stammer	六	stammer			
+stamp	四	stamp		研纲	stamp
+stance	六	stance			
+stand	四	stand		研纲	stand
+standard	四	standard	standardize/-ise,standardization/-sation	研纲	standard
+standby	六	standby			
+standpoint	四	standpoint		研纲	standpoint
+staple	六	staple	stapler	研纲	staple
+star	四	star	starry	研纲	star
+stare	四	stare		研纲	stare
+stark	六	stark			
+start	四	start	starter	研纲	start
+startle	四	startle		研纲	startle
+starve	四	starve	starvation	研纲	starve
+state	四	state	statement	研纲	state,statement
+statesman	四	statesman		研纲	statesman/(pl.statesmen)
+static	六	static		研纲	static(al)
+station	四	station	stationary	研纲	station,stationary
+stationery	六	stationery		研纲	stationery
+statistic	四	statistic	statistical,statistics(高考)	研纲	statistical,statistics
+statue	四	statue		研纲	statue
+status	四	status		研纲	status
+statute	六	statute	statutory	研纲	statute
+stay	四	stay		研纲	stay
+steady	四	steady	steadily	研纲	steady
+steak	四	steak		研纲	steak
+steal	四	steal		研纲	steal
+steam	四	steam	steamy,steamer	研纲	steam
+steel	四	steel		研纲	steel
+steep	四	steep		研纲	steep
+steer	四	steer		研纲	steer
+stem	四	stem		研纲	stem
+step	四	step		研纲	step
+stereo				研纲	stereo
+stereotype	六	stereotype		研纲	stereotype
+stern	六	stern		研纲	stern
+steward	六	steward	stewardess	研纲	steward
+stick	四	stick	sticky	研纲	stick
+stiff	四	stiff	stiffen	研纲	stiff
+stifle	六	stifle			
+stigma	六	stigma			
+still	四	still		研纲	still
+stimulate	四	stimulate	stimulation,stimulus,stimulant	研纲	stimulate
+sting	四	sting		研纲	sting
+stipulate	六	stipulate	stipulation		
+stir	四	stir		研纲	stir
+stitch	六	stitch		研纲	stitch
+stock	四	stock		研纲	stock
+stocking	四	stocking		研纲	stocking
+stomach	四	stomach		研纲	stomach
+stone	四	stone	stony	研纲	stone
+stool	四	stool		研纲	stool
+stoop	六	stoop		研纲	stoop
+stop	四	stop	stoppage	研纲	stop
+store	四	store	storage	研纲	store,storage
+storey	四	storey			
+storm	四	storm	stormy	研纲	storm
+story	四	story		研纲	story/storey
+stout	六	stout			
+stove	四	stove		研纲	stove
+straight	四	straight	straighten	研纲	straight
+straightforward	四	straightforward		研纲	straightforward
+strain	四	strain		研纲	strain
+strait	六	strait			
+strand	六	strand			
+strange	四	strange	stranger	研纲	strange,stranger
+strangle	六	strangle			
+strap	四	strap		研纲	strap
+strategy	四	strategy	strategic	研纲	strategy
+straw	四	straw		研纲	straw
+strawberry				研纲	strawberry
+stray	六	stray			
+streak	六	streak			
+stream	四	stream		研纲	stream
+streamline	六	streamline		研纲	streamline
+street	四	street		研纲	street
+strenuous				研纲	strenuous
+stress	四	stress	stressful	研纲	stress
+stretch	四	stretch		研纲	stretch
+strict	四	strict		研纲	strict
+stride	四	stride		研纲	stride
+strife				研纲	strife
+strike	四	strike	striking	研纲	strike,striking
+string	四	string		研纲	string
+strip	四	strip		研纲	strip
+stripe	四	stripe		研纲	stripe
+strive	四	strive		研纲	strive
+stroke	四	stroke		研纲	stroke
+stroll	六	stroll		研纲	stroll
+strong	四	strong	strength,strengthen	研纲	strong,strength,strengthen
+structure	四	structure	structural	研纲	structure
+struggle	四	struggle		研纲	struggle
+stubborn	六	stubborn		研纲	stubborn
+student	四	student		研纲	student
+studio	四	studio		研纲	studio
+study	四	study		研纲	study
+stuff	四	stuff	stuffy,stuffing	研纲	stuff
+stumble	六	stumble		研纲	stumble
+stump	六	stump			
+stun	六	stun	stunning	研纲	stun
+stupid	四	stupid	stupidity	研纲	stupid
+sturdy	六	sturdy		研纲	sturdy
+style	四	style	stylish	研纲	style
+subject	四	subject		研纲	subject
+subjective	四	subjective		研纲	subjective
+submarine	六	submarine		研纲	submarine
+submerge	六	submerge		研纲	submerge
+submit	四	submit	submission,submissive	研纲	submit
+subordinate	六	subordinate	subordination	研纲	subordinate
+subscribe	六	subscribe	subscription,subscriber	研纲	subscribe
+subsequent	四	subsequent		研纲	subsequent
+subsidy	六	subsidy	subsidize/-ise	研纲	subsidy
+subsistence	六	subsistence			
+substance	四	substance	substantial	研纲	substance,substantial
+substitute	四	substitute	substitution	研纲	substitute
+subtle	六	subtle	subtlety	研纲	subtle
+subtract	四	subtract	subtraction	研纲	subtract
+suburb	四	suburb	suburban	研纲	suburb
+subway	四	subway		研纲	subway
+succeed	四	succeed	successor,succession,successive	研纲	succeed,successor,succession,successive
+success	四	success	successful	研纲	success,successful
+such	四	such		研纲	such
+suck	四	suck		研纲	suck
+sudden	四	sudden	suddenly	研纲	sudden
+sue	六	sue		研纲	sue
+suffer	四	suffer	suffering	研纲	suffer
+suffice	六	suffice		研纲	suffice
+sufficient	四	sufficient		研纲	sufficient
+sugar	四	sugar		研纲	sugar
+suggest	四	suggest	suggestion,suggestive	研纲	suggest,suggestion
+suicide	六	suicide	suicidal	研纲	suicide
+suit	四	suit	suitable	研纲	suit,suitable
+suitcase	四	suitcase			
+suite	六	suite		研纲	suite
+sulfur	六	sulfur/sulphur		研纲	sulfur/sulphur
+sum	四	sum		研纲	sum
+summary	四	summary	summarize/-ise	研纲	summary,summarize/-ise
+summer	四	summer		研纲	summer
+summit	四	summit		研纲	summit
+summon	六	summon		研纲	summon
+sun	四	sun	sunny	研纲	sun
+Sunday	四	Sunday		研纲	Sunday
+sunlight	四	sunlight			
+sunrise	四	sunrise		研纲	sunrise
+sunset	四	sunset		研纲	sunset
+sunshine	四	sunshine		研纲	sunshine
+super	四	super		研纲	super
+superb	四	superb		研纲	superb
+superficial	四	superficial		研纲	superficial
+superfluous				研纲	superfluous
+superintendent	六	superintendent			
+superior	四	superior	superiority	研纲	superior,superiority
+supermarket	四	supermarket		研纲	supermarket
+supersonic				研纲	supersonic
+superstition	六	superstition	superstitious	研纲	superstition
+supervise	四	supervise	supervision,supervisor	研纲	supervise
+supper	四	supper		研纲	supper
+supplement	四	supplement	supplementary	研纲	supplement
+supply	四	supply	supplier	研纲	supply
+support	四	support	supportive,supporter	研纲	support
+suppose	四	suppose	supposition,supposedly	研纲	suppose
+suppress	六	suppress	suppression,suppressive	研纲	suppress
+supreme	四	supreme	supremacy	研纲	supreme
+sure	四	sure		研纲	sure
+surf	四	surf	surfing		
+surface	四	surface		研纲	surface
+surge	四	surge		研纲	surge
+surgery	四	surgery	surgical,surgeon	研纲	surgery,surgeon
+surname	四	surname		研纲	surname
+surpass	六	surpass		研纲	surpass
+surplus	四	surplus		研纲	surplus
+surprise	四	surprise		研纲	surprise
+surrender	四	surrender		研纲	surrender
+surround	四	surround	surrounding(高考),surroundings	研纲	surround,surroundings
+surveillance	六	surveillance			
+survey	四	survey		研纲	survey
+survive	四	survive	survival,survivor	研纲	survive,survival
+susceptible	六	susceptible		研纲	susceptible
+suspect	四	suspect		研纲	suspect
+suspend	四	suspend	suspension,suspense	研纲	suspend
+suspicion	四	suspicion	suspicious	研纲	suspicion,suspicious
+sustain	四	sustain	sustainable,sustainability	研纲	sustain
+swallow	四	swallow		研纲	swallow
+swamp	六	swamp		研纲	swamp
+swan				研纲	swan
+swap	六	swap			
+swarm				研纲	swarm
+sway	四	sway		研纲	sway
+swear	四	swear		研纲	swear
+sweat	四	sweat	sweater	研纲	sweat,sweater
+sweep	四	sweep		研纲	sweep
+sweet	四	sweet		研纲	sweet
+swell	四	swell		研纲	swell
+swift	四	swift		研纲	swift
+swim	四	swim	swimming,swimmer	研纲	swim
+swing	四	swing		研纲	swing
+swipe	四	swipe			
+switch	四	switch		研纲	switch
+sword	四	sword		研纲	sword
+symbol	四	symbol	symbolic(al)	研纲	symbol
+symmetry	六	symmetry	symmetric(al)	研纲	symmetry
+sympathy	四	sympathy	sympathetic,sympathize/-ise	研纲	sympathy,sympathetic,sympathize/-ise
+symphony	六	symphony		研纲	symphony
+symposium	六	symposium		研纲	symposium
+symptom	四	symptom		研纲	symptom
+syndicate	六	syndicate			
+syndrome	六	syndrome		研纲	syndrome
+synonym	六	synonym			
+synthesis	六	synthesis	synthetic,synthesize/-ise	研纲	synthesis/(pl.syntheses),synthetic
+system	四	system	systematic,systematically	研纲	system,systematic(al)
+table	四	table		研纲	table
+tablet	四	tablet		研纲	tablet
+taboo	六	taboo		研纲	taboo
+tack	六	tack			
+tackle	四	tackle		研纲	tackle
+tact	六	tact	tactful		
+tactic	六	tactic		研纲	tactic(s)
+tag	四	tag		研纲	tag
+tail	四	tail		研纲	tail
+tailor	四	tailor		研纲	tailor
+take	四	take		研纲	take
+takeoff	四	takeoff			
+tale	四	tale		研纲	tale
+talent	四	talent	talented	研纲	talent
+talk	四	talk	talkative	研纲	talk
+tall	四	tall		研纲	tall
+tame	四	tame		研纲	tame
+tan	六	tan		研纲	tan
+tangible	四	tangible			
+tangle	六	tangle		研纲	tangle
+tank	四	tank		研纲	tank
+tanker	六	tanker		研纲	tanker
+tap	四	tap		研纲	tap
+tape	四	tape		研纲	tape
+tar				研纲	tar
+target	四	target		研纲	target
+tariff	六	tariff		研纲	tariff
+task	四	task		研纲	task
+taste	四	taste	tasty,tasteless(高考)	研纲	taste
+tax	四	tax	taxation	研纲	tax
+taxi	四	taxi		研纲	taxi
+tea	四	tea		研纲	tea
+teach	四	teach	teacher,teaching	研纲	teach,teacher
+team	四	team		研纲	team
+tear	四	tear		研纲	tear
+tease	六	tease		研纲	tease
+technical	四	technical	technician	研纲	technical,technician
+technique	四	technique		研纲	technique
+technology	四	technology/tech	technological	研纲	technology
+tedious	四	tedious		研纲	tedious
+teen	四	teen			
+teenager	四	teenager		研纲	teenager
+telecommunications	四	telecommunications			
+telegram				研纲	telegram
+telegraph				研纲	telegraph
+telephone	四	telephone/phone/tel.		研纲	telephone/phone/tel.
+telescope	四	telescope	telescopic	研纲	telescope
+television	四	television/TV		研纲	television/TV/T.V.
+tell	四	tell	telling	研纲	tell
+teller	四	teller			
+temper	四	temper		研纲	temper
+temperament	六	temperament		研纲	temperament
+temperature	四	temperature		研纲	temperature
+temple	四	temple		研纲	temple
+tempo	六	tempo		研纲	tempo
+temporal	六	temporal			
+temporary	四	temporary	temporarily	研纲	temporary
+tempt	六	tempt	temptation	研纲	tempt,temptation
+ten	四	ten	tenth(高考)	研纲	ten
+tenant	六	tenant		研纲	tenant
+tend	四	tend	tendency	研纲	tend,tendency
+tender	四	tender		研纲	tender
+tennis	四	tennis		研纲	tennis
+tense	四	tense	tension	研纲	tense,tension
+tent	四	tent		研纲	tent
+tentative	六	tentative		研纲	tentative
+tenure	六	tenure			
+term	四	term		研纲	term
+terminal	四	terminal		研纲	terminal
+terminate	六	terminate	termination	研纲	terminate
+terrace	六	terrace			
+terrain	六	terrain			
+terrible	四	terrible	terribly	研纲	terrible
+terrific	四	terrific		研纲	terrific
+territory	四	territory	territorial	研纲	territory
+terror	四	terror	terrify,terrorism,terrorist	研纲	terror,terrify
+tertiary	六	tertiary			
+test	四	test		研纲	test
+testify	六	testify		研纲	testify
+testimony	六	testimony		研纲	testimony
+text	四	text		研纲	text
+textbook	四	textbook		研纲	textbook
+textile	四	textile		研纲	textile
+texture	六	texture		研纲	texture
+than	四	than		研纲	than
+thank	四	thank	thankful	研纲	thank
+Thanksgiving	四	Thanksgiving		研纲	Thanksgiving
+that	四	that		研纲	that
+the	四	the		研纲	the
+theater	四	theater/-tre	theatrical	研纲	theater/-tre
+theft	四	theft		研纲	theft
+their	四	their		研纲	their
+theirs	四	theirs		研纲	theirs
+them	四	them		研纲	them
+theme	四	theme		研纲	theme
+themselves	四	themselves		研纲	themselves
+then	四	then		研纲	then
+theory	四	theory	theoretical	研纲	theory,theoretical
+therapy	四	therapy	therapist,therapeutic(al)	研纲	therapy
+there	四	there		研纲	there
+thereafter				研纲	thereafter
+thereby	四	thereby		研纲	thereby
+therefore	四	therefore		研纲	therefore
+thermal	六	thermal		研纲	thermal
+thermometer	四	thermometer		研纲	thermometer
+these	四	these		研纲	these
+thesis	四	thesis		研纲	thesis/(pl.theses)
+they	四	they		研纲	they
+thick	四	thick		研纲	thick
+thief	四	thief		研纲	thief
+thigh	六	thigh		研纲	thigh
+thin	四	thin		研纲	thin
+thing	四	thing		研纲	thing
+think	四	think	thinking	研纲	think
+third	四	third		研纲	third
+thirst	四	thirst	thirsty	研纲	thirst,thirsty
+thirteen	四	thirteen	thirteenth(高考)	研纲	thirteen
+thirty	四	thirty	thirtieth(高考)	研纲	thirty
+this	四	this		研纲	this
+thorn	六	thorn	thorny	研纲	thorn
+thorough	四	thorough		研纲	thorough
+those	四	those		研纲	those
+though	四	though		研纲	though
+thought	四	thought	thoughtful	研纲	thought,thoughtful
+thousand	四	thousand	thousandth(高考)	研纲	thousand
+thread	四	thread		研纲	thread
+threat	四	threat	threaten	研纲	threat,threaten
+three	四	three		研纲	three
+threshold	六	threshold		研纲	threshold
+thrift	六	thrift	thrifty	研纲	thrift
+thrill	六	thrill	thriller	研纲	thrill
+thrive	四	thrive		研纲	thrive
+throat	四	throat		研纲	throat
+throne	六	throne		研纲	throne
+through	四	through		研纲	through
+throughout	四	throughout		研纲	throughout
+throw	四	throw		研纲	throw
+thrust	四	thrust		研纲	thrust
+thumb	四	thumb		研纲	thumb
+thunder	四	thunder	thunderous	研纲	thunder
+Thursday	四	Thursday		研纲	Thursday
+thus	四	thus		研纲	thus
+tick	四	tick		研纲	tick
+ticket	四	ticket		研纲	ticket
+tickle	六	tickle			
+tide	四	tide	tidal	研纲	tide
+tidy	四	tidy		研纲	tidy
+tie	四	tie		研纲	tie
+tiger	四	tiger	tigress	研纲	tiger
+tight	四	tight	tighten	研纲	tight
+tile	六	tile		研纲	tile
+till	四	till		研纲	till
+tilt	六	tilt		研纲	tilt
+timber	四	timber		研纲	timber
+time	四	time	timely,timing	研纲	time,timely
+timid	六	timid		研纲	timid
+tin	四	tin		研纲	tin
+tiny	四	tiny		研纲	tiny
+tip	四	tip		研纲	tip
+tire	四	tire	tired,tiring,tireless,tiresome	研纲	tire,tired,tiresome
+tissue	四	tissue		研纲	tissue
+title	四	title		研纲	title
+to	四	to		研纲	to
+toast	四	toast		研纲	toast
+tobacco	四	tobacco		研纲	tobacco
+today	四	today		研纲	today
+toe	四	toe		研纲	toe
+together	四	together		研纲	together
+toil	六	toil		研纲	toil
+toilet	四	toilet		研纲	toilet
+token	四	token		研纲	token
+tolerate	四	tolerate	tolerance,tolerant,tolerable	研纲	tolerate,tolerance,tolerant
+toll	四	toll		研纲	toll
+tomato	四	tomato		研纲	tomato
+tomb				研纲	tomb
+tomorrow	四	tomorrow		研纲	tomorrow
+ton	四	ton	tonnage	研纲	ton
+tone	四	tone		研纲	tone
+tongue	四	tongue		研纲	tongue
+tonight	四	tonight		研纲	tonight
+too	四	too		研纲	too
+tool	四	tool		研纲	tool
+tooth	四	tooth		研纲	tooth/(pl.teeth)
+top	四	top		研纲	top
+topic	四	topic	topical	研纲	topic
+topple	六	topple			
+torch	四	torch		研纲	torch
+torment				研纲	torment
+tornado	六	tornado			
+torrent				研纲	torrent
+torture	四	torture		研纲	torture
+toss	四	toss		研纲	toss
+total	四	total		研纲	total
+touch	四	touch		研纲	touch
+tough	四	tough			
+tour	四	tour	tourism,tourist	研纲	tour,tourist
+tournament	六	tournament			
+tow	六	tow		研纲	tow
+toward	四	toward(s)		研纲	toward(s)
+towel	四	towel		研纲	towel
+tower	四	tower		研纲	tower
+town	四	town	township	研纲	town
+toxic	六	toxic		研纲	toxic
+toy	四	toy		研纲	toy
+trace	四	trace		研纲	trace
+track	四	track		研纲	track
+tract	六	tract			
+tractor	四	tractor		研纲	tractor
+trade	四	trade		研纲	trade
+trademark	四	trademark		研纲	trademark
+tradition	四	tradition	traditional	研纲	tradition
+traffic	四	traffic	trafficking	研纲	traffic
+tragedy	四	tragedy	tragic,tragically	研纲	tragedy,tragic
+trail	四	trail	trailer	研纲	trail
+train	四	train	trainer,trainee,training	研纲	train,training
+trait	六	trait		研纲	trait
+traitor				研纲	traitor
+tram	四	tram		研纲	tram
+tramp				研纲	tramp
+tranquil	六	tranquil	tranquility		
+transaction	四	transaction		研纲	transaction
+transcend	六	transcend		研纲	transcend
+transcript	四	transcript			
+transfer	四	transfer	transference	研纲	transfer
+transform	四	transform	transformation	研纲	transform
+transient	六	transient		研纲	transient
+transistor	六	transistor		研纲	transistor
+transit	四	transit		研纲	transit
+transition	六	transition	transitional		
+translate	四	translate	translation,translator	研纲	translate,translation
+transmit	四	transmit	transmission,transmitter	研纲	transmit,transmission
+transparent	四	transparent	transparency	研纲	transparent
+transplant	四	transplant	transplantation	研纲	transplant
+transport	四	transport	transportation	研纲	transport
+trap	四	trap		研纲	trap
+trash	四	trash		研纲	trash
+trauma	六	trauma	traumatic		
+travel	四	travel	travel(l)er	研纲	travel
+tray	四	tray		研纲	tray
+tread	六	tread			
+treason				研纲	treason
+treasure	四	treasure		研纲	treasure
+treasury	六	treasury	treasurer		
+treat	四	treat	treatment	研纲	treat
+treaty	四	treaty		研纲	treaty
+tree	四	tree		研纲	tree
+trek	六	trek			
+tremble	四	tremble		研纲	tremble
+tremendous	四	tremendous		研纲	tremendous
+trench	六	trench		研纲	trench
+trend	四	trend		研纲	trend
+trial	四	trial		研纲	trial
+triangle	四	triangle	triangular	研纲	triangle
+tribe	六	tribe	tribal	研纲	tribe
+tribune	六	tribune			
+tribute	六	tribute		研纲	tribute
+trick	四	trick	tricky	研纲	trick
+trickle	六	trickle			
+trifle	四	trifle		研纲	trifle
+trigger	四	trigger		研纲	trigger
+trillion	六	trillion			
+trim	六	trim		研纲	trim
+trip	四	trip		研纲	trip
+triple	四	triple		研纲	triple
+triumph	四	triumph	triumphant	研纲	triumph
+trivial	六	trivial		研纲	trivial
+trolley	四	trolley/trolly	trolleybus(高考)	研纲	trolley/trolly
+troop	四	troop		研纲	troop
+trophy	六	trophy			
+tropic	六	tropic	tropical	研纲	tropic,tropical
+trouble	四	trouble	troublesome	研纲	trouble,troublesome
+trousers	四	trousers		研纲	trousers
+truck	四	truck		研纲	truck
+true	四	true	truly	研纲	true
+trumpet	六	trumpet		研纲	trumpet
+trunk	四	trunk		研纲	trunk
+trust	四	trust	trustee	研纲	trust
+truth	四	truth	truthful	研纲	truth
+try	四	try	trial,trying	研纲	try
+tub	六	tub		研纲	tub
+tube	四	tube		研纲	tube
+tuck	六	tuck		研纲	tuck
+Tuesday	四	Tuesday		研纲	Tuesday
+tug	六	tug		研纲	tug
+tuition	四	tuition		研纲	tuition
+tumble	六	tumble		研纲	tumble
+tumor	四	tumo(u)r		研纲	tumo(u)r
+tune	四	tune		研纲	tune
+tunnel	四	tunnel		研纲	tunnel
+turbine				研纲	turbine
+turbulent	六	turbulent	turbulence	研纲	turbulent
+turkey	四	turkey		研纲	turkey
+turmoil	六	turmoil		研纲	turmoil
+turn	四	turn	turning(高考)	研纲	turn
+turnout	六	turnout			
+turnover	六	turnover		研纲	turnover
+turtle	六	turtle			
+tutor	四	tutor	tutorial	研纲	tutor
+twelve	四	twelve	twelfth	研纲	twelve
+twenty	四	twenty	twentieth,twenty-one(高考),twenty-two(高考),twenty-three(高考),twenty-first(高考),twenty-second(高考),twenty-third(高考)	研纲	twenty
+twice	四	twice		研纲	twice
+twin	四	twin		研纲	twin
+twinkle				研纲	twinkle
+twist	四	twist		研纲	twist
+two	四	two		研纲	two
+type	四	type	typist	研纲	type,typist
+typewriter	四	typewriter		研纲	typewriter
+typhoon				研纲	typhoon
+typical	四	typical		研纲	typical
+tyre	四	tyre/tire			
+ugly	四	ugly	ugliness	研纲	ugly
+ultimate	四	ultimate	ultimately	研纲	ultimate
+ultra	六	ultra			
+ultraviolet				研纲	ultraviolet
+umbrella	四	umbrella		研纲	umbrella
+unanimous	六	unanimous		研纲	unanimous
+uncertain	四	uncertain	uncertainty		
+uncle	四	uncle		研纲	uncle
+uncover	四	uncover		研纲	uncover
+under	四	under		研纲	under
+underdeveloped	四	underdeveloped			
+underestimate	四	underestimate		研纲	underestimate
+undergo	四	undergo		研纲	undergo
+undergraduate	四	undergraduate		研纲	undergraduate
+underground	四	underground		研纲	underground
+underlie	六	underlie	underlying	研纲	underlie,underlying
+underline	四	underline		研纲	underline
+undermine	四	undermine		研纲	undermine
+underneath	四	underneath		研纲	underneath
+understand	四	understand	understanding	研纲	understand,understanding
+undertake	四	undertake	undertaking	研纲	undertake
+underwear	四	underwear			
+undo	四	undo		研纲	undo
+undoubtedly	四	undoubtedly		研纲	undoubtedly
+uneasy	四	uneasy		研纲	uneasy
+unemployed	四	unemployed	unemployment	研纲	unemployment
+unfold	六	unfold		研纲	unfold
+uniform	四	uniform	uniformity	研纲	uniform
+unify	六	unify	unification	研纲	unify
+unilateral	六	unilateral			
+union	四	union		研纲	union
+unique	四	unique		研纲	unique
+unit	四	unit		研纲	unit
+unite	四	unite	unity	研纲	unite,unity
+universe	四	universe	universal	研纲	universe,universal
+university	四	university		研纲	university
+unleash	六	unleash			
+unless	四	unless		研纲	unless
+unload				研纲	unload
+unprecedented	六	unprecedented			
+until	四	until		研纲	until
+unveil	六	unveil			
+up	四	up		研纲	up
+update	四	update		研纲	update
+upgrade	四	upgrade		研纲	upgrade
+uphold	六	uphold		研纲	uphold
+upload	四	upload			
+upon	四	upon		研纲	upon
+upper	四	upper		研纲	upper
+upright	四	upright		研纲	upright
+uprising	六	uprising			
+upset	四	upset		研纲	upset
+upstairs	四	upstairs		研纲	upstairs
+up-to-date	四	up-to-date		研纲	up-to-date
+upward	四	upward	upwards	研纲	upward(s)
+uranium	六	uranium			
+urban	四	urban	urbanize/-ise,urbanization/-sation	研纲	urban
+urge	四	urge		研纲	urge
+urgent	四	urgent	urgency	研纲	urgent
+urine	六	urine	urinate		
+us	四	us		研纲	us
+usage	四	usage		研纲	usage
+use	四	use	user,useful,useless	研纲	use,useful
+used	四	used		研纲	used
+usual	四	usual	usually,unusual(高考)	研纲	usual,unusual
+utility	四	utility			
+utilize	四	utilize/-ise	utilization/-sation	研纲	utilize/-ise
+utmost	四	utmost		研纲	utmost
+utter	四	utter	utterly	研纲	utter
+vacant	四	vacant	vacancy	研纲	vacant
+vacation	四	vacation		研纲	vacation
+vaccine	六	vaccine	vaccinate,vaccination		
+vacuum	四	vacuum		研纲	vacuum
+vague	四	vague		研纲	vague
+vain	四	vain	vanity	研纲	vain,vanity
+valid	四	valid	validate,validity	研纲	valid
+valley	四	valley		研纲	valley
+value	四	value	valuable	研纲	value,valuable
+valve	六	valve		研纲	valve
+van	四	van		研纲	van
+vanish	四	vanish		研纲	vanish
+vapor	四	vapo(u)r		研纲	vapo(u)r
+various	四	various	variety	研纲	various,variety
+vary	四	vary	variation,variable,variant,invariable(研)	研纲	vary,variation,variable,invariable
+vase				研纲	vase
+vast	四	vast		研纲	vast
+vegetable	四	vegetable	vegetarian	研纲	vegetable,vegetarian
+vegetation	六	vegetation		研纲	vegetation
+vehicle	四	vehicle		研纲	vehicle
+veil	四	veil		研纲	veil
+vein	六	vein		研纲	vein
+velocity	六	velocity		研纲	velocity
+velvet	六	velvet		研纲	velvet
+vendor	四	vendor			
+vent	六	vent			
+ventilate	六	ventilate	ventilation	研纲	ventilate
+venture	四	venture		研纲	venture
+venue	六	venue			
+verb	四	verb	verbal	研纲	verb,verbal
+verdict	六	verdict		研纲	verdict
+verge	六	verge		研纲	verge
+verify	四	verify	verification	研纲	verify
+versatile	六	versatile		研纲	versatile
+verse	六	verse		研纲	verse
+version	四	version		研纲	version
+versus	四	versus		研纲	versus
+vertical	四	vertical		研纲	vertical
+very	四	very		研纲	very
+vessel	四	vessel		研纲	vessel
+vest	六	vest		研纲	vest
+veteran	四	veteran		研纲	veteran
+veto	四	veto		研纲	veto
+via	四	via		研纲	via
+viable	六	viable			
+vibrate	六	vibrate	vibration	研纲	vibrate
+vice	六	vice		研纲	vice
+vicinity	六	vicinity		研纲	vicinity
+vicious	六	vicious		研纲	vicious
+victim	四	victim	victimize	研纲	victim
+victory	四	victory	victorious	研纲	victory
+video	四	video		研纲	video
+view	四	view		研纲	view
+viewpoint	四	viewpoint		研纲	viewpoint
+vigor	四	vigor	vigorous	研纲	vigorous
+village	四	village	villager	研纲	village
+vinegar	四	vinegar		研纲	vinegar
+violate	四	violate	violation	研纲	violate
+violent	四	violent	violence	研纲	violent,violence
+violet				研纲	violet
+violin	四	violin	violinist	研纲	violin
+virgin	六	virgin	virginity	研纲	virgin
+virtual	四	virtual	virtually	研纲	virtual
+virtue	四	virtue	virtuous	研纲	virtue
+virus	四	virus		研纲	virus
+visa	四	visa		研纲	visa
+visible	四	visible	visibility	研纲	visible
+vision	四	vision	visionary	研纲	vision
+visit	四	visit	visitor	研纲	visit,visitor
+visual	四	visual	visualize/-ise	研纲	visual
+vital	四	vital	vitality	研纲	vital
+vitamin	四	vitamin		研纲	vitamin
+vivid	四	vivid		研纲	vivid
+vocabulary	四	vocabulary		研纲	vocabulary
+vocal	六	vocal		研纲	vocal
+vocation	四	vocation	vocational	研纲	vocation
+vogue	六	vogue			
+voice	四	voice		研纲	voice
+void	六	void		研纲	void
+volatile	六	volatile	volatility		
+volcano	四	volcano	volcanic	研纲	volcano
+volleyball	四	volleyball		研纲	volleyball
+volt	四	volt	voltage	研纲	volt,voltage
+volume	四	volume	voluminous	研纲	volume
+volunteer	四	volunteer	voluntary	研纲	volunteer,voluntary
+vote	四	vote	voter	研纲	vote
+voucher	六	voucher			
+vow	六	vow			
+vowel				研纲	vowel
+voyage	四	voyage		研纲	voyage
+vulgar	六	vulgar		研纲	vulgar
+vulnerable	四	vulnerable	vulnerability	研纲	vulnerable
+wage	四	wage		研纲	wage
+wagon	四	wag(g)on		研纲	wag(g)on
+waist	四	waist		研纲	waist
+wait	四	wait	waiter,waitress	研纲	wait,waiter,waitress
+waive	六	waive	waiver		
+wake	四	wake	waken	研纲	wake,waken
+walk	四	walk		研纲	walk
+wall	四	wall		研纲	wall
+wallet	四	wallet		研纲	wallet
+wander	四	wander		研纲	wander
+want	四	want		研纲	want
+war	四	war		研纲	war
+ward	四	ward		研纲	ward
+wardrobe	六	wardrobe		研纲	wardrobe
+ware	四	ware			
+warehouse	四	warehouse		研纲	warehouse
+warfare	四	warfare		研纲	warfare
+warm	四	warm	warmth	研纲	warm,warmth
+warn	四	warn	warning	研纲	warn
+warrant	六	warrant		研纲	warrant
+warranty	六	warranty			
+warrior	四	warrior			
+wary	四	wary			
+wash	四	wash	washing	研纲	wash
+waste	四	waste	wasteful	研纲	waste
+watch	四	watch	watchful	研纲	watch
+water	四	water		研纲	water
+waterfall				研纲	waterfall
+waterproof	四	waterproof		研纲	waterproof
+watertight	四	watertight			
+watt	六	watt		研纲	watt
+wave	四	wave	wavy	研纲	wave
+wax	四	wax		研纲	wax
+way	四	way		研纲	way
+we	四	we		研纲	we
+weak	四	weak	weaken,weakness	研纲	weak
+wealth	四	wealth	wealthy	研纲	wealth,wealthy
+weapon	四	weapon		研纲	weapon
+wear	四	wear	worn(高考)	研纲	wear
+weary	六	weary	weariness	研纲	weary
+weather	四	weather		研纲	weather
+weave	四	weave		研纲	weave
+web	四	web		研纲	web
+webcast	四	webcast			
+website	四	website			
+wed	四	wed	wedding	研纲	wedding
+wedge	六	wedge		研纲	wedge
+Wednesday	四	Wednesday		研纲	Wednesday
+weed	四	weed		研纲	weed
+week	四	week	weekly	研纲	week,weekly
+weekday	四	weekday		研纲	weekday
+weekend	四	weekend		研纲	weekend
+weep	四	weep		研纲	weep
+weigh	四	weigh	weight	研纲	weigh,weight
+weird	四	weird		研纲	weird
+welcome	四	welcome		研纲	welcome
+weld				研纲	weld
+welfare	四	welfare		研纲	welfare
+well	四	well		研纲	well
+well-being	四	well-being			
+well-known	四	well-known		研纲	well-known
+well-off	四	well-off			
+west	四	west	western,westerner	研纲	west,western
+wet	四	wet		研纲	wet
+whale	四	whale		研纲	whale
+wharf	六	wharf			
+what	四	what	whatever,whatsoever	研纲	what,whatever,whatsoever
+wheat	四	wheat		研纲	wheat
+wheel	四	wheel		研纲	wheel
+when	四	when	whenever	研纲	when,whenever
+where	四	where	wherever	研纲	where,wherever
+whereabouts	六	whereabouts			
+whereas	四	whereas		研纲	whereas
+whereby	六	whereby			
+whether	四	whether		研纲	whether
+which	四	which	whichever	研纲	which,whichever
+while	四	while/whilst		研纲	while/whilst
+whip	四	whip		研纲	whip
+whirl	六	whirl		研纲	whirl
+whiskey	四	whiskey/whisky		研纲	whiskey/whisky
+whisper	四	whisper		研纲	whisper
+whistle	四	whistle		研纲	whistle
+white	四	white		研纲	white
+who	四	who	whoever	研纲	who,whoever
+whole	四	whole	wholly	研纲	whole,wholly
+wholesale	六	wholesale			
+wholesome	六	wholesome		研纲	wholesome
+whom	四	whom		研纲	whom
+whose	四	whose		研纲	whose
+why	四	why		研纲	why
+wicked	六	wicked		研纲	wicked
+wide	四	wide	width,widen	研纲	wide,width
+widespread	四	widespread		研纲	widespread
+widow	四	widow	widower	研纲	widow
+wield	六	wield			
+wife	四	wife		研纲	wife
+wild	四	wild		研纲	wild
+wilderness	四	wilderness			
+wildlife	四	wildlife			
+will	四	will	willing,willingness,unwilling(高考)	研纲	will,willing
+willpower	四	willpower			
+win	四	win	winner	研纲	win
+wind	四	wind	windy	研纲	wind
+window	四	window		研纲	window
+wine	四	wine	winery	研纲	wine
+wing	四	wing		研纲	wing
+wink	六	wink		研纲	wink
+winter	四	winter		研纲	winter
+wipe	四	wipe		研纲	wipe
+wire	四	wire	wireless	研纲	wire
+wise	四	wise	wisdom	研纲	wise,wisdom
+wish	四	wish		研纲	wish
+wit	四	wit	witty	研纲	wit
+witch	六	witch		研纲	witch
+with	四	with		研纲	with
+withdraw	四	withdraw	withdrawal	研纲	withdraw
+wither	六	wither			
+withhold	六	withhold		研纲	withhold
+within	四	within		研纲	within
+without	四	without		研纲	without
+withstand	四	withstand		研纲	withstand
+witness	四	witness		研纲	witness
+wolf	四	wolf		研纲	wolf
+woman	四	woman		研纲	woman/(pl.women)
+wonder	四	wonder	wonderful	研纲	wonder,wonderful
+wood	四	wood	wooden	研纲	wood,wooden
+wool	四	wool	wool(l)en	研纲	wool
+word	四	word	wording	研纲	word
+work	四	work	worker	研纲	work
+workforce	四	workforce			
+workout	四	workout			
+workshop	四	workshop		研纲	workshop
+world	四	world		研纲	world
+worldwide	四	worldwide		研纲	worldwide
+worm	四	worm		研纲	worm
+worry	四	worry	worried	研纲	worry
+worse	四	worse		研纲	worse
+worship	四	worship		研纲	worship
+worst	四	worst		研纲	worst
+worth	四	worth	worthless	研纲	worth
+worthwhile	四	worthwhile		研纲	worthwhile
+worthy	四	worthy	worthiness	研纲	worthy
+would	四	would		研纲	would
+wound	四	wound		研纲	wound
+wrap	四	wrap	wrapping	研纲	wrap
+wreath				研纲	wreath
+wreck	四	wreck	wreckage	研纲	wreck
+wrench	六	wrench		研纲	wrench
+wrestle	六	wrestle	wrestling		
+wretched	六	wretched			
+wrinkle	四	wrinkle		研纲	wrinkle
+wrist	四	wrist		研纲	wrist
+write	四	write	writer,writing	研纲	write
+wrong	四	wrong		研纲	wrong
+X-ray	四	X-ray		研纲	X-ray
+yacht	六	yacht			
+yard	四	yard		研纲	yard
+yawn	六	yawn		研纲	yawn
+year	四	year	yearly	研纲	year,yearly
+yearn	六	yearn	yearning		
+yell	四	yell		研纲	yell
+yellow	四	yellow		研纲	yellow
+yes	四	yes	yeah	研纲	yes/yeah
+yesterday	四	yesterday		研纲	yesterday
+yet	四	yet		研纲	yet
+yield	四	yield		研纲	yield
+yoga	四	yoga			
+yoghurt	四	yoghurt			
+you	四	you		研纲	you
+young	四	young		研纲	young
+youngster	四	youngster		研纲	youngster
+your	四	your		研纲	your
+yours	四	yours		研纲	yours
+yourself	四	yourself	yourselves	研纲	yourself/(pl.yourselves)
+youth	四	youth	youthful	研纲	youth
+zeal	六	zeal	zealous	研纲	zeal
+zebra				研纲	zebra
+zero	四	zero		研纲	zero
+zigzag	六	zigzag		研纲	zigzag
+zinc				研纲	zinc
+zip	六	zip	zipper	研纲	zip
+zone	四	zone		研纲	zone
+zoo	四	zoo		研纲	zoo
+zoology	四	zoology	zoological		
+zoom	六	zoom		研纲	zoom

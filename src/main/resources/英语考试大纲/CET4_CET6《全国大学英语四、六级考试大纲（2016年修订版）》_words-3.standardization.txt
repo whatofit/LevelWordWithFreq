@@ -1035,7 +1035,7 @@
 六	concurrent	
 四	condemn	condemnation
 四	condense	condensation
-四	condition	conditional,conditioner,unconditional(高中)
+四	condition	conditional,conditioner,unconditional(高考)
 六	condolence	
 六	conducive	
 四	conduct	conductor,semiconductor(研)
@@ -1062,7 +1062,7 @@
 四	conquer	conqueror,conquest
 四	conscience	
 四	conscientious	
-四	conscious	consciousness,unconscious(高中)
+四	conscious	consciousness,unconscious(高考)
 六	consecutive	
 四	consensus	
 四	consent	
@@ -1626,9 +1626,9 @@
 四	eggplant	
 六	ego	egoism,egoist
 四	eight	
-四	eighteen	
+四	eighteen	eighteenth(高考)
 四	eighth	
-四	eighty	
+四	eighty	eightieth(高考)
 四	either	
 六	eject	ejection
 六	elaborate	elaboration
@@ -1645,7 +1645,7 @@
 四	elementary	
 四	elephant	
 四	elevate	elevation,elevator
-四	eleven	
+四	eleven	eleventh(高考)
 六	elicit	
 六	eligible	eligibility
 四	eliminate	elimination
@@ -1913,9 +1913,9 @@
 四	fiction	fictional
 四	field	
 四	fierce	
-四	fifteen	
+四	fifteen	fifteenth(高考)
 四	fifth	
-四	fifty	
+四	fifty	fiftieth(高考)
 四	fight	
 四	figure	figurative
 四	file	
@@ -1939,7 +1939,7 @@
 六	fiscal	
 四	fish	fishing,fisherman
 四	fist	
-四	fit	unfit(高中),fitting(研)
+四	fit	unfit(高考),fitting(研)
 四	five	
 四	fix	fixed,fixture,fixation
 四	flag	
@@ -2018,7 +2018,7 @@
 六	fortify	fortification
 六	fortnight	
 四	fortune	fortunate,unfortunate(高考),unfortunately(研)
-四	forty	
+四	forty	fortieth(高考)
 四	forum	
 四	forward	
 四	fossil	
@@ -2027,8 +2027,8 @@
 四	found	founding,founder
 四	foundation	
 四	fountain	
-四	four	
-四	fourteen	
+四	four	fourth(高考)
+四	fourteen	fourteenth(高考)
 四	fox	
 四	fraction	
 六	fracture	
@@ -2223,7 +2223,7 @@
 四	gun	
 四	gut	
 四	guy	
-四	gymnasium/gym(pl.gymnasia/gymnasiums)	gymnastics(高考)
+四	gymnasium/gym	gymnastics(高考)
 四	habit	habitual
 四	habitat	
 四	hack	hacker
@@ -2394,7 +2394,7 @@
 六	humid	humidity
 六	humiliate	humiliation
 四	humo(u)r	humo(u)rous
-四	hundred	
+四	hundred	hundredth(高考)
 四	hunger	hungry
 四	hunt	hunting,hunter
 六	hurdle	
@@ -3016,7 +3016,7 @@
 四	milk	milky
 四	mill	
 四	millimeter/-tre	
-四	million	millionaire
+四	million	millionaire,millionth(高考)
 四	mind	
 六	mindset	
 四	mine	mineral,mining
@@ -3173,8 +3173,8 @@
 四	nightmare	
 六	nil	
 四	nine	
-四	nineteen	
-四	ninety	
+四	nineteen	nineteenth(高考)
+四	ninety	ninetieth(高考)
 四	ninth	
 六	nitrogen	
 四	no	
@@ -3425,7 +3425,7 @@
 四	pass	
 四	passage	
 四	passenger	
-六	passerby/passer-by(pl.passers-by)/passer	
+六	passerby/passer-by/passer	
 四	passion	passionate
 四	passive	
 四	passport	
@@ -3863,7 +3863,7 @@
 四	reduce	reduction
 六	redundant	redundancy
 六	reel	
-四	refer	reference
+四	refer	reference/ref
 六	referee	
 六	referendum	
 四	refine	refinery,refinement
@@ -4065,7 +4065,7 @@
 四	sake	
 四	salad	
 四	salary	
-四	sale	salesgirl(高中)
+四	sale	salesgirl(高考)
 四	salesman	
 六	salmon	
 六	salon	
@@ -4173,9 +4173,9 @@
 四	setback	
 四	setting	
 四	settle	settlement,settler(高考)
-四	seven	
-四	seventeen	
-四	seventy	
+四	seven	seventh(高考)
+四	seventeen	seventeenth(高考)
+四	seventy	seventieth(高考)
 四	several	
 四	severe	severity
 四	sew	
@@ -4271,9 +4271,9 @@
 四	site	
 四	situate	situated
 四	situation	
-四	six	
-四	sixteen	
-四	sixty	
+四	six	sixth(高考)
+四	sixteen	sixteenth(高考)
+四	sixty	sixtieth(高考)
 四	size	sizable
 四	skate	skating
 四	skeleton	
@@ -4478,7 +4478,7 @@
 六	static	
 四	station	stationary
 六	stationery	
-四	statistic	statistical,statistics(高中)
+四	statistic	statistical,statistics(高考)
 四	statue	
 四	status	
 六	statute	statutory
@@ -4513,7 +4513,7 @@
 六	stoop	
 四	stop	stoppage
 四	store	storage
-四	stor(e)y	
+四	storey	
 四	storm	stormy
 四	story	
 六	stout	
@@ -4716,7 +4716,7 @@
 六	temporal	
 四	temporary	temporarily
 六	tempt	temptation
-四	ten	
+四	ten	tenth(高考)
 六	tenant	
 四	tend	tendency
 四	tender	
@@ -4773,15 +4773,15 @@
 四	think	thinking
 四	third	
 四	thirst	thirsty
-四	thirteen	
-四	thirty	
+四	thirteen	thirteenth(高考)
+四	thirty	thirtieth(高考)
 四	this	
 六	thorn	thorny
 四	thorough	
 四	those	
 四	though	
 四	thought	thoughtful
-四	thousand	
+四	thousand	thousandth(高考)
 四	thread	
 四	threat	threaten
 四	three	
@@ -4889,7 +4889,7 @@
 四	trap	
 四	trash	
 六	trauma	traumatic
-四	travel	traveler/traveller
+四	travel	travel(l)er
 四	tray	
 六	tread	
 四	treasure	
@@ -4949,7 +4949,7 @@
 六	turtle	
 四	tutor	tutorial
 四	twelve	twelfth
-四	twenty	twentieth,twenty-one(高考),twenty-first(高考)
+四	twenty	twentieth,twenty-one(高考),twenty-two(高考),twenty-three(高考),twenty-first(高考),twenty-second(高考),twenty-third(高考)
 四	twice	
 四	twin	
 四	twist	

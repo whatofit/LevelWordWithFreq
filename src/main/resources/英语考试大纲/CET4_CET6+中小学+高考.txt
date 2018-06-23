@@ -1,0 +1,5492 @@
+四	a/an		小	a/an		
+四	abandon		初	abandon		
+六	abbreviation					
+六	abide					
+四	able	ability,unable(高考)	初	able	高考	unable
+六	abnormal		高考	abnormal		
+四	aboard		高	aboard		
+四	abolish	abolition	高考	abolish		
+六	abort	abortion	高考	abortion		
+四	about		小	about		
+四	above		小	above		
+六	abreast					
+四	abroad		初	abroad		
+六	abrupt		高考	abrupt		
+四	absent	absence	高	absent	高	absence
+四	absolute		高	absolute		
+四	absorb	absorption	高	absorb		
+四	abstract		高	abstract		
+六	absurd	absurdity	高考	absurd		
+四	abundant	abundance	高考	abundant		
+四	abuse	abusive	高考	abuse		
+四	academy	academic,academician	高考	academy	高	academic
+四	accelerate	acceleration	高考	accelerate		
+四	accent		高考	accent		
+四	accept	acceptance,acceptable	初	accept		
+四	access	accessible	初	access	高考	accessible
+六	accessory					
+四	accident	accidental	初	accident		
+六	acclaim					
+四	accommodate	accommodation	高	accommodation		
+四	accompany		高	accompany		
+四	accomplish	accomplishment	高考	accomplish		
+四	accord					
+四	accordance					
+四	according(-to)		初	according(-to)		
+四	accordingly					
+四	account	accounting,accountant,accountancy	初	account	高	accountant
+四	accountable	accountability				
+四	accumulate	accumulation,accumulative	高考	accumulate		
+四	accurate	accuracy	初	accurate	高	accuracy
+四	accuse	accusation	高	accuse		
+四	accustom	accustomed	高考	accustomed		
+四	ace					
+四	ache		高	ache		
+四	achieve	achievement	初	achieve	高考	achievement
+四	acid	acidity	高	acid		
+四	acknowledge	acknowledg(e)ment	高	acknowledge		
+四	acquaint	acquaintance	高考	acquaintance		
+四	acquire	acquisition	高	acquire	高考	acquisition
+四	acre		高考	acre		
+四	across		小	across		
+四	act	action,acting	小	act	高考	action
+六	activate					
+四	active	activity,activist	高	active	初	activity
+四	actor	actress	高	actor	高	actress
+四	actual	actually	初	actual		
+六	acupuncture					
+四	acute		高考	acute		
+四	adapt	adaptation,adaptive	高	adapt	高考	adaptation
+四	add	addition,additional	初	add	高	addition
+四	addict	addiction,addictive,addicted(高考)	高考	addicted		
+四	address		高	address		
+四	adequate	adequacy,adequately	高	adequate		
+六	adhere	adherence				
+六	adjacent					
+四	adjective		高	adjective		
+四	adjust	adjustment	高	adjust	高考	adjustment
+四	administer/administrate	administration,administrative	初	administration		
+四	admire	admiration,admirable	初	admire	高考	admirable
+四	admit	admission,admittance,admittedly	初	admit	高	admission
+六	adolescent	adolescence	高考	adolescent	高考	adolescence
+四	adopt	adoption	初	adopt		
+六	adore	adorable	高考	adore		
+四	adult	adulthood	初	adult		
+四	advance	advancement,advanced	高	advance		
+四	advantage	advantageous,disadvantage(高考)	初	advantage	高	disadvantage
+六	advent					
+四	adventure	adventurer,adventurous	高	adventure		
+四	adverb		高	adverb		
+六	adversary					
+六	adverse	adversity				
+四	advertise	advertisement/ad,advertising	高考	advertise	初	advertisement/ad
+四	advice		初	advice		
+四	advise	advisor/-er,advisory,advisable	高	advise		
+四	advocate	advocacy	高	advocate		
+四	aerial					
+六	aesthetic	aesthetics				
+四	affair		初	affair		
+四	affect		初	affect		
+四	affection	affectionate	高考	affection		
+六	affiliate	affiliation				
+六	affirm	affirmation,affirmative				
+六	affix	affixation				
+四	affluent	affluence				
+四	afford	affordable,affordability	初	afford		
+六	afloat					
+四	afraid		小	afraid		
+四	after		小	after		
+六	aftermath					
+四	afternoon		小	afternoon		
+四	afterward(s)		初	afterward(s)		
+四	again		小	again		
+四	against		初	against		
+四	age	aged,ag(e)ing	初	age		
+四	agenda		高	agenda		
+四	agent	agency	初	agent	高	agency
+六	aggravate	aggravation				
+六	aggregate					
+四	aggressive	aggression	高	aggressive		
+六	agitate	agitation				
+四	ago		初	ago		
+六	agony					
+四	agree	agreement,agreeable	初	agree	高考	agreement
+四	agriculture	agricultural	高	agriculture	高考	agricultural
+四	ahead		初	ahead		
+四	aid		初	aid		
+六	aide					
+四	AIDS		高	AIDS		
+六	ail	ailment				
+四	aim		初	aim		
+四	air		小	air		
+六	airborne					
+	air-conditioned		高			
+四	air-conditioning	air-conditioner				
+四	aircraft		初	aircraft		
+四	airline		初	airline		
+	airmail		高			
+四	airplane/aeroplane		高	airplane/aeroplane		
+四	airport		初	airport		
+	airspace		高考			
+四	aisle					
+六	akin					
+四	alarm		初	alarm		
+四	album		高	album		
+四	alcohol	alcoholic	初	alcohol	高考	alcoholic
+六	ale					
+四	alert		高	alert		
+四	algebra		高考	algebra		
+六	alien	alienate,alienation				
+六	align	alignment				
+四	alike		高	alike		
+四	alive		初	alive		
+四	all		小	all		
+四	allege	allegation,alleged,allegedly				
+六	allergic	allergy	高考	allergic		
+六	alleviate	alleviation				
+四	alley		高考	alley		
+六	allocate	allocation	高考	allocate		
+六	allot	allotment				
+四	allow		初	allow		
+四	allowance		高	allowance		
+六	alloy					
+六	allude	allusion				
+六	allure	allurement				
+四	ally	alliance	高	alliance		
+六	almighty					
+四	almost		初	almost		
+六	aloft					
+四	alone		初	alone		
+四	along		小	along		
+四	alongside		高考	alongside		
+四	aloud		高	aloud		
+四	alphabet	alphabetic(al)	高	alphabet		
+四	already		初	already		
+四	also		初	also		
+四	alter	alteration	高	alter		
+六	alternate	alternation,alternately				
+四	alternative		初	alternative		
+四	although		高考	although		
+四	altitude		高考	altitude		
+四	altogether		高	altogether		
+四	alumin(i)um		高考	alumin(i)um		
+	alumnus		高			
+四	always		小	always		
+四	am					
+六	amass					
+四	amateur		高	amateur		
+四	amaze	amazing,amazement	初	amaze	高考	amazing
+四	ambassador	ambassadress(高考)	高考	ambassador	高考	ambassadress
+六	ambiguous	ambiguity	高考	ambiguous		
+四	ambition	ambitious	初	ambition	高	ambitious
+四	ambulance		高	ambulance		
+六	amend	amendment				
+六	amiable					
+四	amid(st)					
+六	ammunition					
+四	among(st)		初	among		
+四	amount		初	amount		
+四	ample		高考	ample		
+六	amplify	amplification,amplifier(研)				
+四	amuse	amusing,amusement	初	amuse	高考	amusement
+六	analog(ue)	analogous				
+六	analogy					
+四	analyze/-yse	analysis,analytic(al),analyst	初	analyze/-yse	高考	analysis
+四	ancestor	ancestry	高	ancestor		
+四	anchor	anchorage	高考	anchor		
+四	ancient		初	ancient		
+四	and		小	and		
+六	anecdote	anecdotal	高考	anecdote		
+四	anew					
+四	angel					
+四	angle		初	angle		
+四	angry	anger	小	angry	高	anger
+六	anguish					
+四	animal		小	animal		
+六	animate	animated,animation				
+四	ankle		高	ankle		
+六	annex	annexation				
+四	anniversary		高	anniversary		
+四	announce	announcement	初	announce		
+四	annoy	annoyance	初	annoy		
+四	annual		高	annual		
+六	anonymous	anonymity				
+四	another		初	another		
+四	answer		小	answer		
+四	ant		高	ant		
+六	antagonism	antagonist,antagonistic,antagonistically				
+六	antenna					
+六	antibiotic					
+四	anticipate	anticipation				
+四	antique		高考	antique		
+六	antonym					
+四	anxious	anxiety	初	anxious	高考	anxiety
+四	any		小	any		
+四	anybody/=anyone		初	anybody/=anyone		
+	anymore		高			
+四	anything		初	anything		
+四	anyway/=anyhow		初	anyway/=anyhow		
+四	anywhere		初	anywhere		
+四	apart		高	apart		
+四	apartment/apt．		初	apartment		
+六	ape		高	ape		
+四	apology	apologize/-ise,apologetic	高	apology	初	apologize
+四	app					
+六	appal(l)	appalling				
+四	apparatus					
+四	apparent	apparently	高	apparent	初	apparently
+四	appeal	appealing	初	appeal		
+四	appear	appearance	初	appear	高	appearance
+六	appease	appeasement				
+六	appendix		高考	appendix		
+四	appetite		高	appetite		
+四	applaud	applause	高考	applaud	高	applause
+四	apple		小	apple		
+四	appliance					
+四	apply	application,applicant,applicable	初	apply	高	applicant
+四	appoint	appointment	初	appoint	高考	appointment
+六	appraise	appraisal				
+四	appreciate	appreciation,appreciative	初	appreciate	高考	appreciation
+六	apprentice					
+四	approach		初	approach		
+六	appropriate	appropriation	初	appropriate		
+四	approve	approval	初	approve	高	approval
+四	approximate	approximately,approximation	高	approximately		
+四	April		小	April/Apr.		
+六	apron		高考	apron		
+六	apt	aptly				
+四	aptitude					
+四	arbitrary	arbitrarily	高考	arbitrary		
+六	arbitrate	arbitration				
+六	arc					
+	arcade		高			
+六	arch		高考	arch		
+四	architect		初	architect		
+四	architecture		高	architecture		
+六	archive					
+六	ardent					
+四	area		初	area		
+六	arena					
+四	argue	argument,argumentation,argumentative,arguable	初	argue	高考	argument
+四	arise		高	arise		
+六	aristocrat	aristocratic,aristocracy				
+四	arithmetic		高	arithmetic		
+四	arm	armament	初	arm		
+	armchair		高考			
+六	armo(u)r					
+四	army		初	army		
+四	around		初	around		
+四	arouse	arousal	高	arouse		
+四	arrange	arrangement	初	arrange	高考	arrangement
+六	array					
+四	arrest		初	arrest		
+四	arrive	arrival	初	arrive	高	arrival
+六	arrogant	arrogance				
+四	arrow		高考	arrow		
+四	art	artist,artistic,artistically	小	art	高	artistic
+六	artery					
+四	article		初	article		
+六	articulate	articulation				
+六	artifact					
+四	artificial		初	artificial		
+六	artillery					
+四	as		初	as		
+六	ascend	ascendance				
+六	ascertain					
+六	ascribe					
+四	ash		高	ash		
+四	ashamed		初	ashamed		
+四	ashore					
+四	aside		初	aside		
+四	ask		小	ask		
+四	asleep		小	asleep		
+四	aspect		初	aspect		
+六	aspire	aspiration				
+	aspirin		高			
+四	ass					
+六	assassinate	assassination,assassin				
+六	assault					
+四	assemble	assembly	高	assemble		
+六	assert	assertion,assertive				
+四	assess	assessment	高	assess	高考	assessment
+四	asset					
+四	assign	assignment	高	assignment		
+六	assimilate	assimilation				
+四	assist	assistance,assistant	高考	assist	初	assistant
+四	associate	association	高考	associate	初	association
+六	assorted					
+六	assortment					
+四	assume	assumption	初	assume	高考	assumption
+四	assure	assurance	高	assure		
+四	astonish	astonishment	初	astonish		
+六	astray					
+四	astronaut		高	astronaut		
+四	astronomy	astronomer,astronomical	高考	astronomy	高考	astronomer
+六	asylum					
+四	at		小	at		
+四	athlete	athletic	高	athlete	高考	athletic
+六	atlas					
+四	atmosphere	atmospheric	初	atmosphere		
+四	atom	atomic	高考	atom	高	atomic
+四	atop					
+六	atrocity	atrocious				
+四	attach	attachment	初	attach		
+四	attack		初	attack		
+四	attain	attainment	高考	attain		
+四	attempt		初	attempt		
+四	attend	attendance,attendant	初	attend		
+四	attention	attentive	高	attention		
+四	attic					
+四	attitude		初	attitude		
+四	attorney					
+四	attract	attraction,attractive	高	attract	初	attractive
+四	attribute	attributable,attributive				
+六	auction	auctioneer	高	auction		
+四	audience		初	audience		
+四	audio					
+六	audit	auditing,auditor				
+四	auditorium		高	auditorium		
+六	augment	augmentation				
+四	August		小	August/Aug.		
+四	aunt	auntie	小	aunt		
+四	authentic	authenticity	高考	authentic		
+四	author		初	author		
+四	authority	authoritative	初	authority		
+四	authorize/-ise	authorization/-sation				
+四	auto(mobile)		高	auto		
+六	autobiography	autobiographic(al)				
+四	automate	automation,automatic,automatically	初	automatic		
+六	autonomous	autonomy	高考	autonomous		
+四	autumn		小	autumn		
+六	auxiliary					
+六	avail					
+四	available	availability	初	available		
+六	avenge					
+四	avenue		高考	avenue		
+四	average		初	average		
+六	avert	aversion				
+四	aviation					
+四	avoid	avoidance	初	avoid		
+四	await					
+四	awake		高	awake		
+四	award		初	award		
+四	aware	awareness	初	aware		
+四	away		小	away		
+四	awe					
+四	awesome		高考	awesome		
+四	awful		初	awful		
+四	awkward		高	awkward		
+四	ax(e)		高	ax(e)		
+四	axis					
+四	baby		小	baby		
+四	baby-boom	baby-boomer				
+四	bachelor		高考	bachelor		
+四	back		小	back		
+四	background		初	background		
+四	backup					
+四	backward	backwards	高	backward(s)		
+四	backyard					
+四	bacon		初	bacon		
+四	bacteria		高	bacteria		
+	bacterium		高考			
+四	bad		小	bad		
+四	badge					
+四	badly					
+四	badminton		高	badminton		
+六	baffle					
+四	bag		小	bag		
+四	baggage		高	baggage		
+四	bail					
+四	bait					
+四	bake	bakery	初	bake	高	bakery
+四	balance		初	balance		
+四	balcony		高	balcony		
+六	bald					
+四	ball		小	ball		
+四	ballet		高	ballet		
+四	balloon		高	balloon		
+四	ballot					
+四	bamboo		高	bamboo		
+四	ban		初	ban		
+四	banana		小	banana		
+四	band		初	band		
+四	bandage		高考	bandage		
+四	bang					
+四	bank	banking,banker	初	bank		
+四	banknote					
+四	bankrupt	bankruptcy				
+四	banner					
+四	banquet		高	banquet		
+四	bar		初	bar		
+四	barbecue/BBQ		高	barbecue(BBQ)		
+四	barber		高	barber		
+	barbershop		高考			
+四	bare	barely	高	bare		
+四	bargain		高	bargain		
+六	barge					
+四	bark		高	bark		
+六	barn					
+六	barometer					
+六	barracks					
+四	barrel		高	barrel		
+六	barren					
+四	barrier		高考	barrier		
+四	base		初	base		
+四	baseball		初	baseball		
+四	basement		高考	basement		
+四	basic	basically	高	basic		
+四	basin		高	basin		
+四	basis		高考	basis		
+四	basket		初	basket		
+四	basketball		小	basketball		
+六	bass					
+四	bat		小	bat		
+四	batch					
+四	bath		小	bath		
+四	bathe		高	bathe		
+四	bathroom		高考	bathroom		
+	bathtub		高考			
+四	battalion					
+六	batter					
+四	battery		高	battery		
+四	battle		初	battle		
+四	bay		高	bay		
+四	be		小	be(am,is,are,was,were,being,been)		
+四	beach		小	beach		
+六	bead		高	bead		
+六	beak					
+四	beam					
+四	bean		小	bean		
+	bean-curd		高考			
+四	bear	unbearable(高考)	小	bear	高考	unbearable
+四	beard		高考	beard		
+四	bearing					
+四	beast		高	beast		
+四	beat		初	beat		
+四	beauty	beautiful,beautify	高	beauty	小	beautiful
+四	because		小	because		
+六	beckon					
+四	become		小	become		
+四	bed	bedding	小	bed		
+	beddings		高考			
+	bedroom		高			
+四	bee		高	bee		
+四	beef		高	beef		
+四	beer		小	beer		
+六	beetle					
+四	before		小	before		
+四	beforehand		高	beforehand		
+四	beg	beggar	高	beg		
+四	begin	beginning	小	begin		
+四	behalf		高	behalf		
+四	behave	behavio(u)r,behavio(u)ral	初	behave	高	behavio(u)r
+四	behind		小	behind		
+四	being					
+四	belief		高	belief		
+四	believe	unbelievable(高考)	初	believe	高考	unbelievable
+四	bell		小	bell		
+四	belly		高考	belly		
+四	belong	belongings	初	belong		
+四	beloved					
+四	below		初	below		
+四	belt		初	belt		
+四	bench		高	bench		
+四	bend	bent(高考)	初	bend	高考	bent
+四	beneath		初	beneath		
+四	benefit	beneficial,beneficiary	初	benefit	高考	beneficial
+六	benevolent	benevolence				
+六	benign					
+四	berry		高	berry		
+六	beset					
+四	beside		小	beside		
+四	besides		初	besides		
+六	besiege					
+四	best					
+四	best-seller	best-selling				
+四	bet		初	bet		
+四	betray	betrayal	高考	betray		
+四	better					
+四	between		小	between		
+四	beverage					
+六	beware					
+六	bewilder	bewilderment				
+四	beyond		初	beyond		
+四	bias					
+	bib		高			
+四	Bible	Biblical/biblical	高	Bible		
+六	bibliography					
+四	bicycle/bike		小	bicycle/bike		
+四	bid		高考	bid		
+四	big		小	big		
+六	bilateral					
+四	bill		初	bill		
+四	billion	billionaire,billionth(高考)	高	billion	高考	billionth
+四	bin		高	bin		
+四	bind					
+	bingo		高考			
+六	binoculars					
+四	biochemistry	biochemical,biochemist	高考	biochemistry		
+四	biography	biographical,biographer	高考	biography		
+四	biology	biological,biologist	高	biology		
+四	biotechnology					
+四	bird		小	bird		
+四	birth	birthplace(高考)	高	birth	高考	birthplace
+四	birthday		小	birthday		
+四	biscuit		小	biscuit		
+六	bishop		高	bishop		
+四	bit		初	bit		
+四	bitch					
+四	bite		初	bite		
+四	bitter		初	bitter		
+六	bizarre					
+四	black		小	black		
+四	blackboard		高考	blackboard		
+六	blackmail					
+四	blade					
+四	blame		初	blame		
+四	blank		初	blank		
+四	blanket		高	blanket		
+四	blast					
+六	blaze					
+六	bleach					
+六	bleak					
+四	bleed		高	bleed		
+四	blend					
+四	bless	blessing	高	bless		
+四	blind		初	blind		
+六	blink					
+六	bloc					
+四	block		初	block		
+四	blog					
+四	blond(e)					
+四	blood	bloody	初	blood		
+四	bloom					
+四	blossom		高	blossom		
+四	blouse		高	blouse		
+四	blow		小	blow		
+四	blue		小	blue		
+四	blueprint					
+六	bluff					
+六	blunder					
+六	blunt					
+四	blur					
+六	blush					
+四	board		初	board		
+四	boast	boastful	高	boast		
+四	boat		小	boat		
+	bobby		小			
+四	body	bodily	小	body		
+四	boil	boiler	初	boil		
+四	bold		高	bold		
+六	bolster					
+四	bolt					
+四	bomb		初	bomb		
+四	bond	bondage	高考	bond		
+四	bone	bony	小	bone		
+四	bonus		高	bonus		
+四	book		小	book		
+	booklet		高			
+四	boom		高	boom		
+四	boost					
+四	boot		初	boot		
+四	booth		高考	booth		
+四	border		初	border		
+四	bore	boring,bored(高考)	初	bore	高考	bored
+四	born		高考	born		
+四	borrow		小	borrow		
+四	boss		初	boss		
+六	botany	botanical	高考	botany	高考	botanical
+四	both		小	both		
+四	bother		初	bother		
+四	bottle		小	bottle		
+四	bottom		初	bottom		
+四	bounce		高	bounce		
+四	bound		高	bound		
+四	boundary		高	boundary		
+六	bouquet					
+六	bout					
+四	bow		高	bow		
+四	bowel		高	bowel(s)		
+四	bowl	bowling(高考)	小	bowl	高考	bowling
+四	box		小	box		
+四	boxing		高	boxing		
+四	boy		小	boy		
+六	boycott		高考	boycott		
+六	brace					
+四	bracket					
+四	brag					
+四	brain		初	brain		
+四	brake		高考	brake		
+四	branch		初	branch		
+四	brand		高	brand		
+四	brand-new					
+四	brandy					
+四	brass		高	brass		
+四	brave	bravery	小	brave	高考	bravery
+六	breach					
+四	bread		小	bread		
+四	break	broken(高考)	小	break	高考	broken
+四	breakdown					
+四	breakfast		小	breakfast		
+四	breakthrough		高考	breakthrough		
+四	breast		高	breast		
+四	breath	breathless(高考)	初	breath	高考	breathless
+四	breathe		高	breathe		
+四	breed		高	breed		
+四	breeze		高	breeze		
+六	brew	brewery	高考	brewery		
+四	bribe	bribery				
+四	brick		初	brick		
+四	bride		高	bride		
+四	bridegroom		高	bridegroom		
+	bridesmaid		高			
+	bridesman		高			
+四	bridge		初	bridge		
+四	brief	briefing	初	brief		
+四	briefcase					
+六	brigade		高	brigade		
+四	bright	brighten	小	bright		
+四	brilliant	brilliance	初	brilliant		
+四	bring		初	bring		
+六	brink					
+六	brisk					
+四	broad	broaden,breadth	初	broad		
+四	broadcast		初	broadcast		
+四	brochure		高考	brochure		
+四	broke					
+四	broker					
+六	bronze					
+六	brood					
+四	broom		高考	broom		
+四	brother		小	brother		
+四	brow					
+四	brown		小	brown		
+四	browse	browser				
+六	bruise					
+四	brunch		高考	brunch		
+四	brush		小	brush		
+四	brutal	brutality				
+四	bubble		高	bubble		
+四	buck					
+四	bucket		高	bucket		
+四	buckle					
+四	bud					
+六	Buddhism	Buddhist	高考	Buddhism		
+四	buddy					
+四	budget	budgetary	初	budget		
+六	buffalo					
+六	buffer					
+四	buffet		高考	buffet		
+四	bug		高	bug		
+四	build	building,rebuild(高考)	初	build	高考	rebuild
+四	bulb		高	bulb		
+四	bulk	bulky				
+四	bull		高	bull		
+四	bullet		高	bullet		
+四	bulletin					
+四	bully					
+四	bump		高	bump		
+四	bumper					
+四	bunch		高	bunch		
+四	bundle					
+	bungalow		高考			
+四	burden		高	burden		
+四	bureau		高	bureau		
+六	bureaucrat	bureaucratic,bureaucracy	高考	bureaucratic		
+六	burglar	burglary	高考	burglar		
+四	burn		初	burn		
+四	burst		初	burst		
+四	bury	burial	高	bury		
+四	bus		小	bus		
+四	bush	bushy	高	bush		
+四	business		初	business		
+四	businessman		高考	businessman/woman		
+六	bust					
+四	busy		小	busy		
+四	but		小	but		
+四	butcher		高	butcher		
+六	butt					
+四	butter		小	butter		
+四	butterfly		小	butterfly		
+四	button		初	button		
+四	buy	buyer	小	buy		
+六	buzz					
+四	by		小	by		
+四	bypass					
+四	bystander					
+四	cab		高考	cab		
+四	cabbage		初	cabbage		
+四	cabin		高	cabin		
+四	cabinet		高	cabinet		
+四	cable		初	cable		
+四	cafe		高	cafe		
+四	cafeteria		高考	cafeteria		
+四	cage		高	cage		
+四	cake		小	cake		
+六	calcium					
+四	calculate	calculation,calculator,calculating	初	calculate	高	calculator
+四	calendar		高	calendar		
+四	calf					
+四	call		小	call		
+四	calling					
+四	calm		初	calm		
+四	calorie					
+四	camel		高	camel		
+四	camera		小	camera		
+四	camp		初	camp		
+四	campaign		初	campaign		
+四	campus					
+四	can		小	can		
+四	canal		高	canal		
+四	cancel	cancelation	初	cancel		
+四	cancer		高	cancer		
+四	candidate	candidacy	初	candidate		
+四	candle		小	candle		
+四	candy		高	candy		
+四	cane		高	cane		
+六	cannon					
+六	canoe					
+四	canteen		高	canteen		
+六	canvas					
+四	cap		小	cap		
+四	capable	capability	初	capable		
+四	capacity		初	capacity		
+六	cape					
+四	capital	capitalist,capitalism	初	capital		
+六	capsule		高考	capsule		
+四	captain		初	captain		
+六	caption		高考	caption		
+六	captive					
+四	capture		初	capture		
+四	car		小	car		
+六	caravan					
+六	carbohydrate					
+四	carbon		高考	carbon		
+四	card		小	card		
+四	cardboard					
+六	cardinal					
+四	care	careful,careless	高	care	高考	careless
+四	career		初	career		
+四	cargo		高	cargo		
+四	carpenter		高考	carpenter		
+四	carpet		初	carpet		
+四	carriage		高	carriage		
+四	carrier		高考	carrier		
+四	carrot		高	carrot		
+四	carry		初	carry		
+四	cart		高	cart		
+六	carton					
+四	cartoon	cartoonist	初	cartoon		
+六	carve	carving	高	carve		
+四	case		初	case		
+四	cash		初	cash		
+四	cashier					
+六	casino					
+	cassette		高			
+四	cast		初	cast		
+四	castle		初	castle		
+四	casual		初	casual		
+六	casualty		高	casualty		
+四	cat		小	cat		
+四	catalog(ue)		高	catalog(ue)		
+六	catastrophe	catastrophic	高考	catastrophe		
+四	catch		小	catch		
+四	category		高	category		
+四	cater		高考	cater		
+六	cathedral					
+六	Catholic		高考	Catholic		
+四	cattle		高	cattle		
+六	cauliflower					
+四	cause		初	cause		
+四	caution	cautious	高	caution	高考	cautious
+四	cave		初	cave		
+六	cavity					
+四	cease		高	cease		
+四	ceiling		初	ceiling		
+四	celebrate	celebration	初	celebrate	高考	celebration
+六	celebrity					
+四	cell		初	cell		
+四	cellar					
+四	cell-phone					
+四	Celsius/-cius					
+四	cement					
+六	cemetery					
+六	censor	censorship				
+六	census					
+四	cent		初	cent		
+四	center/-tre	central,centralize/-ise	初	center/-tre	高	central
+四	centigrade		高考	centigrade		
+四	centimeter/-tre		高	centimeter/-tre		
+四	century		初	century		
+六	ceramic					
+四	cereal					
+四	ceremony	ceremonial	初	ceremony		
+四	certain	certainly,certainty	初	certain	高	certainty
+四	certificate		高	certificate		
+六	certify	certification				
+四	chain		初	chain		
+四	chair		小	chair		
+四	chairman/chairperson		高	chairman/woman		
+	chairperson		高			
+四	chalk		小	chalk		
+四	challenge	challenging	初	challenge	高考	challenging
+六	chamber		高	chamber		
+四	champagne					
+四	champion	championship	高	champion	初	championship
+四	chance		初	chance		
+六	chancellor					
+四	change	changeable(高考)	初	change	高考	changeable
+四	channel		小	channel		
+六	chant		高考	chant		
+四	chaos	chaotic	高考	chaos		
+六	chapel					
+四	chapter		初	chapter		
+四	character	characteristic,characterize/-ise	初	character	高	characteristic
+四	charge		初	charge		
+四	charity	charitable	初	charity		
+四	charm	charming	高	charm		
+四	chart		初	chart		
+四	charter					
+四	chase		初	chase		
+四	chat		高	chat		
+四	cheap		小	cheap		
+四	cheat		高	cheat		
+四	check/cheque		初	check		
+	checklist		高			
+四	cheek		初	cheek		
+四	cheer	cheerful,cheers(高考)	初	cheer	高考	cheers
+四	cheese		初	cheese		
+四	chef		高考	chef		
+四	chemistry	chemical,chemist	初	chemistry	高	chemist
+四	cherish					
+四	chess		高	chess		
+四	chest		初	chest		
+四	chew		高考	chew		
+四	chicken		小	chicken		
+四	chief		初	chief		
+四	child	childish,childhood(高考)	小	child	高	childhood
+四	chill	chilly				
+四	chimney					
+四	chin		高	chin		
+四	china					
+四	chip		小	chip		
+四	chocolate		小	chocolate		
+四	choice		初	choice		
+六	choir		高考	choir		
+四	choke		高考	choke		
+四	cholesterol					
+四	choose	choosy	初	choose		
+四	chop					
+四	chopstick		高考	chopstick		
+六	chord					
+四	chore					
+四	chorus		高考	chorus		
+四	Christ	Christmas,Christian,Christianity	高	Christian		
+六	chronic	chronically				
+六	chronicle					
+六	chunk					
+四	church		初	church		
+四	cigar		高	cigar		
+四	cigaret(te)		初	cigaret(te)		
+四	cinema		小	cinema		
+四	circle	circular,semicircle(高考)	小	circle	高考	semicircle
+四	circuit		初	circuit		
+四	circulate	circulation	高考	circulate		
+四	circumstance		初	circumstance		
+四	circus		高考	circus		
+四	cite	citation				
+四	citizen	citizenship	初	citizen		
+四	city		小	city		
+六	civic					
+四	civil	civilize/-ise,civilization/-sation	高	civil	高	civilization
+四	civilian		高考	civilian		
+四	claim		初	claim		
+六	clamp					
+六	clan					
+四	clap		高	clap		
+四	clarity	clarify,clarification	高考	clarify		
+四	clash					
+六	clasp					
+四	class		小	class		
+四	classic	classical	高	classic	初	classical
+四	classify	classification,classified	高考	classify		
+四	classmate		高	classmate		
+四	classroom		高	classroom		
+四	clause		高	clause		
+四	claw		高考	claw		
+四	clay		高	clay		
+四	clean	cleaner(高考)	小	clean	高考	cleaner
+六	cleanse					
+四	clear	clearly	初	clear		
+六	clearance					
+四	clear-cut					
+六	clearing					
+六	clench					
+六	clergy					
+四	clerk	clerical	高	clerk		
+四	clever		小	clever		
+六	cliche					
+四	click		高	click		
+四	client		初	client		
+四	cliff					
+四	climate	climatic	初	climate		
+四	climax					
+四	climb		小	climb		
+四	cling					
+四	clinic	clinical	高	clinic		
+四	clip					
+六	cloak					
+四	clock		小	clock		
+四	clockwise					
+六	clog					
+四	clone		高	clone		
+四	close		小	close		
+六	closet		高	closet		
+四	cloth		高	cloth		
+四	clothe	clothing	高	clothing		
+四	clothes		小	clothes		
+四	cloud	cloudy	小	cloud	小	cloudy
+四	clown					
+四	club		初	club		
+四	clue		高	clue		
+四	clumsy		高	clumsy		
+六	cluster					
+六	clutch					
+四	coach		初	coach		
+四	coal		初	coal		
+六	coalition					
+四	coarse					
+四	coast	coastal	初	coast		
+四	coat		小	coat		
+六	cocaine					
+四	cock		高	cock		
+六	cockpit					
+六	cocktail					
+	cocoa		高考			
+六	coconut					
+四	code		初	code		
+六	coexist	coexistence				
+四	coffee		小	coffee		
+六	cognitive	cognition				
+四	coherent	coherence				
+四	cohesion	cohesive				
+四	coil					
+四	coin	coinage	初	coin		
+六	coincide	coincidence	高考	coincidence		
+	coke		高			
+四	cold		小	cold		
+四	collaborate	collaboration,collaborative				
+四	collapse		初	collapse		
+四	collar		高	collar		
+四	colleague		初	colleague		
+四	collect	collection,collective	初	collect	高考	collection
+四	college		初	college		
+六	collide	collision	高考	collision		
+四	colon	semi-colon				
+六	colonel					
+四	colony	colonial,colonialism,colonize/-ise				
+四	colo(u)r	colo(u)rful	小	colo(u)r		
+四	column	columnist	初	column		
+四	comb		高	comb		
+四	combat	combative				
+四	combine	combination	初	combine		
+四	come		小	come		
+四	comedy		高	comedy		
+六	comet					
+四	comfort	comfortable,uncomfortable(高考)	高	comfort	高考	uncomfortable
+六	comic		高	comic		
+四	comma					
+四	command	commander	初	command		
+六	commemorate	commemoration				
+四	commence	commencement				
+六	commend	commendation				
+四	comment	commentary,commentator	初	comment		
+四	commerce	commercial,commercialize/-ise	高	commerce	初	commercial
+四	commission		初	commission		
+四	commit	commitment	初	commit	高考	commitment
+四	committee		初	committee		
+四	commodity					
+四	common		初	common		
+四	commonplace					
+六	commonwealth					
+四	commune	communist,communism	高考	communism		
+四	communicate	communication,communicative	初	communicate	高考	communication
+四	community		初	community		
+四	commute	commuter				
+四	compact					
+四	companion	companionship	高	companion		
+四	company		初	company		
+四	compare	comparison,comparative,comparable	初	compare	高	comparison
+六	compartment					
+四	compass		高	compass		
+六	compassion	compassionate				
+四	compatible	compatibility				
+四	compel	compelling				
+四	compensate	compensation,compensatory	高考	compensate		
+四	compete	competition,competitive,competitor	高	compete	高	competitive
+四	competent	competence	高考	competence		
+六	compile	compilation				
+六	complacent	complacency				
+四	complain	complaint	初	complain	高	complaint
+六	complement	complementary				
+四	complete	completion	初	complete		
+四	complex	complexity	初	complex		
+六	complexion					
+四	complicate	complicated,complication	初	complicated		
+六	compliment	complimentary				
+四	comply	compliance				
+四	component		初	component		
+四	compose	composition,composer	高	compose	初	composition
+六	composite					
+四	compound		高	compound		
+四	comprehend	comprehension	高考	comprehension		
+四	comprehensive		高	comprehensive		
+六	compress	compression				
+四	comprise					
+四	compromise		高考	compromise		
+四	compulsory		高	compulsory		
+四	compute	computer,computerize/-ise,computation	小	computer		
+四	comrade					
+四	conceal	concealment	高	conceal		
+六	concede	concession				
+六	conceit	conceited				
+六	conceive	conception				
+四	concentrate	concentration	初	concentrate		
+四	concept	conceptual	高	concept		
+四	concern	concerned,concerning	初	concern		
+四	concert	concerted	初	concert		
+六	concise					
+四	conclude	conclusion,conclusive	高	conclude	初	conclusion
+四	concrete		初	concrete		
+六	concurrent					
+四	condemn	condemnation	高	condemn		
+四	condense	condensation				
+四	condition	conditional,conditioner,unconditional(高考)	初	condition	高考	unconditional
+六	condolence					
+六	conducive					
+四	conduct	conductor,semiconductor(研)	初	conduct	高考	conductor
+六	confederation	confederate				
+六	confer					
+四	conference		初	conference		
+四	confess	confession	高	confess		
+六	confide					
+四	confidence	confident,confidential	高	confidence	高考	confidential
+六	configuration					
+四	confine	confinement				
+四	confirm	confirmation	初	confirm		
+四	conflict		初	conflict		
+四	conform	conformity				
+四	confront	confrontation				
+四	Confucian	Confucianism				
+四	confuse	confusion	初	confuse		
+四	congratulate	congratulation,congratulatory	高	congratulate	初	congratulation
+六	congregate	congregation				
+四	congress	congressional	高	congress		
+四	conjunction					
+四	connect	connection/-xion	初	connect	高考	connection
+六	connotation					
+四	conquer	conqueror,conquest				
+四	conscience		高考	conscience		
+四	conscientious					
+四	conscious	consciousness,unconscious(高考)	初	conscious	高考	unconscious
+六	consecutive					
+四	consensus		高考	consensus		
+四	consent					
+四	consequence	consequent,consequently	初	consequence		
+四	conservative		高考	conservative		
+六	conserve	conservation	高考	conservation		
+四	consider	consideration,considering	初	consider	高考	consideration
+四	considerable					
+四	considerate		高考	considerate		
+四	consist		初	consist		
+四	consistent	consistency	高考	consistent		
+六	console	consolation				
+四	consolidate	consolidation				
+六	conspicuous					
+六	conspire	conspiracy				
+四	constant		初	constant		
+六	constituent	constituency				
+四	constitute					
+四	constitution	constitutional	高考	constitution		
+六	constrain	constraint				
+四	construct	construction	初	construct	高	construction
+六	consulate	consul				
+四	consult	consultation,consultative,consultant	初	consult	高	consultant
+四	consume	consumer,consumption	高考	consume	初	consumer
+四	contact		初	contact		
+六	contagious					
+四	contain	container,containment	初	contain	高考	container
+四	contaminate	contamination				
+六	contemplate	contemplation,contemplative				
+四	contemporary		高	contemporary		
+四	contempt	contemptible	高	contempt		
+四	contend	contention,contentious				
+四	content	contented	初	content		
+四	contest	contestant	初	contest		
+四	context	contextual	高	context		
+四	continent	continental	初	continent		
+六	contingent					
+四	continue	continuation,continual,continuous,continuity	初	continue	高	continuous
+四	contract	contractor,contraction	初	contract		
+四	contradict	contradiction,contradictory	高考	contradict	高考	contradictory
+四	contrary		高	contrary		
+四	contrast		初	contrast		
+四	contribute	contribution,contributor	初	contribute	高	contribution
+六	contrive					
+四	control		初	control		
+四	controversy	controversial	高考	controversial		
+六	convene					
+四	convenient	convenience	初	convenient	高考	convenience
+四	convention	conventional	初	convention	高考	conventional
+六	converge	convergence				
+四	converse	conversation,conversely(研)	初	conversation		
+四	convert	conversion,convertible	初	convert		
+四	convey	conveyance	高考	convey		
+六	convict	conviction				
+四	convince	convincing	初	convince		
+六	convoy					
+四	cook	cooker	小	cook	高考	cooker
+	cookery		高			
+四	cookie		高考	cookie		
+四	cool		小	cool		
+四	cooperate	cooperation,cooperative	高	cooperate		
+四	coordinate	coordination,coordinator				
+四	cop					
+四	cope		高	cope		
+四	copper		高	copper		
+四	copy		小	copy		
+四	copyright					
+六	coral					
+四	cord		高	cord		
+六	cordial	cordiality				
+四	core					
+六	cork					
+四	corn		小	corn		
+四	corner		初	corner		
+四	cornerstone					
+六	corporal					
+四	corporation	corporate	高	corporation		
+四	corps					
+六	corpse					
+四	correct	correction,corrective	小	correct	高考	correction
+六	correlate	correlation,correlative				
+四	correspond	correspondence,correspondent,corresponding	高考	correspond	高	correspondent
+四	corridor		高	corridor		
+六	corrode	corrosion				
+四	corrupt	corruption	高考	corrupt		
+六	cosmetic		初	cosmetic(s)		
+六	cosmopolitan					
+四	cosmos	cosmic	高	cosmic		
+四	cost	costly	初	cost		
+四	costume					
+四	cottage		初	cottage		
+四	cotton		初	cotton		
+四	couch		高	couch		
+四	cough		初	cough		
+四	could		高考	could		
+四	council	council(l)or	初	council		
+四	counsel	counsel(l)or				
+四	count		小	count		
+四	countdown					
+四	counter		初	counter		
+六	counteract	counteraction				
+六	counterfeit					
+四	counterpart					
+四	country		初	country		
+四	countryside		高	countryside		
+四	county		初	county		
+六	coup(d'état)					
+四	couple		初	couple		
+四	coupon					
+四	courage	courageous	初	courage		
+四	course		初	course		
+四	court		初	court		
+六	courtesy					
+四	courtyard		高考	courtyard		
+四	cousin		小	cousin		
+四	cover	coverage	初	cover		
+四	cow		小	cow		
+四	coward	cowardly,cowardice				
+四	cowboy					
+六	cozy/-sy		高考	cozy/-sy		
+四	crab					
+四	crack		初	crack		
+六	crackdown					
+四	cracker					
+六	cradle					
+四	craft		初	craft		
+六	cram					
+四	crane					
+四	crash		初	crash		
+六	crate					
+六	crave					
+四	crawl		高	crawl		
+	crayon		高考			
+四	crazy	craze	初	crazy		
+四	cream	creamy	初	cream		
+四	create	creation,creative,creator	初	create	高	creative
+四	creature		初	creature		
+六	credential					
+六	credible	credibility				
+四	credit	creditable	初	credit		
+四	creep					
+四	crew		初	crew		
+六	cricket		高	cricket		
+四	crime	criminal	初	crime	高	criminal
+六	cripple		高	cripple		
+四	crisis		初	crisis		
+六	crisp					
+四	criterion		高考	criterion		
+四	criticize/-ise	criticism,critic,critical	初	criticize	高	critical
+四	crocodile					
+四	crop		初	crop		
+四	cross	crossing	小	cross	高考	crossing
+	crossroads		高考			
+六	crouch					
+六	crow					
+四	crowd	crowded	初	crowd		
+四	crown		高	crown		
+四	crucial		高	crucial		
+六	crude					
+四	cruel	cruelty	初	cruel		
+四	cruise	cruiser				
+六	crumble					
+六	crunch					
+四	crush					
+六	crust					
+四	cry		小	cry		
+四	crystal		高	crystal		
+六	cub					
+四	cube	cubic	高考	cube	高考	cubic
+四	cucumber					
+四	cue					
+六	cuisine		高考	cuisine		
+六	culminate	culmination				
+六	cult					
+四	cultivate	cultivation	高	cultivate		
+四	culture	cultural	初	culture		
+六	cumulative					
+六	cunning					
+四	cup		小	cup		
+四	cupboard		初	cupboard		
+四	curb					
+四	cure	curable	初	cure		
+六	curfew					
+四	curious	curiosity	初	curious	高	curiosity
+四	curl		高	curl		
+四	currency		初	currency		
+四	current	currently	初	current		
+四	curriculum		高	curriculum		
+四	curse					
+六	curtail					
+四	curtain		初	curtain		
+四	curve		高	curve		
+四	cushion		初	cushion		
+六	custody					
+四	custom	customary	高	custom		
+四	customer		初	customer		
+四	customs		高考	customs		
+四	cut		小	cut		
+四	cute		高	cute		
+四	cyberspace					
+四	cycle	cycling,cyclist	初	cycle	高考	cyclist
+六	cylinder					
+六	cynical	cynicism				
+四	dad(dy)		小	dad(dy)		
+四	daily		初	daily		
+四	dairy		高	dairy		
+四	dam		高考	dam		
+四	damage		初	damage		
+四	damn		高	damn		
+四	damp	dampen	高	damp		
+四	dance		小	dance		
+四	danger	dangerous	高	danger	小	dangerous
+四	dare	daring	初	dare		
+四	dark	darkness,darken	小	dark	高考	darkness
+四	darling		高	darling		
+六	dart					
+四	dash		高	dash		
+四	data	datum	初	data		
+四	database		高考	database		
+四	date	dating	小	date		
+四	daughter		小	daughter		
+四	dawn		高	dawn		
+四	day	daily	小	day		
+四	daylight					
+六	dazzle					
+四	dead		高	dead		
+四	deadline		高考	deadline		
+六	deadlock					
+四	deadly					
+四	deaf		高	deaf		
+四	deal	dealer,dealing	初	deal		
+四	dean					
+四	dear		小	dear		
+四	death		初	death		
+四	debate		初	debate		
+六	debris					
+四	debt	debtor	初	debt		
+六	debut					
+四	decade		初	decade		
+四	decay					
+四	deceive	deceit,deception,deceptive	高	deceive		
+四	December		小	December/Dec.		
+四	decent					
+四	decide	decision,decisive	初	decide	高	decision
+六	decimal					
+四	deck		高	deck		
+四	declare	declaration,declarative	初	declare		
+四	decline		高	decline		
+	decode		高			
+四	decorate	decoration,decorative	初	decorate	高考	decoration
+四	decrease		高	decrease		
+六	decree					
+六	dedicate	dedication				
+六	deduce	deducible				
+六	deduct	deduction,deductive,deductible				
+四	deed		高	deed		
+四	deem					
+四	deep	deeply,depth	小	deep		
+四	deer		高	deer		
+六	default					
+四	defeat		初	defeat		
+四	defect	defective,defection				
+四	defend	defense/-ce,defensive,defendant	初	defend	高考	defense/-ce
+六	defer					
+四	deficient	deficiency				
+四	deficit					
+四	define	definition	高	define		
+四	definite	definitely	初	definite		
+	deforestation		高			
+四	defy	defiance,defiant				
+六	degenerate	degeneration				
+六	degrade	degradation				
+四	degree		初	degree		
+四	delay		初	delay		
+四	delegate	delegation				
+四	delete	deletion	高考	delete		
+四	deliberate	deliberation,deliberately(高考)	初	deliberate	高考	deliberately
+六	delicacy					
+四	delicate		高	delicate		
+四	delicious		高	delicious		
+四	delight	delightful,delighted(高考)	高	delight	高考	delighted
+四	deliver	delivery	初	deliver	高	delivery
+六	delude	delusion				
+四	demand	demanding	初	demand		
+四	democracy	democratic,democrat	高	democracy		
+六	demographic					
+四	demonstrate	demonstration/demo,demonstrative	初	demonstration		
+六	denote	denotation				
+六	denounce	denunciation				
+四	dense	density	高	dense		
+四	dent					
+四	dental					
+四	dentist		高	dentist		
+四	deny	denial	初	deny		
+四	depart	departure	高	depart	初	departure
+四	department		初	department(Dept.)		
+四	depend	dependent,dependence,dependable	初	depend	高	dependent
+六	depict	depiction				
+六	deplete	depletion				
+六	deplore					
+六	deploy	deployment				
+六	deport	deportation				
+四	deposit		初	deposit		
+六	depot					
+六	depreciate	depreciation				
+四	depress	depression	高	depress		
+四	deprive	deprivation				
+四	depth		初	depth		
+四	deputy					
+六	derail	derailment				
+六	deregulate	deregulation				
+四	derive	derivative,derivation				
+四	descend	descent,descendant				
+四	describe	description,descriptive	初	describe	高考	description
+四	desert	desertion	初	desert		
+四	deserve		初	deserve		
+四	design	designer	初	design		
+六	designate	designation				
+四	desire	desirable,desirability,desirous	初	desire		
+四	desk		小	desk		
+四	desktop		高	desktop		
+六	desolate					
+四	despair	desperate	初	desperate		
+四	despatch					
+六	despise					
+四	despite		高	despite		
+四	dessert		高考	dessert		
+四	destination		高	destination		
+六	destiny	destined				
+四	destroy	destruction,destructive	初	destroy	初	destruction
+六	detach	detached,detachment				
+四	detail	detailed	初	detail		
+六	detain	detention				
+四	detect	detection,detective,detector(研)	初	detective		
+六	deter	deterrent				
+六	detergent					
+四	deteriorate	deterioration				
+四	determine	determination,determined	高考	determine	初	determined
+六	detriment	detrimental				
+六	devastate	devastating,devastation				
+四	develop	development,developmental,developer	初	develop	高考	development
+六	deviate	deviation				
+四	device		初	device		
+四	devil					
+四	devise					
+四	devote	devotion	高	devote	高考	devotion
+六	devour					
+四	dew					
+四	diabetes					
+四	diagnose	diagnosis				
+四	diagram		高	diagram		
+四	dial		高	dial		
+四	dialect					
+四	dialog(ue)		小	dialog(ue)		
+四	diameter					
+四	diamond		高	diamond		
+四	diary		高	diary		
+四	dictate	dictation,dictator	高	dictation		
+四	dictionary		初	dictionary		
+四	die	dying	初	die		
+六	diesel					
+四	diet	dietary	初	diet		
+四	differ	difference,different	高考	differ	小	different
+六	differentiate	differentiation				
+四	difficult	difficulty	小	difficult	高	difficulty
+六	diffuse	diffusion				
+四	dig		小	dig		
+四	digest	digestion,digestive	高	digest		
+四	digit	digital	高考	digital		
+	digitize		高			
+四	dignity	dignify	高	dignity		
+四	dilemma		高考	dilemma		
+四	diligent	diligence	高	diligence		
+六	dilute	dilution				
+四	dim		高	dim		
+四	dime					
+四	dimension	dimensional	高考	dimension		
+六	diminish					
+四	dine	diner	高	dine		
+四	dinner		小	dinner		
+六	dinosaur		高考	dinosaur		
+四	dioxide		高考	dioxide		
+四	dip		高	dip		
+四	diploma		高	diploma		
+四	diplomat	diplomatic,diplomacy				
+四	direct	direction,director	高	direct	高考	director
+六	directory		高考	directory		
+四	dirt	dirty	高	dirt	小	dirty
+四	disable	disabled,disability	高考	disability		
+四	disagree	disagreement	高考	disagree	高考	disagreement
+四	disappear	disappearance	高	disappear		
+四	disappoint	disappointment,disappointing,disappointed(高考)	初	disappoint	高考	disappointed
+四	disapprove	disapproval				
+六	disarm	disarmament				
+四	disaster	disastrous	初	disaster		
+四	discard		高	discard		
+六	discern					
+四	discharge					
+四	discipline	disciplined,disciplinary	初	discipline		
+六	disclose	disclosure				
+四	disco					
+六	discord					
+四	discount		高	discount		
+四	discourage		高考	discourage		
+六	discourse					
+四	discover	discovery	初	discover	高考	discovery
+六	discreet					
+六	discrepancy					
+四	discriminate	discrimination,discriminatory	高考	discrimination		
+四	discuss	discussion	初	discuss	高考	discussion
+四	disease		初	disease		
+四	disguise					
+四	disgust	disgusting	高考	disgusting		
+四	dish		小	dish		
+四	disintegrate	disintegration				
+四	disk/disc		初	disk/disc		
+四	dislike		高考	dislike		
+六	dismantle					
+六	dismay					
+四	dismiss	dismissal	初	dismiss		
+四	disorder		高	disorder		
+六	dispatch/despatch					
+六	dispense					
+六	disperse					
+六	displace	displacement				
+四	display		初	display		
+四	dispose	disposal				
+六	disposition					
+四	dispute	disputable				
+六	disregard					
+四	disrupt	disruptive,disruption				
+六	dissent					
+六	dissertation					
+六	dissident					
+四	dissolve		高	dissolve		
+四	distance	distant	初	distance	高	distant
+六	distil(l)					
+四	distinct	distinction,distinctive	高考	distinction		
+四	distinguish	distinguishable	高	distinguish		
+六	distort	distortion				
+四	distract	distraction				
+四	distress	distressful				
+四	distribute	distribution,distributive	高考	distribute		
+四	district		初	district		
+四	disturb	disturbance,disturbing(高考)	初	disturb	高考	disturbing
+四	ditch					
+四	dive		高	dive		
+四	diverse	diversify,diversity	高考	diverse		
+六	divert	diversion				
+四	divide	division,divisive	初	divide	高	division
+六	dividend					
+六	divine					
+四	divorce		高	divorce		
+四	dizzy		高考	dizzy		
+四	do		小	do		
+四	dock					
+四	doctor/Dr	doctorate,doctoral	小	doctor/Dr		
+六	doctrine					
+四	document	documentary	初	document		
+六	dodge					
+四	dog		小	dog		
+六	dogma					
+六	dole					
+四	doll		小	doll		
+四	dollar		初	dollar		
+四	dolphin		高	dolphin		
+六	domain					
+六	dome					
+四	domestic		初	domestic		
+四	dominate	domination,dominance,dominant	初	dominate		
+四	donate	donation,donor	高考	donate	高	donor
+四	donkey		高	donkey		
+四	doom					
+四	door	doorway	小	door		
+四	dormitory/dorm		高	dormitory(dorm)		
+四	dose	dosage				
+四	dot		高	dot		
+四	double		初	double		
+四	doubt	doubtful,doubtless	初	doubt		
+六	dough					
+四	dove					
+四	down		小	down		
+六	downgrade					
+四	download		高考	download		
+四	downstairs		初	downstairs		
+四	downtown		高	downtown		
+四	downward	downwards	高	downward(s)		
+六	doze					
+四	dozen		初	dozen		
+四	draft		高	draft		
+四	drag		初	drag		
+四	dragon		高	dragon		
+四	drain	drainage				
+四	drama	dramatic,dramatically	初	drama	高	dramatic
+四	drastic	drastically				
+四	draw	drawing	小	draw	高	drawing
+六	drawback		高考	drawback		
+四	drawer		初	drawer		
+六	dread	dreadful	高	dread		
+四	dream	dreamy	初	dream		
+四	dress		小	dress		
+六	dressing					
+四	drift		高	drift		
+四	drill		高	drill		
+四	drink		小	drink		
+四	drip					
+四	drive	driver	小	drive	高考	driver
+四	drop		初	drop		
+四	dropout					
+四	drought					
+四	drown		高	drown		
+四	drug		初	drug		
+四	drum		小	drum		
+四	drunk	drunken,drunkard	高	drunk		
+四	dry	dryer	小	dry		
+四	dual					
+六	dub					
+六	dubious					
+四	duck		小	duck		
+四	due	duly	初	due		
+四	dull		初	dull		
+四	dumb					
+四	dump					
+	dumpling		高			
+六	duplicate	duplication				
+四	durable	durability				
+四	duration					
+四	during		初	during		
+四	dusk		高考	dusk		
+四	dust	dusty	初	dust	高考	dusty
+	dustbin		高			
+四	duty		初	duty		
+六	dwarf					
+六	dwell	dweller,dwelling	高	dwelling		
+四	dye		高	dye		
+四	dynamic	dynamics	高考	dynamic		
+四	dynasty		高考	dynasty		
+四	each		初	each		
+四	eager		初	eager		
+四	eagle		高考	eagle		
+四	ear		小	ear		
+四	early		小	early		
+四	earn	earnings	初	earn		
+四	earnest		高	earnest		
+四	earth		初	earth		
+四	earthquake		高	earthquake		
+四	ease		高	ease		
+四	east	eastern	小	east	高	eastern
+六	Easter		高考	Easter		
+四	easy	easily	小	easy		
+四	easy-going					
+四	eat		小	eat		
+六	eccentric					
+四	echo					
+六	eclipse					
+四	ecology	ecological	高考	ecology		
+四	economics	economist				
+四	economy	economic,economical	初	economy	高	economic
+六	ecosystem		高	ecosystem		
+四	edge		初	edge		
+六	edible					
+四	edit	editor,edition	高	edition		
+四	editorial					
+四	educate	education,educational,educator	高	educate	高考	educator
+四	effect	effective	初	effect	高	effective
+四	efficient	efficiency	初	efficient	高	efficiency
+四	effort		初	effort		
+四	egg		小	egg		
+四	eggplant		高考	eggplant		
+六	ego	egoism,egoist				
+四	eight		小	eight		
+四	eighteen	eighteenth(高考)	高考	eighteen	高考	eighteenth
+四	eighth		高考	eighth		
+四	eighty	eightieth(高考)	高考	eighty	高考	eightieth
+四	either		初	either		
+六	eject	ejection				
+六	elaborate	elaboration				
+六	elapse					
+六	elastic	elasticity				
+四	elbow					
+四	elder	elderly	高	elder	初	elderly
+四	elect	election,elective	初	elect		
+六	electoral	electorate				
+四	electricity	electric(al),electrician	高	electricity	初	electric(al)
+四	electron	electronic,electronically,electronics	初	electronic		
+四	elegant	elegance	高考	elegant		
+四	element		初	element		
+四	elementary					
+四	elephant		高	elephant		
+四	elevate	elevation,elevator	高	elevator		
+四	eleven	eleventh(高考)	小	eleven	高考	eleventh
+六	elicit					
+六	eligible	eligibility				
+四	eliminate	elimination				
+四	elite					
+六	eloquent	eloquence				
+四	else		初	else		
+四	elsewhere		初	elsewhere		
+四	email/e-mail		初	email/e-mail		
+六	emancipate	emancipation				
+六	embargo					
+六	embark					
+四	embarrass	embarrassment	高	embarrass		
+四	embassy		高考	embassy		
+六	embed					
+六	embody	embodiment				
+四	embrace					
+六	embroidery					
+四	emerge	emergence	初	emerge		
+四	emergency		初	emergency		
+六	emigrate	emigration,emigrant				
+六	eminent	eminence				
+四	emit	emission				
+四	emotion	emotional	初	emotion		
+四	emperor	empress	高考	emperor		
+四	emphasis	emphasize/-ise,emphatic	初	emphasis	高	emphasize
+四	empire		高	empire		
+六	empirical					
+四	employ	employment,employer,employee	初	employ	高	employee
+四	empty	emptiness	小	empty		
+六	emulate	emulation				
+四	enable		初	enable		
+六	enact	enactment				
+六	enclose	enclosure	高	enclose		
+四	encounter		高	encounter		
+四	encourage	encouragement,encouraging	初	encourage	高考	encouragement
+六	encyclop(a)edia					
+四	end	ending,endless	初	end	高考	endless
+四	endanger					
+六	endeavo(u)r					
+六	endorse	endorsement				
+六	endow	endowment				
+四	endure	endurance	高	endure		
+四	enemy		初	enemy		
+四	energy	energetic,energetically	初	energy	高	energetic
+四	enforce	enforcement				
+四	engage	engagement	初	engage		
+四	engine		初	engine		
+四	engineer	engineering	小	engineer	高	engineering
+四	enhance	enhancement	高	enhance		
+四	enjoy	enjoyable,enjoyment	小	enjoy	高	enjoyable
+四	enlarge		高考	enlarge		
+四	enlighten	enlightenment,enlightening				
+六	enlist					
+四	enormous		高	enormous		
+四	enough		初	enough		
+四	enquire	enquiry	高考	enquiry		
+四	enrich					
+四	enrol(l)	enrol(l)ment				
+六	ensue					
+四	ensure		初	ensure		
+六	entail					
+四	enter	entrance,entry	初	enter	初	entry
+四	enterprise	enterprising	初	enterprise		
+四	entertain	entertainment,entertaining	初	entertainment		
+四	enthusiasm	enthusiastic,enthusiastically,enthusiast	初	enthusiasm	高考	enthusiastic
+四	entire	entirety	初	entire		
+四	entitle		高	entitle		
+六	entity					
+四	entrepreneur	entrepreneurial				
+六	entrust					
+六	envelop					
+四	envelope		初	envelope		
+四	environment	environmental,environmentalist	初	environment		
+六	envisage					
+六	envoy					
+四	envy	envious	高	envy		
+六	epic					
+六	epidemic					
+四	episode					
+六	epoch					
+四	equal	equally,equality	初	equal	高考	equality
+六	equate	equation				
+六	equator					
+四	equip	equipment	高	equip	初	equipment
+六	equity	equitable				
+四	equivalent	equivalence	初	equivalent		
+四	era		高	era		
+六	eradicate	eradication				
+四	erase	eraser	高	erase	高考	eraser
+六	erect	erection				
+六	erode	erosion,erosive				
+四	err	error,erroneous	初	error		
+六	errand					
+六	erupt	eruption	高考	erupt		
+六	escalate	escalation,escalator	高	escalator		
+四	escape		初	escape		
+六	escort					
+四	especially		初	especially		
+四	essay	essayist	高	essay		
+四	essence	essential	初	essential		
+四	establish	establishment	初	establish		
+四	estate		初	estate		
+六	esteem					
+六	esthetic/aesthetic	esthetics/aesthetics				
+四	estimate	estimation	初	estimate		
+	etc.		高			
+四	eternal	eternity				
+四	ethic	ethics				
+四	ethnic					
+六	etiquette					
+四	euro					
+六	evacuate	evacuation				
+六	evade	evasive,evasion				
+四	evaluate	evaluation	高考	evaluate		
+六	evaporate	evaporation				
+四	eve		高	eve		
+四	even	evenly	初	even		
+四	evening		小	evening		
+四	event	eventful,eventually,eventual,eventuality	初	event	初	eventually
+四	ever		初	ever		
+四	every		小	every		
+四	everybody		高考	everybody		
+四	everyday		初	everyday		
+四	everyone		高考	everyone		
+四	everything		初	everything		
+四	everywhere		初	everywhere		
+四	evident	evidence	高考	evident	初	evidence
+四	evil		高	evil		
+六	evoke					
+四	evolve	evolution,evolutionary	高	evolution		
+四	exact		初	exact		
+四	exaggerate	exaggeration				
+	examination		高			
+四	examine	exam(ination),examiner,examinee	初	examine	高考	exam/examination
+四	example	exemplary,exemplify	初	example		
+四	exceed	exceedingly				
+四	excel					
+四	excellent	excellence	初	excellent		
+四	except		初	except		
+四	exception	exceptional	高	exception		
+六	excerpt					
+四	excess	excessive				
+四	exchange		初	exchange		
+四	excite	exciting,excitement	高	excite	初	exciting
+四	exclaim	exclamation,exclamatory				
+四	exclude	exclusion,exclusive	高	exclude		
+四	excursion					
+四	excuse		初	excuse		
+四	execute	execution,executive	高	execute		
+六	exempt	exemption				
+四	exercise		小	exercise		
+四	exert	exertion				
+四	exhaust	exhaustion,exhaustive	高	exhaust		
+四	exhibit	exhibition	初	exhibition		
+	exhilarate/exhilarating		高			
+四	exile					
+四	exist	existence,existent,existing	初	exist	高	existence
+四	exit		高	exit		
+六	exotic					
+四	expand	expansion,expansive	初	expand		
+四	expect	expectation,expectancy,unexpected(研)	初	expect	高考	expectation
+六	expedition					
+四	expel					
+四	expend	expenditure				
+四	expense	expensive	高	expense	初	expensive
+四	experience	experienced	初	experience		
+四	experiment	experimental	初	experiment		
+四	expert		初	expert		
+四	expertise					
+六	expire	expiration				
+四	explain	explanation,explanatory	初	explain	高	explanation
+四	explicit		高考	explicit		
+四	explode	explosion,explosive	高考	explode		
+四	exploit	exploitation				
+四	explore	exploration	初	explore		
+六	exponent					
+四	export	exportation	初	export		
+四	expose	exposure	高	expose	高	exposure
+六	exposition					
+四	express	expression,expressive	初	express	高	expression
+四	expressway					
+六	exquisite					
+四	extend	extension,extensive,extended	初	extend	高考	extension
+四	extent		初	extent		
+四	exterior					
+四	external		高	external		
+六	extinct	extinction				
+四	extinguish					
+四	extra		初	extra		
+六	extract	extraction				
+四	extraordinary		初	extraordinary		
+六	extravagant	extravagance				
+四	extreme	extremity	初	extreme		
+四	eye		小	eye		
+四	eyebrow					
+四	eyesight		高考	eyesight		
+四	fable		高	fable		
+四	fabric					
+六	fabricate	fabrication				
+六	fabulous					
+四	face	facial	小	face	高考	facial
+六	facet					
+四	facility	facilitate,facilitation	高	facility		
+四	fact	factual	初	fact		
+六	faction					
+四	factor		初	factor		
+四	factory		初	factory		
+四	faculty					
+四	fade		高	fade		
+四	fail	failure	初	fail	高	failure
+四	faint		高	faint		
+四	fair	fairly,unfair(高考)	初	fair	高考	unfair
+四	fairy					
+四	faith	faithful	初	faith		
+四	fake					
+四	fall		小	fall		
+四	false	falsehood	小	false		
+四	fame	famous	高	fame	初	famous
+四	familiar	familiarity,familiarize/-ise	初	familiar		
+四	family		小	family		
+四	famine					
+四	fan		小	fan		
+四	fancy		高考	fancy		
+四	fantasy	fantastic	高考	fantasy	高考	fantastic
+四	far		小	far		
+四	fare		初	fare		
+四	farewell		高	farewell		
+四	farm	farmer,farming	小	farm	高考	farmer
+四	farther		高	farther		
+四	fascinate	fascinating,fascination	初	fascinate/fascinating		
+六	fascist	fascism				
+四	fashion	fashionable	初	fashion	高	fashionable
+四	fast		小	fast		
+四	fasten		初	fasten		
+四	fat		小	fat		
+四	fatal	fatality	高	fatal		
+四	fate		高	fate		
+四	father	fatherly	小	father		
+四	fatigue					
+四	fault	faulty	初	fault		
+四	favo(u)r	favo(u)rable,favo(u)rite	初	favo(u)r	小	favo(u)rite
+四	fax		高	fax		
+四	fear	fearful	初	fear		
+四	feasible	feasibility				
+六	feast		高	feast		
+六	feat					
+四	feather		初	feather		
+四	feature		初	feature		
+四	February		小	February/Feb.		
+四	federal		高考	federal		
+四	federation					
+四	fee		初	fee		
+六	feeble					
+四	feed		小	feed		
+四	feedback					
+四	feel	feeling	小	feel	高	feeling
+四	fellow	fellowship	初	fellow		
+四	female		初	female		
+六	feminine	feminism,feminist				
+四	fence		初	fence		
+四	ferry		高考	ferry		
+四	fertile	fertility,fertilizer/-iser	高	fertilizer		
+四	festival		初	festival		
+四	fetch		初	fetch		
+四	fever	feverish	初	fever		
+四	few		初	few		
+四	fiber/-bre		高考	fiber/-bre		
+四	fiction	fictional	高	fiction		
+四	field		初	field		
+四	fierce		初	fierce		
+四	fifteen	fifteenth(高考)	高考	fifteen	高考	fifteenth
+四	fifth		高考	fifth		
+四	fifty	fiftieth(高考)	高考	fifty	高考	fiftieth
+四	fight		初	fight		
+四	figure	figurative	初	figure		
+四	file		初	file		
+四	fill	filling	初	fill		
+四	film		小	film		
+四	filter					
+四	final	finally,finalize/-ise	高	final	初	finally
+四	finance	financial	高	finance	初	financial
+四	find	finding	小	find		
+四	fine		小	fine		
+四	finger		小	finger		
+	fingernail		高考			
+四	fingerprint					
+四	finish		初	finish		
+六	finite					
+四	fire		小	fire		
+四	fireman					
+四	fireplace					
+	firework		高			
+四	fireworks		高考	fireworks		
+四	firm		初	firm		
+四	first	firstly	小	first		
+六	fiscal					
+四	fish	fishing,fisherman	小	fish	高考	fisherman
+四	fist		高考	fist		
+四	fit	unfit(高考),fitting(研)	初	fit	高考	unfit
+四	five		小	five		
+四	fix	fixed,fixture,fixation	初	fix		
+四	flag		小	flag		
+四	flame		高	flame		
+六	flank					
+六	flap					
+六	flare					
+四	flash		初	flash		
+	flashlight		高考			
+四	flat		初	flat		
+六	flatter	flattery				
+四	flavo(u)r		高	flavo(u)r		
+四	flaw	flawless				
+四	flee		高考	flee		
+四	fleet		高	fleet		
+四	flesh		高考	flesh		
+四	flexible	flexibility	高	flexible		
+六	fling					
+六	flip					
+六	flirt	flirtation				
+四	float		初	float		
+四	flock					
+四	flood		初	flood		
+四	floor		小	floor		
+四	flour		高	flour		
+四	flourish					
+四	flow		初	flow		
+四	flower		小	flower		
+	flu		高			
+四	fluctuate	fluctuation				
+四	fluent	fluency	高	fluent	高考	fluency
+四	fluid					
+六	flush					
+六	flutter					
+四	fly	flight	小	fly	初	flight
+六	foam					
+四	focus		高	focus		
+六	foe					
+四	fog	foggy	高	fog	高考	foggy
+六	foil					
+四	fold		小	fold		
+四	folk		初	folk		
+六	folklore					
+四	follow	following	小	follow	高	following
+四	fond		初	fond		
+四	food		小	food		
+四	fool	foolish	初	fool	高	foolish
+四	foot		小	foot		
+四	football		小	football		
+四	footprint					
+四	for		小	for		
+四	forbid		高	forbid		
+四	force	forceful	初	force		
+四	forecast		初	forecast		
+四	forehead		高	forehead		
+四	foreign	foreigner	初	foreign	高考	foreigner
+四	foremost					
+四	foresee	foreseeable	高考	foresee		
+四	foresight					
+四	forest	forestry	初	forest		
+六	foretell					
+四	forever		高	forever		
+六	forfeit					
+四	forge	forgery				
+四	forget	forgetful,forgettable	初	forget	高考	forgetful
+四	forgive	forgiving	初	forgive		
+四	fork		高	fork		
+四	form	formation	初	form	高	formation
+四	formal	formality	高	formal		
+四	format		高考	format		
+四	former		高	former		
+六	formidable					
+四	formula		高	formula		
+四	formulate	formulation				
+六	fort					
+四	forth		高	forth		
+四	forthcoming					
+六	fortify	fortification				
+六	fortnight		高考	fortnight		
+四	fortune	fortunate,unfortunate(高考),unfortunately(研)	初	fortune	高考	unfortunate
+四	forty	fortieth(高考)	高	forty	高考	fortieth
+四	forum					
+四	forward		初	forward		
+四	fossil					
+六	foster		高	foster		
+六	foul					
+四	found	founding,founder	初	found		
+四	foundation		高	foundation		
+四	fountain		高考	fountain		
+四	four	fourth(高考)	小	four	高考	fourth
+四	fourteen	fourteenth(高考)	高考	fourteen	高考	fourteenth
+四	fox		小	fox		
+四	fraction		高	fraction		
+六	fracture					
+六	fragile	fragility	高	fragile		
+四	fragment	fragmentation,fragmentary				
+六	fragrant	fragrance	高考	fragrant		
+四	frame		初	frame		
+四	framework		高	framework		
+	franc		高考			
+六	franchise					
+四	frank		高	frank		
+六	frantic	frantically				
+六	fraud	fraudulent				
+四	free	freedom	小	free	高	freedom
+四	freeway		高考	freeway		
+四	freeze	freezing(高考)	初	freeze	高考	freezing
+四	freight					
+四	frequent	frequency	初	frequent		
+四	fresh		初	fresh		
+四	freshman					
+六	friction		高考	friction		
+四	Friday		小	Friday/Fri.		
+	fridge		小			
+四	friend	friendly,friendship	小	friend	高考	friendship
+四	fright	frighten	初	frighten		
+六	fringe					
+四	frog		高	frog		
+四	from		小	from		
+四	front		小	front		
+四	frontier		高考	frontier		
+四	frost	frosty	高考	frost		
+六	frown					
+四	fruit	fruitful	小	fruit		
+四	frustrate	frustration,frustrating				
+四	fry		初	fry		
+四	fuck					
+四	fuel		初	fuel		
+四	fulfil(l)	fulfil(l)ment	高	fulfil(l)		
+四	full		小	full		
+四	fun	funny	初	fun	小	funny
+四	function	functional	初	function		
+四	fund	funding	初	fund		
+四	fundamental		初	fundamental		
+四	funeral		高考	funeral		
+四	fur		高	fur		
+四	furnace					
+四	furnish	furnished(高考)	高考	furnished		
+四	furniture		初	furniture		
+四	further		高	further		
+四	furthermore		高	furthermore		
+六	fury	furious				
+六	fuse					
+六	fusion					
+四	fuss					
+六	futile	futility				
+四	future		初	future		
+四	gadget	gadgetry				
+四	gain		初	gain		
+六	galaxy					
+四	gallery		初	gallery		
+四	gallon		高考	gallon		
+四	gamble		高	gamble		
+四	game		小	game		
+四	gang	gangster	高	gang	高	gangster
+四	gaol					
+四	gap		初	gap		
+四	garage		初	garage		
+四	garbage		高	garbage		
+四	garden	gardener,gardening	小	garden		
+六	garlic		高考	garlic		
+四	garment		高考	garment		
+四	gas		初	gas		
+四	gasoline/petrol					
+六	gasp					
+四	gate		初	gate		
+四	gather	gathering	初	gather		
+六	gauge					
+四	gay		初	gay		
+四	gaze		高	gaze		
+四	gear					
+四	gender		高	gender		
+四	gene	genetic,genetically	高	gene		
+四	general	generally,generalize/-ise	初	general		
+四	generate	generator				
+四	generation		初	generation		
+四	generous	generosity	初	generous		
+四	genius		高	genius		
+六	genre					
+四	gentle	gently(研)	初	gentle		
+四	gentleman		高考	gentleman		
+四	genuine		高	genuine		
+四	geography	geographic,geographically	高	geography		
+四	geology	geological,geologically				
+四	geometry	geometric,geometrically	高考	geometry		
+四	germ		高	germ		
+四	gesture		初	gesture		
+四	get		小	get		
+四	ghost		高	ghost		
+四	giant	gigantic	高	giant		
+四	gift	gifted	小	gift	高考	gifted
+六	giggle					
+	giraffe		高考			
+四	girl		小	girl		
+四	give		小	give		
+四	given					
+六	glacier					
+四	glad		小	glad		
+六	glamo(u)r	glamo(u)rous				
+四	glance		初	glance		
+六	gland					
+六	glare		高考	glare		
+四	glass		小	glass		
+六	gleam					
+六	glide	glider	高	glide		
+四	glimpse					
+六	glitter					
+四	globe	global,globalize/-ise	高考	globe	初	global
+四	gloom	gloomy				
+四	glory	glorious	高考	glory	高	glorious
+六	glossary					
+四	glove		高	glove		
+四	glow					
+四	glue		小	glue		
+四	go		小	go		
+四	goal		初	goal		
+四	goat		高	goat		
+四	god		初	god		
+四	gold	golden	初	gold	高	golden
+四	golf		初	golf		
+四	good		小	good		
+四	goodby(e)/bye		小	goodby(e)/bye		
+四	goodness					
+四	goods		初	goods		
+四	goose		高	goose		
+六	gorge					
+四	gorgeous					
+六	gospel					
+四	gossip					
+四	govern	government,governor	高	govern	初	government
+四	gown					
+四	grab		高	grab		
+四	grace	graceful,gracious,disgrace(研)	高	grace		
+四	grade		小	grade		
+四	gradual	gradually	高考	gradual	初	gradually
+四	graduate	graduation	初	graduate	高考	graduation
+四	grain		初	grain		
+四	gram(me)		高考	gram		
+四	grammar	grammatical	高	grammar		
+四	grand		初	grand		
+四	grandchild	grandchildren,grandson,granddaughter	高	grandchild	高考	granddaughter
+四	grandparent	grandfather/grandpa,grandmother/grandma/granny,grandparents(高考)	高考	grandparents		
+四	grant	granted	高	grant		
+四	grape		高考	grape		
+四	graph	graphic,graphically	高考	graph		
+四	grasp		高	grasp		
+四	grass	grassy	小	grass		
+四	grateful		初	grateful		
+四	gratitude		高	gratitude		
+四	grave		高	grave		
+四	gravitation					
+四	gravity		高	gravity		
+四	gray/grey		小	gray/grey		
+六	graze					
+六	grease	greasy				
+四	great		小	great		
+六	greed	greedy	高	greedy		
+四	green		小	green		
+	greengrocer		高考			
+四	greenhouse					
+四	greet	greeting	初	greet	高考	greeting
+六	grid					
+四	grief	grieve,grievous				
+六	grill		高考	grill		
+六	grim					
+四	grin					
+四	grind					
+四	grip					
+六	groan					
+四	grocer	grocery	高考	grocer	高考	grocery
+六	groove					
+六	grope					
+四	gross					
+四	ground		初	ground		
+四	group		小	group		
+四	grow	growth,grown-up(研)	初	grow	高考	growth
+四	guarantee		初	guarantee		
+四	guard	guardian	初	guard		
+四	guess		小	guess		
+四	guest		初	guest		
+四	guide	guidance	初	guide	高考	guidance
+四	guideline					
+四	guilt	guilty	初	guilty		
+四	guitar	guitarist	小	guitar		
+四	gulf		高	gulf		
+四	gum					
+四	gun		小	gun		
+四	gut					
+四	guy					
+四	gymnasium/gym	gymnastics(高考)	高	gymnasium/gym	高考	gymnastics
+四	habit	habitual	初	habit		
+四	habitat					
+四	hack	hacker	高	hack		
+四	hail					
+四	hair	hairy	小	hair		
+	haircut		高考			
+	hairdryer		高			
+四	half		小	half		
+四	halfway					
+四	hall		小	hall		
+四	halt					
+四	ham		高考	ham		
+四	hamburger/burger		高	hamburger		
+四	hammer		高	hammer		
+六	hamper					
+四	hand	handful	小	hand	高考	handful
+	handbag		高			
+四	handbook					
+四	handicap	handicapped				
+六	handicraft					
+	handkerchief		高			
+四	handle		初	handle		
+四	handsome		高	handsome		
+四	handwriting		高考	handwriting		
+四	handy		高考	handy		
+四	hang		初	hang		
+四	happen		初	happen		
+四	happy	happiness,happily	小	happy	高考	happiness
+六	harass	harassment				
+四	harbo(u)r		初	harbo(u)r		
+四	hard	harden	小	hard		
+四	hardly		初	hardly		
+四	hardship		高	hardship		
+四	hardware					
+	hardworking		高考			
+六	hardy					
+四	harm	harmful,harmless	初	harm	高	harmful
+四	harmony	harmonious	高	harmony		
+四	harness					
+四	harsh		高	harsh		
+四	harvest		高	harvest		
+四	haste	hasty,hasten	高	haste		
+四	hat		小	hat		
+四	hatch		高	hatch		
+四	hate	hatred,hateful	初	hate	高	hatred
+四	haul					
+四	haunt					
+四	have		高考	have		
+六	haven					
+六	havoc					
+六	hawk		高	hawk		
+四	hay					
+四	hazard	hazardous				
+四	haze	hazy				
+四	he		小	he		
+四	head		小	head		
+四	headache		高	headache		
+四	heading					
+四	headline		高	headline		
+四	headmaster	headmistress	高	headmaster	高考	headmistress
+	headphone		高			
+四	headquarters		高	headquarters		
+四	heal		高	heal		
+四	health	healthy,healthful	初	health	高	healthy
+四	heap					
+四	hear	hearing	小	hear	高	hearing
+四	heart	hearty	高考	heart		
+四	heartfelt					
+四	heat	heated,heating	初	heat		
+六	heave					
+四	heaven		初	heaven		
+四	heavy		小	heavy		
+四	hectare					
+六	hectic					
+四	hedge					
+四	heel		高考	heel		
+四	height	heighten	初	height		
+四	heir	heiress				
+四	helicopter		高	helicopter		
+四	hell		初	hell		
+四	hello		小	hello		
+六	helmet		高	helmet		
+四	help	helpful,helpless,helplessly	小	help	高考	helpful
+六	hemisphere					
+四	hen		高	hen		
+四	hence					
+六	henceforth					
+四	her		小	her		
+六	herald					
+六	herb	herbal	高考	herb		
+四	herd					
+四	here		小	here		
+四	hereby					
+四	heritage					
+四	hero	heroine,heroic,heroism	高	hero		
+六	heroin					
+四	hers		小	hers		
+四	herself		初	herself		
+四	hesitate	hesitation,hesitant	初	hesitate		
+四	hi		小	hi		
+六	hibernate	hibernation				
+四	hide	hiding	小	hide		
+六	hierarchy	hierarchical				
+四	high	highly	小	high		
+四	highlight					
+四	high-tech		高	high-tech		
+四	highway		高	highway		
+四	hijack					
+六	hike					
+四	hill	hilly	小	hill		
+四	him		小	him		
+四	himself		初	himself		
+四	hinder	hindrance				
+六	hinge					
+四	hint		高	hint		
+四	hip					
+四	hire		初	hire		
+四	his		小	his		
+四	history	historic,historical,historian	初	history	高	historian
+四	hit		初	hit		
+六	hitherto					
+六	hive					
+四	hobby		高考	hobby		
+六	hockey					
+六	hoist					
+四	hold	holder(研)	初	hold		
+四	hole		初	hole		
+四	holiday		初	holiday		
+四	hollow		高	hollow		
+	holography		高			
+四	holy	holiness	高	holy		
+四	home	homeless,homely	小	home		
+四	homeland		高	homeland		
+	homesick		高			
+	hometown		高考			
+四	homework		高考	homework		
+六	homogeneous					
+四	homosexual/homo					
+四	honest	honesty	初	honest		
+四	honey		高考	honey		
+四	honeymoon		高	honeymoon		
+四	hono(u)r	hono(u)rable,hono(u)rary	初	hono(u)r		
+四	hook		高	hook		
+六	hop					
+四	hope	hopeful,hopeless	初	hope	高考	hopeless
+四	horizon	horizontal	高	horizon		
+四	horn		高	horn		
+四	horror	horrible,horrify	高	horror	初	horrible
+四	horse		小	horse		
+四	horsepower					
+六	hose					
+四	hospitable	hospitality				
+四	hospital	hospitalize	小	hospital		
+四	host	hostess	初	host	高	hostess
+六	hostage		高	hostage		
+四	hostile	hostility				
+四	hot		小	hot		
+四	hotdog		高考	hotdog		
+四	hotel		初	hotel		
+六	hound					
+四	hour	hourly	初	hour		
+四	house	housing	小	house		
+四	household		初	household		
+四	housewife		高	housewife		
+四	housework		高	housework		
+六	hover					
+四	how		小	how		
+四	however		初	however		
+六	howl		高考	howl		
+六	huddle					
+四	hug		高考	hug		
+四	huge		初	huge		
+六	hum					
+四	human	humanity	初	human		
+	human-being		高考			
+六	humane	humanism,humanist,humanitarian				
+四	humble	humbly				
+六	humid	humidity				
+六	humiliate	humiliation				
+四	humo(u)r	humo(u)rous	初	humo(u)r	高考	humorous
+四	hundred	hundredth(高考)	小	hundred	高考	hundredth
+四	hunger	hungry	高	hunger	小	hungry
+四	hunt	hunting,hunter	初	hunt	高考	hunter
+六	hurdle					
+六	hurl					
+六	hurricane		高	hurricane		
+四	hurry	hurriedly	小	hurry		
+四	hurt	hurtful	初	hurt		
+四	husband		初	husband		
+四	hut		高	hut		
+六	hybrid					
+四	hydrogen		高	hydrogen		
+六	hygiene	hygienic				
+四	hyphen					
+六	hypocrisy	hypocritical,hypocrite				
+六	hypothesis	hypothetical				
+六	hysterical	hysteria				
+四	I		小	I		
+四	ice	icy	小	ice		
+六	iceberg		高	iceberg		
+四	ice-cream		小	ice-cream		
+六	icon					
+四	idea		小	idea		
+四	ideal	idealistic,idealism	高	ideal		
+四	identify	identification	初	identify	高考	identification
+四	identity	identical	高考	identity		
+六	ideology	ideological				
+四	idiom	idiomatic	高	idiom		
+六	idiot	idiotic				
+四	idle	idly				
+六	idol					
+四	if		初	if		
+六	ignite	ignition				
+四	ignorant	ignorance				
+四	ignore		初	ignore		
+四	ill	illness	初	ill	高考	illness
+四	illegal		初	illegal		
+六	illicit					
+六	illiterate	illiteracy				
+六	illuminate	illumination				
+四	illusion	illusory				
+四	illustrate	illustration,illustrative	初	illustrate		
+四	image	imaging	初	image		
+四	imagine	imagination,imaginative,imaginary	初	imagine	高	imaginary
+四	imitate	imitation,imitative	高	imitate		
+四	immediate	immediately	初	immediately		
+四	immense	immensely,immensity				
+六	immerse	immersion				
+四	immigrate	immigration,immigrant	高	immigrate	高考	immigration
+六	imminent					
+四	immune	immunity,immunize/-ise				
+四	impact		初	impact		
+六	impair					
+六	impart					
+四	impatient	impatience				
+六	imperative					
+四	imperial	imperialism,imperialist				
+六	impetus					
+四	implement	implementation	高	implement		
+四	implicit					
+四	imply	implication	初	imply		
+四	import	importation	初	import		
+四	important	importance	初	important	高考	importance
+四	impose	imposition,imposing	高	impose		
+四	impossible	impossibility	高考	impossible		
+四	impress	impression,impressive	初	impress	高	impression
+六	imprison	imprisonment				
+六	impromptu					
+四	improve	improvement	小	improve		
+四	impulse	impulsive				
+四	in		小	in		
+六	inaugurate	inauguration				
+六	inborn					
+四	incentive					
+四	inch		初	inch		
+四	incidence					
+四	incident	incidental,incidentally	初	incident		
+四	incline	inclined,inclination				
+四	include	inclusion,inclusive,including	初	include		
+四	income		初	income		
+六	incorporate	incorporation				
+四	increase	increasingly	初	increase		
+四	incredible	incredibly				
+六	incumbent					
+六	incur					
+六	indebted					
+四	indeed		初	indeed		
+六	indefinite					
+四	independent	independence	初	independent	高考	independence
+四	index		高	index		
+四	indicate	indication,indicative,indicator	初	indicate		
+六	indict	indictment				
+四	indifferent	indifference				
+六	indigenous					
+六	indignant	indignation				
+四	indispensable					
+四	individual	individualism	初	individual		
+四	indoor	indoors	初	indoor		
+四	induce	inducement	高	induce		
+六	indulge	indulgence,indulgent				
+四	industry	industrial,industrialize/-ise,industrious	初	industry	高	industrial
+六	inertia					
+四	inevitable		初	inevitable		
+四	infant					
+四	infect	infection,infectious	高	infect	初	infection
+四	infer	inference				
+四	inferior	inferiority	高	inferior		
+四	infinite	infinity,infinitive				
+四	inflate	inflation				
+六	inflict	infliction				
+四	influence	influential	初	influence		
+四	influenza/flu					
+四	inform	information,informative,informant	高	inform	初	information
+	informal		初			
+	infrared		高			
+四	infrastructure					
+六	infringe	infringement				
+六	ingenious	ingenuity				
+四	ingredient		初	ingredient		
+四	inhabit	inhabitant				
+六	inherent					
+四	inherit	inheritance	高	inherit		
+六	inhibit	inhibition				
+四	initial	initially	初	initial		
+四	initiate	initiation,initiative	高	initiative		
+六	inject	injection	高	injection		
+四	injure	injury,injurious	初	injure	高	injury
+四	ink		小	ink		
+四	inland					
+六	inmate					
+四	inn		高	inn		
+四	inner		初	inner		
+四	innocent	innocence	初	innocent		
+四	innovate	innovation,innovative				
+六	innumerable					
+四	input		高	input		
+四	inquire/enquire	inquiry/enquiry,inquisitive	高	inquire	初	inquiry
+四	insane	insanity				
+四	insect		高考	insect		
+四	insert	insertion	高	insert		
+四	inside	insider	初	inside		
+四	insight	insightful				
+四	insist	insistence,insistent	初	insist		
+四	inspect	inspection,inspector	高	inspect		
+四	inspire	inspiration,inspirational	高	inspire		
+四	instal(l)	instal(l)ation	初	instal(l)		
+四	instal(l)ment					
+四	instance		初	instance		
+四	instant	instantaneous	高	instant		
+四	instead		初	instead		
+四	instinct	instinctive				
+四	institute		高	institute		
+四	institution	institutional	初	institution		
+四	instruct	instruction,instructor,instructive	高考	instruct	初	instruction
+四	instrument	instrumental	初	instrument		
+六	insulate	insulation,insulator				
+四	insult		高	insult		
+四	insure/ensure	insurance	高考	insure	初	insurance
+四	intact					
+四	intake					
+四	intangible					
+六	integral					
+四	integrate	integration				
+四	integrity					
+六	intellect					
+四	intellectual		高	intellectual		
+四	intelligent	intelligence	高	intelligent	初	intelligence
+六	intelligible					
+四	intend	intention,intent,intentional	初	intend	高	intention
+四	intense	intensity,intensify	初	intense		
+四	intensive		高	intensive		
+四	interact	interaction,interactive				
+六	intercourse					
+四	interest	interesting,interested	初	interest	小	interesting
+四	interfere	interference				
+六	interim					
+四	interior					
+四	intermediate	intermediary				
+六	intermittent					
+四	internal		初	internal		
+四	international		初	international		
+	internet		高			
+四	Internet/internet					
+四	interpret	interpretation,interpreter	高	interpret	高考	interpreter
+六	interrogate	interrogation				
+四	interrupt	interruption	初	interrupt		
+四	interval		高	interval		
+六	intervene	intervention	高	intervention		
+四	interview	interviewer,interviewee	初	interview		
+四	intimate	intimacy				
+六	intimidate	intimidation				
+四	into		初	into		
+六	intricate	intricacy				
+六	intrigue					
+六	intrinsic	intrinsically				
+四	introduce	introduction,introductory	初	introduce	高	introduction
+四	intrude	intrusion,intruder				
+六	intuition	intuitive				
+四	invade	invasion,invader,invasive	高	invade		
+六	invalid					
+四	invaluable					
+四	invariably					
+四	invent	invention,inventor	初	invent	高	invention
+六	inventory					
+六	invert	inversion				
+四	invest	investment,investor	初	invest	高	investment
+四	investigate	investigation,investigator	初	investigate	高	investigation
+四	invisible		高	invisible		
+四	invite	invitation,inviting	初	invite	高	invitation
+四	involve	involvement,involved	初	involve	高	involvement
+四	inward					
+四	iron		初	iron		
+四	irony	ironic(al),ironically				
+四	irrational					
+四	irregular					
+六	irrespective					
+四	irrigate	irrigation	高考	irrigation		
+六	irritate	irritation,irritating,irritable				
+四	island		初	island		
+六	isle					
+四	isolate	isolation	高	isolate		
+四	issue		初	issue		
+四	it		小	it		
+四	item		初	item		
+四	its		小	its		
+四	itself		初	itself		
+六	ivory					
+六	jack					
+四	jacket		小	jacket		
+四	jail/gaol					
+四	jam		小	jam		
+四	January		小	January/Jan.		
+四	jar		高	jar		
+六	jargon					
+四	jaw		高	jaw		
+四	jazz		高	jazz		
+四	jealous	jealousy	高	jealous		
+四	jeans		高	jeans		
+四	jeep		高	jeep		
+六	jelly		小	jelly		
+六	jeopardize/-ise	jeopardy				
+六	jerk					
+四	jet		高	jet		
+四	jetlag					
+四	jewel	jewelry/jewel(l)ery	高	jewelry/jewel(l)ery		
+四	job		小	job		
+六	jockey					
+四	jog		高考	jog		
+四	join		初	join		
+四	joint		初	joint		
+四	joke		初	joke		
+六	jolly					
+四	journal		高	journal		
+四	journalism	journalist	初	journalist		
+四	journey		初	journey		
+四	joy	joyous,joyful	初	joy		
+四	judge	judg(e)ment	初	judge	高	judg(e)ment
+六	judicial					
+六	judiciary					
+四	juice	juicy	小	juice		
+四	July		小	July/Jul.		
+四	jump		小	jump		
+六	junction		高	junction		
+四	June		小	June/Jun.		
+四	jungle		高考	jungle		
+四	junior		初	junior		
+四	junk					
+六	jurisdiction					
+四	jury	juror				
+四	just		初	just		
+四	justice		初	justice		
+四	justify	justification	高	justify		
+六	juvenile					
+	kangaroo		高考			
+	karaoke		高			
+四	keen		初	keen		
+四	keep		初	keep		
+四	kettle		高	kettle		
+四	key		初	key		
+四	keyboard		高	keyboard		
+四	kick		初	kick		
+四	kid		初	kid		
+六	kidnap		高	kidnap		
+六	kidney					
+四	kill		初	kill		
+四	kilogram(me)/kilo		小	kilogram(me)/kilo		
+四	kilometer/-tre		高考	kilometer/-tre		
+四	kin					
+四	kind	kindness	初	kind	高考	kindness
+四	kindergarten		高	kindergarten		
+四	king		初	king		
+四	kingdom		高	kingdom		
+四	kiss		初	kiss		
+四	kit					
+四	kitchen		小	kitchen		
+四	kite		高考	kite		
+四	knee		小	knee		
+四	kneel		高	kneel		
+四	knife		小	knife		
+六	knight					
+四	knit		高	knit		
+六	knob					
+四	knock		小	knock		
+四	knot	knotty	高	knot		
+四	know	knowledge,knowledgeable	小	know	初	knowledge
+四	knowhow					
+四	label		初	label		
+四	labo(u)r	laborious	高	labo(u)r		
+四	laboratory/lab		初	laboratory/lab		
+四	lace					
+四	lack		初	lack		
+六	lad		高	lad		
+四	ladder		高	ladder		
+四	lady		小	lady		
+四	lag					
+四	lake		小	lake		
+四	lamb		高考	lamb		
+四	lame		高考	lame		
+四	lamp		小	lamp		
+四	land	landing	初	land		
+四	landlord	landlady				
+六	landmark					
+四	landscape		高	landscape		
+四	lane		高	lane		
+四	language		初	language		
+	lantern		高考			
+四	lap		高	lap		
+四	laptop					
+四	large	largely	小	large		
+四	laser		高	laser		
+六	lash					
+四	lass					
+四	last	lastly	初	last		
+四	late	later	小	late	初	later
+四	lately		高	lately		
+六	latitude					
+四	latter		高	latter		
+四	laugh	laughter	小	laugh	高考	laughter
+四	launch		初	launch		
+四	laundry		高考	laundry		
+四	lavatory					
+六	lavish					
+四	law	lawful	初	law		
+四	lawn		高	lawn		
+六	lawsuit					
+四	lawyer		初	lawyer		
+四	lay		初	lay		
+四	layer		初	layer		
+六	layman					
+四	layoff					
+四	layout					
+四	lazy	laziness	高	lazy		
+四	lead	leader,leadership,leading	初	lead	高	leading
+四	leaf		小	leaf		
+六	leaflet					
+四	league		高	league		
+四	leak		高	leak		
+四	lean		初	lean		
+四	leap		高	leap		
+四	learn	learned,learning,learner	小	learn	高	learning
+四	lease		高	lease		
+四	least		高考	least		
+四	leather		初	leather		
+四	leave		初	leave		
+四	lecture	lecturer	初	lecture		
+四	left	leftist	小	left		
+四	leg		小	leg		
+六	legacy					
+四	legal	legalize/-ise	初	legal		
+四	legend	legendary				
+四	legislate	legislation,legislative,legislator	高	legislation		
+六	legitimate	legitimacy				
+四	leisure	leisurely	高	leisure		
+四	lemon	lemonade	高	lemon	高	lemonade
+四	lend		初	lend		
+六	lenient	leniency				
+四	lens		高	lens		
+六	lesbian					
+四	less					
+四	lesson		小	lesson		
+四	lest					
+四	let		小	let		
+四	letter		小	letter		
+四	level		初	level		
+六	lever	leverage				
+六	levy					
+四	liable	liability				
+四	liberal					
+四	liberate	liberation	高考	liberation		
+四	liberty		高	liberty		
+四	library	librarian	小	library	高考	librarian
+四	license/-ce		高考	license		
+四	lick					
+四	lid		高	lid		
+四	lie	liar	初	lie		
+六	lieutenant					
+四	life		初	life		
+	lifetime		高			
+四	lift		初	lift		
+四	light	lighting	小	light		
+四	lightning		高	lightning		
+四	like	likely,likelihood,unlike(高考),unlikely(研)	小	like	高考	unlike
+四	likewise					
+四	lily					
+四	limb					
+六	lime					
+六	limelight					
+四	limit	limitation,limited	初	limit	高	limited
+六	limp					
+四	line	linear	初	line		
+六	linen					
+六	liner					
+六	linger					
+六	linguistic	linguistics				
+四	link	linkage	初	link		
+四	lion	lioness	高	lion		
+四	lip		初	lip		
+六	lipstick					
+四	liquid		高	liquid		
+四	liquor					
+四	list		小	list		
+四	listen	listener	小	listen		
+四	liter/-tre		高	liter/-tre		
+四	literal	literally				
+四	literary	literature,literate,literacy	高	literary	初	literature
+四	litter		高	litter		
+四	little		小	little		
+四	live	living	小	live	高	living
+四	livelihood					
+四	lively		高	lively		
+四	liver					
+六	livestock					
+四	living-room					
+四	load		初	load		
+四	loaf		高	loaf		
+四	loan		初	loan		
+四	lobby	lobbyist				
+四	local	locality	小	local		
+四	locate	location	小	location		
+四	lock	locker	初	lock		
+六	locomotive					
+四	lodge	lodging				
+六	lofty					
+四	log		高	log		
+四	logic	logical	高	logic		
+六	logistics	logistic(al)				
+四	logo					
+四	lonely	loneliness	初	lonely		
+四	long	length,lengthy	小	long	初	length
+六	longevity					
+六	longitude	longitudinal				
+四	look		小	look		
+六	loom					
+六	loop					
+四	loophole					
+四	loose	loosen	初	loose		
+六	loot					
+四	lord		高	lord		
+四	lorry		初	lorry		
+四	lose	loss	初	lose	初	loss
+四	lot		小	lot		
+六	lotion					
+六	lottery					
+四	loud	loudly	小	loud		
+六	lounge		高考	lounge		
+四	love	lovely,lover	小	love	高	lovely
+四	low	lower	小	low		
+四	loyal	loyalty	高	loyalty		
+六	lubricate	lubrication				
+四	luck	lucky	初	luck	高	lucky
+六	lucrative					
+四	luggage		高	luggage		
+六	luminous					
+四	lump		高	lump		
+四	lunar					
+四	lunch	luncheon	小	lunch		
+四	lung		高考	lung		
+六	lure					
+四	luxury	luxurious	高	luxury		
+六	lyric	lyrical				
+四	machine	machinery	初	machine	高	machinery
+四	mad	madden	初	mad		
+四	madam(e)		高	madam(e)		
+四	magazine		初	magazine		
+四	magic	magical	高	magic		
+	magician		高			
+六	magistrate					
+	magnate		高			
+四	magnet	magnetic	高	magnet		
+四	magnificent	magnificence	高	magnificent		
+六	magnify		高	magnify		
+六	magnitude					
+四	maid		高	maid		
+四	maiden		高	maiden		
+四	mail		初	mail		
+	mailbox		高			
+四	main		初	main		
+四	mainland		高考	mainland		
+四	mainstream					
+四	maintain	maintenance	初	maintain		
+六	majesty	majestic				
+四	major	majority	初	major	高	majority
+四	make		小	make		
+四	makeup					
+四	male		初	male		
+六	malice	malicious				
+六	malignant					
+四	mall					
+六	malpractice					
+四	mammal					
+四	man	manly,manhood	小	man		
+四	manage	management,manager,managerial	初	manage	高考	manager
+六	mandate	mandatory				
+六	maneuver/manoeuvre					
+	mania		高			
+六	manifest	manifestation				
+四	manipulate	manipulation,manipulative				
+四	mankind		高	mankind		
+四	manner		初	manner		
+六	mansion					
+四	manual		高	manual		
+四	manufacture	manufacturer	初	manufacture		
+六	manuscript		高	manuscript		
+四	many		小	many		
+四	map		小	map		
+	maple		高考			
+六	mar					
+四	marathon		高	marathon		
+六	marble		高	marble		
+四	March		小	March/Mar.		
+四	march		高	march		
+四	margin	marginal	高	margin		
+四	marine		高	marine		
+六	maritime					
+四	mark		初	mark		
+四	market	marketing	初	market		
+	marrow		高			
+四	marry	marriage,marital,married(研)	初	marry	高	marital
+四	marsh		高	marsh		
+四	marshal					
+六	martyr	martyrdom				
+四	marvel	marvel(l)ous	高	marvelous		
+四	Marxism	Marxist				
+六	masculine	masculinity				
+四	mask		高	mask		
+四	mass	massive	初	mass		
+六	massacre					
+四	massage					
+四	master	mastery	高	master		
+	mastermind		高			
+四	masterpiece					
+四	mat		高	mat		
+四	match		小	match		
+四	mate		高	mate		
+四	material	materialism,materialist,materialize/-ise	初	material		
+六	maternal	maternity				
+四	math(ematics)/maths	mathematical	小	math(ematics)/maths		
+四	matter		初	matter		
+四	mature	maturity	高	mature		
+四	maximum	maximize/-ise,maximal	初	maximum		
+四	may		小	may		
+四	May		小	May/May		
+四	maybe		初	maybe		
+四	mayor		高	mayor		
+四	me		小	me		
+六	meadow		高	meadow		
+四	meal		初	meal		
+四	mean	meaning,meaningful	初	mean	高	meaning
+四	means		初	means		
+四	meantime					
+四	meanwhile		高	meanwhile		
+四	measure	measurement,measurable	初	measure	高	measurement
+四	meat	meaty	小	meat		
+四	mechanic	mechanical,mechanics,mechanism	高	mechanism		
+四	mechanize/-ise	mechanization/-sation				
+四	medal		高	medal		
+六	mediate	mediation,mediator				
+四	medical		高	medical		
+四	Medicare					
+六	medication					
+四	medicine	medicinal	初	medicine		
+六	medieval					
+四	medium	media	初	medium	高考	media
+四	meet		小	meet		
+四	meeting		高考	meeting		
+六	melody	melodious				
+四	melon		高	melon		
+四	melt		高	melt		
+四	member	membership	初	member	高	membership
+四	memorandum/memo					
+四	memorial		高考	memorial		
+四	memory	memorize/-ise	初	memory	高	memorize
+六	menace					
+四	mend		高	mend		
+四	mental	mentality	初	mental		
+四	mention		初	mention		
+六	mentor					
+四	menu		高	menu		
+六	merchandise					
+四	merchant		高	merchant		
+六	mercury					
+四	mercy	merciful	高	mercy	高考	merciful
+四	mere	merely	高	mere	高考	merely
+六	merge	merger				
+四	merit	meritorious	高	merit		
+四	merry	merriment	高	merry		
+四	mess	messy	初	mess	高考	messy
+四	message	messenger	初	message		
+六	metabolism	metabolic				
+四	metal	metallic	初	metal		
+六	metaphor	metaphorical				
+四	meter/-tre	metric	初	meter/-tre		
+四	method	methodical,methodology	初	method		
+六	meticulous					
+四	metro					
+	metropolis		高			
+六	metropolitan					
+四	microphone					
+四	microscope	microscopic	高	microscope		
+四	microwave	microwavable	高	microwave		
+	mid		高			
+四	midday					
+四	middle		初	middle		
+四	middle-class					
+四	midnight		初	midnight		
+六	midst					
+六	midwife					
+四	might	mighty	高	might	高	mighty
+四	migrate	migration,migrant	高	migrate		
+四	mild		高	mild		
+四	mile	mileage	初	mile		
+六	milestone		高	milestone		
+六	militant	militancy				
+四	military		初	military		
+六	militia					
+四	milk	milky	小	milk		
+四	mill		高	mill		
+四	millimeter/-tre		高考	millimeter/-tre		
+四	million	millionaire,millionth(高考)	初	million	高考	millionth
+四	mind		初	mind		
+六	mindset					
+四	mine	mineral,mining	小	mine	高考	mineral
+六	mingle					
+	mini		高			
+六	miniature					
+	minibus		高考			
+四	minimum	minimal,minimize/-ise	初	minimum		
+四	minister	ministry,ministerial	初	minister	高	ministry
+四	minor	minority	初	minor	高	minority
+六	mint					
+四	minus		小	minus		
+四	minute		初	minute		
+四	miracle	miraculous	高	miracle		
+四	mirror		小	mirror		
+	miscellanea		高			
+	mischief		高			
+四	miserable	misery	高	miserable		
+四	misfortune					
+四	mislead	misleading				
+四	miss		初	miss		
+四	Miss		小	Miss		
+四	missile		高考	missile		
+四	missing		高	missing		
+四	mission		高	mission		
+六	missionary					
+四	mist	misty	高	mist		
+四	mistake	mistaken	初	mistake	高考	mistaken
+四	mister/Mr.					
+	Mister/Mr.		小			
+四	mistress/Mrs.		高考	mistress/Mrs.		
+四	misunderstand	misunderstanding	高考	misunderstand		
+四	mix	mixture,mixer	初	mix	高	mixture
+六	moan		高	moan		
+	mob		高			
+四	mobile		高	mobile		
+六	mobilize/-ise					
+六	mock					
+四	mode					
+四	model		初	model		
+	modem		高考			
+四	moderate	moderation,moderator	高	moderate		
+四	modern	modernize/-ise,modernization/-sation	初	modern		
+四	modest	modesty	初	modest		
+四	modify	modification,modifier	高	modify		
+四	moist	moisture	高	moist		
+四	mo(u)ld	mo(u)ldy	高	mold		
+六	molecule	molecular				
+四	mom(my)/mum(my)		小	mom(my)/mum(my)		
+四	moment	momentary,momentarily	初	moment		
+六	momentum	momentous				
+六	monarchy	monarch				
+四	Monday		小	Monday/Mon.		
+四	money	monetary	小	money		
+四	monitor		初	monitor		
+	monk		高			
+四	monkey		高	monkey		
+六	monopoly	monopolize/-ise	高	monopoly		
+	monotone		高			
+六	monotony	monotonous				
+四	monster	monstrous	高	monster		
+四	month	monthly	小	month	高	monthly
+四	monument	monumental	高	monument		
+四	mood	moody	初	mood		
+四	moon		小	moon		
+四	mop		高	mop		
+	moped		高			
+四	moral	morality	初	moral		
+六	morale					
+四	more		高	more		
+四	moreover		高	moreover		
+四	morning		初	morning		
+六	mortal	mortality				
+四	mortgage		高	mortgage		
+	Moslem/=Muslim		高考			
+六	mosquito		高考	mosquito		
+	moss		高			
+四	most	mostly	初	most	初	mostly
+四	motel					
+四	mother	motherly	小	mother		
+	motherland		高考			
+四	motion		初	motion		
+四	motivate	motivation	高考	motivation		
+四	motive					
+四	motor		初	motor		
+	motorbike		高			
+	motorcycle		高考			
+四	motorway					
+	motto		高考			
+四	mount	mounting	高	mount		
+四	mountain	mountainous	初	mountain	高考	mountainous
+六	mourn	mourning	高	mourn		
+四	mouse		高考	mouse		
+四	mouth	mouthful	小	mouth		
+四	move	movement	初	move	高	movement
+四	movie		初	movie		
+六	mow		高	mow		
+	Ms.		高考			
+四	much		小	much		
+四	mud	muddy	高	mud	高考	muddy
+四	mug					
+四	mule					
+六	multilateral					
+四	multiple	multiply,multiplication	高	multiple	高考	multiply
+六	multitude					
+四	municipal	municipality				
+四	murder	murderous	初	murder		
+六	murmur		高	murmur		
+四	muscle	muscular	初	muscle		
+四	museum		初	museum		
+四	mushroom		高	mushroom		
+四	music	musical,musician	小	music	高	musician
+四	must		小	must		
+	m(o)ustache		高考			
+	mustard		高考			
+六	mute		高	mute		
+六	mutter					
+	mutton		高			
+四	mutual		高	mutual		
+四	my		小	my		
+四	myself		初	myself		
+四	mystery	mysterious	初	mystery	高	mysterious
+四	myth	mythical,mythology	高	myth		
+四	nail		初	nail		
+六	naive	naivety				
+四	naked		高	naked		
+四	name		小	name		
+四	namely					
+四	nap		高	nap		
+四	napkin		高	napkin		
+四	narrate	narration,narrative,narrator				
+四	narrow	narrowly	初	narrow		
+四	nasty		高	nasty		
+四	nation	national,nationality,nationalist,nationalism	初	nation	高	nationality
+四	nationwide		高考	nationwide		
+四	native		初	native		
+四	nature	natural,naturally	初	nature	高	natural
+四	naughty		高	naughty		
+六	navigate	navigation				
+四	navy	naval	高	navy		
+四	near	nearly	小	near	初	nearly
+四	nearby		初	nearby		
+四	neat		初	neat		
+四	necessary	necessarily	初	necessary		
+四	necessity	necessitate				
+四	neck		初	neck		
+四	necklace		高	necklace		
+四	need	needy	小	need		
+四	needle		高	needle		
+四	negate	negation,negative	初	negative		
+四	neglect	neglectful	高	neglect		
+六	negligent	negligence				
+六	negligible					
+四	negotiate	negotiation,negotiable	高	negotiate	高	negotiation
+	Negro		高			
+四	neighbo(u)r	neighbo(u)rhood	初	neighbo(u)r	高	neighbo(u)rhood
+四	neither		初	neither		
+四	nephew		高	nephew		
+四	nerve	nervous	高	nerve	初	nervous
+四	nest		高	nest		
+四	net		小	net		
+四	network	networking	初	network		
+四	neutral	neutrality,neutralize/-ise	高	neutral		
+四	never		初	never		
+四	nevertheless		高	nevertheless		
+四	new		小	new		
+四	news		小	news		
+四	newspaper		小	newspaper		
+	newsreel		高			
+四	next		小	next		
+四	nice	nicety	小	nice		
+四	nickel					
+六	nickname					
+四	niece		高	niece		
+四	night	nightly	小	night		
+四	nightmare					
+六	nil					
+四	nine		小	nine		
+四	nineteen	nineteenth(高考)	高考	nineteen	高考	nineteenth
+四	ninety	ninetieth(高考)	高考	ninety	高考	ninetieth
+四	ninth		高考	ninth		
+六	nitrogen					
+四	no		小	no		
+四	noble	nobility	高	noble		
+四	nobody		初	nobody		
+四	nod		小	nod		
+四	noise	noisy	小	noise	高	noisy
+六	nominal		高	nominal		
+六	nominate	nomination,nominee	高	nominate		
+四	none		初	none		
+六	nonetheless					
+四	nonsense		高	nonsense		
+	nonstop		高			
+四	noodle		高	noodle		
+四	noon		高	noon		
+四	nor		初	nor		
+四	norm					
+四	normal	normally,normalize/-ise,normalization/-sation	初	normal		
+四	north	northern	小	north	高	northern
+四	northeast	northeastern	高考	northeast		
+四	northwest	northwestern	高考	northwest		
+四	nose	nosy	小	nose		
+四	not		小	not		
+四	note	notation,notable	初	note		
+四	notebook		高考	notebook		
+六	noteworthy					
+四	nothing		初	nothing		
+四	notice	noticeable	初	notice		
+四	notify	notification	高	notify		
+四	notion	notional	高	notion		
+六	notorious	notoriety				
+六	notwithstanding					
+四	noun		高	noun		
+四	nourish	nourishment	高	nourish		
+四	novel	novelist,novelty	初	novel	高考	novelist
+四	November		小	November/Nov.		
+四	now		小	now		
+四	nowadays		高	nowadays		
+四	nowhere		初	nowhere		
+四	nuclear	nucleus	高	nuclear		
+四	nude	nudity				
+四	nuisance					
+六	numb		高考	numb		
+四	number/No.		小	number		
+	numeral		高			
+六	numerical					
+四	numerous		初	numerous		
+四	nurse		小	nurse		
+四	nursery		高	nursery		
+六	nurture					
+四	nut		初	nut		
+四	nutrition	nutrient	高考	nutrition		
+	nylon		高			
+六	oak		高	oak		
+六	oar					
+六	oath		高	oath		
+四	obese	obesity				
+四	obey	obedient,obedience	初	obey	高	obedience
+四	object	objection	初	object		
+四	objective		高	objective		
+四	oblige	obligation,obliged,obligatory	初	obligation		
+六	obscene	obscenity				
+六	obscure	obscurity	高	obscure		
+六	observatory					
+四	observe	observation,observer,observant	初	observe		
+六	obsess	obsession,obsessive				
+四	obstacle					
+六	obstruct	obstruction				
+四	obtain	obtainment	初	obtain		
+四	obvious	obviously	初	obvious		
+四	occasion	occasional,occasionally	初	occasion		
+四	occupation	occupational	初	occupation		
+四	occupy	occupancy,occupant	初	occupy		
+四	occur	occurrence	初	occur		
+四	ocean	oceanic	初	ocean		
+四	o'clock		高考	o'clock		
+四	October		小	October/Oct.		
+四	odd	oddity	初	odd		
+四	odds		高	odds		
+四	odo(u)r	odorous				
+四	of		小	of		
+四	off		初	off		
+	offence		初			
+四	offend	offense/-ce,offensive,offender	高	offend		
+四	offer	offering	初	offer		
+四	office		小	office		
+四	officer		高考	officer		
+四	official		初	official		
+	offish		高			
+六	offset					
+	offshore		高考			
+六	offspring					
+四	often/oftentimes		小	often		
+	oh		高考			
+四	oil	oily	初	oil		
+	oilcan		高			
+	oilfield		高考			
+四	okay/O.K./OK		高	okay/O.K./OK		
+四	old		小	old		
+四	old-fashioned					
+六	olive		高	olive		
+四	Olympic	Olympics,Olympiad	高考	Olympic(s)		
+四	omit	omission	高	omit		
+四	on		小	on		
+四	once		初	once		
+四	one		小	one		
+四	oneself		初	oneself		
+四	ongoing					
+四	onion		高	onion		
+四	online					
+四	only		初	only		
+六	onset					
+四	onto		初	onto		
+四	onward					
+六	opaque					
+四	open	opener,opening,openly	小	open	高考	opening
+四	opera		初	opera		
+四	operate	operation,operational,operator	初	operate	高考	operator
+六	operative					
+四	opinion		初	opinion		
+四	opportunity		初	opportunity		
+四	oppose	opposition,opponent	初	oppose	初	opponent
+四	opposite		初	opposite		
+六	oppress	oppression,oppressive	高	oppress		
+四	opt	option,optional	高考	optional		
+六	optic	optical	高	optic		
+四	optimism	optimistic,optimist	高考	optimistic		
+	optimize		高			
+六	optimum	optimal				
+四	or		小	or		
+四	oral		高	oral		
+四	orange		小	orange		
+四	orbit	orbital	高	orbit		
+四	orchestra					
+六	ordeal					
+四	order	orderly	初	order		
+四	ordinary		初	ordinary		
+四	ore					
+四	organ		高	organ		
+四	organic					
+四	organism					
+四	organize/-ise	organization/-sation,organizational/-sational	初	organize	高考	organization/-sation
+四	orient	orientation,oriental	高	orient		
+四	origin	original,originality,originate	高	origin	初	original
+四	ornament	ornamental				
+四	orphan	orphanage	高	orphan		
+六	orthodox					
+四	other		初	other		
+四	otherwise		初	otherwise		
+四	ought(-to)		初	ought(-to)		
+四	ounce		高	ounce		
+四	our		小	our		
+四	ours		小	ours		
+四	ourselves		初	ourselves		
+四	out		小	out		
+	outbid		高			
+四	outbreak					
+四	outcome		初	outcome		
+四	outdated					
+四	outdoor	outdoors	初	outdoor	高考	outdoors
+四	outer		高	outer		
+六	outfit					
+四	outgoing		高考	outgoing		
+四	outing		高考	outing		
+六	outlaw					
+四	outlet		高	outlet		
+四	outline		初	outline		
+四	outlook		高	outlook		
+四	output		高考	output		
+六	outrage	outrageous				
+四	outset					
+四	outside	outsider	初	outside		
+四	outskirts					
+	outspoken		高考			
+四	outstanding		初	outstanding		
+四	outward	outwards	高考	outward(s)		
+四	oval		高考	oval		
+四	oven		初	oven		
+四	over		小	over		
+四	overall		高	overall		
+	overboard		高			
+	overcast		高			
+四	overcoat		高	overcoat		
+四	overcome		初	overcome		
+	overdo		高			
+四	overdue					
+六	overflow					
+六	overhaul					
+四	overhead		高考	overhead		
+四	overhear					
+六	overlap					
+四	overlook		高	overlook		
+四	overnight		高	overnight		
+	overpass		高			
+六	override					
+四	overseas		高	overseas		
+四	oversee					
+四	oversight					
+六	overstate					
+六	overt					
+四	overtake		高	overtake		
+四	overthrow		高	overthrow		
+四	overtime					
+六	overturn					
+	overweight		高考			
+四	overwhelm	overwhelming,overwhelmingly				
+四	owe	owing(-to)	初	owe		
+六	owl		高	owl		
+四	own	owner,ownership	初	own	高	ownership
+四	ox		高	ox		
+六	oxide					
+四	oxygen		高	oxygen		
+四	ozone					
+四	pace		初	pace		
+四	pack		初	pack		
+四	package		高	package		
+四	packet		初	packet		
+六	pact					
+四	pad		高	pad		
+	paddle		高			
+四	paddy					
+四	page		小	page		
+四	pain	painful	初	pain	高考	painful
+四	paint	painting,painter	小	paint	高考	painter
+四	pair		小	pair		
+	pajamas/pyjamas		高			
+四	palace		初	palace		
+四	pale		初	pale		
+四	palm		高	palm		
+六	pamphlet		高	pamphlet		
+四	pan		初	pan		
+	pancake		高考			
+四	panda		小	panda		
+四	panel					
+四	panic		高	panic		
+六	panorama	panoramic				
+六	pant		高	pant		
+四	pants					
+四	paper		小	paper		
+四	paperback					
+	paperwork		高考			
+六	parachute					
+四	parade		高	parade		
+六	paradigm					
+六	paradise					
+四	paradox	paradoxical				
+四	paragraph		初	paragraph		
+四	parallel		高	parallel		
+六	paralyze/-yse	paralysis				
+六	parameter					
+六	parasite					
+四	parcel		高	parcel		
+四	pardon		高	pardon		
+四	parent	parental,parenting	初	parent		
+六	parish					
+四	park	parking	小	park	高考	parking
+四	parliament	parliamentary	初	parliament		
+六	parole					
+六	parrot		高	parrot		
+四	part	partial,partially	初	part		
+四	participate	participation,participant	高	participate		
+	participle		高			
+四	particle					
+四	particular	particularly	初	particular		
+六	partisan					
+六	partition					
+四	partly		高考	partly		
+四	partner	partnership	初	partner		
+	part-time		高考			
+四	party		小	party		
+四	pass		初	pass		
+四	passage		初	passage		
+四	passenger		初	passenger		
+六	passerby/passer-by/passer		高考	passerby/passer-by		
+四	passion	passionate	初	passion		
+四	passive		高考	passive		
+四	passport		初	passport		
+四	password		高	password		
+四	past		小	past		
+六	pasta					
+四	paste		高	paste		
+四	pastime					
+六	pastry					
+六	pasture					
+四	pat		高	pat		
+四	patch					
+四	patent		高	patent		
+四	path		初	path		
+六	pathetic					
+四	patient	patience	初	patient	高考	patience
+六	patriot	patriotic,patriotism				
+六	patrol		高	patrol		
+六	patron	patronize/-ise,patronage				
+四	pattern		初	pattern		
+四	pause		初	pause		
+四	pave	pavement	高	pavement		
+四	paw					
+四	pay	payment	初	pay		
+四	payroll					
+四	pea		高考	pea		
+四	peace	peaceful	初	peace	高考	peaceful
+四	peach		小	peach		
+	peacock		高			
+四	peak		初	peak		
+四	peanut					
+四	pear		小	pear		
+四	pearl		高	pearl		
+四	peasant					
+六	peck					
+四	peculiar	peculiarity	高	peculiar		
+六	pedal		高	pedal		
+六	peddle					
+四	pedestrian		高考	pedestrian		
+六	peel		高	peel		
+六	peep		高	peep		
+四	peer		高	peer		
+六	peg					
+四	pen		小	pen		
+四	penalty	penalize/-ise	初	penalty		
+四	pencil		小	pencil		
+六	pending					
+六	pendulum					
+四	penetrate	penetration				
+六	penguin					
+六	peninsula					
+四	penny	pence(高考)	初	penny	高考	pence
+四	pension	pensioner	高	pension		
+四	people		小	people		
+四	pepper		高	pepper		
+四	per		初	per		
+四	perceive	perception,perceptive				
+四	percent	percentage	初	percent	高	percentage
+六	perch					
+四	perfect	perfection	初	perfect		
+四	perform	performance,performer	高	perform	高考	performer
+六	perfume		高	perfume		
+四	perhaps		初	perhaps		
+四	peril	perilous				
+四	period	periodic,periodical	初	period		
+六	perish					
+四	permanent	permanence	初	permanent		
+六	permeate	permeation				
+四	permit	permission,permissible,permissive	初	permit	高	permission
+六	perpetual	perpetuate				
+六	perplex	perplexity				
+六	persecute	persecution				
+四	persevere	perseverance	高	persevere		
+四	persist	persistent,persistence	高	persist		
+四	person	personal,personally,personality	初	person	高考	personally
+四	personnel		高	personnel		
+四	perspective					
+四	persuade	persuasion,persuasive	初	persuade		
+四	pessimism	pessimistic,pessimist				
+六	pest		高	pest		
+六	pesticide					
+四	pet		小	pet		
+六	petition	petitioner				
+六	petrochemical					
+四	petrol		初	petrol		
+四	petroleum					
+四	petty					
+六	pharmacy	pharmaceutical				
+四	phase					
+四	phenomenon		高	phenomenon		
+四	philosophy	philosophical,philosopher	高	philosopher		
+四	photo(graph)	photographic,photographer,photography	小	photo(graph)	高考	photographer
+四	phrase	phrasal	初	phrase		
+四	physical		初	physical		
+四	physician		高考	physician		
+四	physics	physicist	初	physics	高考	physicist
+六	physiological					
+四	piano	pianist	初	piano	高	pianist
+四	pick	picky	小	pick		
+四	picnic		小	picnic		
+四	picture	picturesque	小	picture		
+四	pie		初	pie		
+四	piece		小	piece		
+四	pierce					
+四	pig		小	pig		
+四	pigeon		高	pigeon		
+四	pile		初	pile		
+六	pilgrim	pilgrimage				
+四	pill		高	pill		
+四	pillar		高	pillar		
+四	pillow		高	pillow		
+四	pilot		初	pilot		
+四	pin		初	pin		
+四	pinch					
+四	pine		高	pine		
+	pineapple		小			
+	ping-pong		高考			
+四	pink		小	pink		
+四	pint		高考	pint		
+四	pioneer		高考	pioneer		
+四	pipe		初	pipe		
+四	pirate	piracy				
+四	pistol					
+四	pit					
+四	pitch		初	pitch		
+四	pity		高	pity		
+四	pizza		小	pizza		
+四	place	placement	小	place		
+四	plague					
+四	plain		初	plain		
+六	plaintiff					
+四	plan	planning,planner	初	plan		
+四	plane		小	plane		
+四	planet	planetary	初	planet		
+四	plant	plantation	小	plant		
+四	plastic		初	plastic		
+四	plate		小	plate		
+六	plateau					
+四	platform		初	platform		
+六	plausible					
+四	play	player	小	play		
+四	playground		高	playground		
+六	plaza					
+六	plea					
+六	plead					
+四	please	pleasure,pleasant,pleasing,pleased(高考)	小	please	高考	pleased
+四	pledge					
+四	plenty	plentiful	初	plenty		
+六	plight					
+四	plot		初	plot		
+四	plow/plough					
+四	plug		高	plug		
+六	plumber					
+六	plumbing					
+四	plunge		高	plunge		
+四	plural		高	plural		
+四	plus		小	plus		
+四	pocket		初	pocket		
+四	podcast					
+四	poem	poetry	初	poem	高	poetry
+四	poet	poetic	初	poet		
+四	point	pointless	小	point		
+六	poise	poised				
+四	poison	poisonous	高	poison	高考	poisonous
+六	poke					
+四	pole	polar	初	pole		
+四	police	policeman	初	police	小	policeman
+四	policy		初	policy		
+四	polish		高	polish		
+四	polite	politeness	初	polite		
+四	politics	political,politician	初	politics	高考	politician
+四	poll	pollster				
+四	pollute	pollution,pollutant	高考	pollute	初	pollution
+六	polytechnic					
+四	pond		高	pond		
+六	ponder					
+	pony		高			
+四	pool		小	pool		
+四	poor	poverty	初	poor	高	poverty
+四	pop		高考	pop/popular		
+	popcorn		高考			
+四	popular	popularity	初	popular		
+四	population	populous,populate	初	population		
+六	porcelain					
+六	porch					
+四	pork		高	pork		
+六	porridge		高考	porridge		
+四	port	portable,porter	初	port	高	porter
+六	portfolio					
+四	portion		高	portion		
+六	portray	portrayal,portrait	高	portrait		
+四	pose	posture				
+四	position		初	position		
+四	positive		初	positive		
+四	possess	possession,possessive	高	possess	初	possession
+四	possible	possibility,possibly	初	possible	高	possibility
+四	post	postage,postman,postcode(高考)	小	post	高考	postcode
+四	postcard		高	postcard		
+四	poster		高考	poster		
+四	postpone	postponement	高考	postpone		
+四	pot		初	pot		
+四	potato		小	potato		
+六	potent					
+四	potential	potentiality	高考	potential		
+六	pottery					
+六	poultry					
+四	pound		初	pound		
+四	pour		初	pour		
+四	powder		高	powder		
+四	power	powerful	初	power	高考	powerful
+四	practical	practicality	高考	practical		
+四	practice/-ise	practicable	初	practice		
+六	practitioner					
+四	praise		初	praise		
+四	pray	prayer	高	pray	高考	prayer
+四	preach	preacher				
+四	precaution	precautionary	高	precaution		
+六	precede	preceding,precedent				
+四	precious		高考	precious		
+四	precise	precision,precisely	初	precise		
+六	predator	predatory				
+六	predecessor					
+四	predict	prediction,predictable	初	predict		
+六	predominate	predominance,predominant				
+四	preface		高	preface		
+四	prefer	preferable,preference,preferential	初	prefer	高考	preference
+四	pregnant	pregnancy	初	pregnant		
+四	prejudice		高	prejudice		
+四	preliminary					
+六	premature					
+四	premier		高考	premier		
+六	premise					
+六	premium		高	premium		
+六	preoccupy	preoccupied				
+四	prepare	preparation,preparatory	初	prepare	高	preparation
+四	preposition		高	preposition		
+六	prerequisite					
+四	prescribe	prescription	高考	prescription		
+四	present	presence,presentation,presently	小	present	高考	presentation
+四	preserve	preservation,preservative	初	preserve		
+六	preside					
+四	president	presidency,presidential	初	president		
+四	press	pressure,pressing	初	press	高	pressure
+六	prestige	prestigious				
+六	presume	presumption,presumably				
+四	pretend	pretense/-ce	初	pretend		
+六	pretext					
+四	pretty		初	pretty		
+四	prevail	prevalence,prevalent				
+四	prevent	prevention,preventive	初	prevent		
+四	preview		高考	preview		
+四	previous		初	previous		
+六	prey		高	prey		
+四	price	priceless	初	price		
+四	pride	proud	初	pride	初	proud
+四	priest		高	priest		
+四	primary	primarily	小	primary		
+四	prime		高	prime		
+四	primitive		高考	primitive		
+四	prince	princess	初	prince	高	princess
+四	principal		初	principal		
+四	principle		初	principle		
+四	print	printer,printing	初	print		
+四	prior	priority	初	priority		
+四	prison	prisoner	初	prison	高考	prisoner
+四	private	privacy,privatize/-ise,privatization/-sation	初	private		
+四	privilege	privileged	高考	privilege		
+四	prize		初	prize		
+四	probable	probability,probably	高	probable	初	probably
+六	probe					
+四	problem	problematic	初	problem		
+四	procedure		初	procedure		
+四	proceed	proceeding(s)	初	proceed		
+四	process	processor	初	process		
+四	procession					
+四	proclaim	proclamation				
+四	produce	production,productive,productivity	初	produce	高考	production
+四	product		初	product		
+四	profession	professional	初	profession		
+四	professor		高	professor		
+四	proficient	proficiency				
+六	profile					
+四	profit	profitable	初	profit		
+四	profound					
+四	program(me)		初	program(me)		
+四	progress	progressive,progression	初	progress		
+四	prohibit	prohibition,prohibitive	高	prohibit		
+四	project	projector,projection	初	project		
+六	prolong					
+四	prominent	prominence	高	prominent		
+四	promise	promising	初	promise		
+四	promote	promotion	初	promote		
+四	prompt		高	prompt		
+六	prone					
+四	pronoun					
+四	pronounce	pronunciation	初	pronounce	高	pronunciation
+四	proof		初	proof		
+六	proofread					
+六	prop					
+六	propaganda					
+六	propagate	propagation				
+六	propel	propeller				
+四	proper	properly(高考)	初	proper	高考	properly
+四	property		初	property		
+四	proportion	proportional	初	proportion		
+四	propose	proposal,proposition	高	propose	高	proposal
+四	prose					
+六	prosecute	prosecution				
+四	prospect	prospective	初	prospect		
+六	prosper	prosperity,prosperous	高	prosperous		
+四	protect	protection,protective	初	protect	高考	protection
+四	protein		初	protein		
+四	protest		初	protest		
+六	protocol					
+六	prototype					
+四	prove		初	prove		
+四	proverb	proverbial	高	proverb		
+四	provide	provision	初	provide	高	provision
+四	provided					
+四	province	provincial	初	province		
+四	provoke	provocation,provocative				
+六	proximate	proximity				
+六	psychiatry	psychiatric,psychiatrist				
+四	psychology	psychological,psychologist	高	psychology		
+四	pub		初	pub		
+四	public	publicize/-ise,publicity,publicly	初	public		
+四	publish	publication	初	publish		
+六	pudding		高	pudding		
+	puff		高			
+四	pull		小	pull		
+四	pulse		高	pulse		
+四	pump		初	pump		
+六	pumpkin					
+四	punch					
+四	punctual	punctuality	高考	punctual		
+	punctuation		高考			
+	puncture		高			
+四	punish	punishment	初	punish	高考	punishment
+四	pupil		小	pupil		
+四	purchase		初	purchase		
+四	pure	purity,purify	初	pure		
+四	purple		小	purple		
+四	purpose	purposeful	初	purpose		
+四	purse		高	purse		
+四	pursue	pursuit				
+四	push	pushy	小	push		
+四	put		小	put		
+四	puzzle	puzzlement	高	puzzle		
+六	pyramid		高	pyramid		
+四	quake		高考	quake		
+四	qualify	qualification	初	qualify	高考	qualification
+四	quality	qualitative	初	quality		
+四	quantify	quantification				
+四	quantity	quantitative	初	quantity		
+四	quarrel	quarrelsome	初	quarrel		
+六	quart					
+四	quarter	quarterly	小	quarter		
+四	queen		初	queen		
+	queer		高			
+六	query					
+六	quest					
+四	question	questionnaire	小	question	高考	questionnaire
+四	queue		高	queue		
+四	quick		小	quick		
+四	quiet		小	quiet		
+	quilt		高			
+四	quit		高	quit		
+四	quite		初	quite		
+六	quiver					
+四	quiz		高考	quiz		
+四	quota					
+四	quote	quotation	高	quote	高	quotation
+四	rabbit		小	rabbit		
+四	race	racial,racism,racist	初	race	高考	racial
+四	rack					
+四	radar		高	radar		
+六	radiate	radiation,radiator,radiant	高考	radiation		
+四	radical					
+四	radio		小	radio		
+六	radioactive	radioactivity	高考	radioactive		
+	radium		高考			
+四	rag	ragged,raggedly	高	rag		
+四	rage	raging				
+四	raid					
+四	rail		高	rail		
+四	railroad/railway		初	railroad/railway		
+四	rain	rainy	小	rain	小	rainy
+四	rainbow		高	rainbow		
+四	raincoat		高	raincoat		
+	raindrop		高			
+	rainfall		高考			
+四	raise		初	raise		
+四	rally					
+六	ranch					
+六	random		高考	random		
+四	range		初	range		
+四	rank		初	rank		
+六	rap					
+六	rape					
+四	rapid	rapidity	初	rapid		
+四	rare	rarely,rarity	初	rare		
+六	rash					
+四	rat		高	rat		
+四	rate	rating	初	rate		
+四	rather		初	rather		
+六	ratify	ratification				
+四	ratio					
+六	ration					
+四	rational					
+六	rattle					
+四	raw		初	raw		
+四	ray		高	ray		
+	razor		高考			
+四	reach		初	reach		
+四	react	reaction,reactionary	初	react		
+四	read	reading,reader	小	read	高考	reading
+四	ready	readily	小	ready		
+四	real	really,reality	初	real	高考	reality
+四	realistic	realism				
+四	realize/-ise	realization/-sation	初	realize		
+四	realm					
+四	reap		高	reap		
+四	rear					
+四	reason	reasonable	初	reason	高	reasonable
+六	reassure	reassurance				
+四	rebel	rebellion,rebellious	高	rebel		
+四	recall		高	recall		
+六	recede					
+四	receive	receipt,recipient,receptive,receiver	初	receive	高考	receiver
+四	recent	recently	高	recent	初	recently
+四	reception	receptionist	高	reception	高考	receptionist
+四	recession					
+六	recipe		高考	recipe		
+六	reciprocal					
+四	recite	recitation	高	recite		
+六	reckless					
+四	reckon					
+四	recognize/-ise	recognition	初	recognize		
+四	recommend	recommendation	初	recommend		
+六	reconcile	reconciliation,reconciliatory				
+四	record	recorder,recording	初	record	高考	recorder
+四	recover	recovery	初	recover		
+四	recreation	recreational	高考	recreation		
+四	recruit	recruitment				
+	rectangle		小			
+六	rectify	rectification				
+六	recur	recurrence				
+四	recycle	recyclable	高	recycle		
+四	red		小	red		
+四	reduce	reduction	初	reduce		
+六	redundant	redundancy				
+六	reel					
+四	refer	reference/ref	高	refer	高考	reference
+六	referee		高考	referee		
+六	referendum					
+四	refine	refinery,refinement				
+四	reflect	reflection/-xion,reflective	初	reflect		
+四	reform	reformation,reformist	初	reform		
+四	refrain					
+四	refresh		高考	refresh		
+四	refreshment					
+四	refrigerator/fridge	refrigeration	高	refrigerator		
+六	refuge	refugee				
+六	refund					
+四	refuse	refusal	初	refuse	高	refusal
+六	refute	refutation				
+四	regard		初	regard		
+四	regarding		高	regarding		
+四	regardless		高考	regardless		
+六	regime					
+六	regiment	regimental				
+四	region	regional	初	region		
+四	register	registration,registrar	初	register		
+四	regret	regrettable,regretful	初	regret		
+四	regular	regularity	初	regular		
+四	regulate	regulation,regulatory,regulator	高考	regulation		
+六	rehabilitate	rehabilitation				
+六	rehearse	rehearsal				
+六	reign					
+六	rein					
+四	reinforce	reinforcement				
+四	reject	rejection	初	reject		
+六	rejoice	rejoicing	高	rejoice		
+四	relate	relation,relationship	初	relate	高考	relationship
+四	relative	relativity	初	relative		
+四	relax	relaxation	初	relax		
+四	relay		高考	relay		
+四	release		初	release		
+六	relentless					
+四	relevant	relevance	高考	relevant		
+六	relic					
+四	relieve	relief	高	relieve	高	relief
+四	religion	religious	高考	religion	初	religious
+六	relish					
+四	reluctant	reluctance	高	reluctant		
+四	rely	reliance,reliable	初	rely	高	reliable
+四	remain	remainder,remains(研)	初	remain		
+四	remark	remarkable	高	remark	初	remarkable
+四	remedy	remedial	高	remedy		
+四	remember	remembrance	初	remember		
+四	remind	reminder	初	remind		
+六	reminiscent	reminiscence				
+六	remnant					
+四	remote		初	remote		
+四	remove	removal	初	remove	高	removal
+六	renaissance					
+四	render	rendering				
+四	renew	renewal,renewable	高	renew		
+四	renovate	renovation				
+六	renown	renowned				
+四	rent	rental	初	rent		
+四	repair	reparable	初	repair		
+四	repay	repayment				
+四	repeat	repetition,repetitive,repeatedly	初	repeat		
+六	repel					
+六	repertoire					
+四	replace	replacement	初	replace		
+四	reply		初	reply		
+四	report	reporter	初	report	高考	reporter
+四	represent	representation,representative	初	represent	高	representative
+六	repress	repression,repressive				
+六	reproach					
+四	reproduce	reproduction,reproductive				
+四	republic	republican	初	republic		
+四	reputation		初	reputation		
+六	repute	reputable				
+四	request		初	request		
+四	require	requirement	初	require	高考	requirement
+四	rescue		初	rescue		
+四	research	researcher	初	research		
+四	resemble	resemblance	高	resemble		
+四	resent	resentment				
+四	reserve	reservation,reserved	初	reserve	高考	reservation
+六	reservoir		高	reservoir		
+六	reshuffle					
+四	reside	residence,resident,residential	高	residence		
+四	resign	resignation	初	resign		
+四	resist	resistance,resistant	初	resist		
+四	resolve	resolution,resolute	高	resolve	高	resolution
+四	resort		高	resort		
+	resound		高			
+四	resource	resourceful	初	resource		
+四	respect	respectable,respectful	初	respect		
+	respectfully		高			
+四	respective	respectively	高	respectively		
+四	respond	response,responsive,respondent	高	respond	初	response
+四	responsible	responsibility	初	responsible	高	responsibility
+四	rest	unrest	初	rest	高考	unrest
+四	restaurant		小	restaurant		
+六	restless					
+四	restore	restoration	初	restore		
+四	restrain	restraint				
+四	restrict	restriction,restrictive	初	restrict	高考	restriction
+四	result	resultant	初	result		
+四	resume	resumption				
+四	retail	retailer				
+四	retain	retention	高	retain		
+六	retaliate	retaliation				
+六	retarded					
+四	retell	retelling	高考	retell		
+四	retire	retirement,retired	初	retire		
+六	retort					
+四	retreat		高	retreat		
+六	retrieve	retrieval				
+六	retrospect	retrospective				
+四	return		初	return		
+四	reunite	reunification,reunion	高	reunion		
+四	reveal	revelation	初	reveal		
+六	revenge	revengeful				
+四	revenue					
+四	reverse	reversal,reversible	高	reverse		
+四	review	reviewer	初	review		
+四	revise	revision	高	revise	高	revision
+六	revive	revival				
+六	revolt					
+四	revolution	revolutionary	初	revolution		
+四	revolve					
+四	reward	rewarding	初	reward		
+	rewind		高考			
+六	rhetoric	rhetorical				
+	rhyme		高			
+四	rhythm	rhythmic				
+四	rib					
+四	ribbon					
+四	rice		小	rice		
+四	rich		初	rich		
+四	rid		高	rid		
+四	riddle		小	riddle		
+四	ride	rider	小	ride		
+六	ridge					
+四	ridicule	ridiculous	高	ridiculous		
+四	rifle					
+六	rig					
+四	right		小	right		
+六	rigid	rigidity	高考	rigid		
+六	rigo(u)r	rigorous				
+六	rim					
+四	ring		初	ring		
+四	riot	riotous				
+四	rip					
+四	ripe	ripen	高	ripe	高考	ripen
+四	rise		初	rise		
+四	risk	risky	初	risk		
+六	ritual		高	ritual		
+四	rival	rivalry				
+四	river		小	river		
+四	road		小	road		
+四	roar	uproar	高	roar		
+四	roast		高	roast		
+四	rob	robbery	初	rob	高	robbery
+四	robot	robotic	小	robot		
+六	robust					
+四	rock	rocky	初	rock		
+四	rocket		高	rocket		
+四	rod		高	rod		
+四	role		初	role		
+四	roll	roller	高	roll		
+四	romance	romantic	高	romantic		
+四	roof		初	roof		
+四	room		小	room		
+	rooster		高考			
+四	root		高	root		
+四	rope		小	rope		
+四	rose	rosy	小	rose		
+六	rot	rotten	高	rot		
+六	rotate	rotation				
+	rouge		高			
+四	rough	roughly	小	rough		
+四	round		小	round		
+	roundabout		高考			
+四	rouse					
+四	route		初	route		
+四	routine		初	routine		
+四	row		初	row		
+四	royal	royalty	初	royal		
+四	rub		高	rub		
+四	rubber		小	rubber		
+四	rubbish		高考	rubbish		
+四	rude		高	rude		
+四	rug					
+	rugby		高			
+四	ruin	ruinous	高	ruin		
+四	rule	ruler,ruling	初	rule	小	ruler
+四	rumo(u)r					
+四	run	runner,running	小	run		
+四	runway					
+四	rural		初	rural		
+四	rush		初	rush		
+六	rust	rusty	高	rust		
+六	ruthless					
+四	sack		高	sack		
+六	sacred		高考	sacred		
+四	sacrifice	sacrificial	高	sacrifice		
+四	sad	sadness,sadden	小	sad	高考	sadness
+六	saddle					
+四	safe	safety	小	safe	高	safety
+六	safeguard					
+四	sail	sailing,sailor	初	sail	高考	sailor
+四	saint					
+四	sake		初	sake		
+四	salad		小	salad		
+四	salary		初	salary		
+四	sale	salesgirl(高考)	初	sale	高考	salesgirl
+四	salesman		高考	salesman/woman		
+六	salmon					
+六	salon					
+四	salt	salty	初	salt	高考	salty
+六	salute	salutation	高考	salute		
+六	salvage					
+六	salvation					
+四	same		小	same		
+四	sample		初	sample		
+六	sanction					
+六	sanctuary					
+四	sand		初	sand		
+四	sandwich		小	sandwich		
+六	sanitation	sanitary				
+六	sarcasm	sarcastic				
+四	satellite		高	satellite		
+六	satire	satirical,satirist	高	satire		
+四	satisfy	satisfaction,satisfactory	初	satisfy	高	satisfactory
+六	saturate	saturation				
+四	Saturday		小	Saturday/Sat.		
+四	sauce	saucer(高考)	初	sauce	高考	saucer
+四	sausage		小	sausage		
+六	savage					
+四	save	saving	小	save		
+	saw		高			
+四	say	saying	小	say	高考	saying
+四	scale		高	scale		
+四	scan	scanner	高考	scan		
+四	scandal	scandalous				
+四	scar		高考	scar		
+四	scarce	scarcity,scarcely	高	scarcely		
+四	scare	scary	高考	scare		
+	scarf		小			
+四	scatter		高	scatter		
+六	scenario					
+四	scene	scenery,scenic	高考	scene	高	scenery
+四	scent		高	scent		
+四	schedule		高	schedule		
+四	scheme		初	scheme		
+四	scholar	scholarly,scholarship,scholastic	高	scholar	高考	scholarship
+四	school	schooling,schoolbag(高考),schoolboy(高考),schoolgirl(高考),schoolmate(高考)	小	school	高考	schoolmate
+四	science	scientific,scientist	小	science	高考	scientist
+四	scissors		小	scissors		
+四	scold		高	scold		
+四	scope					
+四	score		初	score		
+六	scorn	scornful				
+四	scout					
+六	scramble					
+六	scrap					
+六	scrape					
+四	scratch		高考	scratch		
+四	scream		高考	scream		
+四	screen		初	screen		
+四	screw					
+四	script	scripture				
+六	scrub		高	scrub		
+六	scrutiny	scrutinize/-ise				
+六	sculpture		高考	sculpture		
+四	sea		小	sea		
+	seafood		高			
+	seagull		高考			
+四	seal		高	seal		
+四	search		初	search		
+	seashell		高考			
+	seaside		高考			
+四	season	seasonal	小	season		
+四	seat		初	seat		
+	seaweed		高考			
+四	second		小	second		
+四	secondary		高	secondary		
+四	second-hand					
+四	secret	secrecy,secretive	初	secret		
+四	secretary	secretarial	初	secretary		
+四	section		初	section		
+四	sector					
+六	secular					
+四	secure	security	初	secure	初	security
+六	seduce	seduction,seductive				
+四	see		小	see		
+四	seed	seedling	小	seed		
+四	seek		初	seek		
+四	seem	seeming,seemingly	初	seem		
+四	segment	segmental				
+六	segregate	segregation				
+四	seize	seizure	高	seize		
+四	seldom		高	seldom		
+四	select	selection,selective	初	select		
+四	self	selfish,selfless	高	self	高	selfish
+四	sell		小	sell		
+四	semester					
+四	seminar		高考	seminar		
+四	senate	senator				
+四	send		初	send		
+四	senior	seniority	初	senior		
+六	sensation	sensational				
+四	sense	sensible,sensor	小	sense	高	sensible
+四	sensitive	sensitivity	高考	sensitive		
+四	sentence		小	sentence		
+六	sentiment	sentimental				
+四	separate	separation,separatist	初	separate	高考	separation
+四	September		小	September/Sept.		
+四	sequence	sequential				
+六	sergeant					
+六	serial					
+四	series		初	series		
+四	serious		初	serious		
+四	servant		初	servant		
+四	serve	service,serving	初	serve	高	service
+四	session		高考	session		
+四	set		初	set		
+四	setback					
+四	setting					
+四	settle	settlement,settler(高考)	初	settle	高考	settler
+四	seven	seventh(高考)	小	seven	高考	seventh
+四	seventeen	seventeenth(高考)	高考	seventeen	高考	seventeenth
+四	seventy	seventieth(高考)	高考	seventy	高考	seventieth
+四	several		初	several		
+四	severe	severity	初	severe		
+四	sew		高	sew		
+四	sex	sexy,sexual	初	sex		
+六	shabby		高考	shabby		
+四	shade	shady	初	shade		
+四	shadow		初	shadow		
+六	shaft					
+四	shake	shaky	小	shake		
+四	shall		初	shall		
+四	shallow		高	shallow		
+四	shame	shameful,shameless	初	shame		
+	shampoo		高			
+四	shape		小	shape		
+四	share		小	share		
+六	shark		高考	shark		
+四	sharp	sharpen,sharpener(高考)	小	sharp	高考	sharpener
+六	shatter					
+四	shave	shaver	初	shave	高考	shaver
+四	she		小	she		
+四	shed		高	shed		
+四	sheep		小	sheep		
+四	sheer					
+四	sheet		初	sheet		
+四	shelf		小	shelf		
+四	shell		小	shell		
+四	shelter		高	shelter		
+六	shepherd					
+六	shield					
+四	shift		高	shift		
+四	shine	shiny	小	shine		
+四	ship	shipping,shipment	小	ship		
+六	shipyard					
+四	shirt	T-shirt	小	shirt	高考	T-shirt
+四	shit					
+四	shiver					
+四	shock		初	shock		
+四	shoe		小	shoe		
+四	shoot		初	shoot		
+四	shop	shopping	小	shop	高考	shopping
+	shopkeeper		高			
+四	shore		高	shore		
+四	short	shortage,shorts	小	short	高考	shorts
+四	shortcoming		高考	shortcoming		
+六	shorthand					
+四	shortly		高考	shortly		
+四	shot		初	shot		
+四	should		初	should		
+四	shoulder		小	shoulder		
+四	shout		小	shout		
+六	shove					
+四	show	showy	小	show		
+六	showcase					
+四	shower		初	shower		
+六	shred					
+六	shrewd					
+四	shrimp					
+四	shrink		高考	shrink		
+六	shrub	shrubbery				
+四	shrug					
+四	shut		小	shut		
+四	shuttle		高考	shuttle		
+四	shy	shyness,shyly	高	shy		
+四	sick	sicken,sickness(高考)	小	sick	高考	sickness
+四	side		初	side		
+	sidewalk/sideroad		高考			
+四	sideways		高考	sideways		
+四	siege					
+四	sigh		高考	sigh		
+四	sight		初	sight		
+四	sightseeing		高	sightseeing		
+四	sign	signature	小	sign	高	signature
+四	signal		初	signal		
+四	significant	significance	初	significant	高考	significance
+六	signify					
+四	silent	silence	初	silent	高考	silence
+四	silicon					
+四	silk	silky	高	silk		
+	silly		初			
+四	silver	silvery	初	silver		
+四	similar	similarity	初	similar		
+四	simple	simplicity,simplify,simply	初	simple	高考	simplify
+六	simulate	simulation				
+六	simultaneous					
+四	sin					
+四	since		初	since		
+四	sincere	sincerity,sincerely(高考)	高	sincere	高考	sincerely
+四	sing	singer	小	sing		
+四	single		初	single		
+四	singular	singularity				
+六	sinister					
+四	sink		初	sink		
+四	sip					
+四	sir		小	sir		
+四	sister		小	sister		
+四	sit	sitting	小	sit		
+四	site		初	site		
+四	situate	situated				
+四	situation		初	situation		
+四	six	sixth(高考)	小	six	高考	sixth
+四	sixteen	sixteenth(高考)	高考	sixteen	高考	sixteenth
+四	sixty	sixtieth(高考)	高考	sixty	高考	sixtieth
+四	size	sizable	小	size		
+四	skate	skating	高	skate		
+	skateboard		高考			
+四	skeleton					
+六	skeptical/sceptical	skeptic/sceptic,skepticism/scepticism	高考	skeptical/sceptical		
+四	sketch	sketchy				
+四	ski	skiing	高	ski		
+四	skill	skil(l)ful,skilled	初	skill	高考	skilful
+六	skim		高	skim		
+四	skin	skinny	初	skin		
+四	skip		高	skip		
+四	skirt		高	skirt		
+六	skull					
+四	sky		小	sky		
+四	skyline					
+四	skyscraper		高考	skyscraper		
+六	slack					
+六	slam					
+四	slap					
+六	slash					
+六	slaughter					
+四	slave	slavery	高	slave	高考	slavery
+四	sleep	sleepy,sleepiness	小	sleep	高考	sleepy
+四	sleeve		高	sleeve		
+四	slender					
+四	slice		初	slice		
+四	slide		小	slide		
+四	slight	slightly	初	slight		
+四	slim		高	slim		
+四	slip	slippery,slipper	高	slip		
+四	slogan		高	slogan		
+四	slope		高	slope		
+六	slot					
+四	slow		小	slow		
+六	slum					
+六	slump					
+四	small		小	small		
+四	smart		小	smart		
+四	smartphone					
+四	smash		高	smash		
+四	smell	smelly	小	smell		
+四	smile		小	smile		
+四	smog	smoggy	高	smog		
+四	smoke	smoky,smoker(高考)	小	smoke	高考	smoker
+四	smooth		小	smooth		
+六	smuggle	smuggling,smuggler				
+四	snack		高	snack		
+六	snail		高	snail		
+四	snake		小	snake		
+六	snap		高	snap		
+六	snatch		高	snatch		
+六	sneak					
+	sneaker		高考			
+	sneeze		高			
+六	sniff		高考	sniff		
+六	snob	snobbish				
+四	snow	snowy	小	snow	小	snowy
+四	so		小	so		
+四	soak					
+四	soap		小	soap		
+四	soar					
+六	sob		高	sob		
+六	sober/-re					
+四	so-called					
+四	soccer		高	soccer		
+四	socialism	socialist	高考	socialism	高考	socialist
+四	society	social,socialize/-ise,sociable	初	society	初	social
+四	sociology	sociologist				
+四	sock		小	sock		
+六	socket		高考	socket		
+四	soda					
+六	sodium					
+四	sofa		高	sofa		
+四	soft	soften	小	soft		
+四	software		初	software		
+四	soil		初	soil		
+四	solar		高	solar		
+四	soldier		小	soldier		
+四	sole	solely				
+四	solemn	solemnity				
+六	solicit	solicitor				
+四	solid	solidity,solidify	高	solid		
+六	solidarity					
+六	solitary	solitude				
+六	solo					
+四	solve	solution,solvent,soluble	初	solve	高	solution
+四	some		小	some		
+四	somebody		高考	somebody		
+四	somehow		初	somehow		
+四	someone		高考	someone		
+四	something		初	something		
+四	sometime					
+四	sometimes		小	sometimes		
+四	somewhat		高	somewhat		
+四	somewhere		初	somewhere		
+四	son		小	son		
+四	song		小	song		
+四	soon		初	soon		
+六	soothe					
+四	sophisticated	sophistication	高	sophisticated		
+四	sore		高	sore		
+四	sorrow	sorrowful	高	sorrow		
+四	sorry		小	sorry		
+四	sort		初	sort		
+四	soul		初	soul		
+四	sound		初	sound		
+四	soup		小	soup		
+四	sour		高	sour		
+四	source		初	source		
+四	south	southern	小	south	高考	southern
+四	southeast	southeastern	高考	southeast		
+四	southwest	southwestern	高考	southwest		
+四	souvenir		高	souvenir		
+六	sovereign	sovereignty				
+四	sow		高考	sow		
+四	space	spacious,spatial	初	space		
+四	spaceship/spacecraft		高考	spaceship		
+四	spade		高	spade		
+六	spaghetti					
+四	span					
+四	spare	sparingly	初	spare		
+四	spark		高	spark		
+四	sparkle					
+	sparrow		高			
+四	speak	speaker,spoken(高考)	小	speak	高考	spoken
+六	spear		高	spear		
+四	special	specialize/-ise,specialization/-sation,specialist	初	special	高	specialist
+六	specialty/speciality					
+四	species		初	species		
+四	specific	specifically	高	specific		
+四	specify	specification				
+四	specimen					
+六	spectacle	spectacular	高	spectacle		
+六	spectator		高	spectator		
+六	spectrum					
+四	speculate	speculation,speculative				
+四	speech	speechless	初	speech		
+四	speed	speedy,speeding	初	speed		
+四	spell	spelling	小	spell	高考	spelling
+四	spend	spending	初	spend		
+四	sphere	spherical				
+六	spice	spicy				
+六	spider					
+四	spill		高	spill		
+四	spin		初	spin		
+六	spine	spinal				
+六	spiral					
+四	spirit	spiritual	初	spirit	高考	spiritual
+四	spit		高	spit		
+四	spite		初	spite		
+四	splash		高	splash		
+四	splendid	splendo(u)r	高考	splendid		
+四	split		初	split		
+四	spoil		高	spoil		
+四	spokesman/spokeswoman	spokesperson	高考	spokesman/woman		
+六	sponge	spongy				
+四	sponsor	sponsorship	高	sponsor		
+四	spontaneous	spontaneity				
+四	spoon	spoonful	小	spoon	高考	spoonful
+四	sport		小	sport		
+四	sportsman/sportswoman					
+四	spot		初	spot		
+六	spotlight					
+四	spouse					
+六	sprawl					
+四	spray		高	spray		
+四	spread		初	spread		
+四	spring		小	spring		
+六	sprinkle					
+四	spur					
+四	spy		高	spy		
+六	squad					
+四	square		小	square		
+四	squeeze		高	squeeze		
+	squirrel		高考			
+六	stab					
+四	stable	stability,stabilize/-ise	初	stable		
+四	stack					
+四	stadium		高	stadium		
+四	staff		初	staff		
+四	stage		初	stage		
+六	stagger					
+六	stagnate	stagnation,stagnant				
+四	stain	stainless	高考	stain	高考	stainless
+四	stair		高	stair		
+四	staircase					
+四	stake					
+四	stale					
+六	stalk					
+六	stall		高	stall		
+六	stammer					
+四	stamp		小	stamp		
+六	stance					
+四	stand		小	stand		
+四	standard	standardize/-ise,standardization/-sation	初	standard		
+六	standby					
+四	standpoint					
+六	staple	stapler				
+四	star	starry	小	star		
+四	stare		初	stare		
+六	stark					
+四	start	starter	小	start		
+四	startle					
+四	starve	starvation	高	starve	高考	starvation
+四	state	statement	初	state	高考	statement
+四	statesman		高考	statesman/woman		
+六	static					
+四	station	stationary	小	station		
+六	stationery		高	stationery		
+四	statistic	statistical,statistics(高考)	高考	statistics		
+四	statue		高考	statue		
+四	status		初	status		
+六	statute	statutory				
+四	stay		初	stay		
+四	steady	steadily	初	steady		
+四	steak		高	steak		
+四	steal		初	steal		
+四	steam	steamy,steamer	初	steam		
+四	steel		初	steel		
+四	steep		高	steep		
+四	steer		高	steer		
+四	stem					
+四	step		初	step		
+	stereo		高			
+六	stereotype					
+六	stern					
+六	steward	stewardess	高考	steward	高考	stewardess
+四	stick	sticky	初	stick		
+四	stiff	stiffen				
+六	stifle					
+六	stigma					
+四	still		初	still		
+四	stimulate	stimulation,stimulus,stimulant	高	stimulate		
+四	sting					
+六	stipulate	stipulation				
+四	stir		初	stir		
+六	stitch					
+四	stock		初	stock		
+四	stocking		高考	stocking		
+四	stomach		初	stomach		
+四	stone	stony	初	stone		
+四	stool					
+六	stoop					
+四	stop	stoppage	小	stop		
+四	store	storage	初	store	高考	storage
+四	storm	stormy	小	storm		
+四	stor(e)y		小	story		
+六	stout		高考	stout		
+四	stove		高考	stove		
+四	straight	straighten	初	straight		
+四	straightforward		高考	straightforward		
+四	strain		高	strain		
+六	strait		高考	strait		
+六	strand		高	strand		
+四	strange	stranger	初	strange	高考	stranger
+六	strangle					
+四	strap					
+四	strategy	strategic				
+四	straw		高	straw		
+	strawberry		小			
+六	stray					
+六	streak					
+四	stream		初	stream		
+六	streamline					
+四	street		小	street		
+四	stress	stressful	初	stress		
+四	stretch		初	stretch		
+四	strict		初	strict		
+四	stride					
+四	strike	striking	初	strike		
+四	string		初	string		
+四	strip		初	strip		
+四	stripe					
+四	strive		高	strive		
+四	stroke		高	stroke		
+六	stroll					
+四	strong	strength,strengthen	小	strong	高考	strengthen
+四	structure	structural	初	structure		
+四	struggle		初	struggle		
+六	stubborn		高考	stubborn		
+四	student		小	student		
+四	studio		初	studio		
+四	study		小	study		
+四	stuff	stuffy,stuffing	初	stuff		
+六	stumble					
+六	stump					
+六	stun	stunning				
+四	stupid	stupidity	初	stupid		
+六	sturdy					
+四	style	stylish	初	style		
+四	subject		小	subject		
+四	subjective		高考	subjective		
+六	submarine					
+六	submerge					
+四	submit	submission,submissive	高	submit		
+六	subordinate	subordination				
+六	subscribe	subscription,subscriber	高	subscribe		
+四	subsequent					
+六	subsidy	subsidize/-ise				
+六	subsistence					
+四	substance	substantial	初	substance		
+四	substitute	substitution	高	substitute		
+六	subtle	subtlety				
+四	subtract	subtraction				
+四	suburb	suburban	高	suburb		
+四	subway		高	subway		
+四	succeed	successor,succession,successive	初	succeed		
+四	success	successful	高	success	高考	successful
+四	such		初	such		
+四	suck		高	suck		
+四	sudden	suddenly	高考	sudden	初	suddenly
+六	sue					
+四	suffer	suffering	初	suffer	高考	suffering
+六	suffice					
+四	sufficient		初	sufficient		
+四	sugar		小	sugar		
+四	suggest	suggestion,suggestive	初	suggest	高考	suggestion
+六	suicide	suicidal				
+四	suit	suitable	高	suit	初	suitable
+四	suitcase		高考	suitcase		
+六	suite		高考	suite		
+六	sulfur/sulphur					
+四	sum		初	sum		
+四	summary	summarize/-ise	高	summary	高	summarize
+四	summer		小	summer		
+四	summit		高	summit		
+六	summon		高	summon		
+四	sun	sunny	小	sun	小	sunny
+	sunburnt		高考			
+四	Sunday		小	Sunday/Sun.		
+四	sunlight		高考	sunlight		
+四	sunrise		高	sunrise		
+四	sunset					
+四	sunshine		高	sunshine		
+四	super		初	super		
+四	superb		高考	superb		
+四	superficial					
+六	superintendent					
+四	superior	superiority	高	superior		
+四	supermarket		小	supermarket		
+六	superstition	superstitious				
+四	supervise	supervision,supervisor				
+四	supper		小	supper		
+四	supplement	supplementary	高	supplementary		
+四	supply	supplier	初	supply		
+四	support	supportive,supporter	初	support		
+四	suppose	supposition,supposedly	初	suppose		
+六	suppress	suppression,suppressive				
+四	supreme	supremacy	高考	supreme		
+四	sure		小	sure		
+四	surf	surfing				
+四	surface		初	surface		
+四	surge					
+四	surgery	surgical,surgeon	高考	surgeon		
+四	surname					
+六	surpass					
+四	surplus		高考	surplus		
+四	surprise		初	surprise		
+四	surrender					
+四	surround	surrounding(高考),surroundings	初	surround	高考	surrounding
+六	surveillance					
+四	survey		小	survey		
+四	survive	survival,survivor	初	survive	高考	survival
+六	susceptible					
+四	suspect		初	suspect		
+四	suspend	suspension,suspense	高	suspend	高考	suspension
+四	suspicion	suspicious	高	suspicion		
+四	sustain	sustainable,sustainability				
+四	swallow		高	swallow		
+六	swamp					
+	swan		高			
+六	swap		高考	swap		
+四	sway					
+四	swear		高	swear		
+四	sweat	sweater	初	sweat	高考	sweater
+四	sweep		小	sweep		
+四	sweet		高考	sweet		
+四	swell		高	swell		
+四	swift		高考	swift		
+四	swim	swimming,swimmer	小	swim		
+四	swing		小	swing		
+四	swipe					
+四	switch		初	switch		
+四	sword		高	sword		
+四	symbol	symbolic(al)	初	symbol		
+六	symmetry	symmetric(al)				
+四	sympathy	sympathetic,sympathize/-ise	高	sympathy		
+六	symphony		高考	symphony		
+六	symposium					
+四	symptom		高	symptom		
+六	syndicate					
+六	syndrome					
+六	synonym					
+六	synthesis	synthetic,synthesize/-ise				
+四	system	systematic,systematically	初	system	高考	systematic
+四	table		小	table		
+四	tablet		高	tablet		
+	table-tennis		高考			
+六	taboo					
+六	tack					
+四	tackle					
+六	tact	tactful				
+六	tactic					
+四	tag		高	tag		
+四	tail		小	tail		
+四	tailor		高	tailor		
+四	take		小	take		
+四	takeoff					
+四	tale		高	tale		
+四	talent	talented	初	talent		
+四	talk	talkative	小	talk		
+四	tall		小	tall		
+四	tame		高	tame		
+六	tan					
+四	tangible					
+六	tangle					
+四	tank		高	tank		
+六	tanker					
+四	tap		初	tap		
+四	tape		小	tape		
+四	target		初	target		
+六	tariff					
+四	task		初	task		
+四	taste	tasty,tasteless(高考)	小	taste	高考	tasteless
+四	tax	taxation	初	tax		
+四	taxi		小	taxi		
+	taxpayer		高考			
+四	tea		小	tea		
+四	teach	teacher,teaching	初	teach	小	teacher
+四	team		初	team		
+	teamwork		高考			
+	teapot		高考			
+四	tear		初	tear		
+六	tease		高考	tease		
+四	technical	technician	高	technical		
+四	technique		初	technique		
+四	technology/tech	technological	初	technology		
+四	tedious					
+四	teen					
+四	teenager		高	teenager		
+四	telecommunications					
+四	telephone/phone/tel.		小	telephone/phone/Tel.		
+四	telescope	telescopic	高	telescope		
+四	television/TV		小	television/TV		
+四	tell	telling	小	tell		
+四	teller					
+四	temper		高	temper		
+六	temperament					
+	temperate		高			
+四	temperature		初	temperature		
+四	temple		高	temple		
+六	tempo					
+六	temporal					
+四	temporary	temporarily	高	temporary		
+六	tempt	temptation	高	tempt		
+四	ten	tenth(高考)	小	ten	高考	tenth
+六	tenant					
+四	tend	tendency	高	tend	初	tendency
+四	tender		高	tender		
+四	tennis		小	tennis		
+四	tense	tension	高	tense	高考	tension
+四	tent		高	tent		
+六	tentative		高考	tentative		
+六	tenure					
+四	term		初	term		
+四	terminal		高	terminal		
+六	terminate	termination				
+六	terrace					
+六	terrain					
+四	terrible	terribly	小	terrible		
+四	terrific		高	terrific		
+四	territory	territorial	高	territory		
+四	terror	terrify,terrorism,terrorist	高	terror	高考	terrify
+六	tertiary					
+四	test		初	test		
+六	testify					
+六	testimony					
+四	text		初	text		
+四	textbook		高考	textbook		
+四	textile					
+六	texture					
+四	than		初	than		
+四	thank	thankful	小	thank	高考	thankful
+四	Thanksgiving					
+四	that		小	that		
+四	the		小	the		
+四	theater/-tre	theatrical	小	theater/theatre		
+四	theft		高考	theft		
+四	their		小	their		
+四	theirs		小	theirs		
+四	them		小	them		
+四	theme		高	theme		
+四	themselves		初	themselves		
+四	then		小	then		
+四	theory	theoretical	初	theory	高考	theoretical
+四	therapy	therapist,therapeutic(al)				
+四	there		小	there		
+四	thereby					
+四	therefore		初	therefore		
+六	thermal					
+四	thermometer					
+	thermos		高考			
+四	these		小	these		
+四	thesis					
+四	they		小	they		
+四	thick		小	thick		
+四	thief		高	thief		
+六	thigh					
+四	thin		小	thin		
+四	thing		小	thing		
+四	think	thinking	小	think	高考	thinking
+四	third		小	third		
+四	thirst	thirsty	高考	thirst	高	thirsty
+四	thirteen	thirteenth(高考)	高考	thirteen	高考	thirteenth
+四	thirty	thirtieth(高考)	高考	thirty	高考	thirtieth
+四	this		小	this		
+六	thorn	thorny				
+四	thorough		初	thorough		
+四	those		小	those		
+四	though		高考	though		
+四	thought	thoughtful	高	thought		
+四	thousand	thousandth(高考)	小	thousand	高考	thousandth
+四	thread		高	thread		
+四	threat	threaten	初	threat		
+四	three		小	three		
+六	threshold					
+六	thrift	thrifty				
+六	thrill	thriller	高考	thrill	高考	thriller
+四	thrive					
+四	throat		高	throat		
+六	throne					
+四	through		初	through		
+四	throughout		初	throughout		
+四	throw		小	throw		
+四	thrust					
+四	thumb					
+四	thunder	thunderous	高	thunder		
+	thunderstorm		高考			
+四	Thursday		小	Thursday/Thurs.		
+四	thus		初	thus		
+四	tick		高	tick		
+四	ticket		小	ticket		
+六	tickle					
+四	tide	tidal	高	tide		
+四	tidy		高	tidy		
+四	tie		初	tie		
+四	tiger	tigress	小	tiger		
+四	tight	tighten	初	tight		
+六	tile					
+四	till		高考	till		
+六	tilt					
+四	timber					
+四	time	timely,timing	小	time		
+	timetable		高			
+六	timid		高	timid		
+四	tin		高	tin		
+四	tiny		初	tiny		
+四	tip		初	tip		
+	tiptoe		高			
+四	tire	tired,tiring,tireless,tiresome	高	tire	高	tiresome
+四	tissue		高	tissue		
+四	title		初	title		
+四	to		小	to		
+四	toast		高	toast		
+四	tobacco		高考	tobacco		
+四	today		小	today		
+四	toe		高	toe		
+四	together		小	together		
+六	toil					
+四	toilet		小	toilet		
+四	token					
+四	tolerate	tolerance,tolerant,tolerable	高	tolerate		
+四	toll					
+四	tomato		小	tomato		
+	tomb		高			
+四	tomorrow		小	tomorrow		
+四	ton	tonnage	高	ton		
+四	tone		高	tone		
+四	tongue		小	tongue		
+四	tonight		小	tonight		
+四	too		小	too		
+四	tool		初	tool		
+四	tooth		小	tooth		
+	toothache		高			
+	toothbrush		高考			
+	toothpaste		高			
+四	top		小	top		
+四	topic	topical	高	topic		
+六	topple					
+四	torch					
+六	tornado					
+	tortoise		高			
+四	torture					
+四	toss		高	toss		
+四	total		初	total		
+四	touch		小	touch		
+四	tough		初	tough		
+四	tour	tourism,tourist	初	tour	高	tourist
+六	tournament		高	tournament		
+六	tow					
+四	toward(s)		初	toward(s)		
+四	towel		小	towel		
+四	tower		小	tower		
+四	town	township	小	town		
+六	toxic					
+四	toy		小	toy		
+四	trace		高	trace		
+四	track		初	track		
+六	tract					
+四	tractor		高考	tractor		
+四	trade		初	trade		
+四	trademark					
+四	tradition	traditional	初	tradition	高考	traditional
+四	traffic	trafficking	小	traffic		
+四	tragedy	tragic,tragically	高	tragedy		
+四	trail	trailer				
+四	train	trainer,trainee,training	小	train	高考	training
+六	trait					
+四	tram		高	tram		
+六	tranquil	tranquility				
+四	transaction					
+六	transcend					
+四	transcript					
+四	transfer	transference	高	transfer		
+四	transform	transformation	高	transform		
+六	transient					
+六	transistor					
+四	transit					
+六	transition	transitional				
+四	translate	translation,translator	初	translate	高考	translator
+四	transmit	transmission,transmitter	高	transmit		
+四	transparent	transparency	高考	transparent		
+四	transplant	transplantation	高	transplant		
+四	transport	transportation	初	transport		
+四	trap		初	trap		
+四	trash					
+六	trauma	traumatic				
+四	travel	travel(l)er	初	travel	高考	travel(l)er
+四	tray		高	tray		
+六	tread					
+四	treasure		高	treasure		
+六	treasury	treasurer				
+四	treat	treatment	初	treat	高考	treatment
+四	treaty		高	treaty		
+四	tree		小	tree		
+六	trek					
+四	tremble		高	tremble		
+四	tremendous		高	tremendous		
+六	trench					
+四	trend		高	trend		
+四	trial		高	trial		
+四	triangle	triangular	小	triangle		
+六	tribe	tribal	高	tribe		
+六	tribune					
+六	tribute					
+四	trick	tricky	初	trick		
+六	trickle					
+四	trifle					
+四	trigger					
+六	trillion					
+六	trim					
+四	trip		初	trip		
+四	triple					
+四	triumph	triumphant	高	triumph		
+六	trivial					
+四	trolley/trolly	trolleybus(高考)	高	trolley	高考	trolleybus
+四	troop		高	troop		
+六	trophy					
+六	tropic	tropical				
+四	trouble	troublesome	初	trouble	高	troublesome
+四	trousers		小	trousers		
+四	truck		小	truck		
+四	true	truly	小	true	高考	truly
+六	trumpet					
+四	trunk		高	trunk		
+四	trust	trustee	初	trust		
+四	truth	truthful	高	truth		
+四	try	trial,trying	小	try		
+六	tub					
+四	tube		初	tube		
+六	tuck					
+四	Tuesday		小	Tuesday/Tues.		
+六	tug					
+四	tuition					
+六	tumble					
+四	tumo(u)r					
+四	tune		高	tune		
+四	tunnel		高	tunnel		
+六	turbulent	turbulence				
+四	turkey		高考	turkey		
+六	turmoil					
+四	turn	turning(高考)	小	turn	高考	turning
+六	turnout					
+六	turnover					
+六	turtle		高	turtle		
+四	tutor	tutorial	高	tutor		
+四	twelve	twelfth	小	twelve	高考	twelfth
+四	twenty	twentieth,twenty-one(高考),twenty-two(高考),twenty-three(高考),twenty-first(高考),twenty-second(高考),twenty-third(高考)	高考	twenty	高考	twenty-third
+四	twice		小	twice		
+四	twin		高	twin		
+	twinkle		高			
+四	twist		初	twist		
+四	two		小	two		
+四	type	typist	初	type	高	typist
+四	typewriter		高考	typewriter		
+	typhoon		高			
+四	typical		初	typical		
+四	tyre/tire		高	tyre		
+	UFO		高			
+四	ugly	ugliness	小	ugly		
+四	ultimate	ultimately				
+六	ultra					
+四	umbrella		高	umbrella		
+六	unanimous					
+四	uncertain	uncertainty	高考	uncertain		
+四	uncle		小	uncle		
+四	uncover					
+四	under		小	under		
+四	underdeveloped					
+四	underestimate					
+四	undergo		高	undergo		
+四	undergraduate					
+四	underground		小	underground		
+六	underlie	underlying				
+四	underline		高	underline		
+四	undermine					
+四	underneath					
+	underpass		高			
+四	understand	understanding	小	understand		
+四	undertake	undertaking	高考	undertake		
+四	underwear		高考	underwear		
+四	undo		高	undo		
+四	undoubtedly					
+	unearth		高			
+四	uneasy					
+四	unemployed	unemployment	高考	unemployment		
+六	unfold					
+四	uniform	uniformity	小	uniform		
+六	unify	unification				
+六	unilateral					
+四	union		初	union		
+四	unique		初	unique		
+四	unit		小	unit		
+四	unite	unity	初	unite		
+四	universe	universal	初	universe	高	universal
+四	university		初	university		
+六	unleash					
+四	unless		初	unless		
+六	unprecedented					
+四	until		高考	until		
+六	unveil					
+四	up		小	up		
+四	update		高考	update		
+四	upgrade					
+六	uphold					
+四	upload					
+四	upon		初	upon		
+四	upper		高	upper		
+四	upright					
+六	uprising					
+四	upset		初	upset		
+四	upstairs		初	upstairs		
+四	up-to-date		高	up-to-date		
+四	upward	upwards	高	upward(s)		
+六	uranium					
+四	urban	urbanize/-ise,urbanization/-sation	高	urban		
+四	urge		初	urge		
+四	urgent	urgency	初	urgent		
+六	urine	urinate				
+四	us		小	us		
+四	usage		高	usage		
+四	use	user,useful,useless	小	use	高考	useless
+四	used		高	used		
+四	usual	usually,unusual(高考)	高考	usual	高	unusual
+四	utility					
+四	utilize/-ise	utilization/-sation				
+四	utmost					
+四	utter	utterly				
+四	vacant	vacancy	高	vacant		
+四	vacation		高	vacation		
+六	vaccine	vaccinate,vaccination				
+四	vacuum		高	vacuum		
+四	vague		高考	vague		
+四	vain	vanity	高考	vain		
+四	valid	validate,validity	高考	valid		
+四	valley		初	valley		
+四	value	valuable	初	value	高考	valuable
+六	valve					
+四	van		小	van		
+四	vanish					
+四	vapo(u)r		高	vapo(u)r		
+四	various	variety	初	various	初	variety
+四	vary	variation,variable,variant,invariable(研)	高	vary		
+	vase		高			
+四	vast		高	vast		
+	VCR		高			
+四	vegetable	vegetarian	小	vegetable	高	vegetarian
+六	vegetation					
+四	vehicle		初	vehicle		
+四	veil					
+六	vein					
+六	velocity					
+六	velvet					
+四	vendor					
+六	vent					
+六	ventilate	ventilation				
+四	venture		高	venture		
+六	venue		高	venue		
+四	verb	verbal	高	verb		
+六	verdict					
+六	verge					
+四	verify	verification				
+六	versatile					
+六	verse					
+四	version		高	version		
+四	versus					
+四	vertical		高考	vertical		
+四	very		小	very		
+四	vessel					
+六	vest		高	vest		
+四	veteran					
+四	veto					
+四	via		高考	via		
+六	viable					
+六	vibrate	vibration				
+六	vice		高	vice		
+六	vicinity					
+六	vicious					
+四	victim	victimize	高	victim		
+四	victory	victorious	初	victory		
+四	video		小	video		
+	videophone		高考			
+四	view		初	view		
+四	viewpoint		高	viewpoint		
+四	vigor	vigorous	高	vigo(u)r		
+四	village	villager	初	village	高考	villager
+四	vinegar		高考	vinegar		
+四	violate	violation	高考	violate		
+四	violent	violence	高考	violent	初	violence
+四	violin	violinist	小	violin	高考	violinist
+六	virgin	virginity				
+四	virtual	virtually				
+四	virtue	virtuous	高	virtue		
+四	virus		高	virus		
+四	visa		高考	visa		
+四	visible	visibility	高	visible		
+四	vision	visionary	高	vision		
+四	visit	visitor	小	visit	高考	visitor
+四	visual	visualize/-ise	高考	visual		
+四	vital	vitality	初	vital		
+四	vitamin		高	vitamin		
+四	vivid		高	vivid		
+四	vocabulary		高	vocabulary		
+六	vocal					
+四	vocation	vocational	高	vocation		
+六	vogue					
+四	voice		小	voice		
+六	void					
+六	volatile	volatility				
+四	volcano	volcanic	高考	volcano		
+四	volleyball		小	volleyball		
+四	volt	voltage				
+四	volume	voluminous	初	volume		
+四	volunteer	voluntary	高	volunteer	初	voluntary
+四	vote	voter	初	vote		
+六	voucher					
+六	vow					
+四	voyage		高	voyage		
+六	vulgar					
+四	vulnerable	vulnerability				
+	wag		高			
+四	wage		初	wage		
+四	wag(g)on		高	wagon		
+四	waist		高	waist		
+四	wait	waiter,waitress	小	wait	高考	waitress
+	waiting-room		高考			
+六	waive	waiver				
+四	wake	waken	小	wake	高	waken
+四	walk		小	walk		
+	Walkman		高			
+四	wall		小	wall		
+四	wallet		高	wallet		
+	walnut		高考			
+四	wander		高	wander		
+四	want		小	want		
+四	war		初	war		
+四	ward		高	ward		
+六	wardrobe					
+四	ware		高	ware		
+四	warehouse		高考	warehouse		
+四	warfare					
+四	warm	warmth	小	warm	高考	warmth
+四	warn	warning	初	warn		
+六	warrant					
+六	warranty					
+四	warrior					
+四	wary					
+四	wash	washing	小	wash		
+	washroom		高考			
+四	waste	wasteful	初	waste		
+四	watch	watchful	小	watch		
+四	water		小	water		
+	waterfall		高			
+	watermelon		高考			
+四	waterproof		高	waterproof		
+四	watertight					
+六	watt					
+四	wave	wavy	小	wave		
+四	wax		高	wax		
+四	way		小	way		
+四	we		小	we		
+四	weak	weaken,weakness	小	weak	高考	weakness
+四	wealth	wealthy	初	wealth	高考	wealthy
+四	weapon		初	weapon		
+四	wear	worn(高考)	小	wear	高考	worn
+六	weary	weariness				
+四	weather		小	weather		
+四	weave		高	weave		
+四	web		高	web		
+四	webcast					
+四	website		高考	website		
+四	wed	wedding	初	wedding		
+六	wedge					
+四	Wednesday		小	Wednesday/Wed.		
+四	weed		高	weed		
+四	week	weekly	小	week	高考	weekly
+四	weekday		高考	weekday		
+四	weekend		初	weekend		
+四	weep		高	weep		
+四	weigh	weight	初	weigh	高	weight
+四	weird					
+四	welcome		小	welcome		
+四	welfare		初	welfare		
+四	well		小	well		
+四	well-being					
+四	well-known		高	well-known		
+四	well-off					
+四	west	western,westerner	小	west	高	western
+	westward(s)		高考			
+四	wet		小	wet		
+四	whale		高	whale		
+六	wharf					
+四	what	whatever,whatsoever	小	what	初	whatever
+四	wheat		高	wheat		
+四	wheel		初	wheel		
+四	when	whenever	小	when	初	whenever
+四	where	wherever	小	where	初	wherever
+六	whereabouts					
+四	whereas					
+六	whereby					
+四	whether		初	whether		
+四	which	whichever	小	which	高考	whichever
+四	while/whilst		初	while		
+四	whip		高	whip		
+六	whirl					
+	whirlpool		高			
+四	whiskey/whisky		高	whiskey/whisky		
+四	whisper		初	whisper		
+四	whistle		高	whistle		
+四	white		小	white		
+	whitewash		高			
+四	who	whoever	小	who	高	whoever
+四	whole	wholly	初	whole		
+六	wholesale		高	wholesale		
+六	wholesome					
+四	whom		初	whom		
+四	whose		小	whose		
+四	why		小	why		
+六	wicked					
+四	wide	width,widen	初	wide	高	width
+四	widespread		高考	widespread		
+四	widow	widower	高	widow		
+六	wield					
+四	wife		初	wife		
+四	wild		小	wild		
+四	wilderness					
+四	wildlife		高考	wildlife		
+四	will	willing,willingness,unwilling(高考)	小	will	高考	unwilling
+	willow		高			
+四	willpower					
+四	win	winner	小	win	高考	winner
+四	wind	windy	小	wind	小	windy
+四	window		小	window		
+四	wine	winery	初	wine		
+四	wing		初	wing		
+六	wink					
+四	winter		小	winter		
+四	wipe		初	wipe		
+四	wire	wireless	初	wire		
+四	wise	wisdom	初	wise	高	wisdom
+四	wish		小	wish		
+四	wit	witty	高	wit		
+六	witch					
+四	with		小	with		
+四	withdraw	withdrawal	高	withdraw		
+六	wither					
+六	withhold					
+四	within		初	within		
+四	without		初	without		
+四	withstand					
+四	witness		初	witness		
+四	wolf		高	wolf		
+四	woman		小	woman		
+四	wonder	wonderful	初	wonder	高考	wonderful
+四	wood	wooden	初	wood		
+四	wool	wool(l)en	初	wool	高考	wool(l)en
+四	word	wording	小	word		
+四	work	worker	小	work	小	worker
+四	workforce					
+四	workout					
+四	workshop					
+四	world		小	world		
+四	worldwide		高	worldwide		
+四	worm		高	worm		
+四	worry	worried	初	worry	高考	worried
+四	worse					
+四	worship					
+四	worst					
+四	worth	worthless	初	worth	高	worthless
+四	worthwhile		高考	worthwhile		
+四	worthy	worthiness	高	worthy		
+四	would		小	would		
+四	wound		初	wound		
+四	wrap	wrapping	初	wrap		
+四	wreck	wreckage	高	wreck		
+六	wrench					
+六	wrestle	wrestling	高考	wrestle		
+六	wretched					
+四	wrinkle		高考	wrinkle		
+四	wrist		高	wrist		
+四	write	writer,writing	小	write		
+四	wrong		小	wrong		
+四	X-ray					
+	x-ray		高			
+六	yacht					
+四	yard		初	yard		
+六	yawn		高	yawn		
+四	year	yearly	小	year		
+六	yearn	yearning				
+四	yell		高考	yell		
+四	yellow		小	yellow		
+四	yes	yeah	小	yes/yeah		
+四	yesterday		初	yesterday		
+四	yet		初	yet		
+四	yield					
+四	yoga					
+四	yoghurt		高考	yoghurt		
+	yogurt		高			
+四	you		小	you		
+四	young		小	young		
+四	youngster		高	youngster		
+四	your		小	your		
+四	yours		小	yours		
+四	yourself	yourselves	初	yourself		
+四	youth	youthful	初	youth		
+	yummy		高考			
+六	zeal	zealous				
+	zebra		小			
+四	zero		小	zero		
+六	zigzag		高	zigzag		
+六	zip	zipper	高	zip	高考	zipper
+四	zone		高	zone		
+四	zoo		小	zoo		
+	zookeeper		高			
+四	zoology	zoological	高	zoology		
+六	zoom		高	zoom		
