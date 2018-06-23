@@ -36,8 +36,8 @@
 研纲	accomplish
 研纲	accord
 研纲	accordance
-研纲	accordingly
 研纲	according(-to)
+研纲	accordingly
 研纲	account
 研纲	accountant
 研纲	accumulate
@@ -1569,7 +1569,6 @@
 研纲	elbow
 研纲	elder
 研纲	elect
-研纲	electric
 研纲	electric(al)
 研纲	electrician
 研纲	electricity
@@ -2535,8 +2534,8 @@
 研纲	inspiration
 研纲	inspire
 研纲	instal(l)
-研纲	instal(l)ment
 研纲	instal(l)ation
+研纲	instal(l)ment
 研纲	instance
 研纲	instant
 研纲	instantaneous
@@ -3055,7 +3054,7 @@
 研纲	missionary
 研纲	mist
 研纲	mistake
-研纲	Mrs.(mistress)
+研纲	mistress/Mrs.
 研纲	misunderstand
 研纲	mix
 研纲	mixture
@@ -4557,7 +4556,6 @@
 研纲	sow
 研纲	space
 研纲	spaceship/spacecraft
-研纲	spaceship
 研纲	spacious
 研纲	spade
 研纲	span
@@ -5430,7 +5428,7 @@
 研纲	withstand
 研纲	witness
 研纲	wolf
-研纲	woman/(pl.women）
+研纲	woman/(pl.women)
 研纲	wonder
 研纲	wonderful
 研纲	wood

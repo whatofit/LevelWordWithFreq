@@ -39,7 +39,7 @@ public class AddColumn {
 		// 2.处理coca原文件集合为word list
 		RegEx.spelling_Idx = 1;
 		Map<String, String> augendMap = loadWordList(cfg_augend);
-		RegEx.spelling_Idx = 1;
+		RegEx.spelling_Idx = 2;
 		Map<String, String> addendMap = loadWordList(cfg_addend);
 
 		List<String> wordLines = new ArrayList<String>();
@@ -59,31 +59,43 @@ public class AddColumn {
 					addendMap.remove(augendKeyWord);
 					isContinue = true;
 				} else {
-					//System.out.println("augendMapValue.trim=" + augendMapValue.trim());
+					// System.out.println("augendMapValue.trim=" + augendMapValue.trim());
 					String[] field = augendMapValue.trim().split("\\s"); //
 					if (field != null && field.length > 2) {
-						//System.out.println("augendMapValue,field=" + Arrays.toString(field));
+						// System.out.println("augendMapValue,field=" + Arrays.toString(field));
 						String[] words = field[2].replaceAll("\"", "").split(",");
 						for (int i = 0; words != null && i < words.length; i++) {
 							String derivedWord = RegEx.removeBrackets(words[i]);
 							if (addendMap.containsKey(derivedWord)) {
-								// newLine += "\t" + addendMap.get(derivedWord);
-								augendMap.put(augendKeyWord, augendMapValue + "\t" + addendMap.get(derivedWord));
+								String addendLine = addendMap.get(derivedWord);
+								//if (augendMapValue.contains("研纲") || augendMapValue.contains("小")
+								//		|| augendMapValue.contains("初") || augendMapValue.contains("高")) {
+								if (augendMapValue.contains("研纲") || augendMapValue.contains("基础教育")) {
+									String[] addendField = addendLine.trim().split("\\s"); //
+									augendMap.put(augendKeyWord, augendMapValue + "," + addendField[2]);//addendField[1]/addendField[2]
+								} else {
+									augendMap.put(augendKeyWord, augendMapValue + "\t" + addendLine);
+								}
+								augendMapValue = augendMap.get(augendKeyWord);// key已变化，重新取key
 								addendMap.remove(derivedWord);
 								isContinue = true;
 							}
 						}
 					}
 				}
+				if (addendMap.size() == 0) {
+					break;
+				}
 			}
 		}
-		;
 
 		for (Iterator<Entry<String, String>> it = addendMap.entrySet().iterator(); it.hasNext();) {
 			Map.Entry<String, String> entry = it.next();
 			String word = (String) entry.getKey();
 			String addendLine = (String) entry.getValue();
-			String newLine = "\t\t\t\t\t\t" + addendLine;
+			String[] field = addendLine.trim().split("\\s"); //
+			// String newLine = "\t\t\t\t\t\t\t" + addendLine;
+			String newLine = "\t" + field[1] + "\t\t" + "\t\t" + addendLine;// field[0];//"\t\t\t\t" +
 			// wordLines.add(newLine);
 			augendMap.put(word, newLine);
 		}
