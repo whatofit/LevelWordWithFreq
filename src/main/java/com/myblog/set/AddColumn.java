@@ -39,12 +39,12 @@ public class AddColumn {
 		String cfg_sum_result = CfgUtil.getPropCfg(Constant.FILE_CONFIG_FILE, "cfg_sum_result");
 
 		// 2.处理原文件集合为word list
-		RegEx.spelling_Idx = (mergeType == 0 ? 1 : 0);
+		RegEx.spelling_Idx = 1;
 		Map<String, String> augendMap = loadWordList(cfg_augend);
 		RegEx.spelling_Idx = (mergeType == 0 ? 1 : 2);
 		Map<String, String> addendMap = loadWordList(cfg_addend);
 
-		List<String> wordLines = new ArrayList<String>();
+		// List<String> wordLines = new ArrayList<String>();
 		// Map<String, String> wordMap = new HashMap<String, String>();
 		boolean isContinue = true;
 		while (isContinue) {
@@ -53,7 +53,6 @@ public class AddColumn {
 				Map.Entry<String, String> entry = it.next();
 				String augendKeyWord = (String) entry.getKey();
 				String augendMapValue = (String) entry.getValue();
-				// String newLine = augendMapValue;
 				// colo(u)r单词在考研单词词义的备注中
 				if (addendMap.containsKey(augendKeyWord)) {// 在addendMap中找augendWord
 					// newLine += "\t" + addendMap.get(word);
@@ -63,9 +62,9 @@ public class AddColumn {
 				} else {
 					// System.out.println("augendMapValue.trim=" + augendMapValue);//.trim()
 					String[] field = augendMapValue.split("\\s"); // .trim()
-					if (field != null && field.length > 3) {
+					if (field != null && field.length > 2) {
 						// System.out.println("augendMapValue,field=" + Arrays.toString(field));
-						String[] words = field[3].replaceAll("\"", "").split(",");
+						String[] words = field[2].replaceAll("\"", "").split(",");
 						for (int i = 0; words != null && i < words.length; i++) {
 							String derivedWord = RegEx.removeBrackets(words[i]);
 							if (addendMap.containsKey(derivedWord)) {// 在addendMap中找augendWord的derivedWord
@@ -84,7 +83,7 @@ public class AddColumn {
 									if (augendMapValue.contains("小初高")) {
 										String[] addendField = addendLine.trim().split("\\s"); // 后续,拼接
 										newLine = augendMapValue + "," + addendField[2];
-										System.out.println("augendMapValue.newLine=" + newLine);
+										//System.out.println("augendMapValue.newLine=" + newLine);
 									} else {
 										newLine = augendMapValue + "\t" + addendLine;// 第一次'\t'拼接
 									}
@@ -107,21 +106,16 @@ public class AddColumn {
 			Map.Entry<String, String> entry = it.next();
 			String word = (String) entry.getKey();
 			String addendLine = (String) entry.getValue();
-			// String[] field = addendLine.trim().split("\\s"); //
-			// String newLine = "\t\t\t\t\t\t\t" + addendLine;
-			// String newLine = "\t" + field[1] + "\t\t" + "\t\t" + addendLine;//
-			// field[0];//"\t\t\t\t" +
+			String[] field = addendLine.trim().split("\\s"); //
 			String newLine = "";
 			if (mergeType == 0) {
-				newLine = "\t\t\t" + addendLine;// 前面是四六级+word+衍生word三列
+				newLine = "无\t" + field[1] + "\t\t" + addendLine;// 前面是四六级+word+衍生word三列
 			} else {
-				newLine = "\t\t\t\t\t\t" + addendLine;// 前面是关键词+四六级+word+衍生word三列+研纲+多个都逗号分隔的词汇
+				newLine = "无\t" + field[2] + "\t\t\t\t" + addendLine;// 前面是关键词+四六级+word+衍生word三列+研纲+多个都逗号分隔的词汇
 			}
-			// wordLines.add(newLine);
 			augendMap.put(word, newLine);
 		}
-		// wordLines.add(newLine);
-		wordLines = Utils.SortMap(augendMap);
+		List<String> wordLines = Utils.SortMap(augendMap, false);
 		// 3.保存word list
 		String wordFile = Constant.PATH_RESOURCES + cfg_sum_result;
 		ResourceUtil.writerFile(wordFile, wordLines, false);

@@ -608,7 +608,7 @@
 高	choir	n	
 高	choke	n&v	
 高	choose	v	
-高	chopstick	n	
+高	chopstick(s)	n	
 高	chorus	n	
 高	Christian	n	
 高	Christmas	n	
@@ -2813,7 +2813,7 @@
 高	stewardess	n	
 高	stick	v&n	
 高	still	a&ad	
-高	stocking	n	
+高	stocking(s)	n	
 高	stomach	n	
 高	stone	n	
 高	stop	n&v	
