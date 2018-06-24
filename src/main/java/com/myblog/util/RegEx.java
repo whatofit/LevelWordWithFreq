@@ -234,6 +234,17 @@ public class RegEx {
 		word.setSentences(line);
 		return word;
 	}
+	
+	public static Word split2Word2(String line) {
+		String[] field = line.trim().split(",");
+		String spelling = "";
+		if (spelling_Idx < field.length) {
+			spelling = field[spelling_Idx];
+		}
+		Word word = new Word(removeBrackets(spelling)); // spelling.replaceAll("[()]", ""); 删除()小括号
+		word.setSentences(line);
+		return word;
+	}
 
 	// public static String split2Word2(String line) {
 	// String []field = line.trim().split("\\s");
