@@ -234,7 +234,7 @@ public class RegEx {
 		word.setSentences(line);
 		return word;
 	}
-	
+
 	public static Word split2Word2(String line) {
 		String[] field = line.trim().split(",");
 		String spelling = "";
@@ -402,6 +402,7 @@ public class RegEx {
 			} else {
 				level = "48";
 			}
+
 			word = word.replaceAll("[()]", ""); // 删除()小括号
 			// System.out.println("group 1-2:" +cet + "," + word);
 
@@ -412,6 +413,45 @@ public class RegEx {
 			arr[1] = level;
 		}
 		return arr;
+	}
+
+	// ★ authoritative
+	// ▲ austere
+	// ★ authorize/-ise
+	// ax(e)
+	// ★ behavio(u)ral
+	// airplane/aeroplane
+	public static String fmtWord(String line) {
+		// /匹配双字节字符(包括汉字在内)：[^x00-xff]
+		String regEx = "([^x00-xff])\\s*([a-z-A-Z()/'\\.]+)";
+		Pattern p = Pattern.compile(regEx);
+		Matcher matcher = p.matcher(line);
+		if (matcher.find()) {
+			int gc = matcher.groupCount();
+			// System.out.println("gc = " + gc);
+			// 一般要求4794个单词（含中学已学词汇），表中不设标记；
+			// 较高要求1601个单词，表中标记为★；
+			// 更高要求1281个单词，表中标记为▲。
+			String cet = matcher.group(1);
+			String word = matcher.group(2);
+			String level = "";
+			String freq = "";
+			if (cet.equals("★")) {
+				level = "六级";
+			} else if (cet.equals("▲")) {
+				level = "更高";
+			} else {
+				level = "四级";
+			}
+
+			// word = word.replaceAll("[()]", ""); // 删除()小括号
+			word = word.replaceAll("[\\d]", "").trim();// .replaceAll("/.*$", "").trim();
+			// return level+","+word;
+			return word + "," + level;
+			// return removeBrackets(word);
+			// return word;
+		}
+		return "";
 	}
 
 	// 获取4级单词/6级单词/大学要求所有单词
@@ -713,14 +753,14 @@ public class RegEx {
 		Matcher matcher = pattern.matcher(line);
 		if (matcher.find()) {
 			String bracketContent = matcher.group();
-			//System.out.println("fmtNCEEWordLine bracketContent:" + bracketContent);
+			// System.out.println("fmtNCEEWordLine bracketContent:" + bracketContent);
 			if (bracketContent.startsWith("Am ")) {
 				line = line.replaceFirst("\\(" + bracketContent + "\\)", "");
 				line = bracketContent.replaceFirst("Am ", "") + "/" + line;
 			}
 		}
-		
-		//line = line.replaceAll("\\s+", "\t");
+
+		// line = line.replaceAll("\\s+", "\t");
 		return line;
 	}
 }

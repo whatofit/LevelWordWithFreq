@@ -191,7 +191,7 @@
    ahead
    aid
 ▲ aide
-   AIDS
+#   AIDS
 ▲ ailment
    aim
    air
@@ -1054,7 +1054,7 @@
    cave
 ▲ cavern
 ★ cavity
-   CDROM
+#   CDROM
    cease
 ▲ cedar
    ceiling
@@ -2127,7 +2127,7 @@
    division
    divorce
    dizzy
-   DNA
+#   DNA
    do
 ★ dock
    doctor
@@ -2235,7 +2235,7 @@
    dustbin
    dusty
    duty
-   DVD
+#   DVD
    dwarf
 ★ dwell
 ★ dweller
@@ -2261,7 +2261,7 @@
    easy
    easy-going
    eat
-   eBay
+#   eBay
 ▲ ebb
 ★ eccentric
    echo
@@ -3303,7 +3303,7 @@
    hit
 ▲ hitch
 ★ hitherto
-   HIV
+#   HIV
 ★ hive
 ▲ hoard
 ▲ hoarse
@@ -5939,7 +5939,7 @@
 ▲ sanitation
 ★ sarcasm
 ▲ sarcastic
-★ SARS
+#★ SARS
    satellite
 ▲ satire
    satisfaction
@@ -7325,7 +7325,7 @@
 ▲ vase
    vast
 ▲ vault
-   VCD - video com-pact disk
+#   VCD - video com-pact disk
    vegetable
 ★ vegetation
    vehicle

@@ -44,7 +44,7 @@ public class MergeLevelWrod2CET {
 				// System.out.println("augendKeyWord \t augendMapValue=" +
 				// augendKeyWord+"\t"+augendMapValue);
 				// colo(u)r单词在考研单词词义的备注中
-				if (addendMap.containsKey(augendKeyWord)) {// 在addendMap中找augendWord
+				if (addendMap.containsKey(augendKeyWord)) {// 1.若在addendMap的key中找到augendWord
 					// 修改Map中key的Value:增加列数
 					augendMap.put(augendKeyWord, augendMapValue + "," + addendMap.get(augendKeyWord));
 					addendMap.remove(augendKeyWord);
@@ -56,7 +56,7 @@ public class MergeLevelWrod2CET {
 						String[] words = augendField[2].replaceAll("\"", "").split(";");// 分开CET衍生词
 						for (int i = 0; words != null && i < words.length; i++) {// 循环CET衍生词
 							String derivedWord = RegEx.removeBrackets(words[i]);// 规范化衍生词
-							if (addendMap.containsKey(derivedWord)) {// 若在addendMap的key中找到augendWord的衍生词derivedWord
+							if (addendMap.containsKey(derivedWord)) {// 2.若在addendMap的key中找到augendWord的衍生词derivedWord
 								String addendLine = addendMap.get(derivedWord);
 								String newLine = "";
 								int curLineColCnt = getLineColumnCnt(augendMapValue);
