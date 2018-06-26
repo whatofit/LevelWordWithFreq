@@ -12,7 +12,7 @@
 四,abroad,
 六,abrupt,
 四,absent,absence
-四,absolute,absolutely(高中)
+四,absolute,absolutely(COCA/高中)
 四,absorb,absorption
 四,abstract,
 六,absurd,absurdity
@@ -378,7 +378,7 @@
 四,backyard,
 四,bacon,
 四,bacteria,
-四,bad,badly
+四,bad,badly(四)
 四,badge,
 四,badminton,
 六,baffle,
@@ -443,7 +443,7 @@
 六,beak,
 四,beam,
 四,bean,
-四,bear,bearing;unbearable(高考)
+四,bear,bearing(四);unbearable(高考)
 四,beard,
 四,beast,
 四,beat,
@@ -740,7 +740,7 @@
 四,card,
 四,cardboard,
 六,cardinal,
-四,care,careful;careless,carefully(初中)
+四,care,careful;careless;carefully(COCA/初中)
 四,career,
 四,cargo,
 四,carpenter,
@@ -998,7 +998,7 @@
 六,complacent,complacency
 四,complain,complaint
 六,complement,complementary
-四,complete,completion;completely(初中)
+四,complete,completion;completely(COCA/初中)
 四,complex,complexity
 六,complexion,
 四,complicate,complicated;complication
@@ -1436,7 +1436,7 @@
 四,dip,
 四,diploma,
 四,diplomat,diplomatic;diplomacy
-四,direct,direction;director;directly(初中)
+四,direct,direction;director;directly(COCA/初中)
 六,directory,
 四,dirt,dirty
 四,disable,disabled;disability
@@ -1704,7 +1704,7 @@
 四,enterprise,enterprising
 四,entertain,entertainment;entertaining
 四,enthusiasm,enthusiastic;enthusiastically;enthusiast
-四,entire,entirety;entirely(高中)
+四,entire,entirety;entirely(COCA/高中)
 四,entitle,
 六,entity,
 四,entrepreneur,entrepreneurial
@@ -1767,7 +1767,7 @@
 四,evil,
 六,evoke,
 四,evolve,evolution;evolutionary
-四,exact,exactly(初中)
+四,exact,exactly(COCA/初中)
 四,exaggerate,exaggeration
 四,examine,exam(ination);examiner;examinee
 四,example,exemplary;exemplify
@@ -1827,7 +1827,7 @@
 六,extract,extraction
 四,extraordinary,
 六,extravagant,extravagance
-四,extreme,extremity;extremely(高中)
+四,extreme,extremity;extremely(COCA/高中)
 四,eye,
 四,eyebrow,
 四,eyesight,
@@ -1851,7 +1851,7 @@
 四,faith,faithful
 四,fake,
 四,fall,
-四,FALSE,falsehood
+四,false,falsehood
 四,fame,famous
 四,familiar,familiarity;familiarize/-ise
 四,family,
@@ -2037,7 +2037,7 @@
 四,freeway,
 四,freeze,freezing(高考)
 四,freight,
-四,frequent,frequency;frequently(高中)
+四,frequent,frequency;frequently(COCA/高中)
 四,fresh,
 四,freshman,
 六,friction,
@@ -2057,7 +2057,7 @@
 四,fuck,
 四,fuel,
 四,fulfil(l),fulfil(l)ment
-四,full,fully(初中)
+四,full,fully(COCA/初中)
 四,fun,funny
 四,function,functional
 四,fund,funding
@@ -2182,7 +2182,7 @@
 四,gray/grey,
 六,graze,
 六,grease,greasy
-四,great,greatest(初中);greatly(高中)
+四,great,greatest(COCA/初中);greatly(COCA/高中)
 六,greed,greedy
 四,green,
 四,greenhouse,
@@ -2201,7 +2201,7 @@
 四,gross,
 四,ground,
 四,group,
-四,grow,growth;grown-up(研);growing(初中)
+四,grow,growth;grown-up(研);growing(COCA/初中)
 四,guarantee,
 四,guard,guardian
 四,guess,
@@ -2529,8 +2529,7 @@
 四,insist,insistence;insistent
 四,inspect,inspection;inspector
 四,inspire,inspiration;inspirational
-四,install,installation
-四,installment,
+四,install,installation;installment
 四,instance,
 四,instant,instantaneous
 四,instead,
@@ -2839,7 +2838,7 @@
 四,lord,
 四,lorry,
 四,lose,loss
-四,lot,lots(初中)
+四,lot,lots(COCA/初中)
 六,lotion,
 六,lottery,
 四,loud,loudly
@@ -3183,7 +3182,7 @@
 四,noon,
 四,nor,
 四,norm,
-四,normal,normally;normalize/-ise;normalization/-sation,abnormal(六),
+四,normal,normally;normalize/-ise;normalization/-sation;abnormal(六)
 四,north,northern
 四,northeast,northeastern
 四,northwest,northwestern
@@ -3304,7 +3303,7 @@
 四,ornament,ornamental
 四,orphan,orphanage
 六,orthodox,
-四,other,others(初中)
+四,other,others(COCA/初中)
 四,otherwise,
 四,ought(-to),
 四,ounce,
@@ -3689,7 +3688,7 @@
 四,process,processor
 四,procession,
 四,proclaim,proclamation
-四,produce,production;productive;productivity;producer(高中)
+四,produce,production;productive;productivity;producer(COCA/高中)
 四,product,
 四,profession,professional
 四,professor,
@@ -3772,7 +3771,7 @@
 六,quest,
 四,question,questionnaire
 四,queue,
-四,quick,quickly(初中)
+四,quick,quickly(COCA/初中)
 四,quiet,
 四,quit,
 四,quite,
@@ -3887,7 +3886,7 @@
 四,reject,rejection
 六,rejoice,rejoicing
 四,relate,relation;relationship
-四,relative,relativity;relatively(初中)
+四,relative,relativity;relatively(COCA/初中)
 四,relax,relaxation
 四,relay,
 四,release,
@@ -4057,7 +4056,7 @@
 四,sake,
 四,salad,
 四,salary,
-四,sale,salesgirl(高考);sales(初中)
+四,sale,salesgirl(高考);sales(COCA/初中)
 四,salesman,
 六,salmon,
 六,salon,
@@ -4238,7 +4237,7 @@
 四,sightseeing,
 四,sign,signature
 四,signal,
-四,significant,significance;significantly(高中)
+四,significant,significance;significantly(COCA/高中)
 六,signify,
 四,silent,silence
 四,silicon,
@@ -4298,7 +4297,7 @@
 四,slogan,
 四,slope,
 六,slot,
-四,slow,slowly(初中)
+四,slow,slowly(COCA/初中)
 六,slum,
 六,slump,
 四,small,
@@ -4605,7 +4604,7 @@
 四,supplement,supplementary
 四,supply,supplier
 四,support,supportive;supporter
-四,suppose,supposition;supposedly;supposed(初中);supposedly(托雅)
+四,suppose,supposition;supposedly;supposed(COCA/初中);supposedly(COCA/托雅)
 六,suppress,suppression;suppressive
 四,supreme,supremacy
 四,sure,
@@ -4717,7 +4716,7 @@
 四,tent,
 六,tentative,
 六,tenure,
-四,term,terms(初中)
+四,term,terms(COCA/初中)
 四,terminal,
 六,terminate,termination
 六,terrace,
@@ -4735,7 +4734,7 @@
 四,textile,
 六,texture,
 四,than,
-四,thank,thankful;thanks(初中)
+四,thank,thankful;thanks(COCA/初中)
 四,Thanksgiving,
 四,that,
 四,the,
@@ -4916,7 +4915,7 @@
 四,trouble,troublesome
 四,trousers,
 四,truck,
-四,TRUE,truly
+四,true,truly
 六,trumpet,
 四,trunk,
 四,trust,trustee
@@ -4982,7 +4981,7 @@
 四,union,
 四,unique,
 四,unit,
-四,unite,unity;United(初中)
+四,unite,unity;United(COCA/初中)
 四,universe,universal
 四,university,
 六,unleash,
@@ -5232,7 +5231,7 @@
 四,wood,wooden
 四,wool,wool(l)en
 四,word,wording
-四,work,worker;works(初中)
+四,work,worker;works(COCA/初中)
 四,workforce,
 四,workout,
 四,workshop,

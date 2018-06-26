@@ -58,21 +58,28 @@ public class MergeDuplicateCOCA {
 	public static Map<String, String> wordList2SetWithMerge(List<String> cocaFileLines) {
 		Map<String, String> mapWords = new HashMap<String, String>();
 		for (String curFileLine : cocaFileLines) {// 待循环(可能重复)列表
-			String[] fileLine = curFileLine.split("\\s");// \t
-			String strWord = fileLine[1];
+			String[] curLineField = curFileLine.split("\\s");// \t
+			String strWord = curLineField[1];
 			// 转为小写
-			String key = strWord.toLowerCase();
-			// String key = strWord;
+			//String key = strWord.toLowerCase();
+			String key = strWord;
 			if (mapWords.containsKey(key)) {
-				String oldWord = mapWords.get(key);
-				String[] wordLine = oldWord.split("\\s");// \t
-				String newWordLine = wordLine[0] + "/" + fileLine[0] + "\t" + wordLine[1];
-				if (wordLine.length > 2) {
-					newWordLine += "\t" + wordLine[2] + "/" + fileLine[2];
+				String mapWord = mapWords.get(key);
+				String[] mapWordField = mapWord.split(",");// \t
+				String field1 = mapWordField[1];
+				if ("".equals(field1)) {
+					field1 = curLineField[0];
+				} else {
+					field1 += "/" + curLineField[0];
+				}
+				String newWordLine = mapWordField[0] + "," + field1 + "," + key;
+				if (curLineField.length >= 3 && mapWordField.length >= 4) {
+					newWordLine += "," + mapWordField[3] + "/" + curLineField[2];
 				}
 				mapWords.put(key, newWordLine);
 			} else {
-				mapWords.put(key, curFileLine);
+				String newWordLine = curLineField[0] + ",," + curLineField[1] + "," + curLineField[2];
+				mapWords.put(key, newWordLine);
 			}
 		}
 

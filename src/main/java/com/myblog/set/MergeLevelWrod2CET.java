@@ -1,5 +1,6 @@
 package com.myblog.set;
 
+import java.util.HashMap;
 import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
@@ -27,6 +28,7 @@ public class MergeLevelWrod2CET {
 
 		RegEx.spelling_Idx = 1;
 		Map<String, String> augendMap = loadWordList(cfg_augend);
+		RegEx.spelling_Idx = 2;
 		Map<String, String> addendMap = loadWordList(cfg_addend);
 		int augendColumnCnt = getFileMaxColumnCnt(cfg_augend);
 		// int addendColumnCnt = getFileColumnCnt(cfg_addend);
@@ -79,17 +81,18 @@ public class MergeLevelWrod2CET {
 				}
 			}
 		}
-
+		Map<String, String> wordMap = new HashMap<String, String>();
 		for (Iterator<Entry<String, String>> it = addendMap.entrySet().iterator(); it.hasNext();) {
 			Map.Entry<String, String> entry = it.next();
 			String word = (String) entry.getKey();
 			String addendLine = (String) entry.getValue();
 			String[] field = addendLine.trim().split(",");
 			// 前面是四六级+word+衍生word三列+研纲+多个都逗号分隔的词汇
-			String newLine = "无," + field[1] + joinEmptyColumn(augendColumnCnt - 1) + addendLine;
+			String newLine = "无," + field[RegEx.spelling_Idx] + joinEmptyColumn(augendColumnCnt - 1) + addendLine;
 			augendMap.put(word, newLine);
+			wordMap.put(word, newLine);
 		}
-		List<String> wordLines = Utils.SortMap(augendMap, false);
+		List<String> wordLines = Utils.SortMap(wordMap, false);
 		// 3.保存word list
 		String wordFile = Constant.PATH_RESOURCES + cfg_sum_result;
 		ResourceUtil.writerFile(wordFile, wordLines, false);
