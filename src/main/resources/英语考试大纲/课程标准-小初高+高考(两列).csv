@@ -1,4 +1,4 @@
-小学,a/an
+﻿小学,a/an
 初中,abandon
 初中,ability
 初中,able
@@ -358,7 +358,7 @@
 高中,battery
 初中,battle
 高中,bay
-小学,be(am,is,are,was,were,being,been)
+小学,be(am/is/are/was/were/being/been)
 小学,beach
 高中,bead
 小学,bean
@@ -696,7 +696,7 @@
 小学,Christmas
 初中,church
 高中,cigar
-初中,cigaret(te)
+初中,cigarette/cigaret
 小学,cinema
 小学,circle
 初中,circuit
@@ -1945,7 +1945,7 @@
 初中,insist
 高中,inspect
 高中,inspire
-初中,instal(l)
+初中,install
 初中,instance
 高中,instant
 初中,instead
@@ -1968,7 +1968,7 @@
 小学,interesting
 初中,internal
 初中,international
-高中,internet
+高中,Internet/internet
 高中,interpret
 高考,interpreter
 初中,interrupt

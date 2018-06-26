@@ -1,22 +1,22 @@
 a/an
 abandon
-★abbreviation
-★abide
+★ abbreviation
+★ abide
 able ability
-★abnormal
+★ abnormal
 aboard
 abolish abolition
-★abort abortion
+★ abort abortion
 about
 above
-★abreast
+★ abreast
 abroad
-★abrupt
+★ abrupt
 absent absence
 absolute
 absorb absorption
 abstract
-★absurd absurdity
+★ absurd absurdity
 abundant abundance
 abuse abusive
 academy academic academician
@@ -24,9 +24,9 @@ accelerate acceleration
 accent
 accept acceptance acceptable
 access accessible
-★accessory
+★ accessory
 accident accidental
-★acclaim
+★ acclaim
 accommodate accommodation
 accompany
 accomplish accomplishment
@@ -50,53 +50,53 @@ acquire acquisition
 acre
 across
 act action acting
-★activate
+★ activate
 active activity activist
 actor actress
 actual actually
-★acupuncture
+★ acupuncture
 acute
 adapt adaptation adaptive
 add addition additional
 addict addiction addictive
 address
 adequate adequacy adequately
-★adhere adherence
-★adjacent
+★ adhere adherence
+★ adjacent
 adjective
 adjust adjustment
 administer/administrate administration administrative
 admire admiration admirable
 admit admission admittance admittedly
-★adolescent adolescence
+★ adolescent adolescence
 adopt adoption
-★adore adorable
+★ adore adorable
 adult adulthood
 advance advancement advanced
 advantage advantageous
-★advent
+★ advent
 adventure adventurer adventurous
 adverb
-★adversary
-★adverse adversity
+★ adversary
+★ adverse adversity
 advertise advertisement/ad advertising
 advice
 advise advisor/-er advisory advisable
 advocate advocacy
 aerial
-★aesthetic aesthetics
+★ aesthetic aesthetics
 affair
 affect
 affection affectionate
-★affiliate affiliation
-★affirm affirmation affirmative
-★affix affixation
+★ affiliate affiliation
+★ affirm affirmation affirmative
+★ affix affixation
 affluent affluence
 afford affordable affordability
-★afloat
+★ afloat
 afraid
 after
-★aftermath
+★ aftermath
 afternoon
 afterward(s)
 again
@@ -104,55 +104,55 @@ against
 age aged ag(e)ing
 agenda
 agent agency
-★aggravate aggravation
-★aggregate
+★ aggravate aggravation
+★ aggregate
 aggressive aggression
-★agitate agitation
+★ agitate agitation
 ago
-★agony
+★ agony
 agree agreement agreeable
 agriculture agricultural
 ahead
 aid
-★aide
+★ aide
 AIDS
-★ail ailment
+★ ail ailment
 aim
 air
-★airborne
+★ airborne
 air-conditioning air-conditioner
 aircraft
 airline
 airplane/aeroplane
 airport
 aisle
-★akin
+★ akin
 alarm
 album
 alcohol alcoholic
-★ale
+★ ale
 alert
 algebra
-★alien alienate alienation
-★align alignment
+★ alien alienate alienation
+★ align alignment
 alike
 alive
 all
 allege allegation alleged allegedly
-★allergic allergy
-★alleviate alleviation
+★ allergic allergy
+★ alleviate alleviation
 alley
-★allocate allocation
-★allot allotment
+★ allocate allocation
+★ allot allotment
 allow
 allowance
-★alloy
-★allude allusion
-★allure allurement
+★ alloy
+★ allude allusion
+★ allure allurement
 ally alliance
-★almighty
+★ almighty
 almost
-★aloft
+★ aloft
 alone
 along
 alongside
@@ -161,7 +161,7 @@ alphabet alphabetic(al)
 already
 also
 alter alteration
-★alternate alternation alternately
+★ alternate alternation alternately
 alternative
 although
 altitude
@@ -169,53 +169,53 @@ altogether
 alumin(i)um
 always
 am
-★amass
+★ amass
 amateur
 amaze amazing amazement
 ambassador
-★ambiguous ambiguity
+★ ambiguous ambiguity
 ambition ambitious
 ambulance
-★amend amendment
-★amiable
+★ amend amendment
+★ amiable
 amid(st)
-★ammunition
+★ ammunition
 among(st)
 amount
 ample
-★amplify amplification
+★ amplify amplification
 amuse amusing amusement
-★analogue analogous
-★analogy
+★ analogue analogous
+★ analogy
 analyze/-yse analysis analytic(al) analyst
 ancestor ancestry
 anchor anchorage
 ancient
 and
-★anecdote anecdotal
+★ anecdote anecdotal
 anew
 angel
 angle
 angry anger
-★anguish
+★ anguish
 animal
-★animate animated animation
+★ animate animated animation
 ankle
-★annex annexation
+★ annex annexation
 anniversary
 announce announcement
 annoy annoyance
 annual
-★anonymous anonymity
+★ anonymous anonymity
 another
 answer
 ant
-★antagonism antagonist antagonistic antagonistically
-★antenna
-★antibiotic
+★ antagonism antagonist antagonistic antagonistically
+★ antenna
+★ antibiotic
 anticipate anticipation
 antique
-★antonym
+★ antonym
 anxious anxiety
 any
 anybody/anyone
@@ -224,71 +224,71 @@ anything
 anyway
 anywhere
 apart
-apartment/apt．
-★ape
+apartment/apt.
+★ ape
 apology apologize/-ise apologetic
 app
-★appal(l) appalling
+★ appal(l) appalling
 apparatus
 apparent apparently
 appeal appealing
 appear appearance
-★appease appeasement
-★appendix
+★ appease appeasement
+★ appendix
 appetite
 applaud applause
 apple
 appliance
 apply application applicant applicable
 appoint appointment
-★appraise appraisal
+★ appraise appraisal
 appreciate appreciation appreciative
-★apprentice
+★ apprentice
 approach
 appropriate1
-★appropriate2 appropriation
+★ appropriate2 appropriation
 approve approval
 approximate approximately approximation
 April
-★apron
-★apt aptly
+★ apron
+★ apt aptly
 aptitude
 arbitrary arbitrarily
-★arbitrate arbitration
-★arc
-★arch
+★ arbitrate arbitration
+★ arc
+★ arch
 architect
 architecture
-★archive
-★ardent
+★ archive
+★ ardent
 area
-★arena
+★ arena
 argue argument argumentation argumentative arguable
 arise
-★aristocrat aristocratic aristocracy
+★ aristocrat aristocratic aristocracy
 arithmetic
 arm armament
-★armo(u)r
+★ armo(u)r
 army
 around
 arouse arousal
 arrange arrangement
-★array
+★ array
 arrest
 arrive arrival
-★arrogant arrogance
+★ arrogant arrogance
 arrow
 art artist artistic artistically
-★artery
+★ artery
 article
-★articulate articulation
-★artifact
+★ articulate articulation
+★ artifact
 artificial
-★artillery
+★ artillery
 as
-★ascend ascendance
-★ascertain
-★ascribe
+★ ascend ascendance
+★ ascertain
+★ ascribe
 ash
 ashamed
 ashore
@@ -296,34 +296,34 @@ aside
 ask
 asleep
 aspect
-★aspire aspiration
+★ aspire aspiration
 ass
-★assassinate assassination assassin
-★assault
+★ assassinate assassination assassin
+★ assault
 assemble assembly
-★assert assertion assertive
+★ assert assertion assertive
 assess assessment
 asset
 assign assignment
-★assimilate assimilation
+★ assimilate assimilation
 assist assistance assistant
 associate association
-★assorted
-★assortment
+★ assorted
+★ assortment
 assume assumption
 assure assurance
 astonish astonishment
-★astray
+★ astray
 astronaut
 astronomy astronomer astronomical
-★asylum
+★ asylum
 at
 athlete athletic
-★atlas
+★ atlas
 atmosphere atmospheric
 atom atomic
 atop
-★atrocity atrocious
+★ atrocity atrocious
 attach attachment
 attack
 attain attainment
@@ -335,12 +335,12 @@ attitude
 attorney
 attract attraction attractive
 attribute attributable attributive
-★auction auctioneer
+★ auction auctioneer
 audience
 audio
-★audit auditing auditor
+★ audit auditing auditor
 auditorium
-★augment augmentation
+★ augment augmentation
 August
 aunt auntie
 authentic authenticity
@@ -348,17 +348,17 @@ author
 authority authoritative
 authorize/-ise authorization/-sation
 auto(mobile)
-★autobiography autobiographic(al)
+★ autobiography autobiographic(al)
 automate automation automatic automatically
-★autonomous autonomy
+★ autonomous autonomy
 autumn
-★auxiliary
-★avail
+★ auxiliary
+★ avail
 available availability
-★avenge
+★ avenge
 avenue
 average
-★avert aversion
+★ avert aversion
 aviation
 avoid avoidance
 await
@@ -386,7 +386,7 @@ bad
 badge
 badly
 badminton
-★baffle
+★ baffle
 bag
 baggage
 bail
@@ -394,7 +394,7 @@ bait
 bake bakery
 balance
 balcony
-★bald
+★ bald
 ball
 ballet
 balloon
@@ -416,13 +416,13 @@ barbecue/BBQ
 barber
 bare barely
 bargain
-★barge
+★ barge
 bark
-★barn
-★barometer
-★barracks
+★ barn
+★ barometer
+★ barracks
 barrel
-★barren
+★ barren
 barrier
 base
 baseball
@@ -432,21 +432,21 @@ basin
 basis
 basket
 basketball
-★bass
+★ bass
 bat
 batch
 bath
 bathe
 bathroom
 battalion
-★batter
+★ batter
 battery
 battle
 bay
 be
 beach
-★bead
-★beak
+★ bead
+★ beak
 beam
 bean
 bear
@@ -456,13 +456,13 @@ beast
 beat
 beauty beautiful beautify
 because
-★beckon
+★ beckon
 become
 bed bedding
 bee
 beef
 beer
-★beetle
+★ beetle
 before
 beforehand
 beg beggar
@@ -483,13 +483,13 @@ bench
 bend
 beneath
 benefit beneficial beneficiary
-★benevolent benevolence
-★benign
+★ benevolent benevolence
+★ benign
 berry
-★beset
+★ beset
 beside
 besides
-★besiege
+★ besiege
 best
 best-seller best-selling
 bet
@@ -497,21 +497,21 @@ betray betrayal
 better
 between
 beverage
-★beware
-★bewilder bewilderment
+★ beware
+★ bewilder bewilderment
 beyond
 bias
 Bible Biblical/biblical
-★bibliography
+★ bibliography
 bicycle/bike
 bid
 big
-★bilateral
+★ bilateral
 bill
 billion billionaire
 bin
 bind
-★binoculars
+★ binoculars
 biochemistry biochemical biochemist
 biography biographical biographer
 biology biological biologist
@@ -520,29 +520,29 @@ bird
 birth
 birthday
 biscuit
-★bishop
+★ bishop
 bit
 bitch
 bite
 bitter
-★bizarre
+★ bizarre
 black
 blackboard
-★blackmail
+★ blackmail
 blade
 blame
 blank
 blanket
 blast
-★blaze
-★bleach
-★bleak
+★ blaze
+★ bleach
+★ bleak
 bleed
 blend
 bless blessing
 blind
-★blink
-★bloc
+★ blink
+★ bloc
 block
 blog
 blond(e)
@@ -553,18 +553,18 @@ blouse
 blow
 blue
 blueprint
-★bluff
-★blunder
-★blunt
+★ bluff
+★ blunder
+★ blunt
 blur
-★blush
+★ blush
 board
 boast boastful
 boat
 body bodily
 boil boiler
 bold
-★bolster
+★ bolster
 bolt
 bomb
 bond bondage
@@ -581,7 +581,7 @@ bore2
 born
 borrow
 boss
-★botany botanical
+★ botany botanical
 both
 bother
 bottle
@@ -591,8 +591,8 @@ bound1
 bound2
 bound3
 boundary
-★bouquet
-★bout
+★ bouquet
+★ bout
 bow1
 bow2
 bowel
@@ -601,8 +601,8 @@ box1
 box2
 boxing
 boy
-★boycott
-★brace
+★ boycott
+★ brace
 bracket
 brag
 brain
@@ -613,7 +613,7 @@ brand-new
 brandy
 brass
 brave bravery
-★breach
+★ breach
 bread
 break
 breakdown
@@ -624,7 +624,7 @@ breath
 breathe
 breed
 breeze
-★brew brewery
+★ brew brewery
 bribe bribery
 brick
 bride
@@ -632,25 +632,25 @@ bridegroom
 bridge
 brief briefing
 briefcase
-★brigade
+★ brigade
 bright brighten
 brilliant brilliance
 bring
-★brink
-★brisk
+★ brink
+★ brisk
 broad broaden breadth
 broadcast
 brochure
 broke
 broker
-★bronze
-★brood
+★ bronze
+★ brood
 broom
 brother
 brow
 brown
 browse browser
-★bruise
+★ bruise
 brunch
 brush
 brutal brutality
@@ -660,10 +660,10 @@ bucket
 buckle
 bud
 buddy
-★Buddhism Buddhist
+★ Buddhism Buddhist
 budget budgetary
-★buffalo
-★buffer
+★ buffalo
+★ buffer
 buffet
 bug
 build building
@@ -679,8 +679,8 @@ bunch
 bundle
 burden
 bureau
-★bureaucrat bureaucratic bureaucracy
-★burglar burglary
+★ bureaucrat bureaucratic bureaucracy
+★ burglar burglary
 burn
 burst
 bury burial
@@ -688,16 +688,16 @@ bus
 bush bushy
 business
 businessman
-★bust
+★ bust
 busy
 but
 butcher
-★butt
+★ butt
 butter
 butterfly
 button
 buy buyer
-★buzz
+★ buzz
 by
 bypass
 bystander
@@ -710,7 +710,7 @@ cafe
 cafeteria
 cage
 cake
-★calcium
+★ calcium
 calculate calculation calculator calculating
 calendar
 calf
@@ -732,27 +732,27 @@ candidate candidacy
 candle
 candy
 cane
-★cannon
-★canoe
+★ cannon
+★ canoe
 canteen
-★canvas
+★ canvas
 cap
 capable capability
 capacity
-★cape
+★ cape
 capital capitalist capitalism
-★capsule
+★ capsule
 captain
-★caption
-★captive
+★ caption
+★ captive
 capture
 car
-★caravan
-★carbohydrate
+★ caravan
+★ carbohydrate
 carbon
 card
 cardboard
-★cardinal
+★ cardinal
 care careful careless
 career
 cargo
@@ -763,69 +763,69 @@ carrier
 carrot
 carry
 cart
-★carton
+★ carton
 cartoon cartoonist
-★carve carving
+★ carve carving
 case
 cash
 cashier
-★casino
+★ casino
 cast
 castle
 casual
-★casualty
+★ casualty
 cat
 catalog(ue)
-★catastrophe catastrophic
+★ catastrophe catastrophic
 catch
 category
 cater
-★cathedral
-★Catholic
+★ cathedral
+★ Catholic
 cattle
-★cauliflower
+★ cauliflower
 cause
 caution cautious
 cave
-★cavity
+★ cavity
 cease
 ceiling
 celebrate celebration
-★celebrity
+★ celebrity
 cell
 cellar
 cell-phone
 Celsius/-cius
 cement
-★cemetery
-★censor censorship
-★census
+★ cemetery
+★ censor censorship
+★ census
 cent
 center/-tre central centralize/-ise
 centigrade
 centimeter/-tre
 century
-★ceramic
+★ ceramic
 cereal
 ceremony ceremonial
 certain certainly certainty
 certificate
-★certify certification
+★ certify certification
 chain
 chair
 chairman/chairperson
 chalk
 challenge challenging
-★chamber
+★ chamber
 champagne
 champion championship
 chance
-★chancellor
+★ chancellor
 change
 channel
-★chant
+★ chant
 chaos chaotic
-★chapel
+★ chapel
 chapter
 character characteristic characterize/-ise
 charge
@@ -858,19 +858,19 @@ china
 chip
 chocolate
 choice
-★choir
+★ choir
 choke
 cholesterol
 choose choosy
 chop
 chopstick
-★chord
+★ chord
 chore
 chorus
 Christ Christmas Christian Christianity
-★chronic chronically
-★chronicle
-★chunk
+★ chronic chronically
+★ chronicle
+★ chunk
 church
 cigar
 cigaret(te)
@@ -883,16 +883,16 @@ circus
 cite citation
 citizen citizenship
 city
-★civic
+★ civic
 civil civilize/-ise civilization/-sation
 civilian
 claim
-★clamp
-★clan
+★ clamp
+★ clan
 clap
 clarity clarify clarification
 clash
-★clasp
+★ clasp
 class
 classic classical
 classify classification classified
@@ -902,16 +902,16 @@ clause
 claw
 clay
 clean
-★cleanse
+★ cleanse
 clear clearly
-★clearance
+★ clearance
 clear-cut
-★clearing
-★clench
-★clergy
+★ clearing
+★ clench
+★ clergy
 clerk clerical
 clever
-★cliche
+★ cliche
 click
 client
 cliff
@@ -921,13 +921,13 @@ climb
 cling
 clinic clinical
 clip
-★cloak
+★ cloak
 clock
 clockwise
-★clog
+★ clog
 clone
 close
-★closet
+★ closet
 cloth
 clothe clothing
 clothes
@@ -936,28 +936,28 @@ clown
 club
 clue
 clumsy
-★cluster
-★clutch
+★ cluster
+★ clutch
 coach
 coal
-★coalition
+★ coalition
 coarse
 coast coastal
 coat
-★cocaine
+★ cocaine
 cock
-★cockpit
-★cocktail
-★coconut
+★ cockpit
+★ cocktail
+★ coconut
 code
-★coexist coexistence
+★ coexist coexistence
 coffee
-★cognitive cognition
+★ cognitive cognition
 coherent coherence
 cohesion cohesive
 coil
 coin coinage
-★coincide coincidence
+★ coincide coincidence
 cold
 collaborate collaboration collaborative
 collapse
@@ -965,9 +965,9 @@ collar
 colleague
 collect collection collective
 college
-★collide collision
+★ collide collision
 colon semi-colon
-★colonel
+★ colonel
 colony colonial colonialism colonize/-ise
 colo(u)r colo(u)rful
 column columnist
@@ -976,14 +976,14 @@ combat combative
 combine combination
 come
 comedy
-★comet
+★ comet
 comfort comfortable
-★comic
+★ comic
 comma
 command commander
-★commemorate commemoration
+★ commemorate commemoration
 commence commencement
-★commend commendation
+★ commend commendation
 comment commentary commentator
 commerce commercial commercialize/-ise
 commission
@@ -992,7 +992,7 @@ committee
 commodity
 common
 commonplace
-★commonwealth
+★ commonwealth
 communicate communication communicative
 commune communist communism
 community
@@ -1001,62 +1001,62 @@ compact
 companion companionship
 company
 compare comparison comparative comparable
-★compartment
+★ compartment
 compass
-★compassion compassionate
+★ compassion compassionate
 compatible compatibility
 compel compelling
 compensate compensation compensatory
 compete competition competitive competitor
 competent competence
-★compile compilation
-★complacent complacency
+★ compile compilation
+★ complacent complacency
 complain complaint
-★complement complementary
+★ complement complementary
 complete completion
 complex complexity
-★complexion
+★ complexion
 complicate complicated complication
-★compliment complimentary
+★ compliment complimentary
 comply compliance
 component
 compose composition composer
-★composite
+★ composite
 compound1
 compound2
 comprehend comprehension
 comprehensive
-★compress compression
+★ compress compression
 comprise
 compromise
 compulsory
 compute computer computerize/-ise computation
 comrade
 conceal concealment
-★concede concession
-★conceit conceited
-★conceive conception
+★ concede concession
+★ conceit conceited
+★ conceive conception
 concentrate concentration
 concept conceptual
 concern concerned concerning
 concert concerted
-★concise
+★ concise
 conclude conclusion conclusive
 concrete
-★concurrent
+★ concurrent
 condemn condemnation
 condense condensation
 condition conditional conditioner
-★condolence
-★conducive
+★ condolence
+★ conducive
 conduct conductor
-★confederation confederate
-★confer
+★ confederation confederate
+★ confer
 conference
 confess confession
-★confide
+★ confide
 confidence confident confidential
-★configuration
+★ configuration
 confine confinement
 confirm confirmation
 conflict
@@ -1065,44 +1065,44 @@ confront confrontation
 Confucian Confucianism
 confuse confusion
 congratulate congratulation congratulatory
-★congregate congregation
+★ congregate congregation
 congress congressional
 conjunction
 connect connection/-xion
-★connotation
+★ connotation
 conquer conqueror conquest
 conscience
 conscientious
 conscious consciousness
-★consecutive
+★ consecutive
 consensus
 consent
 consequence consequent consequently
 conservative
-★conserve conservation
+★ conserve conservation
 consider consideration considering
 considerable
 considerate
 consist
 consistent consistency
-★console consolation
+★ console consolation
 consolidate consolidation
-★conspicuous
-★conspire conspiracy
+★ conspicuous
+★ conspire conspiracy
 constant
-★constituent constituency
+★ constituent constituency
 constitute
 constitution constitutional
-★constrain constraint
+★ constrain constraint
 construct construction
-★consulate consul
+★ consulate consul
 consult consultation consultative consultant
 consume consumer consumption
 contact
-★contagious
+★ contagious
 contain container containment
 contaminate contamination
-★contemplate contemplation contemplative
+★ contemplate contemplation contemplative
 contemporary
 contempt contemptible
 contend contention contentious
@@ -1111,7 +1111,7 @@ content2 contented
 contest contestant
 context contextual
 continent continental
-★contingent
+★ contingent
 continue continuation continual continuous continuity
 contract1 contractor
 contract2 contraction
@@ -1119,20 +1119,20 @@ contradict contradiction contradictory
 contrary
 contrast
 contribute contribution contributor
-★contrive
+★ contrive
 control
 controversy controversial
-★convene
+★ convene
 convenient convenience
 convention conventional
-★converge convergence
+★ converge convergence
 converse1 conversation
-★converse2
+★ converse2
 convert conversion convertible
 convey conveyance
-★convict conviction
+★ convict conviction
 convince convincing
-★convoy
+★ convoy
 cook cooker
 cookie
 cool
@@ -1143,26 +1143,26 @@ cope
 copper
 copy
 copyright
-★coral
+★ coral
 cord
-★cordial cordiality
+★ cordial cordiality
 core
-★cork
+★ cork
 corn
 corner
 cornerstone
-★corporal
+★ corporal
 corporation corporate
 corps
-★corpse
+★ corpse
 correct correction corrective
-★correlate correlation correlative
+★ correlate correlation correlative
 correspond correspondence correspondent corresponding
 corridor
-★corrode corrosion
+★ corrode corrosion
 corrupt corruption
-★cosmetic
-★cosmopolitan
+★ cosmetic
+★ cosmopolitan
 cosmos cosmic
 cost costly
 costume
@@ -1176,99 +1176,99 @@ counsel counsel(l)or
 count
 countdown
 counter
-★counteract counteraction
-★counterfeit
+★ counteract counteraction
+★ counterfeit
 counterpart
 country
 countryside
 county
-★coup(d'état)
+★ coup(d'état)
 couple
 coupon
 courage courageous
 course
 court1
 court2
-★courtesy
+★ courtesy
 courtyard
 cousin
 cover coverage
 cow
 coward cowardly cowardice
 cowboy
-★cozy/-sy
+★ cozy/-sy
 crab
 crack
-★crackdown
+★ crackdown
 cracker
-★cradle
+★ cradle
 craft
-★cram
+★ cram
 crane
 crash
-★crate
-★crave
+★ crate
+★ crave
 crawl
 crazy craze
 cream creamy
 create creation creative creator
 creature
-★credential
-★credible credibility
+★ credential
+★ credible credibility
 credit creditable
 creep
 crew
-★cricket
+★ cricket
 crime criminal
-★cripple
+★ cripple
 crisis
-★crisp
+★ crisp
 criterion
 criticize/-ise criticism critic critical
 crocodile
 crop
 cross crossing
-★crouch
-★crow
+★ crouch
+★ crow
 crowd crowded
 crown
 crucial
-★crude
+★ crude
 cruel cruelty
 cruise cruiser
-★crumble
-★crunch
+★ crumble
+★ crunch
 crush
-★crust
+★ crust
 cry
 crystal
-★cub
+★ cub
 cube cubic
 cucumber
 cue
-★cuisine
-★culminate culmination
-★cult
+★ cuisine
+★ culminate culmination
+★ cult
 cultivate cultivation
 culture cultural
-★cumulative
-★cunning
+★ cumulative
+★ cunning
 cup
 cupboard
 curb
 cure curable
-★curfew
+★ curfew
 curious curiosity
 curl
 currency
 current currently
 curriculum
 curse
-★curtail
+★ curtail
 curtain
 curve
 cushion
-★custody
+★ custody
 custom customary
 customer
 customs
@@ -1276,8 +1276,8 @@ cut
 cute
 cyberspace
 cycle cycling cyclist
-★cylinder
-★cynical cynicism
+★ cylinder
+★ cynical cynicism
 dad(dy)
 daily
 dairy
@@ -1290,7 +1290,7 @@ danger dangerous
 dare daring
 dark darkness darken
 darling
-★dart
+★ dart
 dash
 data datum
 database
@@ -1300,10 +1300,10 @@ daughter
 dawn
 day daily
 daylight
-★dazzle
+★ dazzle
 dead
 deadline
-★deadlock
+★ deadlock
 deadly
 deaf
 deal1 dealer dealing
@@ -1312,59 +1312,59 @@ dean
 dear
 death
 debate
-★debris
+★ debris
 debt debtor
-★debut
+★ debut
 decade
 decay
 deceive deceit deception deceptive
 December
 decent
 decide decision decisive
-★decimal
+★ decimal
 deck
 declare declaration declarative
 decline
 decorate decoration decorative
 decrease
-★decree
-★dedicate dedication
-★deduce deducible
-★deduct deduction deductive deductible
+★ decree
+★ dedicate dedication
+★ deduce deducible
+★ deduct deduction deductive deductible
 deed
 deem
 deep deeply depth
 deer
-★default
+★ default
 defeat
 defect1 defective
 defect2 defection
 defend defense/-ce defensive defendant
-★defer
+★ defer
 deficient deficiency
 deficit
 define definition
 definite definitely
 defy defiance defiant
-★degenerate degeneration
-★degrade degradation
+★ degenerate degeneration
+★ degrade degradation
 degree
 delay
 delegate delegation
 delete deletion
 deliberate deliberation
-★delicacy
+★ delicacy
 delicate
 delicious
 delight delightful
 deliver delivery
-★delude delusion
+★ delude delusion
 demand demanding
 democracy democratic democrat
-★demographic
+★ demographic
 demonstrate demonstration/demo demonstrative
-★denote denotation
-★denounce denunciation
+★ denote denotation
+★ denounce denunciation
 dense density
 dent
 dental
@@ -1373,20 +1373,20 @@ deny denial
 depart departure
 department
 depend dependent dependence dependable
-★depict depiction
-★deplete depletion
-★deplore
-★deploy deployment
-★deport deportation
+★ depict depiction
+★ deplete depletion
+★ deplore
+★ deploy deployment
+★ deport deportation
 deposit
-★depot
-★depreciate depreciation
+★ depot
+★ depreciate depreciation
 depress depression
 deprive deprivation
 depth
 deputy
-★derail derailment
-★deregulate deregulation
+★ derail derailment
+★ deregulate deregulation
 derive derivative derivation
 descend descent descendant
 describe description descriptive
@@ -1394,36 +1394,36 @@ desert1
 desert2 desertion
 deserve
 design designer
-★designate designation
+★ designate designation
 desire desirable desirability desirous
 desk
 desktop
-★desolate
+★ desolate
 despair desperate
 despatch
-★despise
+★ despise
 despite
 dessert
 destination
-★destiny destined
+★ destiny destined
 destroy destruction destructive
-★detach detached detachment
+★ detach detached detachment
 detail detailed
-★detain detention
+★ detain detention
 detect detection detective
-★deter deterrent
-★detergent
+★ deter deterrent
+★ detergent
 deteriorate deterioration
 determine determination determined
-★detriment detrimental
-★devastate devastating devastation
+★ detriment detrimental
+★ devastate devastating devastation
 develop development developmental developer
-★deviate deviation
+★ deviate deviation
 device
 devil
 devise
 devote devotion
-★devour
+★ devour
 dew
 diabetes
 diagnose diagnosis
@@ -1437,53 +1437,53 @@ diary
 dictate dictation dictator
 dictionary
 die dying
-★diesel
+★ diesel
 diet dietary
 differ difference different
-★differentiate differentiation
+★ differentiate differentiation
 difficult difficulty
-★diffuse diffusion
+★ diffuse diffusion
 dig
 digest digestion digestive
 digit digital
 dignity dignify
 dilemma
 diligent diligence
-★dilute dilution
+★ dilute dilution
 dim
 dime
 dimension dimensional
-★diminish
+★ diminish
 dine diner
 dinner
-★dinosaur
+★ dinosaur
 dioxide
 dip
 diploma
 diplomat diplomatic diplomacy
 direct direction director
-★directory
+★ directory
 dirt dirty
 disable disabled disability
 disagree disagreement
 disappear disappearance
 disappoint disappointment disappointing
 disapprove disapproval
-★disarm disarmament
+★ disarm disarmament
 disaster disastrous
 discard
-★discern
+★ discern
 discharge
 discipline disciplined disciplinary
-★disclose disclosure
+★ disclose disclosure
 disco
-★discord
+★ discord
 discount
 discourage
-★discourse
+★ discourse
 discover discovery
-★discreet
-★discrepancy
+★ discreet
+★ discrepancy
 discriminate discrimination discriminatory
 discuss discussion
 disease
@@ -1493,29 +1493,29 @@ dish
 disintegrate disintegration
 disk/disc
 dislike
-★dismantle
-★dismay
+★ dismantle
+★ dismay
 dismiss dismissal
 disorder
-★dispatch/despatch
-★dispense
-★disperse
-★displace displacement
+★ dispatch/despatch
+★ dispense
+★ disperse
+★ displace displacement
 display
 dispose disposal
-★disposition
+★ disposition
 dispute disputable
-★disregard
+★ disregard
 disrupt disruptive disruption
-★dissent
-★dissertation
-★dissident
+★ dissent
+★ dissertation
+★ dissident
 dissolve
 distance distant
-★distil(l)
+★ distil(l)
 distinct distinction distinctive
 distinguish distinguishable
-★distort distortion
+★ distort distortion
 distract distraction
 distress distressful
 distribute distribution distributive
@@ -1524,26 +1524,26 @@ disturb disturbance
 ditch
 dive
 diverse diversify diversity
-★divert diversion
+★ divert diversion
 divide division divisive
-★dividend
-★divine
+★ dividend
+★ divine
 divorce
 dizzy
 do
 dock
 doctor doctorate doctoral
-★doctrine
+★ doctrine
 document documentary
-★dodge
+★ dodge
 dog
-★dogma
-★dole
+★ dogma
+★ dole
 doll
 dollar
 dolphin
-★domain
-★dome
+★ domain
+★ dome
 domestic
 dominate domination dominance dominant
 donate donation donor
@@ -1555,15 +1555,15 @@ dose dosage
 dot
 double
 doubt doubtful doubtless
-★dough
+★ dough
 dove
 down
-★downgrade
+★ downgrade
 download
 downstairs
 downtown
 downward downwards
-★doze
+★ doze
 dozen
 draft
 drag
@@ -1572,12 +1572,12 @@ drain drainage
 drama dramatic dramatically
 drastic drastically
 draw drawing
-★drawback
+★ drawback
 drawer
-★dread dreadful
+★ dread dreadful
 dream dreamy
 dress
-★dressing
+★ dressing
 drift
 drill
 drink
@@ -1592,22 +1592,22 @@ drum
 drunk drunken drunkard
 dry dryer
 dual
-★dub
-★dubious
+★ dub
+★ dubious
 duck
 due duly
 dull
 dumb
 dump
-★duplicate duplication
+★ duplicate duplication
 durable durability
 duration
 during
 dusk
 dust dusty
 duty
-★dwarf
-★dwell dweller dwelling
+★ dwarf
+★ dwell dweller dwelling
 dye
 dynamic dynamics
 dynasty
@@ -1622,19 +1622,19 @@ earth
 earthquake
 ease
 east eastern
-★Easter
+★ Easter
 easy easily
 easy-going
 eat
-★eccentric
+★ eccentric
 echo
-★eclipse
+★ eclipse
 ecology ecological
 economics economist
 economy economic economical
-★ecosystem
+★ ecosystem
 edge
-★edible
+★ edible
 edit editor edition
 editorial
 educate education educational educator
@@ -1643,20 +1643,20 @@ efficient efficiency
 effort
 egg
 eggplant
-★ego egoism egoist
+★ ego egoism egoist
 eight
 eighteen
 eighth
 eighty
 either
-★eject ejection
-★elaborate elaboration
-★elapse
-★elastic elasticity
+★ eject ejection
+★ elaborate elaboration
+★ elapse
+★ elastic elasticity
 elbow
 elder elderly
 elect election elective
-★electoral electorate
+★ electoral electorate
 electricity electric(al) electrician
 electron electronic electronically electronics
 elegant elegance
@@ -1665,47 +1665,47 @@ elementary
 elephant
 elevate elevation elevator
 eleven
-★elicit
-★eligible eligibility
+★ elicit
+★ eligible eligibility
 eliminate elimination
 elite
-★eloquent eloquence
+★ eloquent eloquence
 else
 elsewhere
 email
-★emancipate emancipation
-★embargo
-★embark
+★ emancipate emancipation
+★ embargo
+★ embark
 embarrass embarrassment
 embassy
-★embed
-★embody embodiment
+★ embed
+★ embody embodiment
 embrace
-★embroidery
+★ embroidery
 emerge emergence
 emergency
-★emigrate emigration emigrant
-★eminent eminence
+★ emigrate emigration emigrant
+★ eminent eminence
 emit emission
 emotion emotional
 emperor empress
 emphasis emphasize/-ise emphatic
 empire
-★empirical
+★ empirical
 employ employment employer employee
 empty emptiness
-★emulate emulation
+★ emulate emulation
 enable
-★enact enactment
-★enclose enclosure
+★ enact enactment
+★ enclose enclosure
 encounter
 encourage encouragement encouraging
-★encyclop(a)edia
+★ encyclop(a)edia
 end ending endless
 endanger
-★endeavo(u)r
-★endorse endorsement
-★endow endowment
+★ endeavo(u)r
+★ endorse endorsement
+★ endow endowment
 endure endurance
 enemy
 energy energetic energetically
@@ -1717,68 +1717,68 @@ enhance enhancement
 enjoy enjoyable enjoyment
 enlarge
 enlighten enlightenment enlightening
-★enlist
+★ enlist
 enormous
 enough
 enquire enquiry
 enrich
 enrol(l) enrol(l)ment
-★ensue
+★ ensue
 ensure
-★entail
+★ entail
 enter entrance entry
 enterprise enterprising
 entertain entertainment entertaining
 enthusiasm enthusiastic enthusiastically enthusiast
 entire entirety
 entitle
-★entity
+★ entity
 entrepreneur entrepreneurial
-★entrust
-★envelop
+★ entrust
+★ envelop
 envelope
 environment environmental environmentalist
-★envisage
-★envoy
+★ envisage
+★ envoy
 envy envious
-★epic
-★epidemic
+★ epic
+★ epidemic
 episode
-★epoch
+★ epoch
 equal equally equality
-★equate equation
-★equator
+★ equate equation
+★ equator
 equip equipment
-★equity equitable
+★ equity equitable
 equivalent equivalence
 era
-★eradicate eradication
+★ eradicate eradication
 erase eraser
-★erect erection
-★erode erosion erosive
+★ erect erection
+★ erode erosion erosive
 err error erroneous
-★errand
-★erupt eruption
-★escalate escalation escalator
+★ errand
+★ erupt eruption
+★ escalate escalation escalator
 escape
-★escort
+★ escort
 especially
 essay essayist
 essence essential
 establish establishment
 estate
-★esteem
-★esthetic/aesthetic esthetics/aesthetics
+★ esteem
+★ esthetic/aesthetic esthetics/aesthetics
 estimate estimation
 eternal eternity
 ethic ethics
 ethnic
-★etiquette
+★ etiquette
 euro
-★evacuate evacuation
-★evade evasive evasion
+★ evacuate evacuation
+★ evade evasive evasion
 evaluate evaluation
-★evaporate evaporation
+★ evaporate evaporation
 eve
 even evenly
 evening
@@ -1792,7 +1792,7 @@ everything
 everywhere
 evident evidence
 evil
-★evoke
+★ evoke
 evolve evolution evolutionary
 exact
 exaggerate exaggeration
@@ -1803,7 +1803,7 @@ excel
 excellent excellence
 except
 exception exceptional
-★excerpt
+★ excerpt
 excess excessive
 exchange
 excite exciting excitement
@@ -1812,7 +1812,7 @@ exclude exclusion exclusive
 excursion
 excuse
 execute execution executive
-★exempt exemption
+★ exempt exemption
 exercise
 exert exertion
 exhaust exhaustion exhaustive
@@ -1820,10 +1820,10 @@ exhibit exhibition
 exile
 exist existence existent existing
 exit
-★exotic
+★ exotic
 expand expansion expansive
 expect expectation expectancy
-★expedition
+★ expedition
 expel
 expend expenditure
 expense expensive
@@ -1831,42 +1831,42 @@ experience experienced
 experiment experimental
 expert
 expertise
-★expire expiration
+★ expire expiration
 explain explanation explanatory
 explicit
 explode explosion explosive
 exploit exploitation
 explore exploration
-★exponent
+★ exponent
 export exportation
 expose exposure
-★exposition
+★ exposition
 express expression expressive
 expressway
-★exquisite
+★ exquisite
 extend extension extensive extended
 extent
 exterior
 external
-★extinct extinction
+★ extinct extinction
 extinguish
 extra
-★extract extraction
+★ extract extraction
 extraordinary
-★extravagant extravagance
+★ extravagant extravagance
 extreme extremity
 eye
 eyebrow
 eyesight
 fable
 fabric
-★fabricate fabrication
-★fabulous
+★ fabricate fabrication
+★ fabulous
 face facial
-★facet
+★ facet
 facility facilitate facilitation
 fact factual
-★faction
+★ faction
 factor
 factory
 faculty
@@ -1894,7 +1894,7 @@ farewell
 farm farmer farming
 farther
 fascinate fascinating fascination
-★fascist fascism
+★ fascist fascism
 fashion fashionable
 fast
 fasten
@@ -1908,21 +1908,21 @@ favo(u)r favo(u)rable favo(u)rite
 fax
 fear fearful
 feasible feasibility
-★feast
-★feat
+★ feast
+★ feat
 feather
 feature
 February
 federal
 federation
 fee
-★feeble
+★ feeble
 feed
 feedback
 feel feeling
 fellow fellowship
 female
-★feminine feminism feminist
+★ feminine feminism feminist
 fence
 ferry
 fertile fertility fertilizer/-iser
@@ -1951,7 +1951,7 @@ fine2
 finger
 fingerprint
 finish
-★finite
+★ finite
 fire
 fireman
 fireplace
@@ -1959,7 +1959,7 @@ fireworks
 firm1
 firm2
 first firstly
-★fiscal
+★ fiscal
 fish fishing fisherman
 fist
 fit
@@ -1967,22 +1967,22 @@ five
 fix fixed fixture fixation
 flag
 flame
-★flank
-★flap
-★flare
+★ flank
+★ flap
+★ flare
 flash
 flat1
 flat2
-★flatter flattery
+★ flatter flattery
 flavo(u)r
 flaw flawless
 flee
 fleet
 flesh
 flexible flexibility
-★fling
-★flip
-★flirt flirtation
+★ fling
+★ flip
+★ flirt flirtation
 float
 flock
 flood
@@ -1994,18 +1994,18 @@ flower
 fluctuate fluctuation
 fluent fluency
 fluid
-★flush
-★flutter
+★ flush
+★ flutter
 fly1 flight
 fly2
-★foam
+★ foam
 focus
-★foe
+★ foe
 fog foggy
-★foil
+★ foil
 fold
 folk
-★folklore
+★ folklore
 follow following
 fond
 food
@@ -2023,9 +2023,9 @@ foremost
 foresee foreseeable
 foresight
 forest forestry
-★foretell
+★ foretell
 forever
-★forfeit
+★ forfeit
 forge forgery
 forget forgetful forgettable
 forgive forgiving
@@ -2034,21 +2034,21 @@ form formation
 formal formality
 format
 former
-★formidable
+★ formidable
 formula
 formulate formulation
-★fort
+★ fort
 forth
 forthcoming
-★fortify fortification
-★fortnight
+★ fortify fortification
+★ fortnight
 fortune fortunate
 forty
 forum
 forward
 fossil
-★foster
-★foul
+★ foster
+★ foul
 found founding founder
 foundation
 fountain
@@ -2056,16 +2056,16 @@ four
 fourteen
 fox
 fraction
-★fracture
-★fragile fragility
+★ fracture
+★ fragile fragility
 fragment fragmentation fragmentary
-★fragrant fragrance
+★ fragrant fragrance
 frame
 framework
-★franchise
+★ franchise
 frank
-★frantic frantically
-★fraud fraudulent
+★ frantic frantically
+★ fraud fraudulent
 free freedom
 freeway
 freeze
@@ -2073,17 +2073,17 @@ freight
 frequent frequency
 fresh
 freshman
-★friction
+★ friction
 Friday
 friend friendly friendship
 fright frighten
-★fringe
+★ fringe
 frog
 from
 front
 frontier
 frost frosty
-★frown
+★ frown
 fruit fruitful
 frustrate frustration frustrating
 fry
@@ -2102,15 +2102,15 @@ furnish
 furniture
 further
 furthermore
-★fury furious
-★fuse
-★fusion
+★ fury furious
+★ fuse
+★ fusion
 fuss
-★futile futility
+★ futile futility
 future
 gadget gadgetry
 gain
-★galaxy
+★ galaxy
 gallery
 gallon
 gamble
@@ -2121,14 +2121,14 @@ gap
 garage
 garbage
 garden gardener gardening
-★garlic
+★ garlic
 garment
 gas
 gasoline/petrol
-★gasp
+★ gasp
 gate
 gather gathering
-★gauge
+★ gauge
 gay
 gaze
 gear
@@ -2139,7 +2139,7 @@ generate generator
 generation
 generous generosity
 genius
-★genre
+★ genre
 gentle
 gentleman
 genuine
@@ -2152,25 +2152,25 @@ get
 ghost
 giant gigantic
 gift gifted
-★giggle
+★ giggle
 girl
 give
 given
-★glacier
+★ glacier
 glad
-★glamo(u)r glamo(u)rous
+★ glamo(u)r glamo(u)rous
 glance
-★gland
-★glare
+★ gland
+★ glare
 glass
-★gleam
-★glide glider
+★ gleam
+★ glide glider
 glimpse
-★glitter
+★ glitter
 globe global globalize/-ise
 gloom gloomy
 glory glorious
-★glossary
+★ glossary
 glove
 glow
 glue
@@ -2185,9 +2185,9 @@ goodbye
 goodness
 goods
 goose
-★gorge
+★ gorge
 gorgeous
-★gospel
+★ gospel
 gossip
 govern government governor
 gown
@@ -2213,24 +2213,24 @@ grave
 gravitation
 gravity
 gray/grey
-★graze
-★grease greasy
+★ graze
+★ grease greasy
 great
-★greed greedy
+★ greed greedy
 green
 greenhouse
 greet greeting
-★grid
+★ grid
 grief grieve grievous
-★grill
-★grim
+★ grill
+★ grim
 grin
 grind
 grip
-★groan
+★ groan
 grocer grocery
-★groove
-★grope
+★ groove
+★ grope
 gross
 ground
 group
@@ -2263,11 +2263,11 @@ halt
 ham
 hamburger/burger
 hammer
-★hamper
+★ hamper
 hand handful
 handbook
 handicap handicapped
-★handicraft
+★ handicraft
 handle
 handsome
 handwriting
@@ -2275,13 +2275,13 @@ handy
 hang
 happen
 happy happiness happily
-★harass harassment
+★ harass harassment
 harbo(u)r
 hard harden
 hardly
 hardship
 hardware
-★hardy
+★ hardy
 harm harmful harmless
 harmony harmonious
 harness
@@ -2294,9 +2294,9 @@ hate hatred hateful
 haul
 haunt
 have
-★haven
-★havoc
-★hawk
+★ haven
+★ havoc
+★ hawk
 hay
 hazard hazardous
 haze hazy
@@ -2314,11 +2314,11 @@ hear hearing
 heart hearty
 heartfelt
 heat heated heating
-★heave
+★ heave
 heaven
 heavy
 hectare
-★hectic
+★ hectic
 hedge
 heel
 height heighten
@@ -2326,50 +2326,50 @@ heir heiress
 helicopter
 hell
 hello
-★helmet
+★ helmet
 help helpful helpless helplessly
-★hemisphere
+★ hemisphere
 hen
 hence
-★henceforth
+★ henceforth
 her
-★herald
-★herb herbal
+★ herald
+★ herb herbal
 herd
 here
 hereby
 heritage
 hero/heroine heroic heroism
-★heroin
+★ heroin
 hers
 herself
 hesitate hesitation hesitant
 hi
-★hibernate hibernation
+★ hibernate hibernation
 hide hiding
-★hierarchy hierarchical
+★ hierarchy hierarchical
 high highly
 highlight
 high-tech
 highway
 hijack
-★hike
+★ hike
 hill hilly
 him
 himself
 hinder hindrance
-★hinge
+★ hinge
 hint
 hip
 hire
 his
 history historic historical historian
 hit
-★hitherto
-★hive
+★ hitherto
+★ hive
 hobby
-★hockey
-★hoist
+★ hockey
+★ hoist
 hold
 hole
 holiday
@@ -2378,90 +2378,90 @@ holy holiness
 home homeless homely
 homeland
 homework
-★homogeneous
+★ homogeneous
 homosexual/homo
 honest honesty
 honey
 honeymoon
 hono(u)r hono(u)rable hono(u)rary
 hook
-★hop
+★ hop
 hope hopeful hopeless
 horizon horizontal
 horn
 horror horrible horrify
 horse
 horsepower
-★hose
+★ hose
 hospital hospitalize
 hospitable hospitality
 host1 hostess
 host2
-★hostage
+★ hostage
 hostile hostility
 hot
 hotdog
 hotel
-★hound
+★ hound
 hour hourly
 house housing
 household
 housewife
 housework
-★hover
+★ hover
 how
 however
-★howl
-★huddle
+★ howl
+★ huddle
 hug
 huge
-★hum
+★ hum
 human humanity
-★humane humanism humanist humanitarian
+★ humane humanism humanist humanitarian
 humble humbly
-★humid humidity
-★humiliate humiliation
+★ humid humidity
+★ humiliate humiliation
 humo(u)r humo(u)rous
 hundred
 hunger hungry
 hunt hunting hunter
-★hurdle
-★hurl
-★hurricane
+★ hurdle
+★ hurl
+★ hurricane
 hurry hurriedly
 hurt hurtful
 husband
 hut
-★hybrid
+★ hybrid
 hydrogen
-★hygiene hygienic
+★ hygiene hygienic
 hyphen
-★hypocrisy hypocritical hypocrite
-★hypothesis hypothetical
-★hysterical hysteria
+★ hypocrisy hypocritical hypocrite
+★ hypothesis hypothetical
+★ hysterical hysteria
 I
 ice icy
-★iceberg
+★ iceberg
 ice-cream
-★icon
+★ icon
 idea
 ideal idealistic idealism
 identify identification
 identity identical
-★ideology ideological
+★ ideology ideological
 idiom idiomatic
-★idiot idiotic
+★ idiot idiotic
 idle idly
-★idol
+★ idol
 if
-★ignite ignition
+★ ignite ignition
 ignorant ignorance
 ignore
 ill illness
 illegal
-★illicit
-★illiterate illiteracy
-★illuminate illumination
+★ illicit
+★ illiterate illiteracy
+★ illuminate illumination
 illusion illusory
 illustrate illustration illustrative
 image imaging
@@ -2469,17 +2469,17 @@ imagine imagination imaginative imaginary
 imitate imitation imitative
 immediate immediately
 immense immensely immensity
-★immerse immersion
+★ immerse immersion
 immigrate immigration immigrant
-★imminent
+★ imminent
 immune immunity immunize/-ise
 impact
-★impair
-★impart
+★ impair
+★ impart
 impatient impatience
-★imperative
+★ imperative
 imperial imperialism imperialist
-★impetus
+★ impetus
 implement1 implementation
 implement2
 implicit
@@ -2489,13 +2489,13 @@ important importance
 impose imposition imposing
 impossible impossibility
 impress impression impressive
-★imprison imprisonment
-★impromptu
+★ imprison imprisonment
+★ impromptu
 improve improvement
 impulse impulsive
 in
-★inaugurate inauguration
-★inborn
+★ inaugurate inauguration
+★ inborn
 incentive
 inch
 incidence
@@ -2503,28 +2503,28 @@ incident incidental incidentally
 incline inclined inclination
 include inclusion inclusive including
 income
-★incorporate incorporation
+★ incorporate incorporation
 increase increasingly
 incredible incredibly
-★incumbent
-★incur
-★indebted
+★ incumbent
+★ incur
+★ indebted
 indeed
-★indefinite
+★ indefinite
 independent independence
 index
 indicate indication indicative indicator
-★indict indictment
+★ indict indictment
 indifferent indifference
-★indigenous
-★indignant indignation
+★ indigenous
+★ indignant indignation
 indispensable
 individual individualism
 indoor indoors
 induce inducement
-★indulge indulgence indulgent
+★ indulge indulgence indulgent
 industry industrial industrialize/-ise industrious
-★inertia
+★ inertia
 inevitable
 infant
 infect infection infectious
@@ -2532,30 +2532,30 @@ infer inference
 inferior inferiority
 infinite infinity infinitive
 inflate inflation
-★inflict infliction
+★ inflict infliction
 influence influential
 influenza/flu
 inform information informative informant
 infrastructure
-★infringe infringement
-★ingenious ingenuity
+★ infringe infringement
+★ ingenious ingenuity
 ingredient
 inhabit inhabitant
-★inherent
+★ inherent
 inherit inheritance
-★inhibit inhibition
+★ inhibit inhibition
 initial initially
 initiate initiation initiative
-★inject injection
+★ inject injection
 injure injury injurious
 ink
 inland
-★inmate
+★ inmate
 inn
 inner
 innocent innocence
 innovate innovation innovative
-★innumerable
+★ innumerable
 input
 inquire/enquire inquiry/enquiry inquisitive
 insane insanity
@@ -2576,56 +2576,56 @@ institute
 institution institutional
 instruct instruction instructor instructive
 instrument instrumental
-★insulate insulation insulator
+★ insulate insulation insulator
 insult
 insure/ensure insurance
 intact
 intake
 intangible
-★integral
+★ integral
 integrate integration
 integrity
-★intellect
+★ intellect
 intellectual
 intelligent intelligence
-★intelligible
+★ intelligible
 intend intention intent intentional
 intense intensity intensify
 intensive
 interact interaction interactive
-★intercourse
+★ intercourse
 interest interesting interested
 interfere interference
-★interim
+★ interim
 interior
 intermediate intermediary
-★intermittent
+★ intermittent
 internal
 international
 Internet/internet
 interpret interpretation interpreter
-★interrogate interrogation
+★ interrogate interrogation
 interrupt interruption
 interval
-★intervene intervention
+★ intervene intervention
 interview interviewer interviewee
 intimate intimacy
-★intimidate intimidation
+★ intimidate intimidation
 into
-★intricate intricacy
-★intrigue
-★intrinsic intrinsically
+★ intricate intricacy
+★ intrigue
+★ intrinsic intrinsically
 introduce introduction introductory
 intrude intrusion intruder
-★intuition intuitive
+★ intuition intuitive
 invade invasion invader invasive
-★invalid1
+★ invalid1
 invalid2
 invaluable
 invariably
 invent invention inventor
-★inventory
-★invert inversion
+★ inventory
+★ invert inversion
 invest investment investor
 investigate investigation investigator
 invisible
@@ -2636,19 +2636,19 @@ iron
 irony ironic(al) ironically
 irrational
 irregular
-★irrespective
+★ irrespective
 irrigate irrigation
-★irritate irritation irritating irritable
+★ irritate irritation irritating irritable
 island
-★isle
+★ isle
 isolate isolation
 issue
 it
 item
 its
 itself
-★ivory
-★jack
+★ ivory
+★ jack
 jacket
 jail/gaol
 jam1
@@ -2656,47 +2656,47 @@ jam2
 January
 jar1
 jar2
-★jargon
+★ jargon
 jaw
 jazz
 jealous jealousy
 jeans
 jeep
-★jelly
-★jeopardize/-ise jeopardy
-★jerk
+★ jelly
+★ jeopardize/-ise jeopardy
+★ jerk
 jet
 jetlag
 jewel jewel(l)ery
 job
-★jockey
+★ jockey
 jog
 join
 joint
 joke
-★jolly
+★ jolly
 journal
 journalism journalist
 journey
 joy joyous joyful
 judge judg(e)ment
-★judicial
-★judiciary
+★ judicial
+★ judiciary
 juice juicy
 July
 jump
-★junction
+★ junction
 June
 jungle
 junior
 junk
-★jurisdiction
+★ jurisdiction
 jury juror
 just1
 just2
 justice
 justify justification
-★juvenile
+★ juvenile
 keen
 keep
 kettle
@@ -2704,8 +2704,8 @@ key
 keyboard
 kick
 kid
-★kidnap
-★kidney
+★ kidnap
+★ kidney
 kill
 kilogram(me)/kilo
 kilometer/-tre
@@ -2721,9 +2721,9 @@ kite
 knee
 kneel
 knife
-★knight
+★ knight
 knit
-★knob
+★ knob
 knock
 knot knotty
 know knowledge knowledgeable
@@ -2733,7 +2733,7 @@ labo(u)r laborious
 laboratory/lab
 lace
 lack
-★lad
+★ lad
 ladder
 lady
 lag
@@ -2743,7 +2743,7 @@ lame
 lamp
 land landing
 landlord/landlady
-★landmark
+★ landmark
 landscape
 lane
 language
@@ -2751,32 +2751,32 @@ lap
 laptop
 large largely
 laser
-★lash
+★ lash
 lass
 last lastly
 late later
 lately
-★latitude
+★ latitude
 latter
 laugh laughter
 launch
 laundry
 lavatory
-★lavish
+★ lavish
 law lawful
 lawn
-★lawsuit
+★ lawsuit
 lawyer
 lay
 layer
-★layman
+★ layman
 layoff
 layout
 lazy laziness
 lead1 leader leadership leading
 lead2
 leaf
-★leaflet
+★ leaflet
 league
 leak
 lean
@@ -2789,25 +2789,25 @@ leave
 lecture lecturer
 left leftist
 leg
-★legacy
+★ legacy
 legal legalize/-ise
 legend legendary
 legislate legislation legislative legislator
-★legitimate legitimacy
+★ legitimate legitimacy
 leisure leisurely
 lemon lemonade
 lend
-★lenient leniency
+★ lenient leniency
 lens
-★lesbian
+★ lesbian
 less
 lesson
 lest
 let
 letter
 level
-★lever leverage
-★levy
+★ lever leverage
+★ levy
 liable liability
 liberal
 liberate liberation
@@ -2818,7 +2818,7 @@ lick
 lid
 lie1 liar
 lie2
-★lieutenant
+★ lieutenant
 life
 lift
 light1 lighting
@@ -2829,19 +2829,19 @@ like2 likely likelihood
 likewise
 lily
 limb
-★lime
-★limelight
+★ lime
+★ limelight
 limit limitation limited
-★limp
+★ limp
 line linear
-★linen
-★liner
-★linger
-★linguistic linguistics
+★ linen
+★ liner
+★ linger
+★ linguistic linguistics
 link linkage
 lion lioness
 lip
-★lipstick
+★ lipstick
 liquid
 liquor
 list
@@ -2856,7 +2856,7 @@ live2
 livelihood
 lively
 liver
-★livestock
+★ livestock
 living-room
 load
 loaf
@@ -2865,57 +2865,57 @@ lobby lobbyist
 local locality
 locate location
 lock locker
-★locomotive
+★ locomotive
 lodge lodging
-★lofty
+★ lofty
 log
 logic logical
-★logistics logistic(al)
+★ logistics logistic(al)
 logo
 lonely loneliness
 long1 length lengthy
 long2
-★longevity
-★longitude longitudinal
+★ longevity
+★ longitude longitudinal
 look
-★loom
-★loop
+★ loom
+★ loop
 loophole
 loose loosen
-★loot
+★ loot
 lord
 lorry
 lose loss
 lot
-★lotion
-★lottery
+★ lotion
+★ lottery
 loud loudly
-★lounge
+★ lounge
 love lovely lover
 low lower
 loyal loyalty
-★lubricate lubrication
+★ lubricate lubrication
 luck lucky
-★lucrative
+★ lucrative
 luggage
-★luminous
+★ luminous
 lump
 lunar
 lunch luncheon
 lung
-★lure
+★ lure
 luxury luxurious
-★lyric lyrical
+★ lyric lyrical
 machine machinery
 mad madden
 madam
 magazine
 magic magical
-★magistrate
+★ magistrate
 magnet magnetic
 magnificent magnificence
-★magnify
-★magnitude
+★ magnify
+★ magnitude
 maid
 maiden
 mail
@@ -2923,50 +2923,50 @@ main
 mainland
 mainstream
 maintain maintenance
-★majesty majestic
+★ majesty majestic
 major majority
 make
 makeup
 male
-★malice malicious
-★malignant
+★ malice malicious
+★ malignant
 mall
-★malpractice
+★ malpractice
 mammal
 man manly manhood
 manage management manager managerial
-★mandate mandatory
-★maneuver/manoeuvre
-★manifest manifestation
+★ mandate mandatory
+★ maneuver/manoeuvre
+★ manifest manifestation
 manipulate manipulation manipulative
 mankind
 manner
-★mansion
+★ mansion
 manual
 manufacture manufacturer
-★manuscript
+★ manuscript
 many
 map
-★mar
+★ mar
 marathon
-★marble
+★ marble
 March
 march
 margin marginal
 marine
-★maritime
+★ maritime
 mark
 market marketing
 marry marriage marital
 marsh
 marshal
-★martyr martyrdom
+★ martyr martyrdom
 marvel marvel(l)ous
 Marxism Marxist
-★masculine masculinity
+★ masculine masculinity
 mask
 mass massive
-★massacre
+★ massacre
 massage
 master mastery
 masterpiece
@@ -2974,7 +2974,7 @@ mat
 match
 mate
 material materialism materialist materialize/-ise
-★maternal maternity
+★ maternal maternity
 math(ematics)/maths mathematical
 matter
 mature maturity
@@ -2984,7 +2984,7 @@ may
 maybe
 mayor
 me
-★meadow
+★ meadow
 meal
 mean1 meaning meaningful
 mean2
@@ -2997,46 +2997,46 @@ meat meaty
 mechanic mechanical mechanics mechanism
 mechanize/-ise mechanization/-sation
 medal
-★mediate mediation mediator
+★ mediate mediation mediator
 medical
 Medicare
-★medication
+★ medication
 medicine medicinal
-★medieval
+★ medieval
 medium media
 meet
 meeting
-★melody melodious
+★ melody melodious
 melon
 melt
 member membership
 memorandum/memo
 memorial
 memory memorize/-ise
-★menace
+★ menace
 mend
 mental mentality
 mention
-★mentor
+★ mentor
 menu
-★merchandise
+★ merchandise
 merchant
-★mercury
+★ mercury
 mercy merciful
 mere merely
-★merge merger
+★ merge merger
 merit meritorious
 merry merriment
 mess messy
 message messenger
-★metabolism metabolic
+★ metabolism metabolic
 metal metallic
-★metaphor metaphorical
+★ metaphor metaphorical
 meter/-tre metric
 method methodical methodology
-★meticulous
+★ meticulous
 metro
-★metropolitan
+★ metropolitan
 microphone
 microscope microscopic
 microwave microwavable
@@ -3044,31 +3044,31 @@ midday
 middle
 middle-class
 midnight
-★midst
-★midwife
+★ midst
+★ midwife
 might mighty
 migrate migration migrant
 mild
 mile mileage
-★milestone
-★militant militancy
+★ milestone
+★ militant militancy
 military
-★militia
+★ militia
 milk milky
 mill
 millimeter/-tre
 million millionaire
 mind
-★mindset
+★ mindset
 mine1
 mine2 mineral mining
 mine3
-★mingle
-★miniature
+★ mingle
+★ miniature
 minimum minimal minimize/-ise
 minister ministry ministerial
 minor minority
-★mint
+★ mint
 minus
 minute1
 minute2
@@ -3082,17 +3082,17 @@ miss2
 missile
 missing
 mission
-★missionary
+★ missionary
 mist misty
 mistake mistaken
 mister
 mistress
 misunderstand misunderstanding
 mix mixture mixer
-★moan
+★ moan
 mobile
-★mobilize/-ise
-★mock
+★ mobilize/-ise
+★ mock
 mode
 model
 moderate moderation moderator
@@ -3101,17 +3101,17 @@ modest modesty
 modify modification modifier
 moist moisture
 mo(u)ld mo(u)ldy
-★molecule molecular
+★ molecule molecular
 mom(my)
 moment momentary momentarily
-★momentum momentous
-★monarchy monarch
+★ momentum momentous
+★ monarchy monarch
 Monday
 money monetary
 monitor
 monkey
-★monopoly monopolize/-ise
-★monotony monotonous
+★ monopoly monopolize/-ise
+★ monotony monotonous
 monster monstrous
 month monthly
 monument monumental
@@ -3119,13 +3119,13 @@ mood moody
 moon
 mop
 moral morality
-★morale
+★ morale
 more
 moreover
 morning
-★mortal mortality
+★ mortal mortality
 mortgage
-★mosquito
+★ mosquito
 most mostly
 motel
 mother motherly
@@ -3137,36 +3137,36 @@ motorway
 mount1 mounting
 mount2
 mountain mountainous
-★mourn mourning
+★ mourn mourning
 mouse
 mouth mouthful
 move movement
 movie
-★mow
+★ mow
 much
 mud muddy
 mug
 mule
-★multilateral
+★ multilateral
 multiple multiply multiplication
-★multitude
+★ multitude
 municipal municipality
 murder murderous
-★murmur
+★ murmur
 muscle muscular
 museum
 mushroom
 music musical musician
 must
-★mute
-★mutter
+★ mute
+★ mutter
 mutual
 my
 myself
 mystery mysterious
 myth mythical mythology
 nail
-★naive naivety
+★ naive naivety
 naked
 name
 namely
@@ -3180,7 +3180,7 @@ nationwide
 native
 nature natural naturally
 naughty
-★navigate navigation
+★ navigate navigation
 navy naval
 near nearly
 nearby
@@ -3193,8 +3193,8 @@ need needy
 needle
 negate negation negative
 neglect neglectful
-★negligent negligence
-★negligible
+★ negligent negligence
+★ negligible
 negotiate negotiation negotiable
 neighbo(u)r neighbo(u)rhood
 neither
@@ -3212,25 +3212,25 @@ newspaper
 next
 nice nicety
 nickel
-★nickname
+★ nickname
 niece
 night nightly
 nightmare
-★nil
+★ nil
 nine
 nineteen
 ninety
 ninth
-★nitrogen
+★ nitrogen
 no
 noble nobility
 nobody
 nod
 noise noisy
-★nominal
-★nominate nomination nominee
+★ nominal
+★ nominate nomination nominee
 none
-★nonetheless
+★ nonetheless
 nonsense
 noodle
 noon
@@ -3244,13 +3244,13 @@ nose nosy
 not
 note notation notable
 notebook
-★noteworthy
+★ noteworthy
 nothing
 notice noticeable
 notify notification
 notion notional
-★notorious notoriety
-★notwithstanding
+★ notorious notoriety
+★ notwithstanding
 noun
 nourish nourishment
 novel1 novelist
@@ -3262,31 +3262,31 @@ nowhere
 nuclear nucleus
 nude nudity
 nuisance
-★numb
+★ numb
 number
-★numerical
+★ numerical
 numerous
 nurse
 nursery
-★nurture
+★ nurture
 nut
 nutrition nutrient
-★oak
-★oar
-★oath
+★ oak
+★ oar
+★ oath
 obese obesity
 obey obedient obedience
 object1
 object2 objection
 objective
 oblige obligation obliged obligatory
-★obscene obscenity
-★obscure obscurity
-★observatory
+★ obscene obscenity
+★ obscure obscurity
+★ observatory
 observe observation observer observant
-★obsess obsession obsessive
+★ obsess obsession obsessive
 obstacle
-★obstruct obstruction
+★ obstruct obstruction
 obtain obtainment
 obvious obviously
 occasion occasional occasionally
@@ -3306,14 +3306,14 @@ offer offering
 office
 officer
 official
-★offset
-★offspring
+★ offset
+★ offspring
 often/oftentimes
 oil oily
 okay
 old
 old-fashioned
-★olive
+★ olive
 Olympic Olympics Olympiad
 omit omission
 on
@@ -3324,29 +3324,29 @@ ongoing
 onion
 online
 only
-★onset
+★ onset
 onto
 onward
-★opaque
+★ opaque
 open opener opening openly
 opera
 operate operation operational operator
-★operative
+★ operative
 opinion
 opportunity
 oppose opposition opponent
 opposite
-★oppress oppression oppressive
+★ oppress oppression oppressive
 opt option optional
-★optic optical
+★ optic optical
 optimism optimistic optimist
-★optimum optimal
+★ optimum optimal
 or
 oral
 orange
 orbit orbital
 orchestra
-★ordeal
+★ ordeal
 order orderly
 ordinary
 ore
@@ -3359,7 +3359,7 @@ orient2 oriental
 origin original originality originate
 ornament ornamental
 orphan orphanage
-★orthodox
+★ orthodox
 other
 otherwise
 ought to
@@ -3373,15 +3373,15 @@ outcome
 outdated
 outdoor outdoors
 outer
-★outfit
+★ outfit
 outgoing
 outing
-★outlaw
+★ outlaw
 outlet
 outline
 outlook
 output
-★outrage outrageous
+★ outrage outrageous
 outset
 outside outsider
 outskirts
@@ -3394,36 +3394,36 @@ overall
 overcoat
 overcome
 overdue
-★overflow
-★overhaul
+★ overflow
+★ overhaul
 overhead
 overhear
-★overlap
+★ overlap
 overlook
 overnight
-★override
+★ override
 overseas
 oversee
 oversight
-★overstate
-★overt
+★ overstate
+★ overt
 overtake
 overthrow
 overtime
-★overturn
+★ overturn
 overwhelm overwhelming overwhelmingly
 owe owing-to
-★owl
+★ owl
 own owner ownership
 ox
-★oxide
+★ oxide
 oxygen
 ozone
 pace
 pack
 package
 packet
-★pact
+★ pact
 pad
 paddy
 page
@@ -3433,68 +3433,68 @@ pair
 palace
 pale
 palm
-★pamphlet
+★ pamphlet
 pan
 panda
 panel
 panic
-★panorama panoramic
-★pant
+★ panorama panoramic
+★ pant
 pants
 paper
 paperback
-★parachute
+★ parachute
 parade
-★paradigm
-★paradise
+★ paradigm
+★ paradise
 paradox paradoxical
 paragraph
 parallel
-★paralyze/-yse paralysis
-★parameter
-★parasite
+★ paralyze/-yse paralysis
+★ parameter
+★ parasite
 parcel
 pardon
 parent parental parenting
-★parish
+★ parish
 park1
 park2 parking
 parliament parliamentary
-★parole
-★parrot
+★ parole
+★ parrot
 part partial partially
 participate participation participant
 particle
 particular particularly
-★partisan
-★partition
+★ partisan
+★ partition
 partly
 partner partnership
 party
 pass
 passage
 passenger
-★passerby
+★ passerby
 passion passionate
 passive
 passport
 password
 past
-★pasta
+★ pasta
 paste
 pastime
-★pastry
-★pasture
+★ pastry
+★ pasture
 pat
 patch
 patent
 path
-★pathetic
+★ pathetic
 patient1 patience
 patient2
-★patriot patriotic patriotism
-★patrol
-★patron patronize/-ise patronage
+★ patriot patriotic patriotism
+★ patrol
+★ patron patronize/-ise patronage
 pattern
 pause
 pave pavement
@@ -3509,23 +3509,23 @@ peanut
 pear
 pearl
 peasant
-★peck
+★ peck
 peculiar peculiarity
-★pedal
-★peddle
+★ pedal
+★ peddle
 pedestrian
-★peel
-★peep
+★ peel
+★ peep
 peer
-★peg
+★ peg
 pen
 penalty penalize/-ise
 pencil
-★pending
-★pendulum
+★ pending
+★ pendulum
 penetrate penetration
-★penguin
-★peninsula
+★ penguin
+★ peninsula
 penny
 pension pensioner
 people
@@ -3533,20 +3533,20 @@ pepper
 per
 perceive perception perceptive
 percent percentage
-★perch
+★ perch
 perfect perfection
 perform performance performer
-★perfume
+★ perfume
 perhaps
 peril perilous
 period periodic periodical
-★perish
+★ perish
 permanent permanence
-★permeate permeation
+★ permeate permeation
 permit permission permissible permissive
-★perpetual perpetuate
-★perplex perplexity
-★persecute persecution
+★ perpetual perpetuate
+★ perplex perplexity
+★ persecute persecution
 persevere perseverance
 persist persistent persistence
 person personal personally personality
@@ -3554,15 +3554,15 @@ personnel
 perspective
 persuade persuasion persuasive
 pessimism pessimistic pessimist
-★pest
-★pesticide
+★ pest
+★ pesticide
 pet
-★petition petitioner
-★petrochemical
+★ petition petitioner
+★ petrochemical
 petrol
 petroleum
 petty
-★pharmacy pharmaceutical
+★ pharmacy pharmaceutical
 phase
 phenomenon
 philosophy philosophical philosopher
@@ -3571,7 +3571,7 @@ phrase phrasal
 physical
 physician
 physics physicist
-★physiological
+★ physiological
 piano pianist
 pick picky
 picnic
@@ -3582,7 +3582,7 @@ pierce
 pig
 pigeon
 pile
-★pilgrim pilgrimage
+★ pilgrim pilgrimage
 pill
 pillar
 pillow
@@ -3603,30 +3603,30 @@ pizza
 place placement
 plague
 plain
-★plaintiff
+★ plaintiff
 plan planning planner
 plane
 planet planetary
 plant plantation
 plastic
 plate
-★plateau
+★ plateau
 platform
-★plausible
+★ plausible
 play player
 playground
-★plaza
-★plea
-★plead
+★ plaza
+★ plea
+★ plead
 please pleasure pleasant pleasing
 pledge
 plenty plentiful
-★plight
+★ plight
 plot
 plow/plough
 plug
-★plumber
-★plumbing
+★ plumber
+★ plumbing
 plunge
 plural
 plus
@@ -3635,9 +3635,9 @@ podcast
 poem poetry
 poet poetic
 point pointless
-★poise poised
+★ poise poised
 poison poisonous
-★poke
+★ poke
 pole polar
 police policeman
 policy
@@ -3646,22 +3646,22 @@ polite politeness
 politics political politician
 poll pollster
 pollute pollution pollutant
-★polytechnic
+★ polytechnic
 pond
-★ponder
+★ ponder
 pool
 poor poverty
 pop
 popular popularity
 population populous populate
-★porcelain
-★porch
+★ porcelain
+★ porch
 pork
-★porridge
+★ porridge
 port portable porter
-★portfolio
+★ portfolio
 portion
-★portray portrayal portrait
+★ portray portrayal portrait
 pose posture
 position
 positive
@@ -3674,10 +3674,10 @@ poster
 postpone postponement
 pot
 potato
-★potent
+★ potent
 potential potentiality
-★pottery
-★poultry
+★ pottery
+★ poultry
 pound1
 pound2
 pour
@@ -3685,50 +3685,50 @@ powder
 power powerful
 practice/-ise practicable
 practical practicality
-★practitioner
+★ practitioner
 praise
 pray prayer1 prayer2
 preach preacher
 precaution precautionary
-★precede preceding precedent
+★ precede preceding precedent
 precious
 precise precision precisely
-★predator predatory
-★predecessor
+★ predator predatory
+★ predecessor
 predict prediction predictable
-★predominate predominance predominant
+★ predominate predominance predominant
 preface
 prefer preferable preference preferential
 pregnant pregnancy
 prejudice
 preliminary
-★premature
+★ premature
 premier
-★premise
-★premium
-★preoccupy preoccupied
+★ premise
+★ premium
+★ preoccupy preoccupied
 prepare preparation preparatory
 preposition
-★prerequisite
+★ prerequisite
 prescribe prescription
 present1 presence
 present2 presentation
 present3 presently
 preserve preservation preservative
-★preside
+★ preside
 president presidency presidential
 press1
 press2 pressure pressing
-★prestige prestigious
-★presume presumption presumably
+★ prestige prestigious
+★ presume presumption presumably
 pretend pretense/-ce
-★pretext
+★ pretext
 pretty
 prevail prevalence prevalent
 prevent prevention preventive
 preview
 previous
-★prey
+★ prey
 price priceless
 pride proud
 priest
@@ -3745,7 +3745,7 @@ private privacy privatize/-ise privatization/-sation
 privilege privileged
 prize
 probable probability probably
-★probe
+★ probe
 problem problematic
 procedure
 proceed proceedings
@@ -3757,7 +3757,7 @@ product
 profession professional
 professor
 proficient proficiency
-★profile
+★ profile
 profit profitable
 profound
 program(me)
@@ -3765,50 +3765,50 @@ progress progressive progression
 prohibit prohibition prohibitive
 project1
 project2 projector projection
-★prolong
+★ prolong
 prominent prominence
 promise promising
 promote promotion
 prompt
-★prone
+★ prone
 pronoun
 pronounce pronunciation
 proof
-★proofread
-★prop
-★propaganda
-★propagate propagation
-★propel propeller
+★ proofread
+★ prop
+★ propaganda
+★ propagate propagation
+★ propel propeller
 proper
 property
 proportion proportional
 propose proposal proposition
 prose
-★prosecute prosecution
+★ prosecute prosecution
 prospect prospective
-★prosper prosperity prosperous
+★ prosper prosperity prosperous
 protect protection protective
 protein
 protest
-★protocol
-★prototype
+★ protocol
+★ prototype
 prove
 proverb proverbial
 provide provision
 provided
 province provincial
 provoke provocation provocative
-★proximate proximity
-★psychiatry psychiatric psychiatrist
+★ proximate proximity
+★ psychiatry psychiatric psychiatrist
 psychology psychological psychologist
 pub
 public publicize/-ise publicity publicly
 publish publication
-★pudding
+★ pudding
 pull
 pulse
 pump
-★pumpkin
+★ pumpkin
 punch
 punctual punctuality
 punish punishment
@@ -3822,25 +3822,25 @@ pursue pursuit
 push pushy
 put
 puzzle puzzlement
-★pyramid
+★ pyramid
 quake
 qualify qualification
 quality qualitative
 quantify quantification
 quantity quantitative
 quarrel quarrelsome
-★quart
+★ quart
 quarter quarterly
 queen
-★query
-★quest
+★ query
+★ quest
 question questionnaire
 queue
 quick
 quiet
 quit
 quite
-★quiver
+★ quiver
 quiz
 quota
 quote quotation
@@ -3849,10 +3849,10 @@ race1 racial racism racist
 race2
 rack
 radar
-★radiate radiation radiator radiant
+★ radiate radiation radiator radiant
 radical
 radio
-★radioactive radioactivity
+★ radioactive radioactivity
 rag ragged raggedly
 rage raging
 raid
@@ -3863,23 +3863,23 @@ rainbow
 raincoat
 raise
 rally
-★ranch
-★random
+★ ranch
+★ random
 range
 rank
-★rap
-★rape
+★ rap
+★ rape
 rapid rapidity
 rare rarely rarity
-★rash
+★ rash
 rat
 rate rating
 rather
-★ratify ratification
+★ ratify ratification
 ratio
-★ration
+★ ration
 rational
-★rattle
+★ rattle
 raw
 ray
 reach
@@ -3893,36 +3893,36 @@ realm
 reap
 rear
 reason reasonable
-★reassure reassurance
+★ reassure reassurance
 rebel rebellion rebellious
 recall
-★recede
+★ recede
 receive receipt recipient receptive receiver
 recent recently
 reception receptionist
 recession
-★recipe
-★reciprocal
+★ recipe
+★ reciprocal
 recite recitation
-★reckless
+★ reckless
 reckon
 recognize/-ise recognition
 recommend recommendation
-★reconcile reconciliation reconciliatory
+★ reconcile reconciliation reconciliatory
 record recorder recording
 recover recovery
 recreation recreational
 recruit recruitment
-★rectify rectification
-★recur recurrence
+★ rectify rectification
+★ recur recurrence
 recycle recyclable
 red
 reduce reduction
-★redundant redundancy
-★reel
+★ redundant redundancy
+★ reel
 refer reference
-★referee
-★referendum
+★ referee
+★ referendum
 refine refinery refinement
 reflect reflection reflective
 reform reformation reformist
@@ -3930,38 +3930,38 @@ refrain
 refresh
 refreshment
 refrigerator/fridge refrigeration
-★refuge refugee
-★refund
+★ refuge refugee
+★ refund
 refuse refusal
-★refute refutation
+★ refute refutation
 regard
 regarding
 regardless
-★regime
-★regiment regimental
+★ regime
+★ regiment regimental
 region regional
 register registration registrar
 regret regrettable regretful
 regular regularity
 regulate regulation regulatory regulator
-★rehabilitate rehabilitation
-★rehearse rehearsal
-★reign
-★rein
+★ rehabilitate rehabilitation
+★ rehearse rehearsal
+★ reign
+★ rein
 reinforce reinforcement
 reject rejection
-★rejoice rejoicing
+★ rejoice rejoicing
 relate relation relationship
 relative relativity
 relax relaxation
 relay
 release
-★relentless
+★ relentless
 relevant relevance
-★relic
+★ relic
 relieve relief
 religion religious
-★relish
+★ relish
 reluctant reluctance
 rely reliance reliable
 remain remainder
@@ -3969,31 +3969,31 @@ remark remarkable
 remedy remedial
 remember remembrance
 remind reminder
-★reminiscent reminiscence
-★remnant
+★ reminiscent reminiscence
+★ remnant
 remote
 remove removal
-★renaissance
+★ renaissance
 render rendering
 renew renewal renewable
 renovate renovation
-★renown renowned
+★ renown renowned
 rent rental
 repair reparable
 repay repayment
 repeat repetition repetitive repeatedly
-★repel
-★repertoire
+★ repel
+★ repertoire
 replace replacement
 reply
 report reporter
 represent representation representative
-★repress repression repressive
-★reproach
+★ repress repression repressive
+★ reproach
 reproduce reproduction reproductive
 republic republican
 reputation
-★repute reputable
+★ repute reputable
 request
 require requirement
 rescue
@@ -4001,8 +4001,8 @@ research researcher
 resemble resemblance
 resent resentment
 reserve reservation reserved
-★reservoir
-★reshuffle
+★ reservoir
+★ reshuffle
 reside residence resident residential
 resign resignation
 resist resistance resistant
@@ -4017,7 +4017,7 @@ responsible responsibility
 rest1
 rest2
 restaurant
-★restless
+★ restless
 restore restoration
 restrain restraint
 restrict restriction restrictive
@@ -4026,28 +4026,28 @@ resume1 resumption
 résumé2
 retail retailer
 retain retention
-★retaliate retaliation
-★retarded
+★ retaliate retaliation
+★ retarded
 retell retelling
 retire retirement retired
-★retort
+★ retort
 retreat
-★retrieve retrieval
-★retrospect retrospective
+★ retrieve retrieval
+★ retrospect retrospective
 return
 reunite reunification reunion
 reveal revelation
-★revenge revengeful
+★ revenge revengeful
 revenue
 reverse reversal reversible
 review reviewer
 revise revision
-★revive revival
-★revolt
+★ revive revival
+★ revolt
 revolution revolutionary
 revolve
 reward rewarding
-★rhetoric rhetorical
+★ rhetoric rhetorical
 rhythm rhythmic
 rib
 ribbon
@@ -4056,21 +4056,21 @@ rich
 rid
 riddle
 ride rider
-★ridge
+★ ridge
 ridicule ridiculous
 rifle
-★rig
+★ rig
 right
-★rigid rigidity
-★rigo(u)r rigorous
-★rim
+★ rigid rigidity
+★ rigo(u)r rigorous
+★ rim
 ring
 riot riotous
 rip
 ripe ripen
 rise
 risk risky
-★ritual
+★ ritual
 rival rivalry
 river
 road
@@ -4078,7 +4078,7 @@ roar
 roast
 rob robbery
 robot robotic
-★robust
+★ robust
 rock rocky
 rocket
 rod
@@ -4090,8 +4090,8 @@ room
 root
 rope
 rose rosy
-★rot rotten
-★rotate rotation
+★ rot rotten
+★ rotate rotation
 rough roughly
 round
 rouse
@@ -4112,15 +4112,15 @@ run runner running
 runway
 rural
 rush
-★rust rusty
-★ruthless
+★ rust rusty
+★ ruthless
 sack
-★sacred
+★ sacred
 sacrifice sacrificial
 sad sadness sadden
-★saddle
+★ saddle
 safe safety
-★safeguard
+★ safeguard
 sail sailing sailor
 saint
 sake
@@ -4128,28 +4128,28 @@ salad
 salary
 sale
 salesman
-★salmon
-★salon
+★ salmon
+★ salon
 salt salty
-★salute salutation
-★salvage
-★salvation
+★ salute salutation
+★ salvage
+★ salvation
 same
 sample
-★sanction
-★sanctuary
+★ sanction
+★ sanctuary
 sand
 sandwich
-★sanitation sanitary
-★sarcasm sarcastic
+★ sanitation sanitary
+★ sarcasm sarcastic
 satellite
-★satire satirical satirist
+★ satire satirical satirist
 satisfy satisfaction satisfactory
-★saturate saturation
+★ saturate saturation
 Saturday
 sauce
 sausage
-★savage
+★ savage
 save saving
 say saying
 scale
@@ -4159,7 +4159,7 @@ scar
 scarce scarcity scarcely
 scare scary
 scatter
-★scenario
+★ scenario
 scene scenery scenic
 scent
 schedule
@@ -4171,19 +4171,19 @@ scissors
 scold
 scope
 score
-★scorn scornful
+★ scorn scornful
 scout
-★scramble
-★scrap
-★scrape
+★ scramble
+★ scrap
+★ scrape
 scratch
 scream
 screen
 screw
 script scripture
-★scrub
-★scrutiny scrutinize/-ise
-★sculpture
+★ scrub
+★ scrutiny scrutinize/-ise
+★ sculpture
 sea
 seal
 search
@@ -4197,15 +4197,15 @@ secret secrecy secretive
 secretary secretarial
 section
 sector
-★secular
+★ secular
 secure security
-★seduce seduction seductive
+★ seduce seduction seductive
 see
 seed seedling
 seek
 seem seeming seemingly
 segment segmental
-★segregate segregation
+★ segregate segregation
 seize seizure
 seldom
 select selection selective
@@ -4216,16 +4216,16 @@ seminar
 senate senator
 send
 senior seniority
-★sensation sensational
+★ sensation sensational
 sense sensible sensor
 sensitive sensitivity
 sentence
-★sentiment sentimental
+★ sentiment sentimental
 separate separation separatist
 September
 sequence sequential
-★sergeant
-★serial
+★ sergeant
+★ serial
 series
 serious
 servant
@@ -4242,19 +4242,19 @@ several
 severe severity
 sew
 sex sexy sexual
-★shabby
+★ shabby
 shade shady
 shadow
-★shaft
+★ shaft
 shake shaky
 shall
 shallow
 shame shameful shameless
 shape
 share
-★shark
+★ shark
 sharp sharpen
-★shatter
+★ shatter
 shave shaver
 she
 shed
@@ -4264,12 +4264,12 @@ sheet
 shelf
 shell
 shelter
-★shepherd
-★shield
+★ shepherd
+★ shield
 shift
 shine shiny
 ship shipping shipment
-★shipyard
+★ shipyard
 shirt
 shit
 shiver
@@ -4280,21 +4280,21 @@ shop shopping
 shore
 short shortage shorts
 shortcoming
-★shorthand
+★ shorthand
 shortly
 shot
 should
 shoulder
 shout
-★shove
+★ shove
 show showy
-★showcase
+★ showcase
 shower
-★shred
-★shrewd
+★ shred
+★ shrewd
 shrimp
 shrink
-★shrub shrubbery
+★ shrub shrubbery
 shrug
 shut
 shuttle
@@ -4309,22 +4309,22 @@ sightseeing
 sign signature
 signal
 significant significance
-★signify
+★ signify
 silent silence
 silicon
 silk silky
 silver silvery
 similar similarity
 simple simplicity simplify simply
-★simulate simulation
-★simultaneous
+★ simulate simulation
+★ simultaneous
 sin
 since
 sincere sincerity
 sing singer
 single
 singular singularity
-★sinister
+★ sinister
 sink
 sip
 sir
@@ -4339,23 +4339,23 @@ sixty
 size sizable
 skate skating
 skeleton
-★skeptical/sceptical skeptic/sceptic skepticism/scepticism
+★ skeptical/sceptical skeptic/sceptic skepticism/scepticism
 sketch sketchy
 ski skiing
 skill skil(l)ful skilled
-★skim
+★ skim
 skin skinny
 skip
 skirt
-★skull
+★ skull
 sky
 skyline
 skyscraper
-★slack
-★slam
+★ slack
+★ slam
 slap
-★slash
-★slaughter
+★ slash
+★ slaughter
 slave slavery
 sleep sleepy sleepiness
 sleeve
@@ -4367,10 +4367,10 @@ slim
 slip slippery slipper
 slogan
 slope
-★slot
+★ slot
 slow
-★slum
-★slump
+★ slum
+★ slump
 small
 smart
 smartphone
@@ -4380,31 +4380,31 @@ smile
 smog smoggy
 smoke smoky
 smooth
-★smuggle smuggling smuggler
+★ smuggle smuggling smuggler
 snack
-★snail
+★ snail
 snake
-★snap
-★snatch
-★sneak
-★sniff
-★snob snobbish
+★ snap
+★ snatch
+★ sneak
+★ sniff
+★ snob snobbish
 snow snowy
 so
 soak
 soap
 soar
-★sob
-★sober/-re
+★ sob
+★ sober/-re
 so-called
 soccer
 society social socialize/-ise sociable
 socialism socialist
 sociology sociologist
 sock
-★socket
+★ socket
 soda
-★sodium
+★ sodium
 sofa
 soft soften
 software
@@ -4413,11 +4413,11 @@ solar
 soldier
 sole solely
 solemn solemnity
-★solicit solicitor
+★ solicit solicitor
 solid solidity solidify
-★solidarity
-★solitary solitude
-★solo
+★ solidarity
+★ solitary solitude
+★ solo
 solve solution solvent soluble
 some
 somebody
@@ -4431,7 +4431,7 @@ somewhere
 son
 song
 soon
-★soothe
+★ soothe
 sophisticated sophistication
 sore
 sorrow sorrowful
@@ -4447,39 +4447,39 @@ south southern
 southeast southeastern
 southwest southwestern
 souvenir
-★sovereign sovereignty
+★ sovereign sovereignty
 sow
 space spacious spatial
 spaceship/spacecraft
 spade
-★spaghetti
+★ spaghetti
 span
 spare sparingly
 spark
 sparkle
 speak speaker
-★spear
+★ spear
 special specialize/-ise specialization/-sation specialist
-★specialty/speciality
+★ specialty/speciality
 species
 specific specifically
 specify specification
 specimen
-★spectacle spectacular
-★spectator
-★spectrum
+★ spectacle spectacular
+★ spectator
+★ spectrum
 speculate speculation speculative
 speech speechless
 speed speedy speeding
 spell spelling
 spend spending
 sphere spherical
-★spice spicy
-★spider
+★ spice spicy
+★ spider
 spill
 spin
-★spine spinal
-★spiral
+★ spine spinal
+★ spiral
 spirit spiritual
 spit
 spite
@@ -4488,65 +4488,65 @@ splendid splendo(u)r
 split
 spoil
 spokesman/spokeswoman spokesperson
-★sponge spongy
+★ sponge spongy
 sponsor sponsorship
 spontaneous spontaneity
 spoon spoonful
 sport
 sportsman/sportswoman
 spot
-★spotlight
+★ spotlight
 spouse
-★sprawl
+★ sprawl
 spray
 spread
 spring
-★sprinkle
+★ sprinkle
 spur
 spy
-★squad
+★ squad
 square
 squeeze
-★stab
+★ stab
 stable stability stabilize/-ise
 stack
 stadium
 staff
 stage
-★stagger
-★stagnate stagnation stagnant
+★ stagger
+★ stagnate stagnation stagnant
 stain stainless
 stair
 staircase
 stake
 stale
-★stalk
-★stall
-★stammer
+★ stalk
+★ stall
+★ stammer
 stamp1
 stamp2
-★stance
+★ stance
 stand
 standard standardize/-ise standardization/-sation
-★standby
+★ standby
 standpoint
 staple1
-★staple2 stapler
+★ staple2 stapler
 star starry
 stare
-★stark
+★ stark
 start starter
 startle
 starve starvation
 state statement
 statesman
-★static
+★ static
 station stationary
-★stationery
+★ stationery
 statistic statistical
 statue
 status
-★statute statutory
+★ statute statutory
 stay
 steady steadily
 steak
@@ -4558,50 +4558,50 @@ steer
 stem1
 stem2
 step
-★stereotype
-★stern
-★steward(ess)
+★ stereotype
+★ stern
+★ steward(ess)
 stick1
 stick2 sticky
 stiff stiffen
-★stifle
-★stigma
+★ stifle
+★ stigma
 still1
 still2
 stimulate stimulation stimulus stimulant
 sting
-★stipulate stipulation
+★ stipulate stipulation
 stir
-★stitch
+★ stitch
 stock
 stocking
 stomach
 stone stony
 stool
-★stoop
+★ stoop
 stop stoppage
 store1
 store2 storage
 storm stormy
 story1
 stor(e)y2
-★stout
+★ stout
 stove
 straight straighten
 straightforward
 strain1
 strain2
-★strait
-★strand
+★ strait
+★ strand
 strange stranger
-★strangle
+★ strangle
 strap
 strategy strategic
 straw
-★stray
-★streak
+★ stray
+★ streak
 stream
-★streamline
+★ streamline
 street
 stress stressful
 stretch
@@ -4614,35 +4614,35 @@ stripe
 strive
 stroke1
 stroke2
-★stroll
+★ stroll
 strong strength strengthen
 structure structural
 struggle
-★stubborn
+★ stubborn
 student
 studio
 study
 stuff stuffy stuffing
-★stumble
-★stump
-★stun stunning
+★ stumble
+★ stump
+★ stun stunning
 stupid stupidity
-★sturdy
+★ sturdy
 style stylish
 subject1
 subject2
 subjective
-★submarine
-★submerge
+★ submarine
+★ submerge
 submit submission submissive
-★subordinate subordination
-★subscribe subscription subscriber
+★ subordinate subordination
+★ subscribe subscription subscriber
 subsequent
-★subsidy subsidize/-ise
-★subsistence
+★ subsidy subsidize/-ise
+★ subsistence
 substance substantial
 substitute substitution
-★subtle subtlety
+★ subtle subtlety
 subtract subtraction
 suburb suburban
 subway
@@ -4651,23 +4651,23 @@ success successful
 such
 suck
 sudden suddenly
-★sue
+★ sue
 suffer suffering
-★suffice
+★ suffice
 sufficient
 sugar
 suggest suggestion suggestive
-★suicide suicidal
+★ suicide suicidal
 suit1 suitable
 suit2
 suitcase
-★suite
-★sulfur/sulphur
+★ suite
+★ sulfur/sulphur
 sum
 summary summarize/-ise
 summer
 summit
-★summon
+★ summon
 sun sunny
 Sunday
 sunlight
@@ -4677,17 +4677,17 @@ sunshine
 super
 superb
 superficial
-★superintendent
+★ superintendent
 superior superiority
 supermarket
-★superstition superstitious
+★ superstition superstitious
 supervise supervision supervisor
 supper
 supplement supplementary
 supply supplier
 support supportive supporter
 suppose supposition supposedly
-★suppress suppression suppressive
+★ suppress suppression suppressive
 supreme supremacy
 sure
 surf surfing
@@ -4695,23 +4695,23 @@ surface
 surge
 surgery surgical surgeon
 surname
-★surpass
+★ surpass
 surplus
 surprise
 surrender
 surround surroundings
-★surveillance
+★ surveillance
 survey
 survive survival survivor
-★susceptible
+★ susceptible
 suspect
 suspend suspension suspense
 suspicion suspicious
 sustain sustainable sustainability
 swallow1
 swallow2
-★swamp
-★swap
+★ swamp
+★ swap
 sway
 swear
 sweat sweater
@@ -4725,23 +4725,23 @@ swipe
 switch
 sword
 symbol symbolic(al)
-★symmetry symmetric(al)
+★ symmetry symmetric(al)
 sympathy sympathetic sympathize/-ise
-★symphony
-★symposium
+★ symphony
+★ symposium
 symptom
-★syndicate
-★syndrome
-★synonym
-★synthesis synthetic synthesize/-ise
+★ syndicate
+★ syndrome
+★ synonym
+★ synthesis synthetic synthesize/-ise
 system systematic systematically
 table
 tablet
-★taboo
-★tack
+★ taboo
+★ tack
 tackle
-★tact tactful
-★tactic
+★ tact tactful
+★ tactic
 tag
 tail
 tailor
@@ -4752,15 +4752,15 @@ talent talented
 talk talkative
 tall
 tame
-★tan
+★ tan
 tangible
-★tangle
+★ tangle
 tank
-★tanker
+★ tanker
 tap
 tape
 target
-★tariff
+★ tariff
 task
 taste tasty
 tax taxation
@@ -4770,7 +4770,7 @@ teach teacher teaching
 team
 tear1
 tear2
-★tease
+★ tease
 technical technician
 technique
 technology/tech technological
@@ -4784,40 +4784,40 @@ television/TV
 tell telling
 teller
 temper
-★temperament
+★ temperament
 temperature
 temple
-★tempo
-★temporal
+★ tempo
+★ temporal
 temporary temporarily
-★tempt temptation
+★ tempt temptation
 ten
-★tenant
+★ tenant
 tend tendency
 tender
 tennis
 tense1 tension
 tense2
 tent
-★tentative
-★tenure
+★ tentative
+★ tenure
 term
 terminal
-★terminate termination
-★terrace
-★terrain
+★ terminate termination
+★ terrace
+★ terrain
 terrible terribly
 terrific
 territory territorial
 terror terrify terrorism terrorist
-★tertiary
+★ tertiary
 test
-★testify
-★testimony
+★ testify
+★ testimony
 text
 textbook
 textile
-★texture
+★ texture
 than
 thank thankful
 Thanksgiving
@@ -4836,14 +4836,14 @@ therapy therapist therapeutic(al)
 there
 thereby
 therefore
-★thermal
+★ thermal
 thermometer
 these
 thesis
 they
 thick
 thief
-★thigh
+★ thigh
 thin
 thing
 think thinking
@@ -4852,7 +4852,7 @@ thirst thirsty
 thirteen
 thirty
 this
-★thorn thorny
+★ thorn thorny
 thorough
 those
 though
@@ -4861,12 +4861,12 @@ thousand
 thread
 threat threaten
 three
-★threshold
-★thrift thrifty
-★thrill thriller
+★ threshold
+★ thrift thrifty
+★ thrill thriller
 thrive
 throat
-★throne
+★ throne
 through
 throughout
 throw
@@ -4877,18 +4877,18 @@ Thursday
 thus
 tick
 ticket
-★tickle
+★ tickle
 tide tidal
 tidy
 tie
 tiger tigress
 tight tighten
-★tile
+★ tile
 till
-★tilt
+★ tilt
 timber
 time timely timing
-★timid
+★ timid
 tin
 tiny
 tip
@@ -4901,7 +4901,7 @@ tobacco
 today
 toe
 together
-★toil
+★ toil
 toilet
 token
 tolerate tolerance tolerant tolerable
@@ -4917,26 +4917,26 @@ tool
 tooth
 top
 topic topical
-★topple
+★ topple
 torch
-★tornado
+★ tornado
 torture
 toss
 total
 touch
 tough
 tour tourism tourist
-★tournament
-★tow
+★ tournament
+★ tow
 toward(s)
 towel
 tower
 town township
-★toxic
+★ toxic
 toy
 trace
 track
-★tract
+★ tract
 tractor
 trade
 trademark
@@ -4945,18 +4945,18 @@ traffic trafficking
 tragedy tragic tragically
 trail trailer
 train trainer trainee training
-★trait
+★ trait
 tram
-★tranquil tranquility
+★ tranquil tranquility
 transaction
-★transcend
+★ transcend
 transcript
 transfer transference
 transform transformation
-★transient
-★transistor
+★ transient
+★ transistor
 transit
-★transition transitional
+★ transition transitional
 translate translation translator
 transmit transmission transmitter
 transparent transparency
@@ -4964,65 +4964,65 @@ transplant transplantation
 transport transportation
 trap
 trash
-★trauma traumatic
+★ trauma traumatic
 travel
 tray
-★tread
+★ tread
 treasure
-★treasury treasurer
+★ treasury treasurer
 treat treatment
 treaty
 tree
-★trek
+★ trek
 tremble
 tremendous
-★trench
+★ trench
 trend
 trial
 triangle triangular
-★tribe tribal
-★tribune
-★tribute
+★ tribe tribal
+★ tribune
+★ tribute
 trick tricky
-★trickle
+★ trickle
 trifle
 trigger
-★trillion
-★trim
+★ trillion
+★ trim
 trip
 triple
 triumph triumphant
-★trivial
+★ trivial
 trolley
 troop
-★trophy
-★tropic tropical
+★ trophy
+★ tropic tropical
 trouble troublesome
 trousers
 truck
 true truly
-★trumpet
+★ trumpet
 trunk
 trust trustee
 truth truthful
 try trial trying
-★tub
+★ tub
 tube
-★tuck
+★ tuck
 Tuesday
-★tug
+★ tug
 tuition
-★tumble
+★ tumble
 tumo(u)r
 tune
 tunnel
-★turbulent turbulence
+★ turbulent turbulence
 turkey
-★turmoil
+★ turmoil
 turn
-★turnout
-★turnover
-★turtle
+★ turnout
+★ turnover
+★ turtle
 tutor tutorial
 twelve twelfth
 twenty twentieth
@@ -5036,9 +5036,9 @@ typical
 tyre/tire
 ugly ugliness
 ultimate ultimately
-★ultra
+★ ultra
 umbrella
-★unanimous
+★ unanimous
 uncertain uncertainty
 uncle
 uncover
@@ -5048,7 +5048,7 @@ underestimate
 undergo
 undergraduate
 underground
-★underlie underlying
+★ underlie underlying
 underline
 undermine
 underneath
@@ -5059,39 +5059,39 @@ undo
 undoubtedly
 uneasy
 unemployed unemployment
-★unfold
+★ unfold
 uniform uniformity
-★unify unification
-★unilateral
+★ unify unification
+★ unilateral
 union
 unique
 unit
 unite unity
 universe universal
 university
-★unleash
+★ unleash
 unless
-★unprecedented
+★ unprecedented
 until
-★unveil
+★ unveil
 up
 update
 upgrade
-★uphold
+★ uphold
 upload
 upon
 upper
 upright
-★uprising
+★ uprising
 upset
 upstairs
 up-to-date
 upward upwards
-★uranium
+★ uranium
 urban urbanize/-ise urbanization/-sation
 urge
 urgent urgency
-★urine urinate
+★ urine urinate
 us
 usage
 use user useful useless
@@ -5104,14 +5104,14 @@ utter1
 utter2 utterly
 vacant vacancy
 vacation
-★vaccine vaccinate vaccination
+★ vaccine vaccinate vaccination
 vacuum
 vague
 vain vanity
 valid validate validity
 valley
 value valuable
-★valve
+★ valve
 van
 vanish
 vapo(u)r
@@ -5119,37 +5119,37 @@ various variety
 vary variation variable variant
 vast
 vegetable vegetarian
-★vegetation
+★ vegetation
 vehicle
 veil
-★vein
-★velocity
-★velvet
+★ vein
+★ velocity
+★ velvet
 vendor
-★vent
-★ventilate ventilation
+★ vent
+★ ventilate ventilation
 venture
-★venue
+★ venue
 verb verbal
-★verdict
-★verge
+★ verdict
+★ verge
 verify verification
-★versatile
-★verse
+★ versatile
+★ verse
 version
 versus
 vertical
 very
 vessel
-★vest
+★ vest
 veteran
 veto
 via
-★viable
-★vibrate vibration
-★vice
-★vicinity
-★vicious
+★ viable
+★ vibrate vibration
+★ vice
+★ vicinity
+★ vicious
 victim victimize
 victory victorious
 video
@@ -5161,7 +5161,7 @@ vinegar
 violate violation
 violent violence
 violin violinist
-★virgin virginity
+★ virgin virginity
 virtual virtually
 virtue virtuous
 virus
@@ -5174,28 +5174,28 @@ vital vitality
 vitamin
 vivid
 vocabulary
-★vocal
+★ vocal
 vocation vocational
-★vogue
+★ vogue
 voice
-★void
-★volatile volatility
+★ void
+★ volatile volatility
 volcano volcanic
 volleyball
 volt voltage
 volume voluminous
 volunteer voluntary
 vote voter
-★voucher
-★vow
+★ voucher
+★ vow
 voyage
-★vulgar
+★ vulgar
 vulnerable vulnerability
 wage
 wag(g)on
 waist
 wait waiter/waitress
-★waive waiver
+★ waive waiver
 wake waken
 walk
 wall
@@ -5204,14 +5204,14 @@ wander
 want
 war
 ward
-★wardrobe
+★ wardrobe
 ware
 warehouse
 warfare
 warm warmth
 warn warning
-★warrant
-★warranty
+★ warrant
+★ warranty
 warrior
 wary
 wash washing
@@ -5220,7 +5220,7 @@ watch watchful
 water
 waterproof
 watertight
-★watt
+★ watt
 wave wavy
 wax
 way
@@ -5229,14 +5229,14 @@ weak weaken weakness
 wealth wealthy
 weapon
 wear
-★weary weariness
+★ weary weariness
 weather
 weave
 web
 webcast
 website
 wed wedding
-★wedge
+★ wedge
 Wednesday
 weed
 week weekly
@@ -5255,36 +5255,36 @@ well-off
 west western westerner
 wet
 whale
-★wharf
+★ wharf
 what whatever whatsoever
 wheat
 wheel
 when whenever
 where wherever
-★whereabouts
+★ whereabouts
 whereas
-★whereby
+★ whereby
 whether
 which whichever
 while/whilst
 whip
-★whirl
+★ whirl
 whisky
 whisper
 whistle
 white
 who whoever
 whole wholly
-★wholesale
-★wholesome
+★ wholesale
+★ wholesome
 whom
 whose
 why
-★wicked
+★ wicked
 wide width widen
 widespread
 widow widower
-★wield
+★ wield
 wife
 wild
 wilderness
@@ -5297,18 +5297,18 @@ wind2
 window
 wine winery
 wing
-★wink
+★ wink
 winter
 wipe
 wire wireless
 wise wisdom
 wish
 wit witty
-★witch
+★ witch
 with
 withdraw withdrawal
-★wither
-★withhold
+★ wither
+★ withhold
 within
 without
 withstand
@@ -5337,19 +5337,19 @@ would
 wound
 wrap wrapping
 wreck wreckage
-★wrench
-★wrestle wrestling
-★wretched
+★ wrench
+★ wrestle wrestling
+★ wretched
 wrinkle
 wrist
 write writer writing
 wrong
 x-ray
-★yacht
+★ yacht
 yard
-★yawn
+★ yawn
 year yearly
-★yearn yearning
+★ yearn yearning
 yell
 yellow
 yes yeah
@@ -5365,11 +5365,11 @@ your
 yours
 yourself yourselves
 youth youthful
-★zeal zealous
+★ zeal zealous
 zero
-★zigzag
-★zip zipper
+★ zigzag
+★ zip zipper
 zone
 zoo
 zoology zoological
-★zoom
+★ zoom

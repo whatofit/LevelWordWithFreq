@@ -118,6 +118,7 @@ public class MergeLevelWrod2CET {
 			String[] columns = curLine.split(",");
 			if (columns.length > nMaxColCnt) {
 				nMaxColCnt = columns.length;
+				//System.out.println("getFileMaxColumnCnt,nMaxColCnt: " + nMaxColCnt);
 			}
 		}
 		return nMaxColCnt;

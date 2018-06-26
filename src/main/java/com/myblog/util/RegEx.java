@@ -423,7 +423,8 @@ public class RegEx {
 	// airplane/aeroplane
 	public static String fmtWord(String line) {
 		// /匹配双字节字符(包括汉字在内)：[^x00-xff]
-		String regEx = "([^x00-xff])\\s*([a-z-A-Z()/'\\.]+)";
+		// String regEx = "([^x00-xff])\\s*([a-z-A-Z\\(\\)/'\\.]+)";
+		String regEx = "([^x00-xff])\\s*(a-z1-3)";
 		Pattern p = Pattern.compile(regEx);
 		Matcher matcher = p.matcher(line);
 		if (matcher.find()) {
@@ -441,15 +442,22 @@ public class RegEx {
 			} else if (cet.equals("▲")) {
 				level = "更高";
 			} else {
-				level = "四级";
+				// level = "四级";
 			}
 
 			// word = word.replaceAll("[()]", ""); // 删除()小括号
 			word = word.replaceAll("[\\d]", "").trim();// .replaceAll("/.*$", "").trim();
 			// return level+","+word;
-			return word + "," + level;
+			// return word + "," + level;
 			// return removeBrackets(word);
 			// return word;
+			if (cet.equals("★")) {
+				return "★" + word;
+			} else if (cet.equals("▲")) {
+				return "▲ " + word;
+			} else {
+				return "  " + word;
+			}
 		}
 		return "";
 	}

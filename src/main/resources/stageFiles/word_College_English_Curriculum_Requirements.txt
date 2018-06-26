@@ -51,7 +51,7 @@
    accomplish
    accord
    accordance
-   according to
+   according(-to)
    accordingly
    account
 ★ accountability
@@ -2226,7 +2226,7 @@
    dumb
    dump
    dumpling
-★ duplicate★
+★ duplicate
    durable
    duration
    during
@@ -3377,7 +3377,7 @@
    huge
 ★ hum
    human
-   human being
+   human-being
 ★ humane
 ★ humanism
 ★ humanist
