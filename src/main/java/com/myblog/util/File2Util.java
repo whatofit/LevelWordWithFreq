@@ -33,86 +33,9 @@ public class File2Util {
 	        throw new AssertionError();
 	    }
 
-    /**
-     * 从文件的完整路径名（路径+文件名）中提取 路径（包括：Drive+Directroy )
-     *
-     * @param _sFilePathName
-     * @return
-     */
-    public static String extractFilePath(String _sFilePathName) {
-        int nPos = _sFilePathName.lastIndexOf('/');
-        if (nPos < 0) {
-            nPos = _sFilePathName.lastIndexOf('\\');
-        }
-
-        return (nPos >= 0 ? _sFilePathName.substring(0, nPos + 1) : "");
-    }
-
-    /**
-     * 从文件的完整路径名（路径+文件名）中提取文件名(包含扩展名) <br>
-     * 如：d:\path\file.ext --> file.ext
-     *
-     * @param _sFilePathName
-     * @return
-     */
-    public static String extractFileName(String _sFilePathName) {
-        return extractFileName(_sFilePathName, File.separator);
-    }
-
-    /**
-     * 从文件的完整路径名（路径+文件名）中提取文件名(包含扩展名) <br>
-     * 如：d:\path\file.ext --> file.ext
-     *
-     * @param _sFilePathName  全文件路径名
-     * @param _sFileSeparator 文件分隔符
-     * @return
-     */
-    public static String extractFileName(String _sFilePathName,
-                                         String _sFileSeparator) {
-        int nPos = -1;
-        if (_sFileSeparator == null) {
-            nPos = _sFilePathName.lastIndexOf(File.separatorChar);
-            if (nPos < 0) {
-                nPos = _sFilePathName
-                        .lastIndexOf(File.separatorChar == '/' ? '\\' : '/');
-            }
-        } else {
-            nPos = _sFilePathName.lastIndexOf(_sFileSeparator);
-        }
-
-        if (nPos < 0) {
-            return _sFilePathName;
-        }
-
-        return _sFilePathName.substring(nPos + 1);
-    }
+   
 
     
-	/**
-	 * 从文件路径得到文件名。
-	 * 
-	 * @param filePath
-	 *            文件的路径，可以是相对路径也可以是绝对路径
-	 * @return 对应的文件名
-	 * @since 1.0
-	 */
-	public static String getFileName(String filePath) {
-		File file = new File(filePath);
-		return file.getName();
-	}
-
-	/**
-	 * 从文件名得到文件绝对路径。
-	 * 
-	 * @param fileName
-	 *            文件名
-	 * @return 对应的文件路径
-	 * @since 1.0
-	 */
-	public static String getFilePath(String fileName) {
-		File file = new File(fileName);
-		return file.getAbsolutePath();
-	}
 
 	/**
 	 * 将DOS/Windows格式的路径转换为UNIX/Linux格式的路径。

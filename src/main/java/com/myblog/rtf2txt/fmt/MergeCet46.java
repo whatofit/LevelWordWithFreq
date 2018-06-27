@@ -30,8 +30,7 @@ public class MergeCet46 {
 		String cfg_english_txt_result_path = CfgUtil.getPropCfg(Constant.FILE_CONFIG_FILE, "cfg_english_txt_result");
 		String txtWordFile = Constant.PATH_RESOURCES + cfg_english_txt_result_path;
 		String body = wordLines.stream().collect(Collectors.joining("\r\n")).toString();
-		String charset = "UTF-8";// "UTF-8";"GB2312";"GBK";
-		FileUtil.writeFile(txtWordFile, body, false, charset);
+		FileUtil.writeFile(txtWordFile, body);
 		// ResourceUtil.writerFile(txtWordFile, wordLines, false);
 		long endTime = System.currentTimeMillis();
 		System.out.println("执行耗时 : " + (endTime - startTime) / 1000f + " 秒 ");

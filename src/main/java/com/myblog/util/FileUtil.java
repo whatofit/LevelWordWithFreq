@@ -1,5 +1,6 @@
 package com.myblog.util;
 
+import java.io.BufferedInputStream;
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileInputStream;
@@ -19,6 +20,7 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 
+import org.apache.commons.io.FileUtils;
 import org.apache.commons.io.IOUtils;
 import org.apache.commons.lang3.StringUtils;
 
@@ -41,107 +43,91 @@ java提供了多种文件写入的方式，效率上各有异同，
 
 /**
  * File Utils
- * <ul>
- * Read or write file
- * <li>{@link #readFile(String, String)} read file</li>
- * <li>{@link #readFileToList(String, String)} read file to string list</li>
- * <li>{@link #writeFile(String, String, boolean)} write file from String</li>
- * <li>{@link #writeFile(String, String)} write file from String</li>
- * <li>{@link #writeFile(String, List, boolean)} write file from String
- * List</li>
- * <li>{@link #writeFile(String, List)} write file from String List</li>
- * <li>{@link #writeFile(String, InputStream)} write file</li>
- * <li>{@link #writeFile(String, InputStream, boolean)} write file</li>
- * <li>{@link #writeFile(File, InputStream)} write file</li>
- * <li>{@link #writeFile(File, InputStream, boolean)} write file</li>
- * </ul>
- * <ul>
- * Operate file
- * <li>{@link #moveFile(File, File)} or {@link #moveFile(String, String)}</li>
- * <li>{@link #copyFile(String, String)}</li>
- * <li>{@link #getFileExtension(String)}</li>
- * <li>{@link #getFileName(String)}</li>
- * <li>{@link #getFileNameWithoutExtension(String)}</li>
- * <li>{@link #getFileSize(String)}</li>
- * <li>{@link #deleteFile(String)}</li>
- * <li>{@link #isFileExist(String)}</li>
- * <li>{@link #isFolderExist(String)}</li>
- * <li>{@link #makeFolders(String)}</li>
- * <li>{@link #makeDirs(String)}</li>
- * </ul>
- * 
- * @author <a href="http://www.trinea.cn" target="_blank">Trinea</a> 2012-5-12
+
  */
 public class FileUtil {
 
 	public final static String FILE_EXTENSION_SEPARATOR = ".";
-	public final static String FILE_DEFAULT_ENCODING = "UTF-8"; // 字符编码(可解决中文乱码问题 ) //"GB2312"
+	// "UTF-8";"GB2312";"GBK";//字符编码(可解决中文乱码问题 ) //"GB2312"
+	public final static String FILE_DEFAULT_ENCODING = "UTF-8"; 
 
 	private FileUtil() {
 		throw new AssertionError();
 	}
-
-	/**
-	 * read file
-	 * 
-	 * @param filePath
-	 * @param charsetName
-	 *            The name of a supported {@link java.nio.charset.Charset
-	 *            </code>charset<code>}
-	 * @return if file not exist, return null, else return content of file
-	 * @throws RuntimeException
-	 *             if an error occurs while operator BufferedReader
-	 */
+	
 	public static String readFile(String filePath, String charsetName) {
-		File file = new File(filePath);
-		StringBuilder fileContent = new StringBuilder("");
-		if (file == null || !file.isFile()) {
-			return null;
-		}
-
-		BufferedReader reader = null;
 		try {
-			InputStreamReader is = new InputStreamReader(new FileInputStream(file), charsetName);
-			reader = new BufferedReader(is);
-			String line = null;
-			while ((line = reader.readLine()) != null) {
-				if (!fileContent.toString().equals("")) {
-					fileContent.append("\r\n");
-				}
-				fileContent.append(line);
-			}
-			return fileContent.toString();
+			return FileUtils.readFileToString(new File(filePath), charsetName);
 		} catch (IOException e) {
-			throw new RuntimeException("IOException occurred. ", e);
-		} finally {
-			// IOUtils.close(reader);
-			IOUtils.closeQuietly(reader);
+			e.printStackTrace();
 		}
+		return "";
 	}
+//	/**
+//	 * read file
+//	 * 
+//	 * @param filePath
+//	 * @param charsetName
+//	 *            The name of a supported {@link java.nio.charset.Charset
+//	 *            </code>charset<code>}
+//	 * @return if file not exist, return null, else return content of file
+//	 * @throws RuntimeException
+//	 *             if an error occurs while operator BufferedReader
+//	 */
+//	public static String readFile(String filePath, String charsetName) {
+//		File file = new File(filePath);
+//		StringBuilder fileContent = new StringBuilder("");
+//		if (file == null || !file.isFile()) {
+//			return "";
+//		}
+//
+//		BufferedReader reader = null;
+//		try {
+//			InputStreamReader is = new InputStreamReader(new FileInputStream(filePath), charsetName);
+//			reader = new BufferedReader(is);
+//			String line = null;
+//			while ((line = reader.readLine()) != null) {
+//				if (!fileContent.toString().equals("")) {
+//					fileContent.append("\r\n");
+//				}
+//				fileContent.append(line);
+//			}
+//			return fileContent.toString();
+////			FileInputStream fis=new FileInputStream(filePath);
+////	        BufferedInputStream bis=new BufferedInputStream(fis);
+////	        InputStreamReader isr = new InputStreamReader(bis, "UTF-8");
+////	        BufferedReader reader = new BufferedReader(isr);
+//		} catch (IOException e) {
+//			throw new RuntimeException("IOException occurred. ", e);
+//		} finally {
+//			// IOUtils.close(reader);
+//			IOUtils.closeQuietly(reader);
+//		}
+//	}
 
 	public static String readFile(String filePath) {
 		return readFile(filePath, FILE_DEFAULT_ENCODING);
 	}
 
 	public static List<String> readFileLines(String filePath, String charsetName) {
-		try {
-			Path sPath = Paths.get(filePath);
-			// CharsetDecoder decoder = StandardCharset.UTF_8.newDecoder();
-			// decoder.onMalformedInput(CodingErrorAction.IGNORE);
-			// Reader reader = new InputStreamReader(in, decoder);
+	try {
+		Path sPath = Paths.get(filePath);
+		// CharsetDecoder decoder = StandardCharset.UTF_8.newDecoder();
+		// decoder.onMalformedInput(CodingErrorAction.IGNORE);
+		// Reader reader = new InputStreamReader(in, decoder);
 
-			/// Charset charset = Charset.defaultCharset(); // Try the default one first.
-			// Charset charset = Charset.forName("Utf-8");
-			// StandardCharsets.UTF_8.UTF_8
-			// return Files.readAllLines(sPath, StandardCharsets.UTF_8);
-			Charset charset = Charset.forName(charsetName);
-			return Files.readAllLines(sPath, charset);
-		} catch (Exception e) {
-			System.out.println("读取文件内容操作出错:" + filePath + "\r\nException Message=" + e);
-			return Collections.emptyList();
-		}
+		/// Charset charset = Charset.defaultCharset(); // Try the default one first.
+		// Charset charset = Charset.forName("Utf-8");
+		// StandardCharsets.UTF_8.UTF_8
+		// return Files.readAllLines(sPath, StandardCharsets.UTF_8);
+		Charset charset = Charset.forName(charsetName);
+		return Files.readAllLines(sPath, charset);
+	} catch (Exception e) {
+		System.out.println("读取文件内容操作出错:" + filePath + "\r\nException Message=" + e);
+		return Collections.emptyList();
 	}
-
+}
+	
 	public static List<String> readFileLines(String filePath) {
 		return readFileLines(filePath, FILE_DEFAULT_ENCODING);
 	}
@@ -196,25 +182,35 @@ public class FileUtil {
 	 * @throws RuntimeException
 	 *             if an error occurs while operator FileWriter
 	 */
-	public static boolean writeFile(String filePath, String content, boolean append, String charsetName) {
+	public static boolean writeFile(String filePath, String content,String charsetName, boolean append) {
 		if (StringUtils.isEmpty(content)) {
 			return false;
 		}
-
-		FileWriter fileWriter = null;
+		
 		try {
-			makeDirs(filePath);
-			fileWriter = new FileWriter(filePath, append);
-			fileWriter.write(content);
+			FileUtils.writeStringToFile(new File(filePath), content, charsetName, append);
 			return true;
 		} catch (IOException e) {
-			throw new RuntimeException("IOException occurred. ", e);
+			e.printStackTrace();
 		} finally {
-			// IOUtils.close(fileWriter);
-			IOUtils.closeQuietly(fileWriter);
 		}
+		return false;
 	}
-
+	/**
+	 * write file, the string will be written to the begin of the file
+	 * 
+	 * @param filePath
+	 * @param content
+	 * @return
+	 */
+	public static boolean writeFile(String filePath, String content) {
+		return writeFile(filePath, content, FILE_DEFAULT_ENCODING, false);
+	}
+	
+	public static boolean writeFile(String filePath, String content, boolean append) {
+		return writeFile(filePath, content, false);
+	}
+	
 	/**
 	 * write file
 	 * 
@@ -227,41 +223,21 @@ public class FileUtil {
 	 * @throws RuntimeException
 	 *             if an error occurs while operator FileWriter
 	 */
-	public static boolean writeFile(String filePath, List<String> contentList, boolean append) {
+	public static boolean writeFile(String filePath, String charsetName,List<String> contentList, boolean append) {
 		if (contentList == null || contentList.size() == 0) {
 			return false;
 		}
-
-		FileWriter fileWriter = null;
 		try {
-			makeDirs(filePath);
-			fileWriter = new FileWriter(filePath, append);
-			int i = 0;
-			for (String line : contentList) {
-				if (i++ > 0) {
-					fileWriter.write("\r\n");
-				}
-				fileWriter.write(line);
-			}
+			FileUtils.writeLines(new File(filePath), charsetName, contentList, "\r\n", append);
 			return true;
 		} catch (IOException e) {
-			throw new RuntimeException("IOException occurred. ", e);
+			e.printStackTrace();
 		} finally {
-			// IOUtils.close(fileWriter);
-			IOUtils.closeQuietly(fileWriter);
 		}
+		return false;
 	}
 
-	/**
-	 * write file, the string will be written to the begin of the file
-	 * 
-	 * @param filePath
-	 * @param content
-	 * @return
-	 */
-	public static boolean writeFile(String filePath, String content) {
-		return writeFile(filePath, content, false, FILE_DEFAULT_ENCODING);
-	}
+
 
 	/**
 	 * write file, the string list will be written to the begin of the file
@@ -271,416 +247,455 @@ public class FileUtil {
 	 * @return
 	 */
 	public static boolean writeFile(String filePath, List<String> contentList) {
-		return writeFile(filePath, contentList, false);
+		return writeFile(filePath, FILE_DEFAULT_ENCODING, contentList, false);
 	}
-
-	/**
-	 * write file, the bytes will be written to the begin of the file
-	 * 
-	 * @param filePath
-	 * @param stream
-	 * @return
-	 * @see {@link #writeFile(String, InputStream, boolean)}
-	 */
-	public static boolean writeFile(String filePath, InputStream stream) {
-		return writeFile(filePath, stream, false);
-	}
-
-	/**
-	 * write file
-	 * 
-	 * @param file
-	 *            the file to be opened for writing.
-	 * @param stream
-	 *            the input stream
-	 * @param append
-	 *            if <code>true</code>, then bytes will be written to the end of the
-	 *            file rather than the beginning
-	 * @return return true
-	 * @throws RuntimeException
-	 *             if an error occurs while operator FileOutputStream
-	 */
-	public static boolean writeFile(String filePath, InputStream stream, boolean append) {
-		return writeFile(filePath != null ? new File(filePath) : null, stream, append);
-	}
-
-	/**
-	 * write file, the bytes will be written to the begin of the file
-	 * 
-	 * @param file
-	 * @param stream
-	 * @return
-	 * @see {@link #writeFile(File, InputStream, boolean)}
-	 */
-	public static boolean writeFile(File file, InputStream stream) {
-		return writeFile(file, stream, false);
-	}
-
-	/**
-	 * write file
-	 * 
-	 * @param file
-	 *            the file to be opened for writing.
-	 * @param stream
-	 *            the input stream
-	 * @param append
-	 *            if <code>true</code>, then bytes will be written to the end of the
-	 *            file rather than the beginning
-	 * @return return true
-	 * @throws RuntimeException
-	 *             if an error occurs while operator FileOutputStream
-	 */
-	public static boolean writeFile(File file, InputStream stream, boolean append) {
-		OutputStream o = null;
-		try {
-			makeDirs(file.getAbsolutePath());
-			o = new FileOutputStream(file, append);
-			byte data[] = new byte[1024];
-			int length = -1;
-			while ((length = stream.read(data)) != -1) {
-				o.write(data, 0, length);
-			}
-			o.flush();
-			return true;
-		} catch (FileNotFoundException e) {
-			throw new RuntimeException("FileNotFoundException occurred. ", e);
-		} catch (IOException e) {
-			throw new RuntimeException("IOException occurred. ", e);
-		} finally {
-			// IOUtils.close(o);
-			// IOUtils.close(stream);
-			IOUtils.closeQuietly(o);
-			IOUtils.closeQuietly(stream);
-		}
-	}
-
-	/**
-	 * move file
-	 * 
-	 * @param sourceFilePath
-	 * @param destFilePath
-	 */
-	public static void moveFile(String sourceFilePath, String destFilePath) {
-		if (StringUtils.isEmpty(sourceFilePath) || StringUtils.isEmpty(destFilePath)) {
-			throw new RuntimeException("Both sourceFilePath and destFilePath cannot be null.");
-		}
-		moveFile(new File(sourceFilePath), new File(destFilePath));
-	}
-
-	/**
-	 * move file
-	 * 
-	 * @param srcFile
-	 * @param destFile
-	 */
-	public static void moveFile(File srcFile, File destFile) {
-		boolean rename = srcFile.renameTo(destFile);
-		if (!rename) {
-			copyFile(srcFile.getAbsolutePath(), destFile.getAbsolutePath());
-			deleteFile(srcFile.getAbsolutePath());
-		}
-	}
-
-	/**
-	 * copy file
-	 * 
-	 * @param sourceFilePath
-	 * @param destFilePath
-	 * @return
-	 * @throws RuntimeException
-	 *             if an error occurs while operator FileOutputStream
-	 */
-	public static boolean copyFile(String sourceFilePath, String destFilePath) {
-		InputStream inputStream = null;
-		try {
-			inputStream = new FileInputStream(sourceFilePath);
-		} catch (FileNotFoundException e) {
-			throw new RuntimeException("FileNotFoundException occurred. ", e);
-		}
-		return writeFile(destFilePath, inputStream);
-	}
-
-	// 拷贝文件
-	public static boolean copyFile(File sourceFile, File destFile) {
-		return copyFile(sourceFile.getAbsoluteFile(), destFile.getAbsoluteFile());
-	}
-	
-	
-	/**
-	 * read file to string list, a element of list is a line
-	 * 
-	 * @param filePath
-	 * @param charsetName
-	 *            The name of a supported {@link java.nio.charset.Charset
-	 *            </code>charset<code>}
-	 * @return if file not exist, return null, else return content of file
-	 * @throws RuntimeException
-	 *             if an error occurs while operator BufferedReader
-	 */
-	public static List<String> readFileToList(String filePath, String charsetName) {
-		File file = new File(filePath);
-		List<String> fileContent = new ArrayList<String>();
-		if (file == null || !file.isFile()) {
-			return null;
-		}
-
-		BufferedReader reader = null;
-		try {
-			InputStreamReader is = new InputStreamReader(new FileInputStream(file), charsetName);
-			reader = new BufferedReader(is);
-			String line = null;
-			while ((line = reader.readLine()) != null) {
-				fileContent.add(line);
-			}
-			return fileContent;
-		} catch (IOException e) {
-			throw new RuntimeException("IOException occurred. ", e);
-		} finally {
-			// IOUtils.close(reader);
-			IOUtils.closeQuietly(reader);
-		}
-	}
-
-	/**
-	 * get file name from path, not include suffix
-	 * 
-	 * <pre>
-	 *      getFileNameWithoutExtension(null)               =   null
-	 *      getFileNameWithoutExtension("")                 =   ""
-	 *      getFileNameWithoutExtension("   ")              =   "   "
-	 *      getFileNameWithoutExtension("abc")              =   "abc"
-	 *      getFileNameWithoutExtension("a.mp3")            =   "a"
-	 *      getFileNameWithoutExtension("a.b.rmvb")         =   "a.b"
-	 *      getFileNameWithoutExtension("c:\\")              =   ""
-	 *      getFileNameWithoutExtension("c:\\a")             =   "a"
-	 *      getFileNameWithoutExtension("c:\\a.b")           =   "a"
-	 *      getFileNameWithoutExtension("c:a.txt\\a")        =   "a"
-	 *      getFileNameWithoutExtension("/home/admin")      =   "admin"
-	 *      getFileNameWithoutExtension("/home/admin/a.txt/b.mp3")  =   "b"
-	 * </pre>
-	 * 
-	 * @param filePath
-	 * @return file name from path, not include suffix
-	 * @see
-	 */
-	public static String getFileNameWithoutExtension(String filePath) {
-		if (StringUtils.isEmpty(filePath)) {
-			return filePath;
-		}
-
-		int extenPosi = filePath.lastIndexOf(FILE_EXTENSION_SEPARATOR);
-		int filePosi = filePath.lastIndexOf(File.separator);
-		if (filePosi == -1) {
-			return (extenPosi == -1 ? filePath : filePath.substring(0, extenPosi));
-		}
-		if (extenPosi == -1) {
-			return filePath.substring(filePosi + 1);
-		}
-		return (filePosi < extenPosi ? filePath.substring(filePosi + 1, extenPosi) : filePath.substring(filePosi + 1));
-	}
-
-	/**
-	 * get file name from path, include suffix
-	 * 
-	 * <pre>
-	 *      getFileName(null)               =   null
-	 *      getFileName("")                 =   ""
-	 *      getFileName("   ")              =   "   "
-	 *      getFileName("a.mp3")            =   "a.mp3"
-	 *      getFileName("a.b.rmvb")         =   "a.b.rmvb"
-	 *      getFileName("abc")              =   "abc"
-	 *      getFileName("c:\\")              =   ""
-	 *      getFileName("c:\\a")             =   "a"
-	 *      getFileName("c:\\a.b")           =   "a.b"
-	 *      getFileName("c:a.txt\\a")        =   "a"
-	 *      getFileName("/home/admin")      =   "admin"
-	 *      getFileName("/home/admin/a.txt/b.mp3")  =   "b.mp3"
-	 * </pre>
-	 * 
-	 * @param filePath
-	 * @return file name from path, include suffix
-	 */
-	public static String getFileName(String filePath) {
-		if (StringUtils.isEmpty(filePath)) {
-			return filePath;
-		}
-
-		int filePosi = filePath.lastIndexOf(File.separator);
-		return (filePosi == -1) ? filePath : filePath.substring(filePosi + 1);
-	}
-
-	/**
-	 * get folder name from path
-	 * 
-	 * <pre>
-	 *      getFolderName(null)               =   null
-	 *      getFolderName("")                 =   ""
-	 *      getFolderName("   ")              =   ""
-	 *      getFolderName("a.mp3")            =   ""
-	 *      getFolderName("a.b.rmvb")         =   ""
-	 *      getFolderName("abc")              =   ""
-	 *      getFolderName("c:\\")              =   "c:"
-	 *      getFolderName("c:\\a")             =   "c:"
-	 *      getFolderName("c:\\a.b")           =   "c:"
-	 *      getFolderName("c:a.txt\\a")        =   "c:a.txt"
-	 *      getFolderName("c:a\\b\\c\\d.txt")    =   "c:a\\b\\c"
-	 *      getFolderName("/home/admin")      =   "/home"
-	 *      getFolderName("/home/admin/a.txt/b.mp3")  =   "/home/admin/a.txt"
-	 * </pre>
-	 * 
-	 * @param filePath
-	 * @return
-	 */
-	public static String getFolderName(String filePath) {
-
-		if (StringUtils.isEmpty(filePath)) {
-			return filePath;
-		}
-
-		int filePosi = filePath.lastIndexOf(File.separator);
-		return (filePosi == -1) ? "" : filePath.substring(0, filePosi);
-	}
-
-	/**
-	 * get suffix of file from path
-	 * 
-	 * <pre>
-	 *      getFileExtension(null)               =   ""
-	 *      getFileExtension("")                 =   ""
-	 *      getFileExtension("   ")              =   "   "
-	 *      getFileExtension("a.mp3")            =   "mp3"
-	 *      getFileExtension("a.b.rmvb")         =   "rmvb"
-	 *      getFileExtension("abc")              =   ""
-	 *      getFileExtension("c:\\")              =   ""
-	 *      getFileExtension("c:\\a")             =   ""
-	 *      getFileExtension("c:\\a.b")           =   "b"
-	 *      getFileExtension("c:a.txt\\a")        =   ""
-	 *      getFileExtension("/home/admin")      =   ""
-	 *      getFileExtension("/home/admin/a.txt/b")  =   ""
-	 *      getFileExtension("/home/admin/a.txt/b.mp3")  =   "mp3"
-	 * </pre>
-	 * 
-	 * @param filePath
-	 * @return
-	 */
-	public static String getFileExtension(String filePath) {
-		if (StringUtils.isBlank(filePath)) {
-			return filePath;
-		}
-
-		int extenPosi = filePath.lastIndexOf(FILE_EXTENSION_SEPARATOR);
-		int filePosi = filePath.lastIndexOf(File.separator);
-		if (extenPosi == -1) {
-			return "";
-		}
-		return (filePosi >= extenPosi) ? "" : filePath.substring(extenPosi + 1);
-	}
-
-	/**
-	 * Creates the directory named by the trailing filename of this file, including
-	 * the complete directory path required to create this directory. <br/>
-	 * <br/>
-	 * <ul>
-	 * <strong>Attentions:</strong>
-	 * <li>makeDirs("C:\\Users\\Trinea") can only create users folder</li>
-	 * <li>makeFolder("C:\\Users\\Trinea\\") can create Trinea folder</li>
-	 * </ul>
-	 * 
-	 * @param filePath
-	 * @return true if the necessary directories have been created or the target
-	 *         directory already exists, false one of the directories can not be
-	 *         created.
-	 *         <ul>
-	 *         <li>if {@link FileUtils#getFolderName(String)} return null, return
-	 *         false</li>
-	 *         <li>if target directory already exists, return true</li>
-	 *         <li>return {@link File#makeFolder}</li>
-	 *         </ul>
-	 */
-	public static boolean makeDirs(String filePath) {
-		String folderName = getFolderName(filePath);
-		if (StringUtils.isEmpty(folderName)) {
-			return false;
-		}
-
-		File folder = new File(folderName);
-		return (folder.exists() && folder.isDirectory()) ? true : folder.mkdirs();
-	}
-
-	/**
-	 * @param filePath
-	 * @return
-	 * @see #makeDirs(String)
-	 */
-	public static boolean makeFolders(String filePath) {
-		return makeDirs(filePath);
-	}
-
-	/**
-	 * Indicates if this file represents a file on the underlying file system.
-	 * 
-	 * @param filePath
-	 * @return
-	 */
-	public static boolean isFileExist(String filePath) {
-		if (StringUtils.isBlank(filePath)) {
-			return false;
-		}
-
-		File file = new File(filePath);
-		return (file.exists() && file.isFile());
-	}
-
-	/**
-	 * Indicates if this file represents a directory on the underlying file system.
-	 * 
-	 * @param directoryPath
-	 * @return
-	 */
-	public static boolean isFolderExist(String directoryPath) {
-		if (StringUtils.isBlank(directoryPath)) {
-			return false;
-		}
-
-		File dire = new File(directoryPath);
-		return (dire.exists() && dire.isDirectory());
-	}
-
+//
 //	/**
-//	 * delete file or directory
-//	 * <ul>
-//	 * <li>if path is null or empty, return true</li>
-//	 * <li>if path not exist, return true</li>
-//	 * <li>if path exist, delete recursion. return true</li>
-//	 * <ul>
+//	 * write file, the bytes will be written to the begin of the file
 //	 * 
-//	 * @param path
+//	 * @param filePath
+//	 * @param stream
 //	 * @return
+//	 * @see {@link #writeFile(String, InputStream, boolean)}
 //	 */
-//	public static boolean deleteFile(String path) {
-//		if (StringUtils.isBlank(path)) {
+//	public static boolean writeFile(String filePath, InputStream stream) {
+//		return writeFile(filePath, stream, false);
+//	}
+//
+//	/**
+//	 * write file
+//	 * 
+//	 * @param file
+//	 *            the file to be opened for writing.
+//	 * @param stream
+//	 *            the input stream
+//	 * @param append
+//	 *            if <code>true</code>, then bytes will be written to the end of the
+//	 *            file rather than the beginning
+//	 * @return return true
+//	 * @throws RuntimeException
+//	 *             if an error occurs while operator FileOutputStream
+//	 */
+//	public static boolean writeFile(String filePath, InputStream stream, boolean append) {
+//		return writeFile(filePath != null ? new File(filePath) : null, stream, append);
+//	}
+//
+//	/**
+//	 * write file, the bytes will be written to the begin of the file
+//	 * 
+//	 * @param file
+//	 * @param stream
+//	 * @return
+//	 * @see {@link #writeFile(File, InputStream, boolean)}
+//	 */
+//	public static boolean writeFile(File file, InputStream stream) {
+//		return writeFile(file, stream, false);
+//	}
+//
+//	/**
+//	 * write file
+//	 * 
+//	 * @param file
+//	 *            the file to be opened for writing.
+//	 * @param stream
+//	 *            the input stream
+//	 * @param append
+//	 *            if <code>true</code>, then bytes will be written to the end of the
+//	 *            file rather than the beginning
+//	 * @return return true
+//	 * @throws RuntimeException
+//	 *             if an error occurs while operator FileOutputStream
+//	 */
+//	public static boolean writeFile(File file, InputStream stream, boolean append) {
+//		OutputStream o = null;
+//		try {
+//			o = new FileOutputStream(file, append);
+//			byte data[] = new byte[1024];
+//			int length = -1;
+//			while ((length = stream.read(data)) != -1) {
+//				o.write(data, 0, length);
+//			}
+//			o.flush();
 //			return true;
+//		} catch (FileNotFoundException e) {
+//			throw new RuntimeException("FileNotFoundException occurred. ", e);
+//		} catch (IOException e) {
+//			throw new RuntimeException("IOException occurred. ", e);
+//		} finally {
+//			// IOUtils.close(o);
+//			// IOUtils.close(stream);
+//			IOUtils.closeQuietly(o);
+//			IOUtils.closeQuietly(stream);
+//		}
+//	}
+//
+//	/**
+//	 * move file
+//	 * 
+//	 * @param sourceFilePath
+//	 * @param destFilePath
+//	 */
+//	public static void moveFile(String sourceFilePath, String destFilePath) {
+//		if (StringUtils.isEmpty(sourceFilePath) || StringUtils.isEmpty(destFilePath)) {
+//			throw new RuntimeException("Both sourceFilePath and destFilePath cannot be null.");
+//		}
+//		moveFile(new File(sourceFilePath), new File(destFilePath));
+//	}
+//
+//	/**
+//	 * move file
+//	 * 
+//	 * @param srcFile
+//	 * @param destFile
+//	 */
+//	public static void moveFile(File srcFile, File destFile) {
+//		boolean rename = srcFile.renameTo(destFile);
+//		if (!rename) {
+//			copyFile(srcFile.getAbsolutePath(), destFile.getAbsolutePath());
+//			deleteFile(srcFile.getAbsolutePath());
+//		}
+//	}
+//
+//	/**
+//	 * copy file
+//	 * 
+//	 * @param sourceFilePath
+//	 * @param destFilePath
+//	 * @return
+//	 * @throws RuntimeException
+//	 *             if an error occurs while operator FileOutputStream
+//	 */
+//	public static boolean copyFile(String sourceFilePath, String destFilePath) {
+//		InputStream inputStream = null;
+//		try {
+//			inputStream = new FileInputStream(sourceFilePath);
+//		} catch (FileNotFoundException e) {
+//			throw new RuntimeException("FileNotFoundException occurred. ", e);
+//		}
+//		return writeFile(destFilePath, inputStream);
+//	}
+//
+//	// 拷贝文件
+//	public static boolean copyFile(File sourceFile, File destFile) {
+//		return copyFile(sourceFile.getAbsoluteFile(), destFile.getAbsoluteFile());
+//	}
+//	
+//	
+//	/**
+//	 * read file to string list, a element of list is a line
+//	 * 
+//	 * @param filePath
+//	 * @param charsetName
+//	 *            The name of a supported {@link java.nio.charset.Charset
+//	 *            </code>charset<code>}
+//	 * @return if file not exist, return null, else return content of file
+//	 * @throws RuntimeException
+//	 *             if an error occurs while operator BufferedReader
+//	 */
+//	public static List<String> readFileToList(String filePath, String charsetName) {
+//		File file = new File(filePath);
+//		List<String> fileContent = new ArrayList<String>();
+//		if (file == null || !file.isFile()) {
+//			return null;
 //		}
 //
-//		File file = new File(path);
-//		if (!file.exists()) {
-//			return true;
+//		BufferedReader reader = null;
+//		try {
+//			InputStreamReader is = new InputStreamReader(new FileInputStream(file), charsetName);
+//			reader = new BufferedReader(is);
+//			String line = null;
+//			while ((line = reader.readLine()) != null) {
+//				fileContent.add(line);
+//			}
+//			return fileContent;
+//		} catch (IOException e) {
+//			throw new RuntimeException("IOException occurred. ", e);
+//		} finally {
+//			// IOUtils.close(reader);
+//			IOUtils.closeQuietly(reader);
 //		}
-//		if (file.isFile()) {
-//			return file.delete();
+//	}
+//	
+//	/**
+//	 * 从文件路径得到文件名。
+//	 * 
+//	 * @param filePath
+//	 *            文件的路径，可以是相对路径也可以是绝对路径
+//	 * @return 对应的文件名
+//	 * @since 1.0
+//	 */
+//	public static String getFileName(String filePath) {
+//		File file = new File(filePath);
+//		return file.getName();
+//	}
+//
+//	/**
+//	 * 从文件名得到文件绝对路径。
+//	 * 
+//	 * @param fileName
+//	 *            文件名
+//	 * @return 对应的文件路径
+//	 * @since 1.0
+//	 */
+//	public static String getFilePath(String fileName) {
+//		File file = new File(fileName);
+//		return file.getAbsolutePath();
+//	}
+//
+//	public static String getFileExtension(String filePathName) {
+//		String fileName =  getFileName(filePathName);
+//		int extPos = fileName.lastIndexOf(FILE_EXTENSION_SEPARATOR);
+//		if (extPos == -1) {
+//			return "";
 //		}
-//		if (!file.isDirectory()) {
+//		return filePathName.substring(extPos + 1);
+//	}
+//	
+////
+////	/**
+////	 * get file name from path, not include suffix
+////	 * 
+////	 * <pre>
+////	 *      getFileNameWithoutExtension(null)               =   null
+////	 *      getFileNameWithoutExtension("")                 =   ""
+////	 *      getFileNameWithoutExtension("   ")              =   "   "
+////	 *      getFileNameWithoutExtension("abc")              =   "abc"
+////	 *      getFileNameWithoutExtension("a.mp3")            =   "a"
+////	 *      getFileNameWithoutExtension("a.b.rmvb")         =   "a.b"
+////	 *      getFileNameWithoutExtension("c:\\")              =   ""
+////	 *      getFileNameWithoutExtension("c:\\a")             =   "a"
+////	 *      getFileNameWithoutExtension("c:\\a.b")           =   "a"
+////	 *      getFileNameWithoutExtension("c:a.txt\\a")        =   "a"
+////	 *      getFileNameWithoutExtension("/home/admin")      =   "admin"
+////	 *      getFileNameWithoutExtension("/home/admin/a.txt/b.mp3")  =   "b"
+////	 * </pre>
+////	 * 
+////	 * @param filePath
+////	 * @return file name from path, not include suffix
+////	 * @see
+////	 */
+////	public static String getFileNameWithoutExtension(String filePath) {
+////		if (StringUtils.isEmpty(filePath)) {
+////			return filePath;
+////		}
+////
+////		int extenPosi = filePath.lastIndexOf(FILE_EXTENSION_SEPARATOR);
+////		int filePosi = filePath.lastIndexOf(File.separator);
+////		if (filePosi == -1) {
+////			return (extenPosi == -1 ? filePath : filePath.substring(0, extenPosi));
+////		}
+////		if (extenPosi == -1) {
+////			return filePath.substring(filePosi + 1);
+////		}
+////		return (filePosi < extenPosi ? filePath.substring(filePosi + 1, extenPosi) : filePath.substring(filePosi + 1));
+////	}
+//
+////	/**
+////	 * get file name from path, include suffix
+////	 * 
+////	 * <pre>
+////	 *      getFileName(null)               =   null
+////	 *      getFileName("")                 =   ""
+////	 *      getFileName("   ")              =   "   "
+////	 *      getFileName("a.mp3")            =   "a.mp3"
+////	 *      getFileName("a.b.rmvb")         =   "a.b.rmvb"
+////	 *      getFileName("abc")              =   "abc"
+////	 *      getFileName("c:\\")              =   ""
+////	 *      getFileName("c:\\a")             =   "a"
+////	 *      getFileName("c:\\a.b")           =   "a.b"
+////	 *      getFileName("c:a.txt\\a")        =   "a"
+////	 *      getFileName("/home/admin")      =   "admin"
+////	 *      getFileName("/home/admin/a.txt/b.mp3")  =   "b.mp3"
+////	 * </pre>
+////	 * 
+////	 * @param filePath
+////	 * @return file name from path, include suffix
+////	 */
+////	public static String getFileName(String filePathName) {
+////		if (StringUtils.isEmpty(filePathName)) {
+////			return filePathName;
+////		}
+////        int nPos = filePathName.lastIndexOf('/');//File.separator
+////        if (nPos < 0) {
+////            nPos = filePathName.lastIndexOf('\\');
+////        }
+////		return (nPos == -1) ? filePathName : filePathName.substring(nPos + 1);
+////	}
+////
+////	/**
+////	 * get folder name from path
+////	 * 
+////	 * <pre>
+////	 *      getFolderName(null)               =   null
+////	 *      getFolderName("")                 =   ""
+////	 *      getFolderName("   ")              =   ""
+////	 *      getFolderName("a.mp3")            =   ""
+////	 *      getFolderName("a.b.rmvb")         =   ""
+////	 *      getFolderName("abc")              =   ""
+////	 *      getFolderName("c:\\")              =   "c:"
+////	 *      getFolderName("c:\\a")             =   "c:"
+////	 *      getFolderName("c:\\a.b")           =   "c:"
+////	 *      getFolderName("c:a.txt\\a")        =   "c:a.txt"
+////	 *      getFolderName("c:a\\b\\c\\d.txt")    =   "c:a\\b\\c"
+////	 *      getFolderName("/home/admin")      =   "/home"
+////	 *      getFolderName("/home/admin/a.txt/b.mp3")  =   "/home/admin/a.txt"
+////	 * </pre>
+////	 * 
+////	 * @param filePath
+////	 * @return
+////	 */
+////	public static String getFolderName(String filePathName) {
+////		if (StringUtils.isEmpty(filePathName)) {
+////			return filePathName;
+////		}
+////
+////        int nPos = filePathName.lastIndexOf('/');//File.separator
+////        if (nPos < 0) {
+////            nPos = filePathName.lastIndexOf('\\');
+////        }
+////		return (nPos == -1) ? "" : filePathName.substring(0, nPos);
+////	}
+////
+////	/**
+////	 * get suffix of file from path
+////	 * 
+////	 * <pre>
+////	 *      getFileExtension(null)               =   ""
+////	 *      getFileExtension("")                 =   ""
+////	 *      getFileExtension("   ")              =   "   "
+////	 *      getFileExtension("a.mp3")            =   "mp3"
+////	 *      getFileExtension("a.b.rmvb")         =   "rmvb"
+////	 *      getFileExtension("abc")              =   ""
+////	 *      getFileExtension("c:\\")              =   ""
+////	 *      getFileExtension("c:\\a")             =   ""
+////	 *      getFileExtension("c:\\a.b")           =   "b"
+////	 *      getFileExtension("c:a.txt\\a")        =   ""
+////	 *      getFileExtension("/home/admin")      =   ""
+////	 *      getFileExtension("/home/admin/a.txt/b")  =   ""
+////	 *      getFileExtension("/home/admin/a.txt/b.mp3")  =   "mp3"
+////	 * </pre>
+////	 * 
+////	 * @param filePath
+////	 * @return
+////	 */
+////	public static String getFileExtension(String filePathName) {
+////		if (StringUtils.isBlank(filePathName)) {
+////			return filePathName;
+////		}
+////
+////		int extPos = filePathName.lastIndexOf(FILE_EXTENSION_SEPARATOR);
+////		int nPos = filePathName.lastIndexOf(File.separator);
+////		if (extPos == -1) {
+////			return "";
+////		}
+////		return (nPos >= extPos) ? "" : filePathName.substring(extPos + 1);
+////	}
+////
+////	/**
+////	 * Creates the directory named by the trailing filename of this file, including
+////	 * the complete directory path required to create this directory. <br/>
+////	 * <br/>
+////	 * <ul>
+////	 * <strong>Attentions:</strong>
+////	 * <li>makeDirs("C:\\Users\\Trinea") can only create users folder</li>
+////	 * <li>makeFolder("C:\\Users\\Trinea\\") can create Trinea folder</li>
+////	 * </ul>
+////	 * 
+////	 * @param filePath
+////	 * @return true if the necessary directories have been created or the target
+////	 *         directory already exists, false one of the directories can not be
+////	 *         created.
+////	 *         <ul>
+////	 *         <li>if {@link FileUtils#getFolderName(String)} return null, return
+////	 *         false</li>
+////	 *         <li>if target directory already exists, return true</li>
+////	 *         <li>return {@link File#makeFolder}</li>
+////	 *         </ul>
+////	 */
+////	public static boolean makeDirs(String filePath) {
+////		String folderName = getFolderName(filePath);
+////		if (StringUtils.isEmpty(folderName)) {
+////			return false;
+////		}
+////
+////		File folder = new File(folderName);
+////		return (folder.exists() && folder.isDirectory()) ? true : folder.mkdirs();
+////	}
+////
+////	/**
+////	 * @param filePath
+////	 * @return
+////	 * @see #makeDirs(String)
+////	 */
+////	public static boolean makeFolders(String filePath) {
+////		return makeDirs(filePath);
+////	}
+//
+//	/**
+//	 * Indicates if this file represents a file on the underlying file system.
+//	 * 
+//	 * @param filePath
+//	 * @return
+//	 */
+//	public static boolean isFileExist(String filePath) {
+//		if (StringUtils.isBlank(filePath)) {
 //			return false;
 //		}
-//		for (File f : file.listFiles()) {
-//			if (f.isFile()) {
-//				f.delete();
-//			} else if (f.isDirectory()) {
-//				deleteFile(f.getAbsolutePath());
-//			}
-//		}
-//		return file.delete();
+//
+//		File file = new File(filePath);
+//		return (file.exists() && file.isFile());
 //	}
+//
+//	/**
+//	 * Indicates if this file represents a directory on the underlying file system.
+//	 * 
+//	 * @param directoryPath
+//	 * @return
+//	 */
+//	public static boolean isFolderExist(String directoryPath) {
+//		if (StringUtils.isBlank(directoryPath)) {
+//			return false;
+//		}
+//
+//		File dire = new File(directoryPath);
+//		return (dire.exists() && dire.isDirectory());
+//	}
+//
+////	/**
+////	 * delete file or directory
+////	 * <ul>
+////	 * <li>if path is null or empty, return true</li>
+////	 * <li>if path not exist, return true</li>
+////	 * <li>if path exist, delete recursion. return true</li>
+////	 * <ul>
+////	 * 
+////	 * @param path
+////	 * @return
+////	 */
+////	public static boolean deleteFile(String path) {
+////		if (StringUtils.isBlank(path)) {
+////			return true;
+////		}
+////
+////		File file = new File(path);
+////		if (!file.exists()) {
+////			return true;
+////		}
+////		if (file.isFile()) {
+////			return file.delete();
+////		}
+////		if (!file.isDirectory()) {
+////			return false;
+////		}
+////		for (File f : file.listFiles()) {
+////			if (f.isFile()) {
+////				f.delete();
+////			} else if (f.isDirectory()) {
+////				deleteFile(f.getAbsolutePath());
+////			}
+////		}
+////		return file.delete();
+////	}
 
 	/**
 	 * get file size
@@ -751,6 +766,7 @@ public class FileUtil {
 	public static boolean emptyDirectory(String directoryName) {
 		return emptyDirectory(new File(directoryName));
 	}
+	
 	// ===========================================================
 
 	public static boolean deleteFile(String filePath) {

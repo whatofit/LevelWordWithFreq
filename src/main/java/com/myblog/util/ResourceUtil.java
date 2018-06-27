@@ -3,8 +3,6 @@
  */
 package com.myblog.util;
 
-import java.util.ArrayList;
-import java.util.Collections;
 import java.util.List;
 
 /**
@@ -13,6 +11,8 @@ import java.util.List;
  */
 public class ResourceUtil {
 
+	public final static String FILE_DEFAULT_ENCODING = "UTF-8"; // 字符编码(可解决中文乱码问题 ) //"GB2312"
+
 	/**
 	 * 
 	 */
@@ -20,88 +20,35 @@ public class ResourceUtil {
 	}
 
 	public static String readFile(String resourceFilename) {
-		try {
-			// Path resPath = Paths.get(new URI(Constant.PROJECT_BIN_DIR +
-			// resourceFilename));
-			// Path resPath = Paths.get(Constant.PROJECT_BIN_DIR +
-			// resourceFilename);
-			// return FileUtil.readFile(resPath.toAbsolutePath().toString());
-			return FileUtil.readFile(resourceFilename);
-		} catch (Exception e) {
-			System.out.println("readFile:" + e.toString());
-		}
-		return "";
+		return FileUtil.readFile(resourceFilename);
 	}
 
 	public static List<String> readFileLines(String resourceFilename) {
-		try {
-			// Path resPath = Paths.get(new URI(Constant.PROJECT_BIN_DIR +
-			// resourceFilename));
-			// Path resPath = Paths.get(Constant.PROJECT_BIN_DIR +
-			// resourceFilename);
-			// return
-			// FileUtil.readFileLines(resPath.toAbsolutePath().toString());
-			return FileUtil.readFileLines(resourceFilename);
-		} catch (Exception e) {
-			System.out.println("readFileLines:" + e.toString());
-		}
-		return Collections.emptyList();
+		return FileUtil.readFileLines(resourceFilename);
 	}
 
 	// 文件以行为单位，每行用空白字符分割，load成一个二维的字符串list
 	public static List<List<String>> readStringList(String resourceFilename) {
-		try {
-			// Path resPath = Paths.get(new URI(Constant.PROJECT_BIN_DIR +
-			// resourceFilename));
-			// return
-			// FileUtil.readStringList(resPath.toAbsolutePath().toString());
-			return FileUtil.readStringList(resourceFilename);
-		} catch (Exception e) {
-			System.out.println("readStringList:" + e.toString());
-		}
-		return new ArrayList<List<String>>();
+		return FileUtil.readStringList(resourceFilename);
 	}
 
 	// 文件以行为单位，每行用空白字符分割，load成一个二维的字符串list
 	public static List<List<String>> readStringList(String resourceFilename, String delimiter) {
-		try {
-			// Path resPath = Paths.get(new URI(Constant.PROJECT_BIN_DIR +
-			// resourceFilename));
-			// return
-			// FileUtil.readStringList(resPath.toAbsolutePath().toString());
-			return FileUtil.readStringList(resourceFilename, delimiter);
-		} catch (Exception e) {
-			System.out.println("readStringList:" + e.toString());
-		}
-		return new ArrayList<List<String>>();
+		return FileUtil.readStringList(resourceFilename, delimiter);
 	}
 
 	/**
 	 * 当isAppend是true时，把body添加到filename文件末尾 ，当isAppend时false时，覆盖或新建filename文件
 	 */
 	public static void writerFile(String resourceFilename, String body, boolean isAppend) {
-		try {
-			// Path resPath = Paths.get(new
-			// URI(ClassLoader.getSystemResource("")));
-			// Utils.writerFile(resPath.toAbsolutePath().toString(),body);
-			FileUtil.writeFile(resourceFilename, body, isAppend, null);
-		} catch (Exception e) {
-			System.out.println("writerFile:" + e.toString());
-		}
+		FileUtil.writeFile(resourceFilename, body, isAppend);
 	}
 
 	/**
 	 * 当isAppend是true时，把body添加到filename文件末尾 ，当isAppend时false时，覆盖或新建filename文件
 	 */
 	public static void writerFile(String resourceFilename, List<String> lines, boolean isAppend) {
-		try {
-			// Path resPath = Paths.get(new
-			// URI(ClassLoader.getSystemResource("")));
-			// Utils.writerFile(resPath.toAbsolutePath().toString(),body);
-			FileUtil.writeFile(resourceFilename, lines, isAppend);
-		} catch (Exception e) {
-			System.out.println("writerFile:" + e.toString());
-		}
+		FileUtil.writeFile(resourceFilename, FILE_DEFAULT_ENCODING, lines, isAppend);
 	}
 
 	/**
