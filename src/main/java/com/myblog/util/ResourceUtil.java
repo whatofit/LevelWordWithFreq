@@ -26,7 +26,7 @@ public class ResourceUtil {
 			// Path resPath = Paths.get(Constant.PROJECT_BIN_DIR +
 			// resourceFilename);
 			// return FileUtil.readFile(resPath.toAbsolutePath().toString());
-			return FileUtil.readFile4(resourceFilename);
+			return FileUtil.readFile(resourceFilename);
 		} catch (Exception e) {
 			System.out.println("readFile:" + e.toString());
 		}
@@ -63,13 +63,13 @@ public class ResourceUtil {
 	}
 
 	// 文件以行为单位，每行用空白字符分割，load成一个二维的字符串list
-	public static List<List<String>> readStringList(String resourceFilename, String comment) {
+	public static List<List<String>> readStringList(String resourceFilename, String delimiter) {
 		try {
 			// Path resPath = Paths.get(new URI(Constant.PROJECT_BIN_DIR +
 			// resourceFilename));
 			// return
 			// FileUtil.readStringList(resPath.toAbsolutePath().toString());
-			return FileUtil.readStringList(resourceFilename, comment);
+			return FileUtil.readStringList(resourceFilename, delimiter);
 		} catch (Exception e) {
 			System.out.println("readStringList:" + e.toString());
 		}
@@ -84,7 +84,7 @@ public class ResourceUtil {
 			// Path resPath = Paths.get(new
 			// URI(ClassLoader.getSystemResource("")));
 			// Utils.writerFile(resPath.toAbsolutePath().toString(),body);
-			Utils.writerFile(resourceFilename, body, isAppend);
+			FileUtil.writeFile(resourceFilename, body, isAppend, null);
 		} catch (Exception e) {
 			System.out.println("writerFile:" + e.toString());
 		}
@@ -98,7 +98,7 @@ public class ResourceUtil {
 			// Path resPath = Paths.get(new
 			// URI(ClassLoader.getSystemResource("")));
 			// Utils.writerFile(resPath.toAbsolutePath().toString(),body);
-			Utils.writerFile(resourceFilename, lines, isAppend);
+			FileUtil.writeFile(resourceFilename, lines, isAppend);
 		} catch (Exception e) {
 			System.out.println("writerFile:" + e.toString());
 		}
@@ -116,7 +116,7 @@ public class ResourceUtil {
 			// Path resPath = Paths.get(new URI(Constant.PROJECT_BIN_DIR +
 			// resourceFilename));
 			// return Utils.deleteFile(resPath.toAbsolutePath().toString());
-			return Utils.deleteFile(resourceFilename);
+			return FileUtil.deleteFile(resourceFilename);
 		} catch (Exception e) {
 			System.out.println("deleteFile:" + e.toString());
 		}

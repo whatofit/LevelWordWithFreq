@@ -9,6 +9,7 @@ import java.util.stream.Collectors;
 
 import com.myblog.Constant;
 import com.myblog.util.CfgUtil;
+import com.myblog.util.FileUtil;
 import com.myblog.util.RegEx;
 import com.myblog.util.ResourceUtil;
 import com.myblog.util.Utils;
@@ -52,7 +53,7 @@ public class ParseEnglishText {
 		//1.读目录中的txt文件
 		//2.去掉每行尾带的连字符后直接拼接，另把每行不带连字符的行，加空格拼接成文本
 		//3.分词成list并加入总词list
-		List<String> txtFileList = Utils.traverseFile(englistFile, ".txt");
+		List<String> txtFileList = FileUtil.getFileList(englistFile, ".txt");
 		
 		List<String> wordLines  = new ArrayList<String>();
 		for (String txtFilename:txtFileList) {

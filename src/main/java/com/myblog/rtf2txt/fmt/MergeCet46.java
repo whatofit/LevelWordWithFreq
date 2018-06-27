@@ -6,6 +6,7 @@ import java.util.stream.Collectors;
 
 import com.myblog.Constant;
 import com.myblog.util.CfgUtil;
+import com.myblog.util.FileUtil;
 import com.myblog.util.ResourceUtil;
 import com.myblog.util.Utils;
 
@@ -30,7 +31,7 @@ public class MergeCet46 {
 		String txtWordFile = Constant.PATH_RESOURCES + cfg_english_txt_result_path;
 		String body = wordLines.stream().collect(Collectors.joining("\r\n")).toString();
 		String charset = "UTF-8";// "UTF-8";"GB2312";"GBK";
-		Utils.saveFile(txtWordFile, body, charset);
+		FileUtil.writeFile(txtWordFile, body, false, charset);
 		// ResourceUtil.writerFile(txtWordFile, wordLines, false);
 		long endTime = System.currentTimeMillis();
 		System.out.println("执行耗时 : " + (endTime - startTime) / 1000f + " 秒 ");

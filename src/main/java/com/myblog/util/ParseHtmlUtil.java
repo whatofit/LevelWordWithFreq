@@ -181,7 +181,7 @@ public class ParseHtmlUtil {
         //System.out.println("shape:" + shape);
 
 
-        String []wordCotent = parseDictWordContent(FileUtil.readFile3(wordFile));
+        String []wordCotent = parseDictWordContent(FileUtil.readFile(wordFile));
         System.out.println(Arrays.toString(wordCotent));  
 //        System.out.println(wordCotent);
         //getElement();

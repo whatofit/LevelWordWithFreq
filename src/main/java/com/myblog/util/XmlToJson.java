@@ -33,7 +33,7 @@ public class XmlToJson {
      */
     public static JSONObject xmlFileToJson(String xmlFilename)
             throws DocumentException {
-        String xmlString = FileUtil.readFile3(xmlFilename);
+        String xmlString = FileUtil.readFile(xmlFilename);
         return xmlToJson(xmlString);
     }
 

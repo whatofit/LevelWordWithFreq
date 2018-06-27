@@ -32,7 +32,7 @@ public class Xml2Json {
      * @throws DocumentException
      */
     public static JSONObject xmlFile2Json(String xmlFilename) throws DocumentException {
-        String xmlString = FileUtil.readFile3(xmlFilename);
+        String xmlString = FileUtil.readFile(xmlFilename);
         return xml2Json(xmlString);
     }
 

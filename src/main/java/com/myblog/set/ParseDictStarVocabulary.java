@@ -22,7 +22,7 @@ public class ParseDictStarVocabulary {
             for (int j = 0; j < vocabulary_dict_star[i][1]; j++) {
                 wordFile = String.format("/base%s-%s.html", vocabulary_dict_star[i][0], j);
                 // System.out.println("wordFile:" + wordFile);
-                ParseHtmlUtil.parseDictHubMain(FileUtil.readFile3(Constant.PATH_DICT_STAR + wordFile));
+                ParseHtmlUtil.parseDictHubMain(FileUtil.readFile(Constant.PATH_DICT_STAR + wordFile));
             }
         }
     }

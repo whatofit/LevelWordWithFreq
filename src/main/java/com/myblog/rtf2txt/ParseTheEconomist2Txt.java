@@ -2,7 +2,7 @@ package com.myblog.rtf2txt;
 
 import java.util.List;
 
-import com.myblog.util.Utils;
+import com.myblog.util.FileUtil;
 
 public class ParseTheEconomist2Txt {
 
@@ -13,7 +13,7 @@ public class ParseTheEconomist2Txt {
 	}
 
 	public static void doPdf2Txt(String forderPath) {
-		List<String> pdfFileList = Utils.traverseFile(forderPath, ".pdf");
+		List<String> pdfFileList = FileUtil.getFileList(forderPath, ".pdf");
 		toText(pdfFileList);
 	}
 
