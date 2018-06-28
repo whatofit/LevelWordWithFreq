@@ -210,6 +210,13 @@ public class Word implements Comparable<Word> {
         this.level = level;
     }
 
+    public Word(String frequency, String spelling, String level,String meanings) {
+        this.frequency = frequency;
+        this.spelling = spelling;
+        this.level = level;
+        this.meanings = meanings;
+    }
+    
     public int getId() {
         return id;
     }
