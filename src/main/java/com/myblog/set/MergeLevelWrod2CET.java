@@ -55,23 +55,29 @@ public class MergeLevelWrod2CET {
 					String[] augendField = augendMapValue.trim().split(",");
 					if (augendField != null && augendField.length > 2) {// CET有衍生词
 						// System.out.println("augendMapValue,field=" + Arrays.toString(augendField));
-						String[] words = augendField[2].replaceAll("\"", "").split(";");// 分开CET衍生词
-						for (int i = 0; words != null && i < words.length; i++) {// 循环CET衍生词
-							String derivedWord = RegEx.removeBrackets(words[i]);// 规范化衍生词
-							if (addendMap.containsKey(derivedWord)) {// 2.若在addendMap的key中找到augendWord的衍生词derivedWord
-								String addendLine = addendMap.get(derivedWord);
-								String newLine = "";
-								int curLineColCnt = getLineColumnCnt(augendMapValue);
-								if (curLineColCnt == augendColumnCnt) {
-									newLine = augendMapValue + "," + addendLine;// 第一次','拼接
-								} else {
-									String[] addendField = addendLine.trim().split(","); // 后续;拼接
-									newLine = augendMapValue + ";" + addendField[1];
+						String derivedWords = augendField[2];
+						if (augendField.length > 3) {
+							derivedWords +=";" + augendField[3];
+						}
+						if (!"".equals(derivedWords.trim())) {
+							String[] derWords = derivedWords.split(";");// .replaceAll("\"", "") //分开CET衍生词
+							for (int i = 0; derWords != null && i < derWords.length; i++) {// 循环CET衍生词
+								String derivedWord = RegEx.removeBrackets(derWords[i]);// 规范化衍生词
+								if (addendMap.containsKey(derivedWord)) {// 2.若在addendMap的key中找到augendWord的衍生词derivedWord
+									String addendLine = addendMap.get(derivedWord);
+									String newLine = "";
+									int curLineColCnt = getLineColumnCnt(augendMapValue);
+									if (curLineColCnt <= augendColumnCnt) {
+										newLine = augendMapValue + "," + addendLine;// 第一次','拼接
+									} else {
+										String[] addendField = addendLine.trim().split(","); // 后续;拼接
+										newLine = augendMapValue + ";" + addendField[RegEx.spelling_Idx];
+									}
+									augendMap.put(augendKeyWord, newLine);
+									augendMapValue = augendMap.get(augendKeyWord);// key已变化，重新取key
+									addendMap.remove(derivedWord);
+									isContinue = true;
 								}
-								augendMap.put(augendKeyWord, newLine);
-								augendMapValue = augendMap.get(augendKeyWord);// key已变化，重新取key
-								addendMap.remove(derivedWord);
-								isContinue = true;
 							}
 						}
 					}
@@ -92,10 +98,11 @@ public class MergeLevelWrod2CET {
 			augendMap.put(word, newLine);
 			wordMap.put(word, newLine);
 		}
-		List<String> wordLines = Utils.SortMap(wordMap, false);
+		List<String> wordLines = Utils.SortMap(augendMap, false);
 		// 3.保存word list
 		String wordFile = Constant.PATH_RESOURCES + cfg_sum_result;
 		ResourceUtil.writerFile(wordFile, wordLines, false);
+		ResourceUtil.writerFile(Constant.PATH_RESOURCES + "/cfg_sum_result2.csv", Utils.SortMap(wordMap, false), false);
 
 		long endTime = System.currentTimeMillis();
 		System.out.println("执行耗时 : " + (endTime - startTime) / 1000f + " 秒 ");
@@ -121,14 +128,14 @@ public class MergeLevelWrod2CET {
 			String[] columns = curLine.split(",");
 			if (columns.length > nMaxColCnt) {
 				nMaxColCnt = columns.length;
-				//System.out.println("getFileMaxColumnCnt,nMaxColCnt: " + nMaxColCnt);
+				// System.out.println("getFileMaxColumnCnt,nMaxColCnt: " + nMaxColCnt);
 			}
 		}
 		return nMaxColCnt;
 	}
 
 	public static int getLineColumnCnt(String line) {
-		//System.out.println("getLineColumnCnt,line: " + line);
+		// System.out.println("getLineColumnCnt,line: " + line);
 		if (line != null) {
 			String[] columns = line.trim().split(",");
 			return columns.length;
@@ -144,6 +151,6 @@ public class MergeLevelWrod2CET {
 		for (int i = 0; i < columnCnt; i++) {
 			line = line + ",";
 		}
-		return line;
+		return "".equals(line)?",":line;
 	}
 }

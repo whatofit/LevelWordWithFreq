@@ -74,11 +74,11 @@ public class MergeDuplicateCOCA {
 				}
 				String newWordLine = mapWordField[0] + "," + field1 + "," + key;
 				if (curLineField.length >= 3 && mapWordField.length >= 4) {
-					newWordLine += "," + mapWordField[3] + "/" + curLineField[2];
+					//newWordLine += "," + mapWordField[3] + "/" + curLineField[2];
 				}
 				mapWords.put(key, newWordLine);
 			} else {
-				String newWordLine = curLineField[0] + ",," + curLineField[1] + "," + curLineField[2];
+				String newWordLine = curLineField[0] + ",," + curLineField[1];// + "," + curLineField[2];
 				mapWords.put(key, newWordLine);
 			}
 		}
