@@ -43,8 +43,7 @@ public class MergeLevelWrod2CET {
 				Map.Entry<String, String> entry = it.next();
 				String augendKeyWord = (String) entry.getKey();
 				String augendMapValue = (String) entry.getValue();
-				// System.out.println("augendKeyWord \t augendMapValue=" +
-				// augendKeyWord+"\t"+augendMapValue);
+				//System.out.println("augendKeyWord,augendMapValue=" + augendKeyWord+"\t"+augendMapValue);
 				// colo(u)r单词在考研单词词义的备注中
 				if (addendMap.containsKey(augendKeyWord)) {// 1.若在addendMap的key中找到augendWord
 					// 修改Map中key的Value:增加列数
@@ -53,13 +52,29 @@ public class MergeLevelWrod2CET {
 					isContinue = true;
 				} else {
 					String[] augendField = augendMapValue.trim().split(",");
-					if (augendField != null && augendField.length > 2) {// CET有衍生词
+					if (augendField != null && augendField.length > 1) {
 						// System.out.println("augendMapValue,field=" + Arrays.toString(augendField));
-						String derivedWords = augendField[2];
-						if (augendField.length > 3) {
-							derivedWords +=";" + augendField[3];
+						String derivedWords = null;
+						String auxiliaryKey = RegEx.split2Word3(augendField[1]); // 副/辅关键词
+						if (auxiliaryKey!= null && !"".equals(auxiliaryKey)) {
+							derivedWords = auxiliaryKey;
 						}
-						if (!"".equals(derivedWords.trim())) {
+						if (augendField.length > 2 && !"".equals(augendField[2])) {// CET有衍生词
+							if (derivedWords == null ) {
+								derivedWords = augendField[2];
+							} else {
+								derivedWords +=";" + augendField[2];
+							}
+						}
+						if (augendField.length > 3 && !"".equals(augendField[3])) {//有COCA扩展词
+							if (derivedWords == null ) {
+								derivedWords = augendField[3];
+							} else {
+								derivedWords +=";" + augendField[3];
+							}
+						}
+						if (derivedWords !=null && !"".equals(derivedWords.trim())) {
+							//System.out.println("derivedWords="+ derivedWords);
 							String[] derWords = derivedWords.split(";");// .replaceAll("\"", "") //分开CET衍生词
 							for (int i = 0; derWords != null && i < derWords.length; i++) {// 循环CET衍生词
 								String derivedWord = RegEx.removeBrackets(derWords[i]);// 规范化衍生词

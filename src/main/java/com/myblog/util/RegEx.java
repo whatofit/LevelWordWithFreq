@@ -224,6 +224,7 @@ public class RegEx {
 	// child/children 小
 	public static int spelling_Idx = 0;
 
+	// 以空格分隔单词列表
 	public static Word split2Word(String line) {
 		String[] field = line.trim().split("\\s");
 		String spelling = "";
@@ -235,6 +236,7 @@ public class RegEx {
 		return word;
 	}
 
+	// 以逗号分隔单词列表
 	public static Word split2Word2(String line) {
 		String[] field = line.trim().split(",");
 		String spelling = "";
@@ -244,6 +246,30 @@ public class RegEx {
 		Word word = new Word(removeBrackets(spelling)); // spelling.replaceAll("[()]", ""); 删除()小括号
 		word.setSentences(line);
 		return word;
+	}
+
+	// a/an
+	// among/amongst
+	// anyway/=anyhow
+	// bicycle/bike
+	// cheek/cheque
+	// doctor/Dr.
+	// dormitory/dorm
+	// fish/(pl.fish(es))
+	// criterion/(pl.criteria/criterions)
+	// index/(pl.indexes/indices)
+	// mistress/Mrs.
+	// tooth/(pl.teeth)
+	public static String split2Word3(String line) {
+		if (!line.contains("/")) {
+			return null;
+		}
+		line = line.replaceAll("^.*?/", ""); // 1.(惰性匹配?)截取第一个/符号后的字符串，即把第一个/符号前的字符串删除掉--若无/符号，保留整个字符串
+		line = line.replaceAll("[\\(\\)]", ""); // 2.删除所有左右小括号,
+		line = line.replaceAll("pl\\.", ""); // 3.删除字符串pl.
+		line = line.replaceAll("\\.", ""); // 4.把句号删除,如:Mrs.改为Mrs
+		line = line.replaceAll("/", ";"); // 3.用分号;替换斜杠/,分隔多个字符串为多个单词
+		return line;
 	}
 
 	// public static String split2Word2(String line) {
@@ -602,10 +628,13 @@ public class RegEx {
 		// System.out.println("removeBrackets,:line=" + line);
 
 		// String content = "behaviour(Am behavior) n";
-		String content = "beat(beat,beaten) v&n";
-		String retLine = fmtNCEEWordLine(content);
-		System.out.println("removeBrackets:" + retLine);
+		// String content = "beat(beat,beaten) v&n";
+		// String retLine = fmtNCEEWordLine(content);
+		// System.out.println("removeBrackets:" + retLine);
 
+		String content = "autumn";
+		String retLine = split2Word3(content);
+		System.out.println("split2Word3:" + retLine);
 	}
 
 	// week - n. a period of time equal to seven days
@@ -710,6 +739,7 @@ public class RegEx {
 		// child/(pl.children)
 		// child/
 		line = line.replaceAll("/(.*)", "");// 截取第一个/符号前的字符串，即把第一个/符号后的字符串截除掉--若无/符号，保留整个字符串
+		line = line.replaceAll("\\.", ""); // 删除英语句号，如:Mrs.改为Mrs
 		return line;
 	}
 
