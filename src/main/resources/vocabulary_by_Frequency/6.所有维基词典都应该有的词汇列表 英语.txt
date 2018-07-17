@@ -1,0 +1,644 @@
+﻿human / person
+adult
+man
+woman
+child
+boy
+girl
+mother
+father
+house
+door
+table
+chair
+bed
+mattress
+bowl
+bottle
+cup
+car
+road
+engine
+home
+fork
+spoon
+plate
+wall
+ceiling
+floor
+food
+nutrition
+bread
+rice
+coffee
+maize
+cotton
+soya bean
+sorghum
+wheat
+barley
+oats
+fruit
+vegetable
+tobacco
+cheese
+alcohol
+tea
+potato
+drink
+water
+beer
+wine
+milk
+juice
+cola
+thing / object
+cube
+ball
+cylinder
+cone
+shape
+square
+circle
+triangle
+ellipse
+wave
+philosophy
+mind
+body
+soul
+will
+reality
+truth
+consciousness
+metaphysics
+nihility
+ethics
+epistemology
+aesthetics
+life
+freedom
+profession
+job / work
+biography
+musician
+explorer
+scientist
+artist
+inventor
+writer
+thinker
+politician
+statesman
+carpenter
+driver
+mathematician
+soldier
+killer
+literature
+book
+biography
+bibliography
+nation
+geography
+#Africa
+#Antarctica
+#Asia
+#Australia / Oceania
+#Europe
+#North America
+#South America
+nature
+river
+ocean
+sea
+volcano
+canyon
+reef
+waterfall / falls
+lake
+mountain
+hill
+plateau
+island
+city
+town
+village
+county
+history
+prehistory
+dinosaur
+archaeology
+geologic era / prehistoric age
+Renaissance
+discovery
+slavery
+revolution
+politics
+anarchy
+Communist / Communism
+fascist / fascism
+democratic / democracy
+monarchy / dictatorship
+nationalistic / nationalism
+globalisation
+socialist / socialism
+liberal / liberalism
+capitalist / capitalism
+imperialist / imperialism
+racist / racism
+feminist / feminism
+diplomacy
+feudalism
+republicanism
+Human rights
+sexism
+racism
+punishment
+abortion
+birth control
+war
+peace
+religion
+Islam
+Judaism
+Christianity
+Buddhism
+Hinduism
+Sikhism
+god
+spirit
+atheism
+agnosticism
+humanism
+culture
+theatre
+television
+radio
+film / movie
+gambling
+literature
+dance
+art
+music
+pop
+rock
+traditional
+classical
+jazz
+comics
+games
+chess
+go
+checkers / draughts
+backgammon
+cards
+dice
+science / scientific
+physics
+heat
+electricity / electrical
+magnetism / magnetic
+gravity
+mass
+force
+time
+length
+area
+speed / velocity
+acceleration
+atom / atomic
+electron
+proton
+neutron
+quantum
+Chemical element
+Periodic table
+an article on every one of the chemical elements, with the properties table data
+chemical reaction
+molecule
+acid / acidity
+alkali
+pH
+salt
+compound
+organic chemistry
+bacterium
+archaea
+protist
+fungus
+plant
+tree
+flower
+grass
+animal
+bird
+fish
+horse
+insect
+fly
+mosquito
+maggot
+bee
+cockroach
+mammal
+reptile
+snake
+elephant
+camel
+cattle
+cow
+donkey
+sheep
+dog
+cat
+lion
+eagle
+bear
+dragon
+monster
+geology
+ecology
+astronomy
+solar system
+sun / Sol
+Earth / Terra
+moon / Luna
+Mercury
+Venus
+Mars
+Jupiter
+Saturn
+Uranus
+Neptune
+Pluto
+galaxy
+Milky Way
+Big Bang
+weather
+rain
+cloud
+snow
+hail
+hurricane
+wood
+cloth
+plastic
+paper
+glass
+metal
+stone
+brick
+mineral
+salt
+diamond
+chalk
+granite
+flint
+sandstone
+quartz
+rock
+metal
+gold
+silver
+iron
+copper
+zinc
+tin
+aluminium
+alloy
+bronze
+brass
+steel
+oil / fuel
+benzene
+kerosene
+technology
+invention
+agriculture
+Human use of fire
+metallurgy
+writing
+alphabet
+ship
+sail
+slope / inclined plane
+wheel
+pulley
+lever
+screw
+wedge
+weapon
+gun
+axe
+sword
+longbow
+explosive
+gunpowder
+bicycle
+steam engine
+train
+automobile
+electricity
+electronics
+electric motor
+radio
+television
+telephone
+airplane / aircraft
+computer
+laser
+Internet
+language / dialect
+English
+Mandarin
+Cantonese
+Arabic
+German
+Hindi
+Urdu
+Bahasa Indonesia
+Russian
+Spanish
+French
+Esperanto
+Sanskrit
+Latin
+Greek
+Japanese
+Korean
+Thai
+Vietnamese
+Portuguese
+Italian
+Dutch
+architecture
+pyramids
+arch
+dome
+bridge
+nail
+cube
+mathematics
+number
+integer
+plus
+minus
+multiply
+divide
+geometry
+algebra
+equation
+variable
+proof
+calculus
+trigonometry
+calendar
+set theory
+logic
+anatomy / medicine
+heart
+lungs
+vagina
+penis
+kidneys
+stomach
+liver
+spleen
+intestines
+skeleton
+breast
+skin
+head
+eye
+mouth
+ear
+brain
+arm
+elbow
+wrist
+hand
+finger
+thumb
+leg
+knee
+ankle
+foot
+toe
+reproduction
+pregnancy
+fetus
+placenta
+sick / disease / illness
+blind / blindness
+deaf / deafness
+cancer
+malnutrition
+starvation
+obesity
+cholera
+tuberculosis
+AIDS
+smallpox
+malaria
+dysentery
+leprosy
+virus
+pestis
+treatment
+medication
+preventive vaccination
+surgery
+soccer
+cricket
+baseball
+gridiron / American football
+athletics
+swimming
+disaster / natural disaster
+earthquake
+volcano
+hurricane
+flood
+avalanche
+meltdown
+tornado
+tsunami
+color
+black
+white
+blue
+red
+green
+yellow
+orange
+brown
+grey
+light
+dark
+January
+February
+March
+April
+May
+June
+July
+August
+September
+October
+November
+December
+day of the week
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+Sunday
+zero
+one
+two
+three
+four
+five
+six
+seven
+eight
+nine
+ten
+eleven
+twelve
+thirteen
+fourteen
+fifteen
+sixteen
+seventeen
+eighteen
+nineteen
+twenty
+thirty
+forty
+fifty
+sixty
+seventy
+eighty
+ninety
+hundred
+thousand
+million
+billion
+second
+minute
+hour
+day
+week
+month
+year
+century
+measurement
+meter
+kilometer
+litre
+gram
+kilogram
+second
+degree
+to rain
+to forget
+to dream
+to remember
+to wish
+to be
+to begin
+to give birth
+to be born
+to come
+to count
+to dance
+to die
+to drink
+to eat
+to duck / to get down
+to stand / to get up
+to get into / to get onto / to mount
+to get out of / to get off of / to dismount
+to give
+to go
+to go away
+to hate
+to have / to own / to possess
+to leave
+to live
+to love
+to make / to build
+to marry
+to run
+to sing
+to sit
+to sleep
+to start / to begin
+to stay / to remain
+to smoke
+to use
+communication
+to write
+to read
+to tell
+to listen
+to lie
+good
+bad
+small
+big
+long
+short
+large
+narrow
+deep
+shallow
+fast
+slow
+high
+low
+expensive
+cheap
+young
+aged
+new
+old
+used
+true
+false
+emotion
+happy / happiness
+sad / sadness
+angry / anger
+afraid / fear
+tired / fatigue
+hungry / hunger
+thirsty / thirst
+many / a lot of
+few / a little
+fast
+slowly
+early
+late
+far
+near
+(originating) from / starting at
+(headed) to / arriving at / destined for
+before / preceding in time
+after / succeeding in time
+in front of / preceding in space
+behind / following in space
+under / covered by
+over / on top of / covering
+next to / close to / bordering
+inside / within / enclosed by, or containing / enclosing
+outside / be apart from, or excluding / lacking
+(passing) through
+around / circumventing
+between / bounded by / delimited by, or bounding / delimiting
+(together) with
+against / versus
