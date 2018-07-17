@@ -9,6 +9,7 @@ import java.util.stream.Collectors;
 
 import com.myblog.Constant;
 import com.myblog.model.Word;
+import com.myblog.statistics.WordStatistics;
 import com.myblog.util.CfgUtil;
 import com.myblog.util.RegEx;
 import com.myblog.util.ResourceUtil;
@@ -28,12 +29,25 @@ public class MergeLevelWrod2CET {
 
 		RegEx.spelling_Idx = 1;
 		Map<String, String> augendMap = loadWordList(cfg_augend);
-		RegEx.spelling_Idx = 2;
+		int addendColumnCnt = getFileMaxColumnCnt(cfg_addend);
+		if (addendColumnCnt == 1) {
+			RegEx.spelling_Idx = 0;
+		} else {
+			RegEx.spelling_Idx = 1;
+		}
 		Map<String, String> addendMap = loadWordList(cfg_addend);
+		
+		//List<String > wordFreqList = WordStatistics.SortMap2(addendMap);
+		//System.out.println(wordFreqList.size());
+		//String cfg_english_txt_result_path = CfgUtil.getPropCfg(Constant.FILE_CONFIG_FILE, "cfg_english_txt_result");
+		//String outTextFilename = Constant.PATH_RESOURCES +cfg_english_txt_result_path;
+		//ResourceUtil.writerFile(outTextFilename, wordFreqList, false);
+		//System.out.println("done!outTextFilename="+outTextFilename);
+
+		
 		int augendColumnCnt = getFileMaxColumnCnt(cfg_augend);
 		// int addendColumnCnt = getFileColumnCnt(cfg_addend);
 		System.out.println("augendColumnCnt=" + augendColumnCnt);
-
 		// List<String> wordLines = new ArrayList<String>();
 		// Map<String, String> wordMap = new HashMap<String, String>();
 		boolean isContinue = true;

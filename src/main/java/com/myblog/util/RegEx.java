@@ -267,8 +267,9 @@ public class RegEx {
 		line = line.replaceAll("^.*?/", ""); // 1.(惰性匹配?)截取第一个/符号后的字符串，即把第一个/符号前的字符串删除掉--若无/符号，保留整个字符串
 		line = line.replaceAll("[\\(\\)]", ""); // 2.删除所有左右小括号,
 		line = line.replaceAll("pl\\.", ""); // 3.删除字符串pl.
-		line = line.replaceAll("\\.", ""); // 4.把句号删除,如:Mrs.改为Mrs
-		line = line.replaceAll("/", ";"); // 3.用分号;替换斜杠/,分隔多个字符串为多个单词
+		line = line.replaceAll("vs\\.", ""); // 4.删除字符串pl.
+		line = line.replaceAll("\\.", ""); // 5.把句号删除,如:Mrs.改为Mrs
+		line = line.replaceAll("/", ";"); // 6.用分号;替换斜杠/,分隔多个字符串为多个单词
 		return line;
 	}
 
@@ -631,6 +632,19 @@ public class RegEx {
 		// String content = "beat(beat,beaten) v&n";
 		// String retLine = fmtNCEEWordLine(content);
 		// System.out.println("removeBrackets:" + retLine);
+
+		// a/an
+		// among/amongst
+		// anyway/=anyhow
+		// bicycle/bike
+		// cheek/cheque
+		// doctor/Dr.
+		// dormitory/dorm
+		// fish/(pl.fish(es))
+		// criterion/(pl.criteria/criterions)
+		// index/(pl.indexes/indices)
+		// mistress/Mrs.
+		// tooth/(pl.teeth)
 
 		String content = "autumn";
 		String retLine = split2Word3(content);

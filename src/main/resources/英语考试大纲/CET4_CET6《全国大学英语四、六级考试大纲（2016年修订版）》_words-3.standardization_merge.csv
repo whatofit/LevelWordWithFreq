@@ -990,7 +990,7 @@
 六,compartment,,
 四,compass,,encompass
 六,compassion,compassionate,
-四,compatible,compatibility,
+四,compatible,compatibility,incompatible
 四,compel,compelling,
 四,compensate,compensation;compensatory,
 四,compete,competition;competitive;competitor,competing
@@ -1827,7 +1827,7 @@
 六,extract,extraction,
 四,extraordinary,,
 六,extravagant,extravagance,
-四,extreme,extremity,extremely(COCA/高中)
+四,extreme,extremity,extremely(COCA/高中);extremist
 四,eye,,
 四,eyebrow,,
 四,eyesight,,
@@ -2345,7 +2345,7 @@
 四,homework,,
 六,homogeneous,,
 四,homosexual/homo,,homosexuality
-四,honest,honesty,honestly
+四,honest,honesty,honestly;dishonest
 四,honey,,
 四,honeymoon,,
 四,hono(u)r,hono(u)rable;hono(u)rary,
@@ -2878,7 +2878,7 @@
 四,mall,,
 六,malpractice,,
 四,mammal,,
-四,man,manly;manhood,
+四,man/(pl.men),manly;manhood,
 四,manage,management;manager;managerial,managing
 六,mandate,mandatory,
 六,maneuver/manoeuvre,,
@@ -3210,7 +3210,7 @@
 六,oar,,
 六,oath,,
 四,obese,obesity,
-四,obey,obedient;obedience,
+四,obey,obedient;obedience,disobey
 四,object,objection,
 四,objective,,
 四,oblige,obligation;obliged;obligatory,
@@ -3287,7 +3287,7 @@
 四,organ,,
 四,organic,,
 四,organism,,
-四,organize/-ise,organization/-sation;organizational/-sational,organized;organizer
+四,organize/-ise,organization/-sation;organizational/-sational,organized;organizer;reorganize
 四,orient,orientation;oriental,
 四,origin,original;originality;originate,originally
 四,ornament,ornamental,
@@ -4433,7 +4433,7 @@
 六,stagger,,
 六,stagnate,stagnation;stagnant,
 四,stain,stainless,
-四,stair,,
+四,stair/stairs,,
 四,staircase,,
 四,stake,,
 四,stale,,
@@ -4674,7 +4674,7 @@
 四,tea,,
 四,teach,teacher;teaching,
 四,team,,teammate
-四,tear,,
+四,tear,,tears
 六,tease,,
 四,technical,technician,technically
 四,technique,,
@@ -5212,7 +5212,7 @@
 四,withstand,,
 四,witness,,
 四,wolf,,
-四,woman,,
+四,woman/(pl.women),,
 四,wonder,wonderful,
 四,wood,wooden,
 四,wool,wool(l)en,
@@ -5269,6 +5269,10 @@
 四,zoo,,
 四,zoology,zoological,
 六,zoom,,
+AWL,discretion,,
+AWL,invoke/invoked,,
+AWL,subsidiary,,
+AWL,albeit,,
 Fry,vowel,,
 Fry,oh,,
 Fry,syllable,,

@@ -20,7 +20,6 @@ import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 import com.myblog.Constant;
-import com.myblog.model.Word;
 import com.myblog.util.ResourceUtil;
 
 /**
@@ -48,7 +47,7 @@ public class WordStatistics {
 
 		// getAllWord();
 		getAllWord2();
-		// getDistinctWord();
+		//getDistinctWord();
 	}
 
 	// java统计一段英文中单词及个数/统计各个单词出现的次数
@@ -142,7 +141,7 @@ public class WordStatistics {
 		for (String word : wordArr) {
 			String pureWord = word.replaceFirst("^-*", "").replaceFirst("-*$", "").trim().toLowerCase();
 			if (pureWord.length() != 0) { // 去除长度为0的行
-				//去掉前导-，去掉后缀-，全部转化成小写
+				// 去掉前导-，去掉后缀-，全部转化成小写
 				if (pureWord.contains("--")) {
 					String regex = "^([a-zA-Z]*)(?:-{2,})([a-zA-Z]*)$";
 					Pattern pattern = Pattern.compile(regex);
@@ -153,7 +152,7 @@ public class WordStatistics {
 						wordList.add(word1);
 						wordList.add(word2);
 					} else {
-						//wordList.add(pureWord);
+						// wordList.add(pureWord);
 					}
 				} else {
 					wordList.add(pureWord);
@@ -162,7 +161,7 @@ public class WordStatistics {
 		}
 		return wordList;
 	}
-	
+
 	// 统计词频
 	public static Map<String, Integer> StatisticsFreq(List<String> wordList) {
 		Map<String, Integer> wordsCount = new TreeMap<String, Integer>(); // 存储单词计数信息，key值为单词，value为单词数
@@ -190,11 +189,34 @@ public class WordStatistics {
 			}
 		});
 
-		List<String > wordFreqList = new ArrayList<String>();
-		
+		List<String> wordFreqList = new ArrayList<String>();
+
 		for (int i = 0; i < list.size(); i++) {
-			wordFreqList.add(list.get(i).getKey() + "\t" + list.get(i).getValue());
-			//System.out.println(list.get(i).getKey() + ": " + list.get(i).getValue());
+			//wordFreqList.add(list.get(i).getKey() + "\t" + list.get(i).getValue());
+			System.out.println(list.get(i).getKey() + "," + list.get(i).getValue());
+		}
+		return wordFreqList;
+	}
+
+	// 按value的大小进行排序
+	public static List<String> SortMap2(Map<String, String> oldmap) {
+
+		ArrayList<Map.Entry<String, String>> list = new ArrayList<Map.Entry<String, String>>(oldmap.entrySet());
+
+		Collections.sort(list, new Comparator<Map.Entry<String, String>>() {
+			@Override
+			public int compare(Entry<String, String> o1, Entry<String, String> o2) {
+				// return o2.getValue() - o1.getValue(); // 降序
+				return o1.getKey().compareTo(o2.getKey());
+			}
+		});
+
+		List<String> wordFreqList = new ArrayList<String>();
+
+		for (int i = 0; i < list.size(); i++) {
+			// wordFreqList.add(list.get(i).getKey() + "\t" + list.get(i).getValue());
+			wordFreqList.add(list.get(i).getKey());
+			// System.out.println(list.get(i).getKey() + ": " + list.get(i).getValue());
 		}
 		return wordFreqList;
 	}
@@ -204,15 +226,15 @@ public class WordStatistics {
 		try {
 			// String fileName = "ANC.txt";// 文件路径
 			// String fileName = "ANC_all.txt";// 文件路径
-			String fileName = "/ANC_spoken.txt";// 文件路径
+			// String fileName = "/ANC_spoken.txt";// 文件路径
+			String fileName = "/WordStatistics.txt";// 文件路径
 			String resFileName = Constant.PATH_RESOURCES + fileName;
 			BufferedReader br = new BufferedReader(new FileReader(resFileName));
-			// List<String> words = br.lines().flatMap(line -> Stream.of(line.split(" ")))
-			// .filter(word -> word.length() >
-			// 0).map(String::toLowerCase).distinct()//.sorted()
-			// .collect(Collectors.toList());
+			List<String> words = br.lines().flatMap(line -> Stream.of(line.split(" ")))
+					.filter(word -> word.length() > 0).map(String::toLowerCase).distinct()// .sorted()
+					.collect(Collectors.toList());
 
-			List<String> words = br.lines().distinct().collect(Collectors.toList());
+			// List<String> words = br.lines().distinct().collect(Collectors.toList());
 
 			br.close();
 			ResourceUtil.writerFile("distinct_ANC_spoken.txt", words, false);
