@@ -198,11 +198,11 @@ public class DumpFreq2WordDB {
     public static void main(String[] args) {
         System.out.println("AddStageByWordsFile,main,args.length: " + args.length);
         mStageLevelList = ResourceUtil.readStringList(Constant.FILE_STAGE_FILES);
-        // System.out.println("AddStageByWordsFile,main,stageFileList: " +
-        // mStageLevelList);
+        System.out.println("DumpFreq2WordDB,stageFileList: " + mStageLevelList);
         Map<String, Map<String, String>> mapResult = getWordList(mStageLevelList);// 先获取level比较低的单词集合，后获取levle较高的集合
         System.out.println("all unique words count: " + mapResult.size());
         Vector<Word> vecWords = map2vector(mapResult);
+        System.out.println("finally unique words count: " + vecWords.size());
         doInsert2DB(vecWords);
     }
 }

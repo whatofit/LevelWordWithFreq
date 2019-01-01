@@ -2,11 +2,12 @@ package com.level.loadword2db;
 
 import java.util.List;
 
+import com.level.Constant;
 import com.level.model.Word;
 import com.level.model.XmlSent;
 import com.level.model.XmlWord;
 
-public class Xml2SqliteMeaningsLine extends XmlWordIntoSqlite {
+public class Xml2SqliteMeaningsLine extends FmtWordVectorIntoSqlite {
     protected final String regexSemicolon = "[；;]";// 以中文分号或英文分号分割
 
     public Xml2SqliteMeaningsLine() {
@@ -62,7 +63,7 @@ public class Xml2SqliteMeaningsLine extends XmlWordIntoSqlite {
     public static void main(String[] args) {
         try {
             Xml2SqliteMeaningsLine levelSqlite = new Xml2SqliteMeaningsLine();
-            levelSqlite.loadFile2WordVector();
+            levelSqlite.loadFile2WordVector(Constant.FILE_FREQ_OF_WORDS);
             levelSqlite.createOrUpdateWordDB(Word.FIELD_NAME_SPELLING);
         } catch (Exception e) {
             e.printStackTrace();

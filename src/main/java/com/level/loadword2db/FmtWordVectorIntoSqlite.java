@@ -6,7 +6,6 @@ import java.util.Vector;
 
 import com.j256.ormlite.jdbc.JdbcConnectionSource;
 import com.j256.ormlite.support.ConnectionSource;
-import com.j256.ormlite.table.TableUtils;
 import com.level.Constant;
 import com.level.dao.WordDaoImpl;
 import com.level.model.Word;
@@ -19,25 +18,25 @@ import com.level.util.ResourceUtil;
  * 
  * @version 1.0 2017/06/10
  */
-public abstract class XmlWordIntoSqlite {
-    public static final String FILE_FREQ_OF_WORDS = "freqOfWords.txt";
+public abstract class FmtWordVectorIntoSqlite {
+    //public static final String FILE_FREQ_OF_WORDS = "freqOfWords.txt";
     // protected final String mWordListFile = "./input/vocabulary.txt";
     // protected final String mXmlFileFolder = "./vocabulary_ciba";
     protected static String mErrFileList = "/ErrFile.txt";
-    protected XmlWordVisitor wordParser = new XmlWordVisitor();
+    protected XmlWordParser wordParser = new XmlWordParser();
     protected Vector<Word> vecWords = new Vector<Word>();
 
     // 1.读xml单词文件
     // 2.解析成JavaBean/Model
     // 3.写入文件/数据库
-    public XmlWordIntoSqlite() {
+    public FmtWordVectorIntoSqlite() {
         ResourceUtil.deleteFile(mErrFileList);
     }
 
     // 根据filename中单词的顺序,读取vocabulary_ciba文件夹下的xml文件列表
-    public void loadFile2WordVector() {
+    public void loadFile2WordVector(String wordListFile) {
         try {
-            List<String> lines = ResourceUtil.readFileLines(Constant.FILE_FREQ_OF_WORDS);
+            List<String> lines = ResourceUtil.readFileLines(wordListFile);
             for (String line : lines) {// 遍历set去出里面的的Key
                 line2WordVector(line);
             }

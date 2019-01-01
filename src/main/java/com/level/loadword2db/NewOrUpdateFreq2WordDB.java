@@ -1,16 +1,16 @@
 /**
  * 
  */
-package com.level.freq;
+package com.level.loadword2db;
 
-import com.level.loadword2db.XmlWordIntoSqlite;
+import com.level.Constant;
 import com.level.model.Word;
 
 /**
  * @author Administrator
  *
  */
-public class NewOrUpdateFreq2WordDB extends XmlWordIntoSqlite {
+public class NewOrUpdateFreq2WordDB extends FmtWordVectorIntoSqlite {
 
     /**
      * 
@@ -38,7 +38,7 @@ public class NewOrUpdateFreq2WordDB extends XmlWordIntoSqlite {
         try {
             NewOrUpdateFreq2WordDB freqSqlite = new NewOrUpdateFreq2WordDB();
             // 1.读取Freq/Level of word文件到vector
-            freqSqlite.loadFile2WordVector();
+            freqSqlite.loadFile2WordVector(Constant.FILE_FREQ_OF_WORDS);
             // 2.把vector中的单词更新到数据库
             freqSqlite.createOrUpdateWordDB(Word.FIELD_NAME_FREQUENCY);
         } catch (Exception e) {

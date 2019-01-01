@@ -2,11 +2,12 @@ package com.level.loadword2db;
 
 import java.util.List;
 
+import com.level.Constant;
 import com.level.model.Word;
 import com.level.model.XmlSent;
 import com.level.model.XmlWord;
 
-public class Xml2Sqlite1Line extends XmlWordIntoSqlite {
+public class Xml2Sqlite1Line extends FmtWordVectorIntoSqlite {
 
     public Xml2Sqlite1Line() {
         super();
@@ -57,7 +58,7 @@ public class Xml2Sqlite1Line extends XmlWordIntoSqlite {
     public static void main(String[] args) {
         try {
             Xml2Sqlite1Line levelSqlite = new Xml2Sqlite1Line();
-            levelSqlite.loadFile2WordVector();
+            levelSqlite.loadFile2WordVector(Constant.FILE_FREQ_OF_WORDS);
             levelSqlite.createOrUpdateWordDB(Word.FIELD_NAME_SPELLING);
         } catch (Exception e) {
             e.printStackTrace();

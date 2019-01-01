@@ -138,7 +138,7 @@ public class FileUtil {
 			delimiter = "\\s+"; // 正则表达式：空白符号
 		}
 		if (comment == null) {
-			// comment = "#";
+			 comment = "#";
 		}
 		if (charsetName == null) {
 			charsetName = FILE_DEFAULT_ENCODING;
@@ -153,8 +153,8 @@ public class FileUtil {
 					String[] split = line.split(delimiter);
 					List<String> lineStage = new ArrayList<String>(Arrays.asList(split));
 					stageLevelList.add(lineStage);
-					line = dr.readLine();
 				}
+				line = dr.readLine();
 			}
 			fis.close();
 		} catch (Exception e) {

@@ -8,7 +8,7 @@ import com.level.util.XlsUtil;
 import jxl.write.WritableSheet;
 import jxl.write.WritableWorkbook;
 
-public class Xml2ExcelPOSsLine extends XmlWordIntoSqlite {
+public class Xml2ExcelPOSsLine extends FmtWordVectorIntoSqlite {
     protected static String mXlsFile = "/LevelDict.xls";// project根目录
     private static WritableWorkbook book = null;
     private static WritableSheet sheet = null;
@@ -56,7 +56,7 @@ public class Xml2ExcelPOSsLine extends XmlWordIntoSqlite {
             // sheet = book.createSheet("vocabulary", 0);
 
             Xml2ExcelPOSsLine levelSqlite = new Xml2ExcelPOSsLine();
-            levelSqlite.loadFile2WordVector();
+            levelSqlite.loadFile2WordVector(Constant.FILE_FREQ_OF_WORDS);
             XlsUtil.closeXLS(book);
             // String sqlCreate =
             // "CREATE TABLE IF NOT EXISTS LevelWordTab

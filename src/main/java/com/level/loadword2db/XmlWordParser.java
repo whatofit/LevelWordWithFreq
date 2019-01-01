@@ -19,10 +19,11 @@ import com.level.Constant;
 import com.level.model.JsonWord;
 import com.level.model.XmlSent;
 import com.level.model.XmlWord;
+import com.level.util.RegEx;
 import com.level.util.ResourceUtil;
 import com.level.util.Utils;
 
-public class XmlWordVisitor extends VisitorSupport {
+public class XmlWordParser extends VisitorSupport {
     //protected final String mFileFolderXml = "vocabulary_ciba";
     //protected final String mFileFolderJson = "vocabulary_QQ";
     protected static String mErrFileList = "/ErrFile.txt";
@@ -36,8 +37,27 @@ public class XmlWordVisitor extends VisitorSupport {
     private String tagName;
 
     /** 构造函数 */
-    public XmlWordVisitor() {
+    public XmlWordParser() {
         // System.out.println("--------------WordsVisitor()-------");
+    }
+    
+    public XmlWord getXmlWord(String line) {
+        String[] arr = line.trim().split("\t");
+        // line = line.trim().replaceFirst("\t", "-");
+        String xmlFileName = String.format("%05d-%s.xml", Integer.valueOf(arr[0]),arr[1]);
+        String xmlWordFile = Constant.PATH_CIBA + File.separator + xmlFileName;
+        System.out.println(xmlWordFile);
+        try {
+            getDocument(xmlWordFile).accept(this);
+            mWord.setFrequency(arr[0]);
+            return mWord;
+        } catch (Exception ex) {
+            ResourceUtil.writerFile(mErrFileList, xmlWordFile,true);
+            XmlWord word = new XmlWord();
+            word.setFrequency(arr[0]);
+            word.setKey(arr[1]);
+            return word;
+        }
     }
 
     public Document getDocument(String xmlWordFile) {
@@ -83,14 +103,16 @@ public class XmlWordVisitor extends VisitorSupport {
             // System.out.println("element : " + node.getName() + " = "
             // + node.getText());
             tagName = node.getName();
-            String data = node.getText();
+            String data = node.getText().trim();
             if (tagName.equals("key")) {
                 mWord.setKey(data);
             } else if (tagName.equals("ps")) {
                 if (mWord.getPs() == null) {
-                    mWord.setPs("[" + data + "]");
+                    //mWord.setPs("[" + data + "]");
+                    mWord.setPs(data);
                 } else {
-                    mWord.setPs2("[" + data + "]");
+                    //mWord.setPs2("[" + data + "]");
+                    mWord.setPs2(data);
                 }
             } else if (tagName.equals("pron")) {
                 if (mWord.getPron() == null) {
@@ -105,13 +127,13 @@ public class XmlWordVisitor extends VisitorSupport {
             } else if (tagName.equals("pos")) {
                 mWord.addPathsOfSpeech(data);
             } else if (tagName.equals("acceptation")) {
-                mWord.addMeaning(data);
+                mWord.addMeaning(RegEx.replacemptyCharsWith1Blank(data));
             } else if (tagName.equals("orig")) {
-                sent.setOrig(data);
+                sent.setOrig(RegEx.replacemptyCharsWith1Blank(data));
                 // } else if (tagName.equals("pron")) {
                 // sent.setPronUrl(data);
             } else if (tagName.equals("trans")) {
-                sent.setTrans(data);
+                sent.setTrans(RegEx.replacemptyCharsWith1Blank(data));
                 // sents.add(sent);
                 mWord.addSent(sent);
                 sent = null;
@@ -134,61 +156,6 @@ public class XmlWordVisitor extends VisitorSupport {
     // public Word getWord() {
     // return mWord;
     // }
-
-    public XmlWord getXmlWord(String line) {
-        String[] arr = line.trim().split("\t");
-        // line = line.trim().replaceFirst("\t", "-");
-        String xmlFileName = String.format("%05d-%s.xml", Integer.valueOf(arr[0]),arr[1]);
-        String xmlWordFile = Constant.PATH_CIBA + File.separator + xmlFileName;
-        System.out.println(xmlWordFile);
-        try {
-            getDocument(xmlWordFile).accept(this);
-            mWord.setFrequency(arr[0]);
-            return mWord;
-        } catch (Exception ex) {
-            ResourceUtil.writerFile(mErrFileList, xmlWordFile,true);
-            XmlWord word = new XmlWord();
-            word.setFrequency(arr[0]);
-            word.setKey(arr[1]);
-            return word;
-        }
-    }
-
-    public JsonWord getJsonWord(String line) {
-        String[] arr = line.trim().split("\t");
-        // line = line.trim().replaceFirst("\t", "-");
-        String jsonFileName = arr[0] + "-" + arr[1] + ".json";
-        String jsonWordFile = Constant.PATH_QQ + File.separator + jsonFileName;
-        System.out.println(jsonWordFile);
-        String body = ResourceUtil.readFile(jsonWordFile);
-        // System.out.println("body:"+body);
-        JSONObject jsonWord = JSONObject.parseObject(body);
-        // mWord = FastJsonUtil.json2obj(body, Word.class);
-        // mWord.setWordFrequency(arr[0]);
-        // mWord.setKey(arr[1]);
-        // System.out.println("getJsonWord,Key=" + mWord.getKey() + ",name＝"
-        // + mWord.getWordFrequency());
-        JsonWord word = new JsonWord();
-        word.setFrequency(arr[0]);
-        word.setWord(arr[1]);
-        if (jsonWord == null) {
-            return word;
-        }
-
-        Object objLocal = jsonWord.get("local");
-        if (objLocal == null) {
-            return word;
-        }
-        if (objLocal instanceof JSONArray) {
-        }
-        // System.out.println("getJsonWord,local=" + objLocal);
-        // JSONObject.toJavaObject(objLocal, JsonWord.class);
-        List<JsonWord> words = JSON.parseArray(objLocal.toString(), JsonWord.class);
-        word = words.get(0);
-        word.setFrequency(arr[0]);
-        // word.setWord(arr[1]);
-        return word;
-    }
 
     /**
      * @param args

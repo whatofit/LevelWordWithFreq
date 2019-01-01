@@ -22,24 +22,7 @@ public class DownlaodWords_Dict {
     public DownlaodWords_Dict() {
     }
 
-    // 解析Word level，如： layer 考研/CET6/CET4/TOEFL/IELTS
-    // 返回固定的6列：CET4 CET6 考研 IELTS TOEFL GRE
-    public static String parseWordLevel(String wordAllLevels) {
-        String[] subLevels = { "CET4", "CET6", "考研", "IELTS", "TOEFL", "GRE" };
-        for (int i = 0; i < subLevels.length; i++) {
-            Pattern p = Pattern.compile(subLevels[i]);
-            Matcher m = p.matcher(wordAllLevels);
-            if (m.find()) {
-                subLevels[i] = "1";
-            } else {
-                subLevels[i] = "";
-            }
-
-        }
-        return String.join("\t", subLevels);
-    }
-
-    public static void main(String[] args) {
+    public static void downlod_Dict() {
         // http://dict.cn/dirty
         String downloa_host_url = "http://dict.cn"; // 下载单词网址
         String download_words_file = "/vocabulary_ciba2.txt"; // 待下载的单词列表文件
@@ -55,7 +38,7 @@ public class DownlaodWords_Dict {
                 String spelling = segments[0];
                 String htmlTxt = HttpUtil.sendPost(downloa_host_url + "/" + spelling, null, false);// spelling.toLowerCase()
                 String[] dictWordCotent = ParseHtmlUtil.parseDictWordContent(htmlTxt);
-                String wordLine = spelling + "\t"+ dictWordCotent[1] + "\t"+ dictWordCotent[3] + "\t"+parseWordLevel(segments[1]) ;
+                String wordLine = spelling + "\t"+ dictWordCotent[1] + "\t"+ dictWordCotent[3] + "\t"+ParseHtmlUtil.parseWordLevel(segments[1]) ;
                 ResourceUtil.writerFile(Constant.PATH_RESOURCES + download_save_path + File.separator + spelling + ".html", htmlTxt, false);
                 ResourceUtil.writerFile(Constant.PATH_RESOURCES + download_save_file, wordLine, true);
             }
@@ -83,5 +66,8 @@ public class DownlaodWords_Dict {
         // spelling.toLowerCase()
         // ResourceUtil.writerFile(Constant.PATH_DICT + File.separator +
         // "base5-0.html", sr, false);
+    }
+    public static void main(String[] args) {
+        downlod_Dict();
     }
 }

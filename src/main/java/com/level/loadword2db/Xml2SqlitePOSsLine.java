@@ -2,11 +2,12 @@ package com.level.loadword2db;
 
 import java.util.List;
 
+import com.level.Constant;
 import com.level.model.Word;
 import com.level.model.XmlSent;
 import com.level.model.XmlWord;
 
-public class Xml2SqlitePOSsLine extends XmlWordIntoSqlite {
+public class Xml2SqlitePOSsLine extends FmtWordVectorIntoSqlite {
     public Xml2SqlitePOSsLine() {
         super();
     }
@@ -51,7 +52,7 @@ public class Xml2SqlitePOSsLine extends XmlWordIntoSqlite {
     public static void main(String[] args) {
         try {
             Xml2SqlitePOSsLine levelSqlite = new Xml2SqlitePOSsLine();
-            levelSqlite.loadFile2WordVector();
+            levelSqlite.loadFile2WordVector(Constant.FILE_FREQ_OF_WORDS);
             System.out.println("levelSqlite.vecWords.size()=" + levelSqlite.vecWords.size());
             levelSqlite.createOrUpdateWordDB(Word.FIELD_NAME_POS);
         } catch (Exception e) {

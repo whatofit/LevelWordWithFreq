@@ -15,11 +15,10 @@ import com.level.util.ResourceUtil;
 public class DownloadWords_iCIBA {
 //    private static final Logger LOGGER = LoggerFactory.getLogger(DownloadWords_iCIBA.class);
 
-
     public DownloadWords_iCIBA() {
     }
 
-    public static void main(String[] args) {
+    public static void download_iCIBA() {
         // http://www.iciba.com/dirty
         String downloa_host_url    = "http://www.iciba.com";    //下载单词网址
         String download_words_file = "/vocabulary_all_20180426.txt";    //待下载的单词列表文件
@@ -51,5 +50,9 @@ public class DownloadWords_iCIBA {
             }
         }
         System.out.println("done!");
+    }
+    
+    public static void main(String[] args) {
+        download_iCIBA();
     }
 }

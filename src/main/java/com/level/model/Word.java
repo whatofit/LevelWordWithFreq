@@ -22,15 +22,17 @@ public class Word implements Comparable<Word> {
     public static final String FIELD_NAME_FREQ_WRITTEN = "freqWritten";
     public static final String FIELD_NAME_FREQ_SPOKEN = "freqSpoken";
     public static final String FIELD_NAME_COUNT_IN_ARTICLE = "countInArticle";// freqArticle
-    public static final String FIELD_NAME_SPELLING = "spelling";
-    public static final String FIELD_NAME_LEMMA = "lemma";
-    public static final String FIELD_NAME_STEM = "stem";
-    public static final String FIELD_NAME_DJ = "phoneticDJ";
-    public static final String FIELD_NAME_KK = "phoneticKK";
+    public static final String FIELD_NAME_SPELLING = "spelling";// 单词拼写
+    public static final String FIELD_NAME_LEMMA = "lemma";// 主旨
+    public static final String FIELD_NAME_STEM = "stem";// 词干
+    public static final String FIELD_NAME_DJ = "phoneticDJ";// 英音音标
+    public static final String FIELD_NAME_KK = "phoneticKK";// 美音音标
     public static final String FIELD_NAME_LEVEL = "level";
-    public static final String FIELD_NAME_POS = "partsOfSpeech";
+    public static final String FIELD_NAME_POS = "partsOfSpeech";// 词性
+    public static final String FIELD_NAME_SIMPLIFY = "simplify";// 精简的词义
     public static final String FIELD_NAME_MEANINGS = "meanings";
     public static final String FIELD_NAME_SENTENCES = "sentences";// exampleSentences
+    public static final String FIELD_NAME_ALL = "all";// word文件的所有字段,用json格式存储
 
     public static final String FIELD_NAME_SENIOR_ENTRANCE_EXAM = "中考";
     public static final String FIELD_NAME_COLLEGE_ENTRANCE_EXAM = "高考";
@@ -64,25 +66,25 @@ public class Word implements Comparable<Word> {
     @DatabaseField(generatedId = true)
     private int id;
 
-    @DatabaseField(columnName = FIELD_NAME_FREQUENCY)
+    // @DatabaseField(columnName = FIELD_NAME_FREQUENCY)
     private String frequency;
 
     @DatabaseField(columnName = FIELD_NAME_FREQ_WRITTEN)
     private String freqWritten;
 
-    @DatabaseField(columnName = FIELD_NAME_FREQ_SPOKEN)
+    // @DatabaseField(columnName = FIELD_NAME_FREQ_SPOKEN)
     private String freqSpoken;
 
-    @DatabaseField(columnName = FIELD_NAME_COUNT_IN_ARTICLE)
+    // @DatabaseField(columnName = FIELD_NAME_COUNT_IN_ARTICLE)
     private int countInArticle;// freqArticle
 
     @DatabaseField(columnName = FIELD_NAME_SPELLING, canBeNull = false)
     private String spelling;
 
-    @DatabaseField(columnName = FIELD_NAME_LEMMA)
+    // @DatabaseField(columnName = FIELD_NAME_LEMMA)
     private String lemma;
 
-    @DatabaseField(columnName = FIELD_NAME_STEM)
+    // @DatabaseField(columnName = FIELD_NAME_STEM)
     private String stem;
 
     @DatabaseField(columnName = FIELD_NAME_DJ)
@@ -94,95 +96,101 @@ public class Word implements Comparable<Word> {
     @DatabaseField(columnName = FIELD_NAME_LEVEL)
     private String level;
 
-    @DatabaseField(columnName = FIELD_NAME_POS)
+    // @DatabaseField(columnName = FIELD_NAME_POS)
     private String partsOfSpeech;
+
+    @DatabaseField(columnName = FIELD_NAME_SIMPLIFY)
+    private String simplify;
 
     @DatabaseField(columnName = FIELD_NAME_MEANINGS)
     private String meanings;
 
-    @DatabaseField(columnName = FIELD_NAME_SENTENCES, width = 4096)
+    // @DatabaseField(columnName = FIELD_NAME_SENTENCES, width = 4096)
     private String sentences;
+
+    @DatabaseField(columnName = FIELD_NAME_ALL)
+    private String all;
 
     // 中考 / 高考 / CET4 / CET6 / 考研 / IELTS / TOEFL
 
     // 初中学业水平考试（高中段学校招生考试/高中入学考试）(senior high school entrance examination)
-    @DatabaseField(columnName = FIELD_NAME_SENIOR_ENTRANCE_EXAM)
+    // @DatabaseField(columnName = FIELD_NAME_SENIOR_ENTRANCE_EXAM)
     private String seniorEntranceExam;// 中考
 
     // 普通高等学校招生全国统一考试(The National College Entrance Examination)
-    @DatabaseField(columnName = FIELD_NAME_COLLEGE_ENTRANCE_EXAM)
+    // @DatabaseField(columnName = FIELD_NAME_COLLEGE_ENTRANCE_EXAM)
     private String collegeEntranceExam; // 高考
 
-    @DatabaseField(columnName = FIELD_NAME_CET4)
+    // @DatabaseField(columnName = FIELD_NAME_CET4)
     private String CET4;// 四级/大学英语四级考试(College English Test-4)
 
-    @DatabaseField(columnName = FIELD_NAME_CET6)
+    // @DatabaseField(columnName = FIELD_NAME_CET6)
     private String CET6;// 六级/大学英语六级考试(College English Test-6)
 
     // 全国硕士研究生统一招生考试/硕士研究生入学考试(Unified national graduate entrance examination)
-    @DatabaseField(columnName = FIELD_NAME_GRADUATE_ENTRANCE_EXAM)
+    // @DatabaseField(columnName = FIELD_NAME_GRADUATE_ENTRANCE_EXAM)
     private String graduateEntranceExam;// 考研
 
     // 全称是国际英语语言测试系统(International English Language Testing System)
-    @DatabaseField(columnName = FIELD_NAME_IELTS)
+    // @DatabaseField(columnName = FIELD_NAME_IELTS)
     private String IELTS;// 雅思
 
     // 全名为“检定非英语为母语者的英语能力考试”(The Test of English as a Foreign Language)
-    @DatabaseField(columnName = FIELD_NAME_TOEFL)
+    // @DatabaseField(columnName = FIELD_NAME_TOEFL)
     private String TOEFL;// 托福
 
-    @DatabaseField(columnName = FIELD_NAME_PRIMARY_SCHOOL)
+    // @DatabaseField(columnName = FIELD_NAME_PRIMARY_SCHOOL)
     private String primarySchool; // 小学 (primary school)或(elementary
                                   // school);//5级
 
-    @DatabaseField(columnName = FIELD_NAME_JUNIOR_SCHOOL)
+    // @DatabaseField(columnName = FIELD_NAME_JUNIOR_SCHOOL)
     private String juniorSchool; // 初中(Junior high school)//4级
 
-    @DatabaseField(columnName = FIELD_NAME_SENIOR_SCHOOL)
+    // @DatabaseField(columnName = FIELD_NAME_SENIOR_SCHOOL)
     private String seniorSchool; // 高中(Senior high school)//3级
 
-    @DatabaseField(columnName = FIELD_NAME_UNIVERSITY)
+    // @DatabaseField(columnName = FIELD_NAME_UNIVERSITY)
     private String university; // 大学university(综合性的大学)或college(学院)//4级
 
-    @DatabaseField(columnName = FIELD_NAME_COLLEGE_REQUIREMENTS)
+    // @DatabaseField(columnName = FIELD_NAME_COLLEGE_REQUIREMENTS)
     private String collegeRequirements; // 大学英语课程教学要求(CollegeEnglishCurriculumRequirements)
 
-    @DatabaseField(columnName = FIELD_NAME_NEW_CONCEPT_ENGLISH)
+    // @DatabaseField(columnName = FIELD_NAME_NEW_CONCEPT_ENGLISH)
     private String newConceptEnglish;// 新概念英语(New Concept English)//4级
 
-    @DatabaseField(columnName = FIELD_NAME_TEM4)
+    // @DatabaseField(columnName = FIELD_NAME_TEM4)
     private String TEM4;// 专四/英语专业四级考试(Test for English Majors-Band 4)
 
-    @DatabaseField(columnName = FIELD_NAME_TEM8)
+    // @DatabaseField(columnName = FIELD_NAME_TEM8)
     private String TEM8;// 专八/英语专业八级考试(Test for English Majors-Band 8)
 
-    @DatabaseField(columnName = FIELD_NAME_BEC)
+    // @DatabaseField(columnName = FIELD_NAME_BEC)
     private String BEC;// 商务英语考试(Business English Certificate)
 
-    @DatabaseField(columnName = FIELD_NAME_MBA)
+    // @DatabaseField(columnName = FIELD_NAME_MBA)
     private String MBA;// 工商管理学硕士(Master of Business Administration)
 
-    @DatabaseField(columnName = FIELD_NAME_SAT)
+    // @DatabaseField(columnName = FIELD_NAME_SAT)
     private String SAT;// 学术能力评估测试(Scholastic Assessment Test)
 
-    @DatabaseField(columnName = FIELD_NAME_GRE)
+    // @DatabaseField(columnName = FIELD_NAME_GRE)
     private String GRE;// 美国研究生入学考试(Graduate Record Examination)
 
-    @DatabaseField(columnName = FIELD_NAME_GMAT)
+    // @DatabaseField(columnName = FIELD_NAME_GMAT)
     private String GMAT;// 研究生管理科学入学考试(Graduate Management Admission Test)
 
     // 托业/国际交流英语考试(Test of English for International Communication)
-    @DatabaseField(columnName = FIELD_NAME_TOEIC)
+    // @DatabaseField(columnName = FIELD_NAME_TOEIC)
     private String TOEIC;
 
     // 翻译专业资格（水平）考试”(China Accreditation Test for Translators and Interpreters)
-    @DatabaseField(columnName = FIELD_NAME_CATTI)
+    // @DatabaseField(columnName = FIELD_NAME_CATTI)
     private String CATTI;
 
-    @DatabaseField(columnName = FIELD_NAME_MAJOR_COMPUTER)
+    // @DatabaseField(columnName = FIELD_NAME_MAJOR_COMPUTER)
     private String majorComputer;// 专业英文词汇(计算机)
 
-    @DatabaseField(columnName = FIELD_NAME_MAJOR_CONSTRUCTION)
+    // @DatabaseField(columnName = FIELD_NAME_MAJOR_CONSTRUCTION)
     private String majorConstruction;// 专业英文词汇 (建筑)
 
     public Word() {
@@ -210,13 +218,13 @@ public class Word implements Comparable<Word> {
         this.level = level;
     }
 
-    public Word(String frequency, String spelling, String level,String meanings) {
+    public Word(String frequency, String spelling, String level, String meanings) {
         this.frequency = frequency;
         this.spelling = spelling;
         this.level = level;
         this.meanings = meanings;
     }
-    
+
     public int getId() {
         return id;
     }
@@ -313,6 +321,14 @@ public class Word implements Comparable<Word> {
         this.partsOfSpeech = partsOfSpeech;
     }
 
+    public String getSimplify() {
+        return simplify;
+    }
+
+    public void setSimplify(String simplify) {
+        this.simplify = simplify;
+    }
+
     public String getMeanings() {
         return meanings;
     }
@@ -327,6 +343,14 @@ public class Word implements Comparable<Word> {
 
     public void setSentences(String sentences) {
         this.sentences = sentences;
+    }
+
+    public String getAll() {
+        return this.all;
+    }
+
+    public void setAll(String all) {
+        this.all = all;
     }
 
     public String getSeniorEntranceExam() {

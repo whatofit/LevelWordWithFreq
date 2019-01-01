@@ -1,5 +1,6 @@
 package com.level.util;
 
+import java.util.StringTokenizer;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -646,9 +647,13 @@ public class RegEx {
 		// mistress/Mrs.
 		// tooth/(pl.teeth)
 
-		String content = "autumn";
-		String retLine = split2Word3(content);
-		System.out.println("split2Word3:" + retLine);
+//		String content = "autumn";
+//		String retLine = split2Word3(content);
+//		System.out.println("split2Word3:" + retLine);
+		
+        String text = "   abc   	stxyz\r         def  \r\n\r t\t\t    ghi    mnopq      r       s ";
+        String str = replacemptyCharsWith1Blank(text);
+        System.out.println("["+str.trim()+"]");
 	}
 
 	// week - n. a period of time equal to seven days
@@ -815,4 +820,24 @@ public class RegEx {
 		// line = line.replaceAll("\\s+", "\t");
 		return line;
 	}
+
+	//将字符串中多个连续空格字符替换成一个空格字符 replaceContinuousEmptyCharsWith1Blank
+	//(1)整理字符串，将字符串的前导和后随空白符删去
+	//(2)并将字符串中非空白字符之间的连续的多个空白符只保留一个，去掉多余的。
+	//
+	//算法思路：
+	//-使用java.util.StringTokenizer类提供的方法hasMoreTokens()、nextToken()。
+	//-初始化StringTokenizer对象时，使用的分隔符为" "。
+	//-hasMoreTokens()控制循环，只要字符串中还有语言分隔符号，该方法就返回true。
+	//-nextToken()取下一个非语言分隔符的字符串，字符串以分隔符进行截断。
+	//-使用String类的trim()方法去除前导和后随空格。
+    public static String replacemptyCharsWith1Blank(String text) 
+    {
+        //\s	匹配任何空白字符，包括空格、制表符、换页符等。与 [ \f\n\r\t\v] 等效。
+        //+		一次或多次匹配前面的字符或子表达式。
+    	//Pattern p = Pattern.compile("\\s{2,}|\t");
+        Pattern p = Pattern.compile("\\s+");      
+        Matcher m = p.matcher(text);      
+        return m.replaceAll(" ");
+    }
 }

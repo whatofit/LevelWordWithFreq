@@ -11,7 +11,7 @@ TOEFL /word_TOEFL.txt
 #初中 /word_junior_school.txt
 #高中 /word_senior_school.txt
 #大学 /word_university.txt
-大学教纲 /word_College_Requirements.txt
+大学教纲 /word_College_English_Curriculum_Requirements.txt
 #新概念 /word_New_Concept_English.txt
 #MBA /word_MBA.txt
 #SAT /word_SAT.txt
