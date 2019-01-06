@@ -29,10 +29,10 @@ public class Word implements Comparable<Word> {
     public static final String FIELD_NAME_KK = "phoneticKK";// 美音音标
     public static final String FIELD_NAME_LEVEL = "level";
     public static final String FIELD_NAME_POS = "partsOfSpeech";// 词性
-    public static final String FIELD_NAME_SIMPLIFY = "simplify";// 精简的词义
+    public static final String FIELD_NAME_SIMPLIFICATION = "simplification";// 精简的词义
     public static final String FIELD_NAME_MEANINGS = "meanings";
     public static final String FIELD_NAME_SENTENCES = "sentences";// exampleSentences
-    public static final String FIELD_NAME_ALL = "all";// word文件的所有字段,用json格式存储
+    public static final String FIELD_NAME_DETAIL = "detail";// word文件的所有字段,用json格式存储
 
     public static final String FIELD_NAME_SENIOR_ENTRANCE_EXAM = "中考";
     public static final String FIELD_NAME_COLLEGE_ENTRANCE_EXAM = "高考";
@@ -99,8 +99,8 @@ public class Word implements Comparable<Word> {
     // @DatabaseField(columnName = FIELD_NAME_POS)
     private String partsOfSpeech;
 
-    @DatabaseField(columnName = FIELD_NAME_SIMPLIFY)
-    private String simplify;
+    @DatabaseField(columnName = FIELD_NAME_SIMPLIFICATION)
+    private String simplification;
 
     @DatabaseField(columnName = FIELD_NAME_MEANINGS)
     private String meanings;
@@ -108,8 +108,8 @@ public class Word implements Comparable<Word> {
     // @DatabaseField(columnName = FIELD_NAME_SENTENCES, width = 4096)
     private String sentences;
 
-    @DatabaseField(columnName = FIELD_NAME_ALL)
-    private String all;
+    @DatabaseField(columnName = FIELD_NAME_DETAIL)
+    private String detail;
 
     // 中考 / 高考 / CET4 / CET6 / 考研 / IELTS / TOEFL
 
@@ -321,12 +321,12 @@ public class Word implements Comparable<Word> {
         this.partsOfSpeech = partsOfSpeech;
     }
 
-    public String getSimplify() {
-        return simplify;
+    public String getSimplification() {
+        return simplification;
     }
 
-    public void setSimplify(String simplify) {
-        this.simplify = simplify;
+    public void setSimplification(String simplification) {
+        this.simplification = simplification;
     }
 
     public String getMeanings() {
@@ -345,12 +345,12 @@ public class Word implements Comparable<Word> {
         this.sentences = sentences;
     }
 
-    public String getAll() {
-        return this.all;
+    public String getDetail() {
+        return this.detail;
     }
 
-    public void setAll(String all) {
-        this.all = all;
+    public void setDetail(String detail) {
+        this.detail = detail;
     }
 
     public String getSeniorEntranceExam() {

@@ -42,7 +42,7 @@ public class ParseHtml2DB_Dict extends FmtWordVectorIntoSqlite {
     		dbWord.setPhoneticKK(dictWordCotent[5]); // 美语音标
     		dbWord.setLevel(null);
     		//dbWord.setPartsOfSpeech(null);// 词性
-    		dbWord.setSimplify(dictWordCotent[3]);// 精简的词义
+    		dbWord.setSimplification(dictWordCotent[3]);// 精简的词义
     		dbWord.setMeanings(dictWordCotent[2]);// 词义列表
     		//dbWord.setSentences(wordJson);// 本词性对应的所有字段
     		// 5.加到Vector中,继而会更新到数据库中

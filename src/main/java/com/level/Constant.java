@@ -36,7 +36,7 @@ public class Constant {
     public static final String FILE_CONFIG_FILE     = PATH_RESOURCES + "/config.properties";
     public static final String FILE_FREQ_OF_WORDS   = PATH_RESOURCES + "/freqOfWords.txt";
     public static final String FILE_STAGE_FILES     = PATH_RESOURCES + "/stageWordsFiles.txt";
-
+    public static final String FILE_WORD_SCHEMA     = PATH_RESOURCES + "/word-schema.json";
     // public static final String PROJECT_BIN_DIR =
     // Paths.get().toAbsolutePath().toString();
 
