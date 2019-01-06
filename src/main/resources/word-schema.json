@@ -1,0 +1,57 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "title": "word",
+    "description": "A word schema",
+    "type": "object",
+    "properties": {
+        "id": {
+            "description": "The unique identifier for a word",
+            "type": "integer"
+        },
+        "frequency": {
+            "description": "frequency of the word",
+            "type": "string"
+        },
+        "freqWritten": {
+            "description": "freq Written of the word",
+            "type": "string"
+        },
+        "freqSpoken": {
+            "description": "freq Spoken of the word",
+            "type": "string"
+        },
+        "spelling": {
+            "description": "spelling of the word",
+            "type": "string"
+        },
+        "phoneticDJ": {
+            "description": "phoneticDJ of the word",
+            "type": "string"
+        },
+        "phoneticKK": {
+            "description": "phoneticKK of the word",
+            "type": "string"
+        },
+        "level": {
+            "description": "level of the word",
+            "type": "string"
+        },
+        "simplification": {
+            "description": "简化/精简的(词性)词义of the word",
+            "type": "string"
+        },
+        "meanings": {
+            "description": "meanings of the word",
+            "type": "string"
+        },
+        "detail": {
+            "description": "detail of the word",
+            "type": "string"
+        }
+    },
+    "required": [
+        "id",
+        "spelling",
+        "detail"
+    ]
+}
