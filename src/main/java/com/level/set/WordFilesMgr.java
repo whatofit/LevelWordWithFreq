@@ -10,8 +10,10 @@ import java.util.Set;
 import java.util.concurrent.atomic.AtomicInteger;
 import java.util.stream.Collectors;
 
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
+//import org.slf4j.Logger;
+//import org.slf4j.LoggerFactory;
+import org.apache.logging.log4j.Logger;
+import org.apache.logging.log4j.LogManager;
 
 import com.level.Constant;
 import com.level.model.Word;
@@ -20,7 +22,7 @@ import com.level.util.ResourceUtil;
 
 public class WordFilesMgr {
 
-    private static final Logger LOGGER = LoggerFactory.getLogger(WordFilesMgr.class);
+    private static final Logger LOGGER = LogManager.getLogger(WordFilesMgr.class);
     
     public WordFilesMgr() {
     }

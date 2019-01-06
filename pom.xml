@@ -8,6 +8,7 @@
   <packaging>jar</packaging>
 
   <name>LevelWordWithFreq</name>
+  <description>Level Word With Freq</description>
   <url>http://maven.apache.org</url>
 
   <properties>
@@ -16,23 +17,27 @@
 
   <dependencies>
     <!-- https://mvnrepository.com/artifact/junit/junit -->
+<!--
+    <dependency>
+        <groupId>junit</groupId>
+        <artifactId>junit</artifactId>
+        <version>4.12</version>
+        <scope>test</scope>
+    </dependency>
+-->
+	<!-- https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-engine -->
 	<dependency>
-	    <groupId>junit</groupId>
-	    <artifactId>junit</artifactId>
-	    <version>4.12</version>
+	    <groupId>org.junit.jupiter</groupId>
+	    <artifactId>junit-jupiter-engine</artifactId>
+	    <version>5.3.2</version>
 	    <scope>test</scope>
 	</dependency>
+
 <!-- https://mvnrepository.com/artifact/commons-io/commons-io -->
 <dependency>
     <groupId>commons-io</groupId>
     <artifactId>commons-io</artifactId>
     <version>2.6</version>
-</dependency>
-<!-- https://mvnrepository.com/artifact/commons-logging/commons-logging -->
-<dependency>
-    <groupId>commons-logging</groupId>
-    <artifactId>commons-logging</artifactId>
-    <version>1.2</version>
 </dependency>
 <!-- https://mvnrepository.com/artifact/org.apache.commons/commons-lang3 -->
 <dependency>
@@ -40,83 +45,152 @@
     <artifactId>commons-lang3</artifactId>
     <version>3.7</version>
 </dependency>
+
+<!-- https://mvnrepository.com/artifact/commons-logging/commons-logging -->
+<!-- 其他模块的依赖jar包 -->
+<!--
+<dependency>
+    <groupId>commons-logging</groupId>
+    <artifactId>commons-logging</artifactId>
+    <version>1.2</version>
+</dependency>
+-->
+<!-- https://mvnrepository.com/artifact/commons-codec/commons-codec -->
+<!-- 其他模块的依赖jar包 -->
+<!--
+<dependency>
+    <groupId>commons-codec</groupId>
+    <artifactId>commons-codec</artifactId>
+    <version>1.11</version>
+</dependency>
+-->
+<!-- https://mvnrepository.com/artifact/commons-configuration/commons-configuration -->
+<!-- 读取配置文件工具 -->
+<!--
+<dependency>
+    <groupId>commons-configuration</groupId>
+    <artifactId>commons-configuration</artifactId>
+    <version>1.10</version>
+</dependency>
+-->
+<!-- https://mvnrepository.com/artifact/org.slf4j/slf4j-api -->
+<!--
+<dependency>
+    <groupId>org.slf4j</groupId>
+    <artifactId>slf4j-api</artifactId>
+    <version>1.7.25</version>
+</dependency>
+<dependency>
+    <groupId>org.slf4j</groupId>
+    <artifactId>slf4j-nop</artifactId>
+    <version>1.7.2</version>
+</dependency>
+-->
+    <!-- https://mvnrepository.com/artifact/org.apache.logging.log4j/log4j-api -->
+    <dependency>
+        <groupId>org.apache.logging.log4j</groupId>
+        <artifactId>log4j-api</artifactId>
+        <version>2.11.1</version>
+    </dependency>
+    <!-- https://mvnrepository.com/artifact/org.apache.logging.log4j/log4j-core -->
+    <dependency>
+        <groupId>org.apache.logging.log4j</groupId>
+        <artifactId>log4j-core</artifactId>
+        <version>2.11.1</version>
+    </dependency>
+<!-- https://mvnrepository.com/artifact/commons-collections/commons-collections -->
+<!-- 
+<dependency>
+    <groupId>commons-collections</groupId>
+    <artifactId>commons-collections</artifactId>
+    <version>3.2.2</version>
+</dependency>
+-->
+    <!-- https://mvnrepository.com/artifact/com.alibaba/fastjson -->
+    <dependency>
+        <groupId>com.alibaba</groupId>
+        <artifactId>fastjson</artifactId>
+        <version>1.2.47</version>
+    </dependency>
+    <!-- https://mvnrepository.com/artifact/com.github.fge/json-schema-validator -->
+	<dependency>
+	    <groupId>com.github.fge</groupId>
+	    <artifactId>json-schema-validator</artifactId>
+	    <version>2.2.6</version>
+	</dependency>
+    <!-- https://mvnrepository.com/artifact/dom4j/dom4j -->
+    <dependency>
+        <groupId>dom4j</groupId>
+        <artifactId>dom4j</artifactId>
+        <version>1.6.1</version>
+    </dependency>
+    <!-- https://mvnrepository.com/artifact/org.jsoup/jsoup -->
+    <dependency>
+        <groupId>org.jsoup</groupId>
+        <artifactId>jsoup</artifactId>
+        <version>1.11.3</version>
+    </dependency>
 <!-- https://mvnrepository.com/artifact/org.apache.commons/commons-csv -->
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-csv</artifactId>
     <version>1.5</version>
 </dependency>
-<!-- https://mvnrepository.com/artifact/commons-codec/commons-codec -->
+    <!-- https://mvnrepository.com/artifact/net.sourceforge.jexcelapi/jxl -->
+    <dependency>
+        <groupId>net.sourceforge.jexcelapi</groupId>
+        <artifactId>jxl</artifactId>
+        <version>2.6.12</version>
+    </dependency>
+    
+<!-- https://mvnrepository.com/artifact/com.itextpdf/itextpdf -->
 <dependency>
-    <groupId>commons-codec</groupId>
-    <artifactId>commons-codec</artifactId>
-    <version>1.11</version>
+    <groupId>com.itextpdf</groupId>
+    <artifactId>itextpdf</artifactId>
+    <version>5.5.13</version>
 </dependency>
-<!-- https://mvnrepository.com/artifact/commons-collections/commons-collections -->
+<!--
 <dependency>
-    <groupId>commons-collections</groupId>
-    <artifactId>commons-collections</artifactId>
-    <version>3.2.2</version>
+    <groupId>com.itextpdf.tool</groupId>
+    <artifactId>xmlworker</artifactId>
+    <version>5.5.9</version>
 </dependency>
-<!-- https://mvnrepository.com/artifact/org.apache.commons/commons-compress -->
 <dependency>
-    <groupId>org.apache.commons</groupId>
-    <artifactId>commons-compress</artifactId>
-    <version>1.17</version>
+    <groupId>com.itextpdf</groupId>
+    <artifactId>itext-asian</artifactId>
+    <version>5.2.0</version>
 </dependency>
-<!-- https://mvnrepository.com/artifact/commons-configuration/commons-configuration -->
-<dependency>
-    <groupId>commons-configuration</groupId>
-    <artifactId>commons-configuration</artifactId>
-    <version>1.10</version>
-</dependency>
-
-	<!-- https://mvnrepository.com/artifact/org.jsoup/jsoup -->
-	<dependency>
-	    <groupId>org.jsoup</groupId>
-	    <artifactId>jsoup</artifactId>
-	    <version>1.11.3</version>
-	</dependency>
-	<!-- https://mvnrepository.com/artifact/com.alibaba/fastjson -->
-	<dependency>
-	    <groupId>com.alibaba</groupId>
-	    <artifactId>fastjson</artifactId>
-	    <version>1.2.47</version>
-	</dependency>
-	<!-- https://mvnrepository.com/artifact/org.apache.pdfbox/pdfbox -->
-	<dependency>
-	    <groupId>org.apache.pdfbox</groupId>
-	    <artifactId>pdfbox</artifactId>
-	    <version>2.0.9</version>
-	</dependency>
-	<!-- https://mvnrepository.com/artifact/org.apache.pdfbox/fontbox -->
-	<dependency>
-	    <groupId>org.apache.pdfbox</groupId>
-	    <artifactId>fontbox</artifactId>
-	    <version>2.0.9</version>
-	</dependency>
-	<!-- https://mvnrepository.com/artifact/net.sourceforge.jexcelapi/jxl -->
-	<dependency>
-	    <groupId>net.sourceforge.jexcelapi</groupId>
-	    <artifactId>jxl</artifactId>
-	    <version>2.6.12</version>
-	</dependency>
-	<!-- https://mvnrepository.com/artifact/dom4j/dom4j -->
-	<dependency>
-	    <groupId>dom4j</groupId>
-	    <artifactId>dom4j</artifactId>
-	    <version>1.6.1</version>
-	</dependency>
-<!-- https://mvnrepository.com/artifact/org.apache.poi/poi -->
-<dependency>
-    <groupId>org.apache.poi</groupId>
-    <artifactId>poi</artifactId>
-    <version>3.17</version>
-</dependency>
+-->
+    <!-- https://mvnrepository.com/artifact/org.apache.pdfbox/pdfbox -->
+    <dependency>
+        <groupId>org.apache.pdfbox</groupId>
+        <artifactId>pdfbox</artifactId>
+        <version>2.0.9</version>
+    </dependency>
+    <!-- https://mvnrepository.com/artifact/org.apache.pdfbox/fontbox -->
+    <dependency>
+        <groupId>org.apache.pdfbox</groupId>
+        <artifactId>fontbox</artifactId>
+        <version>2.0.9</version>
+    </dependency>
 <!-- https://mvnrepository.com/artifact/org.apache.poi/poi-ooxml -->
+<!-- Excel XLS and XLSX, Prerequisites:poi, poi-ooxml-schemas-->
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi-ooxml</artifactId>
+    <version>3.17</version>
+</dependency>
+<!-- 支持Word、ppt、viso、outlook文档的操作,Prerequisites:poi -->
+<dependency>
+    <groupId>org.apache.poi</groupId>
+    <artifactId>poi-scratchpad</artifactId>
+    <version>3.8</version>
+</dependency>
+<!-- https://mvnrepository.com/artifact/org.apache.poi/poi -->
+<!-- 
+<dependency>
+    <groupId>org.apache.poi</groupId>
+    <artifactId>poi</artifactId>
     <version>3.17</version>
 </dependency>
 <dependency>
@@ -124,24 +198,13 @@
     <artifactId>poi-ooxml-schemas</artifactId>
     <version>3.8</version>
 </dependency>
-<!-- 支持Word文档的操作 -->
+-->
+<!-- SQLite3 驱动 -->
 <dependency>
-    <groupId>org.apache.poi</groupId>
-    <artifactId>poi-scratchpad</artifactId>
-    <version>3.8</version>
+    <groupId>org.xerial</groupId>
+    <artifactId>sqlite-jdbc</artifactId>
+    <version>3.20.0</version>
 </dependency>
-<!-- https://mvnrepository.com/artifact/org.apache.commons/commons-dbcp2 -->
-<dependency>
-    <groupId>org.apache.commons</groupId>
-    <artifactId>commons-dbcp2</artifactId>
-    <version>2.4.0</version>
-</dependency>
-        <!-- SQLite3 驱动 -->
-        <dependency>
-            <groupId>org.xerial</groupId>
-            <artifactId>sqlite-jdbc</artifactId>
-            <version>3.20.0</version>
-        </dependency>
 <!-- https://mvnrepository.com/artifact/com.j256.ormlite/ormlite-core -->
 <dependency>
     <groupId>com.j256.ormlite</groupId>
@@ -154,38 +217,32 @@
     <artifactId>ormlite-jdbc</artifactId>
     <version>5.1</version>
 </dependency>
-
-<!-- https://mvnrepository.com/artifact/org.slf4j/slf4j-api -->
-<dependency>
-    <groupId>org.slf4j</groupId>
-    <artifactId>slf4j-api</artifactId>
-    <version>1.7.25</version>
-</dependency>
-<dependency>
-	<groupId>org.slf4j</groupId>
-	<artifactId>slf4j-nop</artifactId>
-	<version>1.7.2</version>
-</dependency>
-<!-- https://mvnrepository.com/artifact/com.itextpdf/itextpdf -->
-<dependency>
-    <groupId>com.itextpdf</groupId>
-    <artifactId>itextpdf</artifactId>
-    <version>5.5.13</version>
-</dependency>
-
 <!-- https://mvnrepository.com/artifact/commons-dbutils/commons-dbutils -->
+<!-- 数据库操作工具 -->
+<!--
 <dependency>
     <groupId>commons-dbutils</groupId>
     <artifactId>commons-dbutils</artifactId>
     <version>1.7</version>
 </dependency>
-<!-- https://mvnrepository.com/artifact/com.github.fge/json-schema-validator -->
+-->
+<!-- https://mvnrepository.com/artifact/org.apache.commons/commons-dbcp2 -->
+<!-- 数据库连接池 -->
+<!--
 <dependency>
-    <groupId>com.github.fge</groupId>
-    <artifactId>json-schema-validator</artifactId>
-    <version>2.2.6</version>
+    <groupId>org.apache.commons</groupId>
+    <artifactId>commons-dbcp2</artifactId>
+    <version>2.4.0</version>
 </dependency>
-
-
+-->
+<!-- https://mvnrepository.com/artifact/org.apache.commons/commons-compress -->
+<!-- 文件压缩/解压 -->
+<!--
+<dependency>
+    <groupId>org.apache.commons</groupId>
+    <artifactId>commons-compress</artifactId>
+    <version>1.17</version>
+</dependency>
+-->
   </dependencies>
 </project>

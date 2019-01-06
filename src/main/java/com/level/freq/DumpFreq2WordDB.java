@@ -13,8 +13,10 @@ import java.util.List;
 import java.util.Map;
 import java.util.Vector;
 
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
+//import org.slf4j.Logger;
+//import org.slf4j.LoggerFactory;
+import org.apache.logging.log4j.Logger;
+import org.apache.logging.log4j.LogManager;
 
 import com.j256.ormlite.jdbc.JdbcConnectionSource;
 import com.j256.ormlite.support.ConnectionSource;
@@ -28,8 +30,8 @@ import com.level.util.ResourceUtil;
  *
  */
 public class DumpFreq2WordDB {
-    private static final Logger LOGGER = LoggerFactory.getLogger(DumpFreq2WordDB.class);
-
+    private static final Logger LOGGER = LogManager.getLogger(DumpFreq2WordDB.class);
+    
     private static List<List<String>> mStageLevelList = new ArrayList<List<String>>();
 
     /**

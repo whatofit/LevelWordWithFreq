@@ -26,8 +26,10 @@ import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
+//import org.slf4j.Logger;
+//import org.slf4j.LoggerFactory;
+import org.apache.logging.log4j.Logger;
+import org.apache.logging.log4j.LogManager;
 
 import com.level.model.Word;
 
@@ -48,7 +50,7 @@ import java.util.stream.Collectors;
 public class WordClassifier {
     private WordClassifier(){}
 
-    private static final Logger LOGGER = LoggerFactory.getLogger(WordClassifier.class);
+    private static final Logger LOGGER = LogManager.getLogger(WordClassifier.class);
     private static final String ICIBA = "http://www.iciba.com/";
     private static final String TYPE_CSS_PATH = "html body.bg_main div#layout div#center div#main_box div#dict_main div.dictbar div.wd_genre a";
     private static final String UNFOUND_CSS_PATH = "html body.bg_main div#layout div#center div#main_box div#dict_main div#question.question.unfound_tips";

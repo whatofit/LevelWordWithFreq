@@ -1,4 +1,4 @@
-package com.level.loadword2db;
+package com.level;
 
 /**
  * Hello world!

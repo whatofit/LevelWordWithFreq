@@ -9,8 +9,10 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
 
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
+//import org.slf4j.Logger;
+//import org.slf4j.LoggerFactory;
+import org.apache.logging.log4j.Logger;
+import org.apache.logging.log4j.LogManager;
 
 import com.level.Constant;
 import com.level.util.ResourceUtil;
@@ -19,7 +21,7 @@ import com.level.util.ResourceUtil;
 public class WordLevelMatrixWithFreq {
 
 	private WordLevelMatrixWithFreq(){}
-    private static final Logger LOGGER = LoggerFactory.getLogger(WordLevelMatrixWithFreq.class);
+    private static final Logger LOGGER = LogManager.getLogger(WordLevelMatrixWithFreq.class);
 	
     //1.小学/2.初中/3.高中/4.大学/
     //5.新概念英语

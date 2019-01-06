@@ -23,8 +23,10 @@ package com.level.set;
 import org.jsoup.Connection;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
+//import org.slf4j.Logger;
+//import org.slf4j.LoggerFactory;
+import org.apache.logging.log4j.Logger;
+import org.apache.logging.log4j.LogManager;
 import java.util.*;
 
 /**
@@ -41,7 +43,7 @@ import java.util.*;
  */
 public class DynamicIp {
     private DynamicIp(){}
-    private static final Logger LOGGER = LoggerFactory.getLogger(DynamicIp.class);
+    private static final Logger LOGGER = LogManager.getLogger(DynamicIp.class);
     private static final String ACCEPT = "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8";
     private static final String ENCODING = "gzip, deflate";
     private static final String LANGUAGE = "zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3";
